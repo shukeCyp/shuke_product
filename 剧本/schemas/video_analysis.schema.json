@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Commerce Video Analysis Record",
+  "type": "object",
+  "required": ["video_id", "source", "product", "tags", "hook", "selling_points", "proof_points", "cta", "scores", "remake", "search_text"],
+  "properties": {
+    "video_id": { "type": "string" },
+    "source": {
+      "type": "object",
+      "required": ["video_path", "analysis_path", "model", "duration_seconds", "created_at"],
+      "properties": {
+        "video_path": { "type": "string" },
+        "analysis_path": { "type": "string" },
+        "model": { "type": "string" },
+        "duration_seconds": { "type": "number" },
+        "created_at": { "type": "string" }
+      }
+    },
+    "product": {
+      "type": "object",
+      "required": ["name", "category", "sub_category", "price_position", "target_audience", "confidence"],
+      "properties": {
+        "name": { "type": "string" },
+        "category": { "type": "string" },
+        "sub_category": { "type": "string" },
+        "price_position": { "type": "string" },
+        "target_audience": { "type": "array", "items": { "type": "string" } },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+      }
+    },
+    "tags": {
+      "type": "object",
+      "required": ["product_tags", "video_type_tags", "hook_tags", "proof_tags", "audience_tags", "risk_tags", "platform_tags"],
+      "properties": {
+        "product_tags": { "type": "array", "items": { "type": "string" } },
+        "video_type_tags": { "type": "array", "items": { "type": "string" } },
+        "hook_tags": { "type": "array", "items": { "type": "string" } },
+        "proof_tags": { "type": "array", "items": { "type": "string" } },
+        "audience_tags": { "type": "array", "items": { "type": "string" } },
+        "risk_tags": { "type": "array", "items": { "type": "string" } },
+        "platform_tags": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "hook": {
+      "type": "object",
+      "required": ["type", "first_3s_text", "mechanism", "retention_score"],
+      "properties": {
+        "type": { "type": "string" },
+        "first_3s_text": { "type": "string" },
+        "mechanism": { "type": "string" },
+        "retention_score": { "type": "number" }
+      }
+    },
+    "selling_points": { "type": "array", "items": { "type": "string" } },
+    "proof_points": { "type": "array", "items": { "type": "string" } },
+    "cta": {
+      "type": "object",
+      "required": ["text", "clarity"],
+      "properties": {
+        "text": { "type": "string" },
+        "clarity": { "type": "string" }
+      }
+    },
+    "scores": {
+      "type": "object",
+      "required": ["retention", "clarity", "trust", "product_display", "purchase_impulse", "total"],
+      "properties": {
+        "retention": { "type": "number" },
+        "clarity": { "type": "number" },
+        "trust": { "type": "number" },
+        "product_display": { "type": "number" },
+        "purchase_impulse": { "type": "number" },
+        "total": { "type": "number" }
+      }
+    },
+    "remake": {
+      "type": "object",
+      "required": ["angle", "script_outline", "shot_list", "voiceover", "subtitles", "ai_image_prompts", "ai_video_prompts"],
+      "properties": {
+        "angle": { "type": "string" },
+        "script_outline": { "type": "array", "items": { "type": "string" } },
+        "shot_list": { "type": "array", "items": { "type": "string" } },
+        "voiceover": { "type": "string" },
+        "subtitles": { "type": "array", "items": { "type": "string" } },
+        "ai_image_prompts": { "type": "array", "items": { "type": "string" } },
+        "ai_video_prompts": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "search_text": { "type": "string" }
+  }
+}
