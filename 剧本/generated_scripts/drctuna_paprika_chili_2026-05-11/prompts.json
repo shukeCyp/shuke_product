@@ -1,0 +1,47 @@
+{
+  "model_defaults": {
+    "image_model": "gemini-3.1-flash-image-portrait",
+    "video_model": "veo_3_1_i2v_s_fast_portrait_fl",
+    "duration_seconds": 8,
+    "aspect_ratio": "9:16"
+  },
+  "reference_assets": {
+    "product_reference_board": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/product_reference_board.png",
+    "character_reference_sheet": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/character_reference_sheet.jpg",
+    "scene_reference_board": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/scene_reference_board.jpg",
+    "original_product_image": "/Users/chaiyapeng/Downloads/产品主图/ScreenShot_2026-05-11_150409_179.png"
+  },
+  "shots": [
+    {
+      "shot": 1,
+      "first_frame_path": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_01_first_frame.jpg",
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce video. Opening hook: bathroom vanity selfie medium close-up, same creator rests one hand on shoulder/neck, exact white DR.C.TUNA Paprika & Chili Balsam Massage Gel tube upright on marble counter foreground, mild tired expression, clean subtitle space. Preserve white tube, gray-white flip cap, black/gray label, thin red underline only.",
+      "video_prompt": "Camera: handheld selfie medium close-up with slight natural sway. Subject: same creator and exact white DR.C.TUNA tube on counter. Continuity: this is the opening hook before product is dispensed. Action: she rubs her shoulder once, glances at the product, then looks back to camera. Scene: same bathroom vanity, towel, pump bottle, plant, mirror. Lighting: soft daylight from upper left. Style: real-shot UGC phone footage, photorealistic, vertical 9:16. Audio: casual voiceover about long sitting and shoulder tightness, soft room tone. Format: 8 seconds. Negative: no medical injury, no pain cure claim, no extra people, no product redesign, no red cap."
+    },
+    {
+      "shot": 2,
+      "first_frame_path": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_02_first_frame.jpg",
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce video. Texture demo close-up: same hands only, one hand holds exact white tube with gray-white cap open, small pearl of translucent gel on back of other hand, marble counter, towel and pump bottle behind. No second-person hands.",
+      "video_prompt": "Camera: close handheld counter-level shot. Subject: same creator's hands and exact white DR.C.TUNA tube. Continuity: follows the hook; product is picked up for texture proof. Action: the tube tilts and a small amount of translucent gel is squeezed onto the back of the hand, then the hand pauses to show texture. Scene: same bathroom vanity action zone. Lighting: practical daylight. Style: real-shot UGC phone footage, vertical 9:16. Audio: soft cap click and casual explanation of gel texture. Format: 8 seconds. Negative: no red cap, no chili illustration, no extra fingers, no second-person hands, no fake labels."
+    },
+    {
+      "shot": 3,
+      "first_frame_path": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_03_first_frame.jpg",
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce video. Application frame: same creator in gray top at bathroom vanity, sleeve slightly pushed back, applying translucent gel to her own forearm, exact white tube held in other hand, same mirror/counter scene. Keep white tube and gray-white cap; no red plastic cap.",
+      "video_prompt": "Camera: medium close-up with a slight push-in. Subject: same creator, same gray top, same white DR.C.TUNA tube. Continuity: follows the texture demonstration; gel is now being applied to the forearm. Action: she dots gel onto her forearm and begins spreading it in one slow motion. Scene: same bathroom vanity and mirror. Lighting: soft daylight. Style: real-shot UGC phone footage, vertical 9:16. Audio: voiceover says it spreads smoothly and is part of a home massage routine. Format: 8 seconds. Negative: no changed actor, no red cap, no medical treatment visuals, no bruising, no sensual pose."
+    },
+    {
+      "shot": 4,
+      "first_frame_path": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_04_first_frame.jpg",
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce video. Massage close-up: same hands massaging glossy gel patch on own forearm, exact white tube lies nearby on marble counter, towel and plant behind, realistic contact shadows.",
+      "video_prompt": "Camera: close-up from counter height. Subject: same hands and forearm, exact product nearby. Continuity: follows initial application and leads into relaxed result. Action: two slow circular massage motions; gel becomes thinner and glossier while the product remains in frame. Scene: same vanity action zone. Lighting: practical natural daylight with realistic shadows. Style: real-shot UGC phone footage, vertical 9:16. Audio: soft skin-rub sound and voiceover about warming massage feel and evening relaxation. Format: 8 seconds. Negative: no floating product, no hand merging, no extra fingers, no medical result imagery, no red cap."
+    },
+    {
+      "shot": 5,
+      "first_frame_path": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_05_first_frame.jpg",
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce video. CTA frame: same creator softly smiles, holds exact white tube near phone camera with label forward, bathroom vanity behind, clean space for CTA subtitle.",
+      "video_prompt": "Camera: handheld front-facing medium shot. Subject: same creator holding the exact white DR.C.TUNA tube near camera. Continuity: final recommendation after application. Action: she lifts the product slightly, gives a small nod, and points subtly toward the lower screen for the link. Scene: same bathroom vanity with towel, pump bottle, plant, mirror. Lighting: soft daylight. Style: real-shot UGC phone footage, vertical 9:16. Audio: simple CTA voiceover. Format: 8 seconds. Negative: no fake discount sticker, no certification badge, no medical claim, no studio packshot, no changed actor."
+    }
+  ]
+}
+

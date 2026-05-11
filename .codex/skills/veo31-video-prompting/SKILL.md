@@ -18,6 +18,8 @@ As of 2026-05-07, prefer these current Google references:
 - Veo 3.1 supports text-to-video, image-to-video, prompt rewriting, first-and-last-frame generation, reference asset images, extending videos, Content Credentials, and stronger audiovisual output. Exact availability can vary by Gemini API, Vertex AI, Flow, Gemini app, and preview/GA status.
 - Google docs are the source of truth for limits and feature availability; verify if the user asks for API implementation or current pricing/availability.
 
+Workspace default: use 8-second video prompts and 8-second model aliases unless the user explicitly marks a different duration. If no duration is provided, write `Format: 8 seconds`.
+
 ## Prompt Anatomy
 
 Build prompts from these elements, using only the elements that matter for the clip:
@@ -33,6 +35,13 @@ Build prompts from these elements, using only the elements that matter for the c
 9. Audio: separate sentence for dialogue, ambient sound, sound effects, music, and voice style.
 
 Keep short clips focused on one scene and one main transformation. For multiple beats, create multiple clips instead of stuffing a whole story into one generation.
+
+For the user's ecommerce production workflow, default to realistic live-action footage instead of polished advertising:
+
+- Use real-shot UGC phone footage, practical light, natural handheld movement, ordinary room ambience, and plausible human handling.
+- Keep storyboard shots connected as one continuous shoot: same product state, same person/hand identity, same wardrobe, same location logic, and consistent lighting direction.
+- Each prompt should state how the shot begins from the previous shot and how it ends ready for the next shot when batch-generating a sequence.
+- Avoid disconnected scene jumps, cinematic commercial lighting, product hero orbits, floating product, glowing effects, poster layouts, fake UI overlays, and perfect studio packshots unless explicitly requested.
 
 ## Default Workflow
 
@@ -70,12 +79,13 @@ Prefer this structure for commercial prompts:
 ```text
 Camera: [shot type, lens/focus, motion].
 Subject: [product/person with stable traits and material cues].
+Continuity: begins from [previous shot state] and ends ready for [next shot state].
 Action: [one clear physical beat from start to finish].
 Scene: [location, time, atmospheric/background motion].
 Lighting: [source, direction, quality, reflection behavior].
-Style: [format, realism level, texture, color grade].
+Style: real-shot UGC phone footage, photorealistic, natural handling, not a polished commercial ad.
 Audio: [dialogue/SFX/ambience/music].
-Format: [duration, aspect ratio].
+Format: [duration, aspect ratio]. Use 8 seconds if no duration is specified.
 Negative: [specific exclusions].
 ```
 

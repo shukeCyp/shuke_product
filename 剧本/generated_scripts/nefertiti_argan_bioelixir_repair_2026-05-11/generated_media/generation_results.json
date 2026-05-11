@@ -1,0 +1,156 @@
+{
+  "created_at": "2026-05-11T14:44:03.680Z",
+  "image_model": "gemini-3.1-flash-image-portrait",
+  "video_model": "veo_3_1_i2v_s_fast_portrait_fl",
+  "concurrency_limit": 5,
+  "product_reference_board": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/product_reference_board.png",
+  "original_product_image": "/Users/chaiyapeng/Downloads/产品主图/ScreenShot_2026-05-10_082252_301.png",
+  "shots": [
+    {
+      "shot": 1,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 1,
+        "url": "http://flow.lyvideo.top/tmp/e4a41897cda54bb0e7dab5f543dd4f31.jpg",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_01_first_frame.jpg",
+        "download": {
+          "bytes": 643715,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 2 张参考图片...\n已上传第 1/2 张图片\n已上传第 2/2 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n✅ 1K 图片缓存成功,准备返回缓存地址...\n![Generated Image](http://flow.lyvideo.top/tmp/e4a41897cda54bb0e7dab5f543dd4f31.jpg)"
+      },
+      "video": {
+        "shot": 1,
+        "url": "http://flow.lyvideo.top/tmp/342ae66ac0c049112e9bff47ea52427e.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_01_video.mp4",
+        "download": {
+          "bytes": 5031427,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n生成进度: 7%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/342ae66ac0c049112e9bff47ea52427e.mp4' data-media-id='e2dbbf21-d249-48d2-898c-6a800c32451a' controls style='max-width:100%'></video>"
+      }
+    },
+    {
+      "shot": 2,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 2,
+        "url": "http://flow.lyvideo.top/tmp/97834d4548ce62ac96e770b92017ca23.jpg",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_02_first_frame.jpg",
+        "download": {
+          "bytes": 584696,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 2 张参考图片...\n已上传第 1/2 张图片\n已上传第 2/2 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n✅ 1K 图片缓存成功,准备返回缓存地址...\n![Generated Image](http://flow.lyvideo.top/tmp/97834d4548ce62ac96e770b92017ca23.jpg)"
+      },
+      "video": {
+        "shot": 2,
+        "url": "http://flow.lyvideo.top/tmp/082c11528d0a05da4fcfdde3b356b40b.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_02_video.mp4",
+        "download": {
+          "bytes": 2046999,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/082c11528d0a05da4fcfdde3b356b40b.mp4' data-media-id='71161264-0922-454b-aecf-46a4d7e53c83' controls style='max-width:100%'></video>"
+      }
+    },
+    {
+      "shot": 3,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 3,
+        "url": "https://flow-content.google/image/436a1fdf-c40c-4f03-ab05-48cd8f340321?Expires=1778532316&KeyName=labs-flow-prod-cdn-key&Signature=Ugs4o-0eUcKd9Xx9_08M1oA4ttM",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_03_first_frame.jpg",
+        "download": {
+          "bytes": 559620,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 2 张参考图片...\n已上传第 1/2 张图片\n已上传第 2/2 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n⚠️ 缓存失败: curl command failed: Unknown error\n正在返回源链接...\n![Generated Image](https://flow-content.google/image/436a1fdf-c40c-4f03-ab05-48cd8f340321?Expires=1778532316&KeyName=labs-flow-prod-cdn-key&Signature=Ugs4o-0eUcKd9Xx9_08M1oA4ttM)"
+      },
+      "video": {
+        "shot": 3,
+        "url": "http://flow.lyvideo.top/tmp/aafb630129ffd186d7e14e80fa84e00a.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_03_video.mp4",
+        "download": {
+          "bytes": 1485366,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/aafb630129ffd186d7e14e80fa84e00a.mp4' data-media-id='e99d2cdc-860b-4cb6-861f-224462ee90c4' controls style='max-width:100%'></video>"
+      }
+    },
+    {
+      "shot": 4,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 4,
+        "url": "http://flow.lyvideo.top/tmp/6d2cfa10df2bcfd389cd52e34885f159.jpg",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_04_first_frame.jpg",
+        "download": {
+          "bytes": 721072,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 1 张参考图片...\n已上传第 1/1 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n✅ 1K 图片缓存成功,准备返回缓存地址...\n![Generated Image](http://flow.lyvideo.top/tmp/6d2cfa10df2bcfd389cd52e34885f159.jpg)"
+      },
+      "video": {
+        "shot": 4,
+        "url": "http://flow.lyvideo.top/tmp/0480b6e8c15305446a4ce3bf1b6328b7.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_04_video.mp4",
+        "download": {
+          "bytes": 6485561,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/0480b6e8c15305446a4ce3bf1b6328b7.mp4' data-media-id='718e5b6c-48a0-404a-b169-9b1800ca88cd' controls style='max-width:100%'></video>"
+      }
+    },
+    {
+      "shot": 5,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 5,
+        "url": "http://flow.lyvideo.top/tmp/319bd20e42f8d059df5a3b1c1f5dc6eb.jpg",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_05_first_frame.jpg",
+        "download": {
+          "bytes": 773379,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 2 张参考图片...\n已上传第 1/2 张图片\n已上传第 2/2 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n✅ 1K 图片缓存成功,准备返回缓存地址...\n![Generated Image](http://flow.lyvideo.top/tmp/319bd20e42f8d059df5a3b1c1f5dc6eb.jpg)"
+      },
+      "video": {
+        "shot": 5,
+        "url": "http://flow.lyvideo.top/tmp/3d8ee94db3ff9439a73bb45bee26d18a.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_05_video.mp4",
+        "download": {
+          "bytes": 6683902,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n生成进度: 7%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/3d8ee94db3ff9439a73bb45bee26d18a.mp4' data-media-id='9612867d-300a-45dd-a784-ff48c9cf96a1' controls style='max-width:100%'></video>"
+      }
+    },
+    {
+      "shot": 6,
+      "duration_seconds": 8,
+      "first_frame": {
+        "shot": 6,
+        "url": "http://flow.lyvideo.top/tmp/32e79c392ea9f7202cfc59e9d6f57354.jpg",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_06_first_frame.jpg",
+        "download": {
+          "bytes": 587347,
+          "contentType": "image/jpeg"
+        },
+        "raw": "✨ 图片生成任务已启动\n初始化生成环境...\n上传 2 张参考图片...\n已上传第 1/2 张图片\n已上传第 2/2 张图片\n参考图片上传完成，正在进行打码验证...\n正在缓存 1K 图片文件...\n✅ 1K 图片缓存成功,准备返回缓存地址...\n![Generated Image](http://flow.lyvideo.top/tmp/32e79c392ea9f7202cfc59e9d6f57354.jpg)"
+      },
+      "video": {
+        "shot": 6,
+        "url": "http://flow.lyvideo.top/tmp/09a4763b83319ee2b740c7513a8cfb30.mp4",
+        "file": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/generated_media/shot_06_video.mp4",
+        "download": {
+          "bytes": 2720496,
+          "contentType": "video/mp4"
+        },
+        "raw": "✨ 视频生成任务已启动\n初始化生成环境...\nTIER_TWO 账号自动切换到 ultra 模型: veo_3_1_i2v_s_fast_portrait_ultra_fl\n上传首帧图片...\n提交视频生成任务...\n视频生成中...\n生成进度: 0%\n生成进度: 3%\n正在缓存视频文件...\n✅ 视频缓存成功,准备返回缓存地址...\n<video src='http://flow.lyvideo.top/tmp/09a4763b83319ee2b740c7513a8cfb30.mp4' data-media-id='c3ee1b57-2c31-46f9-89ad-1fc229a39796' controls style='max-width:100%'></video>"
+      }
+    }
+  ],
+  "finished_at": "2026-05-11T14:48:37.239Z",
+  "retry_finished_at": "2026-05-11T14:51:38.718Z"
+}

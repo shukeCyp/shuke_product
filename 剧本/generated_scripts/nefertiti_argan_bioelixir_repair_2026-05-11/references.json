@@ -1,0 +1,28 @@
+{
+  "product": {
+    "name": "Nefertiti Argan de Nefertiti Bioelixir Repair Biphase",
+    "market": "Latin America / Mexico-style Spanish UGC",
+    "category": "美妆护肤/头发护理/免洗修护精华",
+    "language": "Spanish",
+    "source_image": "/Users/chaiyapeng/Downloads/产品主图/ScreenShot_2026-05-10_082252_301.png",
+    "product_reference_board": "/Users/chaiyapeng/Documents/shuke_product/剧本/generated_scripts/nefertiti_argan_bioelixir_repair_2026-05-11/product_reference_board.png"
+  },
+  "references": [
+    {
+      "video_id": "2026-05-10_tiktok_7635421241142217997",
+      "reason": "最匹配。护发产品、毛躁痛点、质地实测、真人涂抹和光泽展示结构可直接复用。"
+    },
+    {
+      "video_id": "2026-05-10_tiktok_7632675018333326623",
+      "reason": "护发喷雾实拍，适合借鉴头发分区、实际使用和头发质感展示。"
+    },
+    {
+      "video_id": "2026-05-10_tiktok_7629394611508727054",
+      "reason": "高浓度精华质地视觉，适合借鉴黄色/油状液体在手心和发丝上的质感特写。"
+    },
+    {
+      "video_id": "2026-05-10_tiktok_7628849603437251853_copy1",
+      "reason": "真实测评结构，适合借鉴手背/手心质地和自然光结果展示。"
+    }
+  ]
+}

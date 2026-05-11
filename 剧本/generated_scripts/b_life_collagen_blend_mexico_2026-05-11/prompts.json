@@ -1,0 +1,41 @@
+{
+  "character_identity_lock": "Creator A: Mexican Latina woman, 32-38 years old, warm medium tan skin, oval face, natural brown eyes, shoulder-length dark brown wavy hair, soft natural makeup, small gold hoop earrings, pale pink manicure, cream satin pajama top in bathroom shots and beige knit cardigan in kitchen/table shots. Friendly big-sister UGC energy. Keep the same face, hair, makeup, earrings, manicure, and body type in every shot.",
+  "shots": [
+    {
+      "shot": 1,
+      "duration_seconds": 5,
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame for a Mexican TikTok Shop ecommerce video. Product: B LIFE Collagen Blend black supplement bottle, preserving the matte black bottle, B-logo patterned cap, pink-purple COLLAGEN text, purple-pink side badge, and 90 capsules label. Character Identity Lock: Creator A, Mexican Latina woman, 32-38, medium tan skin, dark brown wavy shoulder-length hair, small gold hoops, pale pink manicure, cream satin pajama top. Composition: close handheld selfie at a bathroom vanity, Creator A holds the bottle beside her face, morning light, clean mirror background. Leave space at top for Spanish subtitle. No changed packaging, no fake labels, no different actor.",
+      "video_prompt": "Camera: handheld front-facing phone camera, slight natural shake, close-up. Subject: Creator A holding the B LIFE Collagen Blend bottle with preserved black packaging and pink-purple label. Action: over 5 seconds she leans toward camera, raises the bottle next to her cheek, and points to the label with pale pink nails. Scene: bright Mexican apartment bathroom vanity, morning beauty routine. Lighting: soft window morning light. Style: photorealistic UGC TikTok Shop ad, vertical 9:16. Audio: energetic Mexican Spanish voiceover. Format: 5 seconds. Negative: no product redesign, no unreadable fake text, no extra fingers, no different actor."
+    },
+    {
+      "shot": 2,
+      "duration_seconds": 6,
+      "first_frame_prompt": "Vertical 9:16 photorealistic first frame. B LIFE Collagen Blend bottle sits on a clean bathroom counter next to a glass of water and a small white dish with two capsules. Creator A's consistent hand with medium tan skin, pale pink manicure, and small gold bracelet reaches toward the bottle. Preserve the exact black bottle, patterned cap, pink-purple COLLAGEN label, and side badge. Soft morning light, premium but realistic UGC setup. No different hand model, no changed packaging.",
+      "video_prompt": "Camera: macro-to-medium handheld push-in from the capsules to the bottle label. Subject: B LIFE Collagen Blend bottle, two capsules, Creator A's consistent hand with pale pink manicure. Action: over 6 seconds her hand gently picks up the bottle, rotates it a few degrees to catch the COLLAGEN label, then places it beside the glass of water. Scene: bathroom counter morning routine. Lighting: soft natural light with realistic shadows on matte black plastic. Style: photorealistic ecommerce UGC, vertical 9:16. Audio: subtle bottle tap and water glass sound. Format: 6 seconds. Negative: no label redesign, no extra logos, no distorted hands, no different hand identity."
+    },
+    {
+      "shot": 3,
+      "duration_seconds": 6,
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame. Creator A sits at a small kitchen table wearing a beige knit cardigan, same face, dark brown wavy hair, gold hoops, pale pink manicure. She holds two capsules in her palm with the B LIFE Collagen Blend bottle clearly visible on the table beside a glass of water and simple breakfast fruit. Preserve product packaging. Natural Mexican home kitchen, warm morning light. No medical claims on screen.",
+      "video_prompt": "Camera: over-the-shoulder close-up moving into a palm macro. Subject: Creator A's consistent hand holding two capsules, B LIFE Collagen Blend bottle on table. Action: over 6 seconds she opens her palm to show the capsules, reaches for the water glass, and smiles naturally without swallowing on camera. Scene: cozy Mexican kitchen breakfast routine. Lighting: warm morning window light. Style: realistic UGC TikTok Shop product routine, vertical 9:16. Audio: calm Spanish voiceover about daily beauty routine. Format: 6 seconds. Negative: no exaggerated medical result, no different actor, no distorted capsules, no changed label."
+    },
+    {
+      "shot": 4,
+      "duration_seconds": 7,
+      "first_frame_prompt": "Vertical 9:16 photorealistic first frame. Macro product proof shot: B LIFE Collagen Blend bottle front label fills the right side, a clean graphic-style overlay area on the left with simple Spanish words: 'Colageno + rutina diaria'. Capsules and a glass of water in the foreground. Preserve bottle exactly. Minimal premium black, white, and soft pink-purple palette. No fake unreadable label text.",
+      "video_prompt": "Camera: locked macro product shot with slow slider movement from label to capsules. Subject: B LIFE Collagen Blend bottle with preserved matte black packaging, patterned cap, and pink-purple label. Action: over 7 seconds the camera slowly slides across the label, pauses on the word COLLAGEN, then racks focus to the capsules and water glass. Scene: clean vanity or kitchen counter. Lighting: soft commercial product light with realistic reflections. Style: photorealistic ecommerce product proof, vertical 9:16. Audio: Spanish voiceover, no medical claims, mention support for daily beauty routine. Format: 7 seconds. Negative: no product redesign, no fake certification, no unreadable invented text, no scene jump."
+    },
+    {
+      "shot": 5,
+      "duration_seconds": 7,
+      "first_frame_prompt": "Create a vertical 9:16 photorealistic first frame. Creator A stands by a bright window after finishing skincare, same face, hair, earrings, natural makeup, cream satin top. She smiles softly while holding the B LIFE Collagen Blend bottle near her shoulder. Skin looks naturally fresh, not overly filtered. Mexican apartment morning light. Preserve product packaging. No before/after medical claim.",
+      "video_prompt": "Camera: medium close-up with slow push-in. Subject: Creator A with the same Character Identity Lock, holding B LIFE Collagen Blend. Action: over 7 seconds she finishes a simple beauty routine gesture, picks up the bottle, smiles, and gives a subtle confident nod to camera. Scene: bright window corner in a Mexican apartment. Lighting: soft natural daylight, realistic skin texture. Style: photorealistic UGC beauty supplement ad, vertical 9:16. Audio: warm Mexican Spanish voiceover about feeling consistent with a daily routine. Format: 7 seconds. Negative: no different actor, no changed hairstyle, no over-smoothed skin, no product redesign, no false before-after."
+    },
+    {
+      "shot": 6,
+      "duration_seconds": 6,
+      "first_frame_prompt": "Vertical 9:16 photorealistic first frame. B LIFE Collagen Blend bottle centered on a clean table, Creator A's consistent hand points toward an empty lower-screen area for a TikTok Shop cart CTA. Capsules and water glass remain visible. Preserve matte black bottle, patterned cap, pink-purple COLLAGEN label and side badge. Clean premium Mexican ecommerce setup with soft pink accent. No fake labels.",
+      "video_prompt": "Camera: close product hero shot with subtle handheld movement. Subject: B LIFE Collagen Blend bottle, capsules, water glass, Creator A's consistent hand with pale pink manicure. Action: over 6 seconds her hand slides the bottle slightly toward camera, taps beside the label, then points downward to the shopping cart area. Scene: clean table setup for TikTok Shop Mexico. Lighting: soft product lighting with realistic shadows. Style: photorealistic UGC ecommerce closer, vertical 9:16. Audio: clear Mexican Spanish CTA. Format: 6 seconds. Negative: no product redesign, no fake discount badge, no extra fingers, no different hand identity."
+    }
+  ]
+}

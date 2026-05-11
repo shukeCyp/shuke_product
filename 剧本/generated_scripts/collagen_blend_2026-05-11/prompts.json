@@ -1,0 +1,35 @@
+{
+  "product": "B LIFE Collagen Blend I II III V X",
+  "category": "口服美容/胶原蛋白膳食补充剂",
+  "target": "关注皮肤弹性、熬夜暗沉、日常美容营养补充的女性用户",
+  "duration": "约40秒，9:16竖屏",
+  "language": "Spanish voiceover + Spanish burned-in captions",
+  "compliance": "只表达日常美容营养支持，不承诺治疗、逆龄、祛皱结果",
+  "timeline": [
+    {
+      "time": "0-8s",
+      "caption": "¿Tu piel se ve cansada?",
+      "vo": "Si tu piel se ve cansada, empieza por apoyar tu rutina desde adentro."
+    },
+    {
+      "time": "8-16s",
+      "caption": "Collagen Blend I II III V X",
+      "vo": "B Life Collagen Blend combina diferentes tipos de colageno en capsulas faciles de tomar."
+    },
+    {
+      "time": "16-24s",
+      "caption": "90 cápsulas | rutina diaria",
+      "vo": "Una rutina simple para acompañar elasticidad, firmeza y cuidado diario de la piel."
+    },
+    {
+      "time": "24-32s",
+      "caption": "Belleza diaria sin complicarte",
+      "vo": "Ideal para quienes quieren sumar un paso de belleza sin cambiar toda su rutina."
+    },
+    {
+      "time": "32-40s",
+      "caption": "Revisa la oferta de hoy",
+      "vo": "Guárdalo y revisa la oferta de hoy antes de que cambie el precio."
+    }
+  ]
+}

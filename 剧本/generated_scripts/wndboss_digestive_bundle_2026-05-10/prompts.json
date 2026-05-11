@@ -1,0 +1,37 @@
+{
+  "product": "WNDBOSS Enzimas Digestivas + Probióticos Diarios",
+  "duration_target": "40s",
+  "format": "9:16 vertical short ecommerce video",
+  "language": "Spanish voiceover with no burned-in subtitles in generated clips",
+  "references": [
+    "2026-05-10_tiktok_7631617254727093534"
+  ],
+  "strategy": "Pain-point hook for heavy meals, product bundle hero, simple non-medical daily digestive support proof, probiotic routine scene, clear TikTok Shop CTA. Avoid disease treatment claims.",
+  "timeline": [
+    {
+      "time": "0-8s",
+      "beat": "餐后沉重/胀气场景钩子",
+      "vo": "Después de una comida pesada, tu estómago no tiene que sentirse así todo el día."
+    },
+    {
+      "time": "8-16s",
+      "beat": "双瓶产品英雄展示",
+      "vo": "Este combo une enzimas digestivas y probióticos diarios para apoyar tu digestión todos los días."
+    },
+    {
+      "time": "16-24s",
+      "beat": "消化酶可视化实验",
+      "vo": "Las enzimas ayudan a descomponer mejor lo que comes, especialmente comidas pesadas."
+    },
+    {
+      "time": "24-32s",
+      "beat": "益生菌日常习惯",
+      "vo": "Los probióticos apoyan el equilibrio de tu flora intestinal como parte de tu rutina."
+    },
+    {
+      "time": "32-40s",
+      "beat": "组合收口+CTA",
+      "vo": "Guárdalo para tu rutina diaria y revisa la oferta del combo hoy."
+    }
+  ]
+}

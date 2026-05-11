@@ -1,0 +1,13 @@
+{
+  "video_id": "2026-05-10_tiktok_7629696903000739086",
+  "source_video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629696903000739086.mp4",
+  "processed_video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629696903000739086.mp4",
+  "duration_seconds": 33.8,
+  "source_size_bytes": 7733883,
+  "processed_size_bytes": 7733883,
+  "endpoint": "https://yunwu.ai/v1beta/models/gemini-2.5-pro:generateContent",
+  "model": "gemini-2.5-pro",
+  "prompt_name": "commerce_video_analysis_with_tag_json_v1",
+  "created_at": "2026-05-10",
+  "status": "ok"
+}

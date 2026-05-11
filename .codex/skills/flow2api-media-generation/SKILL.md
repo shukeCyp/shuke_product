@@ -32,7 +32,7 @@ Unless the user explicitly chooses otherwise, use these models:
 - Text-to-video: `veo_3_1_t2v_fast_portrait`
 - Image-to-video / first-last-frame video: `veo_3_1_i2v_s_fast_portrait_fl`
 
-These defaults are portrait/vertical-first for short-form social and ecommerce workflows.
+These are the workspace's default 8-second portrait video models. If a video prompt or storyboard shot does not explicitly mark a duration, treat it as 8 seconds. Do not switch to 4s/6s video model aliases unless the user explicitly asks for shorter model variants.
 
 ## Environment Assumptions
 
@@ -71,6 +71,9 @@ Use portrait defaults first:
 
 Important behavior:
 
+- Workspace default for generated videos is the 8-second model alias without `_4s` or `_6s`.
+- If duration is missing, write `Format: 8 seconds` in the prompt and use the 8-second model.
+- If a storyboard contains shorter planning beats, still use the 8-second model by default and tell the user which part can be trimmed in editing.
 - T2V models do not support images. If images are sent, flow2api ignores them.
 - I2V models require 1-2 images. One image is the first frame. Two images are first frame + last frame.
 - R2V models support multiple reference images, currently up to 3.
@@ -89,6 +92,23 @@ Keep final media prompts concise and concrete:
 - Video: camera, subject, one action, environment movement, lighting, style, audio.
 
 For ecommerce/social media, default to portrait, clean product focus, one purchase-driving proof, and no unnecessary text overlays.
+
+When a `product-image-video-storyboard` task provides reference assets, attach them to every relevant image-generation call:
+
+- `product_reference_board`: use for product scale, packaging details, labels, and handling.
+- `character_reference_sheet`: use for the same face, hands, hairstyle, wardrobe, expressions, manicure, and jewelry.
+- `scene_reference_image`: use for the same location, lighting direction, counter/table layout, and background objects.
+- Original product image: attach as a secondary reference when exact packaging fidelity matters.
+
+Do not generate storyboard first frames from text alone when these references exist. Prompts should explicitly forbid second-person hands, extra hands, background people, assistants, bystanders, and unrelated mirror reflections.
+
+For the user's current production workflow, generated clips should feel like real captured footage, not polished commercial ads:
+
+- Use real-shot / live-action / UGC phone-camera language.
+- Prefer natural handheld movement, practical room light, real bathroom/kitchen/vanity/counter settings, and ordinary human handling.
+- Avoid "premium commercial lighting", "hero reveal", "cinematic ad", "glowing aura", dramatic product orbit, floating UI, fake poster composition, and overly perfect studio backgrounds unless explicitly requested.
+- Keep adjacent storyboard clips connected: same room, same product state, same person/hand identity, same wardrobe, same lighting direction, and logical physical continuity from one shot to the next.
+- When generating a batch, include continuity notes from the previous and next shot in each prompt so the sequence does not jump between unrelated scenes.
 
 ## OpenAI-Compatible Text-To-Image
 
@@ -173,7 +193,7 @@ curl -X POST "$FLOW2API_BASE_URL/models/gemini-3.1-flash-image:generateContent" 
         "role": "user",
         "parts": [
           {
-            "text": "Create a vertical portrait ecommerce hero image for a compact travel organizer on a clean hotel desk, realistic morning light, premium but practical style, no text."
+            "text": "Create a vertical portrait real-shot ecommerce reference image for a compact travel organizer on a clean hotel desk, realistic morning light, practical creator-style framing, no text."
           }
         ]
       }
@@ -192,7 +212,7 @@ Flow2API resolves `gemini-3.1-flash-image` with `imageConfig.aspectRatio` to int
 
 ## OpenAI-Compatible Text-To-Video
 
-Default to `veo_3_1_t2v_fast_portrait`.
+Default to the 8-second model `veo_3_1_t2v_fast_portrait`.
 
 ```bash
 curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
@@ -203,7 +223,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
     "messages": [
       {
         "role": "user",
-        "content": "Vertical 9:16 handheld UGC-style video of a young woman opening a compact travel organizer on a hotel desk. She pulls out a charger, passport, and lip balm in one smooth motion, showing how much fits inside. Natural morning window light, realistic room tone, slight handheld phone movement. Audio: soft zipper sound and casual room ambience, no subtitles."
+        "content": "Vertical 9:16 handheld real-shot UGC video of a young woman opening a compact travel organizer on a hotel desk. She pulls out a charger, passport, and lip balm in one smooth motion, showing how much fits inside. Natural morning window light, realistic room tone, slight handheld phone movement. Format: 8 seconds. Audio: soft zipper sound and casual room ambience, no subtitles."
       }
     ],
     "stream": true
@@ -218,7 +238,7 @@ Expected final OpenAI-style content is an HTML video snippet inside a fenced blo
 
 ## OpenAI-Compatible Image-To-Video
 
-Default to `veo_3_1_i2v_s_fast_portrait_fl`.
+Default to the 8-second model `veo_3_1_i2v_s_fast_portrait_fl`.
 
 One image means first-frame image-to-video:
 
@@ -234,7 +254,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
         "content": [
           {
             "type": "text",
-            "text": "Animate this product image as a vertical 9:16 ecommerce video. Slow push-in toward the product, soft window light shifts slightly, tiny highlights move across the packaging, background remains clean and minimal. Preserve product shape, logo, label, and composition. Audio: subtle room tone and a soft product click, no dialogue."
+            "text": "Animate this product image as a vertical 9:16 real-shot UGC video. Use natural handheld phone-camera movement and practical room light. Preserve product shape, logo, label, scale, and composition. Keep the action physically continuous with the previous and next storyboard shot. Format: 8 seconds. Audio: subtle room tone and a soft product handling sound, no subtitles."
           },
           {
             "type": "image_url",

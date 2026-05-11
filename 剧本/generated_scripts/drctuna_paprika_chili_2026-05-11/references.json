@@ -1,0 +1,57 @@
+{
+  "product": {
+    "name": "DR.C.TUNA Paprika & Chili Balsam Massage Gel",
+    "category": "身体护理",
+    "visible_facts": [
+      "white soft squeeze tube",
+      "gray-white flip cap",
+      "DR.C.TUNA logo",
+      "Paprika & Chili Balsam",
+      "Massage Gel",
+      "150 ml / 5.11 fl. oz.",
+      "thin red underline on label"
+    ],
+    "claim_boundaries": [
+      "do not claim treatment",
+      "do not claim pain cure",
+      "do not claim anti-inflammatory or joint repair effects",
+      "focus on massage routine, warming feel, texture, and home relaxation"
+    ]
+  },
+  "matched_references": [
+    {
+      "video_id": "2026-05-10_tiktok_7636204686613220638",
+      "category": "身体护理/脱毛膏",
+      "hook": "场景冲突 + 好奇悬念",
+      "why_it_matches": "身体护理实操类，质地展示和使用过程是主要转化证据。",
+      "risk_to_avoid": "避免夸张功效和医疗承诺。"
+    },
+    {
+      "video_id": "2026-05-10_tiktok_7635503041873022221_copy1",
+      "category": "身体护理/局部护理",
+      "hook": "尴尬痛点 + 结果前置",
+      "why_it_matches": "适合复刻为身体护理痛点引入、平价替代、质地实测结构。",
+      "risk_to_avoid": "避免强前后对比和过度承诺。"
+    },
+    {
+      "video_id": "2026-05-10_tiktok_7630212708008283405",
+      "category": "美妆护肤/身体护理",
+      "hook": "痛点点名",
+      "why_it_matches": "身体护理 UGC 口播和浴室/身体护理场景兼容。",
+      "risk_to_avoid": "避免借用无关亮肤、黑斑功效。"
+    }
+  ],
+  "generated_assets": {
+    "product_reference_board": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/product_reference_board.png",
+    "character_reference_sheet": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/character_reference_sheet.jpg",
+    "scene_reference_board": "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/scene_reference_board.jpg",
+    "first_frames": [
+      "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_01_first_frame.jpg",
+      "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_02_first_frame.jpg",
+      "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_03_first_frame.jpg",
+      "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_04_first_frame.jpg",
+      "/Users/chaiyapeng/Documents/shuke_product/assets/generated/storyboard/drctuna_paprika_chili/shot_05_first_frame.jpg"
+    ]
+  }
+}
+
