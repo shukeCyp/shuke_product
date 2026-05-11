@@ -11,13 +11,13 @@ Use this skill when the user wants Nano Banana 2 prompts, image-generation templ
 
 As of 2026-05-07:
 
-- Nano Banana 2 is officially `Gemini 3.1 Flash Image Preview`, model code `gemini-3.1-flash-image-preview`.
+- Nano Banana 2 is officially `Gemini 3.1 Flash Image Preview`; read the workspace model code from `google_prompting.nano_banana2.official_model` in `.codex/skills/config/media_services.yaml`.
 - It is the high-efficiency image generation and editing counterpart to Nano Banana Pro / Gemini 3 Pro Image, optimized for speed, cost, and high-volume workflows.
 - Inputs: text plus image/PDF. Outputs: image and text. Audio/video inputs are not supported.
 - Supports image generation, conversational editing, Search grounding, image search grounding, thinking, Batch API, and SynthID watermarking.
 - New output sizes include 512, 1K, 2K, and 4K. Default is 1K.
 - Supported aspect ratios include `1:1`, `1:4`, `1:8`, `2:3`, `3:2`, `3:4`, `4:1`, `4:3`, `4:5`, `5:4`, `8:1`, `9:16`, `16:9`, and `21:9`.
-- It supports multi-image workflows. Official Gemini API docs say `gemini-3.1-flash-image-preview` supports character resemblance of up to 4 characters and fidelity of up to 10 objects in a single workflow. Do not promise 14 high-fidelity inputs unless the current surface explicitly documents it.
+- It supports multi-image workflows. Official Gemini API docs describe the configured Nano Banana 2 model as supporting character resemblance of up to 4 characters and fidelity of up to 10 objects in a single workflow. Do not promise 14 high-fidelity inputs unless the current surface explicitly documents it.
 - For best performance, Google lists EN and several other languages including `zh-CN`; write final prompts in English by default unless Chinese text, localization, or user preference matters.
 - If exact current availability, pricing, model status, or API syntax matters, verify official docs because this is a preview model.
 
@@ -70,7 +70,7 @@ Use only the fields that matter for the job:
 
 When writing prompts for Gemini API or Vertex AI:
 
-- Use model `gemini-3.1-flash-image-preview` for Nano Banana 2.
+- Use `google_prompting.nano_banana2.official_model` from `.codex/skills/config/media_services.yaml` for Nano Banana 2.
 - Use `response_modalities=['Image']` / `responseModalities: ['Image']` when only images should return.
 - Use `image_config.aspect_ratio` and `image_config.image_size` instead of relying only on prompt wording when API supports it.
 - Use 512/1K for draft and high-volume variants; use 2K/4K for final assets.
@@ -456,7 +456,7 @@ Before finalizing a prompt:
 ## Source Links
 
 - Google AI for Developers, Nano Banana image generation: https://ai.google.dev/gemini-api/docs/image-generation
-- Google AI model page, Gemini 3.1 Flash Image Preview: https://ai.google.dev/gemini-api/docs/models/gemini-3.1-flash-image-preview
+- Google AI model page for the configured Nano Banana 2 model.
 - Google blog, Build with Nano Banana 2: https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/
 - Google blog, Nano Banana 2 latest image model: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
 - Google blog, Nano Banana Pro prompting tips: https://blog.google/products-and-platforms/products/gemini/prompting-tips-nano-banana-pro/

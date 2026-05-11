@@ -26,28 +26,35 @@ Flow2API exposes a unified OpenAI-compatible API for Google Flow:
 
 ## Required Defaults
 
-Unless the user explicitly chooses otherwise, use these models:
+Read workspace defaults from:
 
-- Image generation / image editing: `gemini-3.1-flash-image-portrait`
-- Text-to-video: `veo_3_1_t2v_fast_portrait`
-- Image-to-video / first-last-frame video: `veo_3_1_i2v_s_fast_portrait_fl`
+```text
+.codex/skills/config/media_services.yaml
+```
+
+Use these config keys unless the user explicitly chooses otherwise:
+
+- Image generation / image editing: `flow2api.models.image_default`
+- Text-to-video: `flow2api.models.text_to_video_default`
+- Image-to-video / first-last-frame video: `flow2api.models.image_to_video_default`
+- Multi-reference video: `flow2api.models.multi_reference_video_default`
+- First/last-frame Lite transition: `flow2api.models.interpolation_lite`
 
 These are the workspace's default 8-second portrait video models. If a video prompt or storyboard shot does not explicitly mark a duration, treat it as 8 seconds. Do not switch to 4s/6s video model aliases unless the user explicitly asks for shorter model variants.
 
 ## Environment Assumptions
 
-Default flow2api endpoint for this workspace:
+Default flow2api endpoint and credentials are stored only in the workspace config:
 
-```bash
-FLOW2API_BASE_URL="https://flow.lyvideo.top"
-FLOW2API_API_KEY="sk-hetang"
+```text
+.codex/skills/config/media_services.yaml
 ```
 
-Use these values by default when making or showing flow2api requests. Allow explicit user overrides for a different server or key.
+Load `flow2api.base_url`, `flow2api.api_key`, `flow2api.concurrency_limit`, and `flow2api.models.*` before making requests. Do not paste real API keys into SKILL instructions, prompts, logs, or user-facing examples. Allow explicit user overrides for a different server, key, or model.
 
 ## Concurrency Limit
 
-For this workspace, keep a shared media-generation concurrency limit of 5:
+For this workspace, read the shared media-generation concurrency limit from `flow2api.concurrency_limit`:
 
 - Image generation and video generation share the same 5-slot pool.
 - Do not launch more than 5 total flow2api generation requests at once.
@@ -56,22 +63,18 @@ For this workspace, keep a shared media-generation concurrency limit of 5:
 
 ## Model Selection
 
-Use portrait defaults first:
+Use configured portrait defaults first:
 
-- General vertical image: `gemini-3.1-flash-image-portrait`
-- Higher-res vertical image: `gemini-3.1-flash-image-portrait-2k` or `gemini-3.1-flash-image-portrait-4k`
-- Square image: `gemini-3.1-flash-image-square`
-- 4:5-ish image is not a native flow2api alias; use portrait or `three-four` depending on need.
-- Text-to-video vertical fast: `veo_3_1_t2v_fast_portrait`
-- Text-to-video 4s/6s vertical fast: `veo_3_1_t2v_fast_portrait_4s`, `veo_3_1_t2v_fast_portrait_6s`
-- Image-to-video vertical fast: `veo_3_1_i2v_s_fast_portrait_fl`
-- Image-to-video 4s/6s vertical fast: `veo_3_1_i2v_s_fast_portrait_4s_fl`, `veo_3_1_i2v_s_fast_portrait_6s_fl`
-- First/last-frame Lite transition: `veo_3_1_interpolation_lite_portrait` when the user specifically asks for Lite transition.
-- Multi-reference video: `veo_3_1_r2v_fast_portrait`, current upstream protocol supports up to 3 reference images.
+- General vertical image: `flow2api.models.image_default`.
+- Text-to-video vertical fast: `flow2api.models.text_to_video_default`.
+- Image-to-video vertical fast: `flow2api.models.image_to_video_default`.
+- First/last-frame Lite transition: `flow2api.models.interpolation_lite` when the user specifically asks for Lite transition.
+- Multi-reference video: `flow2api.models.multi_reference_video_default`, current upstream protocol supports up to 3 reference images.
+- For higher-resolution, square, 4s, or 6s variants, use an explicit user-provided model or update the config first.
 
 Important behavior:
 
-- Workspace default for generated videos is the 8-second model alias without `_4s` or `_6s`.
+- Workspace default for generated videos is the configured 8-second model alias without shorter-duration suffixes.
 - If duration is missing, write `Format: 8 seconds` in the prompt and use the 8-second model.
 - If a storyboard contains shorter planning beats, still use the 8-second model by default and tell the user which part can be trimmed in editing.
 - T2V models do not support images. If images are sent, flow2api ignores them.
@@ -119,7 +122,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "gemini-3.1-flash-image-portrait",
+    "model": "$FLOW2API_IMAGE_MODEL",
     "messages": [
       {
         "role": "user",
@@ -145,7 +148,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "gemini-3.1-flash-image-portrait",
+    "model": "$FLOW2API_IMAGE_MODEL",
     "messages": [
       {
         "role": "user",
@@ -178,10 +181,10 @@ Supported image URI patterns:
 
 Use Gemini-compatible endpoint when the caller already uses Gemini API request shapes or wants `generationConfig.imageConfig`.
 
-Default model can be either direct portrait alias or base alias plus image config:
+Default model comes from `flow2api.models.image_default`; Gemini-compatible calls may also use a base image model plus image config if the configured service supports it:
 
 ```bash
-curl -X POST "$FLOW2API_BASE_URL/models/gemini-3.1-flash-image:generateContent" \
+curl -X POST "$FLOW2API_BASE_URL/models/$FLOW2API_IMAGE_MODEL:generateContent" \
   -H "x-goog-api-key: $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -208,18 +211,18 @@ curl -X POST "$FLOW2API_BASE_URL/models/gemini-3.1-flash-image:generateContent" 
   }'
 ```
 
-Flow2API resolves `gemini-3.1-flash-image` with `imageConfig.aspectRatio` to internal aliases such as `gemini-3.1-flash-image-portrait`.
+Flow2API may resolve base image models with `imageConfig.aspectRatio` to internal portrait aliases, depending on the configured service.
 
 ## OpenAI-Compatible Text-To-Video
 
-Default to the 8-second model `veo_3_1_t2v_fast_portrait`.
+Default to `flow2api.models.text_to_video_default`.
 
 ```bash
 curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "veo_3_1_t2v_fast_portrait",
+    "model": "$FLOW2API_T2V_MODEL",
     "messages": [
       {
         "role": "user",
@@ -238,7 +241,7 @@ Expected final OpenAI-style content is an HTML video snippet inside a fenced blo
 
 ## OpenAI-Compatible Image-To-Video
 
-Default to the 8-second model `veo_3_1_i2v_s_fast_portrait_fl`.
+Default to `flow2api.models.image_to_video_default`.
 
 One image means first-frame image-to-video:
 
@@ -247,7 +250,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "veo_3_1_i2v_s_fast_portrait_fl",
+    "model": "$FLOW2API_I2V_MODEL",
     "messages": [
       {
         "role": "user",
@@ -278,7 +281,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "veo_3_1_i2v_s_fast_portrait_fl",
+    "model": "$FLOW2API_I2V_MODEL",
     "messages": [
       {
         "role": "user",
@@ -315,7 +318,7 @@ curl -N -X POST "$FLOW2API_BASE_URL/v1/chat/completions" \
   -H "Authorization: Bearer $FLOW2API_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
-    "model": "veo_3_1_r2v_fast_portrait",
+    "model": "$FLOW2API_R2V_MODEL",
     "messages": [
       {
         "role": "user",
@@ -397,7 +400,7 @@ Create a seamless transition from the first frame to the last frame. The motion 
 ## Troubleshooting
 
 - `Prompt cannot be empty`: ensure at least one text part exists in the final user message.
-- T2V with images: the model ignores images; switch to `veo_3_1_i2v_s_fast_portrait_fl`.
+- T2V with images: the model ignores images; switch to `flow2api.models.image_to_video_default`.
 - I2V image count error: provide 1 image for first-frame animation or 2 images for first/last-frame transition.
 - R2V image count error: provide no more than 3 reference images.
 - Wrong orientation: use portrait default model or Gemini `imageConfig.aspectRatio: "9:16"`.

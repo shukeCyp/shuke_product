@@ -11,7 +11,7 @@ Use this skill when the user wants Veo 3.1 prompts, prompt templates, prompt dia
 
 As of 2026-05-07, prefer these current Google references:
 
-- Vertex AI model page: `veo-3.1-generate-001`, `veo-3.1-fast-generate-001`, and `veo-3.1-lite-generate-001`.
+- Vertex AI model page: read the workspace list from `google_prompting.veo31.vertex_ai_models` in `.codex/skills/config/media_services.yaml`.
 - Prompt language is English. Think in the user's language if helpful, but produce final Veo prompts in English unless the user explicitly asks otherwise.
 - Standard Veo 3.1 clips are 4, 6, or 8 seconds, 24 FPS, MP4, 16:9 or 9:16, up to 4 outputs per request.
 - Use 9:16 for TikTok, Reels, Shorts, Xiaohongshu/Douyin-style vertical video; use 16:9 for YouTube, web, TV, landscapes, or wide product context.

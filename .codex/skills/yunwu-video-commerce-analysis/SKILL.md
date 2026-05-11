@@ -9,33 +9,15 @@ Use this skill when the user wants to analyze,拆解, score, summarize, reverse-
 
 ## Default API
 
-Apifox doc: https://yunwu.apifox.cn/api-309482709
-
-Default endpoint:
+Read workspace API settings from:
 
 ```text
-POST https://yunwu.ai/v1beta/models/gemini-2.5-pro:generateContent
+.codex/skills/config/media_services.yaml
 ```
 
-Workspace preferred analysis model:
+Use `yunwu.base_url`, `yunwu.apifox_doc_url`, `yunwu.api_key`, `yunwu.models.analysis_preferred`, and `yunwu.models.analysis_fallback`. Compose the endpoint as `POST {yunwu.base_url}/v1beta/models/{model}:generateContent`.
 
-```text
-gemini-3.1-pro-preview
-```
-
-For deeper ecommerce teardown, use:
-
-```text
-POST https://yunwu.ai/v1beta/models/gemini-3.1-pro-preview:generateContent
-```
-
-Use the Apifox `gemini-2.5-pro` endpoint as the compatibility fallback.
-
-Default API key:
-
-```text
-sk-YnNkhgtXNcmSzTBCvufmxYfzg7oNOtWzDaZjhrgoA8ebdVEQ
-```
+Use `yunwu.models.analysis_preferred` for deeper ecommerce teardown. Use `yunwu.models.analysis_fallback` as the compatibility fallback.
 
 Auth and request requirements from the Apifox page:
 
@@ -45,7 +27,7 @@ Auth and request requirements from the Apifox page:
 - Body: Gemini native `contents[].parts[]`
 - Video input: `inline_data` with `mime_type: "video/mp4"` and base64 `data`
 
-Use both `Authorization: Bearer ...` and `?key=...` unless the user explicitly asks for one auth style only.
+Use both `Authorization: Bearer <api_key>` and `?key=<api_key>` unless the user explicitly asks for one auth style only. Do not paste real API keys into SKILL instructions, prompts, logs, or user-facing examples.
 
 ## Storage Hook
 
@@ -105,8 +87,8 @@ For a local `.mp4`:
 VIDEO_B64="$(base64 -i ./path/video.mp4 | tr -d '\n')"
 
 curl -sS -X POST \
-  "https://yunwu.ai/v1beta/models/gemini-2.5-pro:generateContent?key=sk-YnNkhgtXNcmSzTBCvufmxYfzg7oNOtWzDaZjhrgoA8ebdVEQ" \
-  -H "Authorization: Bearer sk-YnNkhgtXNcmSzTBCvufmxYfzg7oNOtWzDaZjhrgoA8ebdVEQ" \
+  "$YUNWU_BASE_URL/v1beta/models/$YUNWU_MODEL:generateContent?key=$YUNWU_API_KEY" \
+  -H "Authorization: Bearer $YUNWU_API_KEY" \
   -H "Content-Type: application/json" \
   -d @<(jq -n --arg video "$VIDEO_B64" --arg prompt "$PROMPT" '{
     contents: [{
@@ -128,9 +110,10 @@ import base64
 import json
 import requests
 
-API_KEY = "sk-YnNkhgtXNcmSzTBCvufmxYfzg7oNOtWzDaZjhrgoA8ebdVEQ"
-MODEL = "gemini-3.1-pro-preview"
-url = f"https://yunwu.ai/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
+API_KEY = "<read yunwu.api_key from .codex/skills/config/media_services.yaml>"
+BASE_URL = "<read yunwu.base_url from .codex/skills/config/media_services.yaml>"
+MODEL = "<read yunwu.models.analysis_preferred from .codex/skills/config/media_services.yaml>"
+url = f"{BASE_URL}/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
 
 with open("./path/video.mp4", "rb") as f:
     video_b64 = base64.b64encode(f.read()).decode("ascii")
@@ -377,5 +360,5 @@ Ask for:
 
 ## Source Links
 
-- Yunwu Apifox video understanding: https://yunwu.apifox.cn/api-309482709
+- Yunwu Apifox video understanding: read `yunwu.apifox_doc_url` from `.codex/skills/config/media_services.yaml`
 - Google Gemini video understanding docs: https://ai.google.dev/gemini-api/docs/video-understanding?hl=zh-cn
