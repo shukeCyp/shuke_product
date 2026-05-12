@@ -20,6 +20,16 @@ flow2api:
     # 默认首尾帧过渡模型：用于明确要求 first/last-frame transition 的场景。
     interpolation_lite: "replace-with-interpolation-model"
 
+image_generation:
+  # 生图提供方开关：决定“所有生图”（主图/母图/分镜首帧等）走哪个服务。
+  # - flow2api：走 Flow2API 的 /v1/chat/completions
+  provider: "flow2api"
+
+video_generation:
+  # 视频生成提供方开关：决定“所有视频生成”走哪个服务。
+  # - flow2api：走 Flow2API 的 /v1/chat/completions
+  provider: "flow2api"
+
 yunwu:
   # Yunwu API 服务根地址：用于拼接 Gemini video understanding 请求端点。
   base_url: "https://example-yunwu-host"

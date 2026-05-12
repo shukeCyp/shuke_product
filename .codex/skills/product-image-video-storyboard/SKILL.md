@@ -7,7 +7,7 @@ description: "Use by default when the user provides product images and wants eco
 
 ## Overview
 
-Convert a product image into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image, the default is end-to-end execution: generate foundation references, retrieve examples, write the storyboard, generate first-frame images, QA/regenerate failed first frames, generate videos, QA videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that. Use `imagegen` for raster image generation/editing by default. Use the workspace video/media generation skills such as `flow2api-media-generation`, `veo31-video-prompting`, and `nanobanana2-image-prompting` when their scoped instructions apply.
+Convert a product image into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image, the default is end-to-end execution: generate foundation references, retrieve examples, write the storyboard, generate first-frame images, generate videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that. Use the configured active image-generation provider for all raster image generation/editing, including the product reference board. Use the workspace video/media generation skills such as `flow2api-media-generation`, `veo31-video-prompting`, and `nanobanana2-image-prompting` when their scoped instructions apply.
 
 ## Trigger Behavior
 
@@ -57,7 +57,6 @@ product/
     ├── script.md
     ├── prompts.json
     ├── references.json
-    ├── video_qa.md
     ├── references/
     │   ├── product_reference_board.png
     │   ├── character_reference_sheet.png
@@ -66,8 +65,6 @@ product/
     │   ├── shot_01_first_frame.png
     │   ├── shot_01_video.mp4
     │   └── ...
-    └── video_qa_frames/
-        └── video_contact_sheet.jpg
 ```
 
 Directory roles:
@@ -75,19 +72,17 @@ Directory roles:
 - `product/projects.json`: project-library index used by tools and skill workflows.
 - `product/YYYYMMDD_HHMMSS_product_slug/`: the only writable project root for this product run.
 - `00_foundation_prompts.md`: the three foundation-reference prompts, one each for product, character, and scene.
-- `script.md`: product assumptions, matched references, core angle, storyboard table, generation prompts, and QA summaries.
+- `script.md`: product assumptions, matched references, core angle, storyboard table, generation prompts, and generated asset paths.
 - `prompts.json`: structured reusable prompts for first-frame image generation and video generation.
 - `references.json`: source image, generated reference paths, matched reference records, first-frame paths, video paths, and generated-media result metadata.
-- `video_qa.md`: final per-video QA table and trim/use notes.
 - `references/`: exactly the three foundation reference images, plus any explicitly requested extra reference variants only when needed.
-- `generated_media/`: approved first-frame images and generated videos.
-- `video_qa_frames/`: video contact sheets, extracted QA frames, and video QA helper images.
+- `generated_media/`: generated first-frame images and generated videos.
 
 Path rules:
 
 - Store all paths written to project JSON/Markdown as paths inside the project folder whenever possible.
 - If an external URL or `$CODEX_HOME/generated_images/...` path is returned by a generator, copy/download the selected file into the fixed project structure first, then record the project-local path.
-- Use deterministic media filenames: `shot_XX_first_frame.png`, `shot_XX_video.mp4`, and QA helper names under `video_qa_frames/`.
+- Use deterministic media filenames: `shot_XX_first_frame.png` and `shot_XX_video.mp4`.
 - Never reference a generated deliverable only from `$CODEX_HOME`, `剧本/generated_scripts/`, or another prior project.
 - Existing `剧本/` files remain a retrieval library only; do not save new product deliverables there.
 
@@ -105,11 +100,14 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - product type, color, material, packaging, label text, likely use case
    - visual constraints that must be preserved
    - unclear details that should not be invented aggressively
-2. Create or select the product project directory under `product/YYYYMMDD_HHMMSS_product_slug/` and create `references/`, `generated_media/`, and `video_qa_frames/`.
+   - target selling market and language from `.codex/skills/config/media_services.yaml` key `commerce_market`; if missing, default to the user's explicitly stated market
+2. Create or select the product project directory under `product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
    - Create the fixed files in that same project folder as the workflow reaches each stage.
    - Before writing any path into metadata, ensure the file exists under the project folder.
-3. Directly use the `imagegen` skill to generate exactly one product reference board:
-   - use the built-in `image_gen` tool by default, following the imagegen skill's save-path policy
+3. Generate exactly one product reference board through the active image-generation provider:
+   - read `image_generation.provider` from `.codex/skills/config/media_services.yaml` before choosing the generator
+   - if `image_generation.provider` is `flow2api`, the product reference board must be generated with Flow/flow2api, using the configured `flow2api.models.image_default`
+   - use the built-in `image_gen` tool only when the active provider is not configured or when the configured provider is unavailable and the fallback is explicitly recorded
    - include product multi-view angles
    - include approximate product dimensions/scale using visual dimension markers, a ruler/grid, hand scale, or common-object scale
    - include product detail panels such as front label, cap/lid, side/back detail, texture/material, ingredient/benefit badge, included parts, capsules/accessories, or applicator depending on product type
@@ -134,11 +132,12 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - include stable lighting direction, counter/table layout, background objects, and an empty future product placement zone
    - make it practical and repeatable for every shot, not a decorative ad set
 6. Save the product, character, and scene reference prompts to `00_foundation_prompts.md`. Do not show the internal generation prompts to the user by default unless the user asks.
-7. If `imagegen` cannot be used in the current environment, state the blocker concisely instead of pretending the product reference was generated.
+7. If the active image-generation provider cannot be used in the current environment, state the blocker concisely instead of pretending the product reference was generated.
 8. Record reference paths and prompt metadata in `references.json` with keys:
    - `product_reference_board`
    - `character_reference_sheet`
    - `scene_reference_board`
+   - `commerce_market`
 9. Query the local `剧本/` library for relevant references.
 10. Adapt the matched references into an original storyboard for the user's product.
 11. Save the storyboard and generation instructions to `script.md`, `prompts.json`, and `references.json` inside the product project folder.
@@ -148,23 +147,37 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - final generation duration, default 8 seconds when unspecified
    - first-frame image prompt
    - video prompt with explicit duration
-   - voiceover or on-screen text if useful
+   - voiceover or on-screen text in the configured selling-market language if useful
    - edit note for how the user can trim or combine clips manually
 13. Generate storyboard first-frame images through the active image-generation skill and save them as `generated_media/shot_XX_first_frame.png`, unless the user explicitly requested prompts/planning only.
-14. After generating first-frame images, review every first frame before moving to video generation:
-   - check for body/object penetration, hands merging into product/body, impossible joints, extra fingers, missing fingers, distorted hands, face drift, changed actor, wardrobe mismatch, packaging deformation, label/text errors, inconsistent scene layout, impossible contact shadows, and unrelated extra people/objects
-   - write a first-frame QA table with status `pass`, `needs_regeneration`, or `usable_with_crop/edit`
-   - regenerate any `needs_regeneration` first frame before using it for video generation unless the user explicitly accepts the flaw
-   - record the final approved first-frame paths and the QA notes
-15. Generate videos through the active video-generation skill after first-frame QA and save them as `generated_media/shot_XX_video.mp4`. Save video result metadata, contact sheets, extracted QA frames, or equivalent QA evidence under `video_qa_frames/`.
-16. Review generated videos for duration, readability, continuity, product consistency, person/hand consistency, visible artifacts, and editability. Write `video_qa.md` and update `references.json`.
-17. Refresh `product/projects.json` with final paths, asset counts, and project status.
+14. Generate videos through the active video-generation skill from the generated first frames and save them as `generated_media/shot_XX_video.mp4`. Save video result metadata in `references.json`.
+15. Refresh `product/projects.json` with final paths, asset counts, and project status.
 
 Never ask the user to confirm the product direction before script retrieval unless the input image is ambiguous enough that proceeding would create the wrong product.
 
 ## Skill Media Generation
 
-All image and video generation in this workflow is owned by Codex skills. Read service URL, API key, model aliases, and concurrency limits from `.codex/skills/config/media_services.yaml`; do not put real secrets in prompts or generated project files.
+All image and video generation in this workflow is owned by Codex skills. Read service URL, API key, model aliases, concurrency limits, and commerce-market settings from `.codex/skills/config/media_services.yaml`; do not put real secrets in prompts or generated project files.
+
+Image-provider selection applies to the entire workflow:
+
+- `image_generation.provider` controls the product reference board, character reference sheet, scene reference board, and all storyboard first-frame images.
+- When `image_generation.provider: "flow2api"`, the product reference board must use Flow/flow2api by default.
+- Only fall back to `imagegen` when the configured provider is missing, blocked, or explicitly overridden by the user; record the fallback reason in `references.json`.
+
+## Commerce Market and Language
+
+Read `commerce_market` from `.codex/skills/config/media_services.yaml` before writing scripts, subtitles, voiceover, CTA copy, visible generated text, or audience assumptions.
+
+Required behavior:
+
+- `commerce_market.country` is the target selling country/market.
+- `commerce_market.language` is the primary language for all user-facing script copy, voiceover, subtitle copy, CTA copy, offer copy, and platform-native wording.
+- `commerce_market.locale`, `currency`, `currency_symbol`, and `platform_region` should guide price formatting, offer framing, local idioms, and CTA wording.
+- If the product's packaging text is in a different language, preserve the original packaging text visually, but write spoken/scripted sales copy in the configured market language.
+- Image/video prompts may remain in English for model control, but any quoted speech, subtitles, visible overlay text, or CTA text inside those prompts must be in `commerce_market.language`.
+- Record the resolved `commerce_market` object in `references.json` and summarize the market/language in `script.md`.
+- If `commerce_market.language` is Spanish for Mexico, use natural Mexican Spanish ecommerce phrasing, not generic Spain Spanish. Prefer CTA wording such as "toca el enlace", "aprovecha la promo", "envío a México", and price formatting with MXN when prices are known.
 
 For media-generation concurrency:
 
@@ -173,8 +186,8 @@ For media-generation concurrency:
 - For Flow/flow2api, after `product_reference_board` exists, generate `character_reference_sheet` and `scene_reference_board` concurrently because neither may contain the product and neither depends on the other.
 - Storyboard first-frame images must be generated in parallel batches when the active image-generation skill/API supports batching or parallel jobs.
 - Storyboard videos should be generated in batches after their first frames exist when the active video-generation skill/API supports batching or parallel jobs.
-- Respect the workspace shared media-generation concurrency limit, currently 5 total in-flight jobs across images and videos, unless the active skill specifies a stricter limit.
-- Queue remaining jobs when more than 5 media jobs are requested.
+- Respect the active provider's configured media-generation concurrency limit, unless the active skill specifies a stricter limit.
+- Queue remaining jobs when the provider's concurrency pool is full.
 - Do not run media jobs one-by-one unless there is only one job, a prior output is required, the concurrency pool is full, or the user explicitly requests sequential generation.
 
 ## Character Consistency
@@ -191,10 +204,12 @@ If any person, model, hand model, creator, actor, or customer appears in the sto
 6. Do not introduce a different person between shots. If multiple people are truly needed, ask the user first; default to one person only.
 7. Do not generate second-person hands, extra hands, background people, mirror reflections of another person, assistants, customers, or bystanders unless explicitly requested.
 8. For hand-only shots, still use the same character reference sheet: skin tone, hand shape, nail length/color, jewelry, sleeve, and grip style must match the creator.
+9. When both hands appear, explicitly describe left hand and right hand roles in prompts. Do not allow two left hands, two right hands, duplicated thumbs, mirrored same-side hands, or swapped hand orientation.
+10. When a hand holds or touches the product, require realistic occlusion, finger wrapping, contact shadows, and product thickness so the product reads as a real 3D object rather than a flat printed sticker.
 
-## Imagegen Product Reference Board
+## Product Reference Board Prompt
 
-Use the `imagegen` skill for the first generated image. In normal operation, use the built-in `image_gen` tool rather than the CLI fallback. Do not display this internal prompt to the user unless explicitly asked for prompts:
+Use this prompt through the active image-generation provider for the first generated image. Do not display this internal prompt to the user unless explicitly asked for prompts:
 
 ```text
 Create one single vertical 9:16 ecommerce product reference board from the provided product image.
@@ -239,7 +254,7 @@ Required sections in one reference sheet:
 
 Style: photorealistic real-shot UGC reference sheet, practical natural light, clean neutral background, high detail in face and hands, no beauty-ad retouching.
 
-Avoid: the product, product packaging, product labels, product-colored props, product-shaped placeholders, a second person, extra hands, mismatched hands, different hairstyles, different outfits, distorted fingers, exaggerated expressions, fashion editorial lighting, studio ad styling, fake text labels, or background bystanders.
+Avoid: the product, product packaging, product labels, product-colored props, product-shaped placeholders, a second person, extra hands, mismatched hands, two left hands, two right hands, duplicated thumbs, wrong-side thumbs, mirrored duplicate hands, different hairstyles, different outfits, distorted fingers, exaggerated expressions, fashion editorial lighting, studio ad styling, fake text labels, or background bystanders.
 ```
 
 Use `references/character_reference_sheet.png` for every first-frame image that includes a face, body, or hands.
@@ -310,16 +325,10 @@ Return the adapted plan in this order:
    - `product_reference_board`
    - `character_reference_sheet`
    - `scene_reference_board`
-8. First-frame QA review:
-   - per-shot status
-   - abnormality notes
-   - regeneration/crop/edit decision
-   - final approved first-frame path
-9. Generated videos and video QA:
+8. Generated media paths:
+   - per-shot first-frame image path
    - per-shot video path
-   - duration/resolution check
-   - visual QA status
-   - edit/trim note
+   - edit/trim note from the storyboard plan
 
 Use this table shape for the storyboard:
 
@@ -333,6 +342,7 @@ Rules:
 - `生成时长` defaults to 8 seconds if the user has not explicitly marked another duration.
 - Use the 8-second video model by default. If the beat is shorter than 8 seconds, still generate 8 seconds and add an edit note for where to trim.
 - Write prompts in English for image/video models unless the visible text or voiceover must be Chinese.
+- Write all user-facing sales copy, voiceover, subtitle copy, CTA copy, and visible overlay text in the configured `commerce_market.language`; do not default to Chinese or English unless that is the configured market language or the user explicitly overrides it.
 - Keep each video prompt to one clear physical beat.
 - If a product label or text must appear, quote exact text and warn about text-rendering risk.
 - For first-frame prompts, describe a static real-shot UGC frame.
@@ -344,6 +354,8 @@ Rules:
 - Make the full video sequence coherent: every shot should feel like it happened in the same real shoot, with a logical before/after relationship to the neighboring shots.
 - Keep continuity across shots: same product state, same room or compatible adjacent room, same lighting direction, same person/hand identity, same wardrobe, and plausible hand/object position changes.
 - Avoid second-person hands and extra people. If the shot needs a hand, it must be the same creator's hand from `character_reference_sheet`.
+- Avoid impossible same-side hand anatomy: no two left hands, no two right hands, no duplicated thumbs, no wrong-side thumbs, no mirrored copies of the same hand. For hand shots, specify which hand is left and which is right, and make thumb positions anatomically plausible.
+- Avoid flat product rendering: the product must have real 3D volume, visible thickness, perspective, material highlights, realistic contact shadows, and proper occlusion by fingers or surfaces. Do not let packaging look like a printed 2D sticker, paper cutout, flat app icon, or pasted label.
 - Prefer real-shot UGC footage language over advertising language: handheld phone camera, practical room light, natural counter/bathroom/kitchen setting, ordinary human handling, realistic imperfections, no studio hero ad look.
 - Avoid disconnected scene jumps, poster-style product compositions, cinematic ad lighting, floating UI, fake glow effects, exaggerated hero orbits, and overly polished commercial packshots unless the user explicitly asks for ads.
 - When a person appears, include the exact `Character Identity Lock` in the prompt or reference it explicitly by label.
@@ -360,7 +372,7 @@ Create a vertical 9:16 photorealistic first frame for a real-shot UGC ecommerce 
 When the image-generation skill/API creates first frames, attach or reference `product_reference_board`, `character_reference_sheet`, and `scene_reference_board` whenever the tool supports references. If exact packaging matters, also attach the original product image. Prompts should include:
 
 ```text
-Use the attached product reference board for product scale, packaging details, close-up features, and handling. Use the attached character reference sheet for the exact same face, hands, hair, wardrobe, expressions, manicure, jewelry, and body identity. Use the attached multi-view scene reference board for the same location, lighting direction, counter/table layout, background objects, product placement zone, action zone, and camera angles. Preserve one person only. Do not add second-person hands, background people, assistants, bystanders, or extra hands.
+Use the attached product reference board for product scale, packaging details, close-up features, and handling. Use the attached character reference sheet for the exact same face, hands, hair, wardrobe, expressions, manicure, jewelry, and body identity. Use the attached multi-view scene reference board for the same location, lighting direction, counter/table layout, background objects, product placement zone, action zone, and camera angles. Preserve one person only. Do not add second-person hands, background people, assistants, bystanders, or extra hands. Hands must be anatomically correct: no two left hands, no two right hands, no duplicated thumbs, no wrong-side thumbs, no mirrored same-side hand copies. The product must read as a real 3D object with volume, thickness, highlights, perspective, contact shadows, and natural finger occlusion; it must not look like a flat 2D sticker, paper cutout, or pasted label.
 ```
 
 Video prompt:
@@ -378,62 +390,23 @@ Format: [duration] seconds; if duration is not explicitly marked, use 8 seconds.
 Negative: no product redesign, no unreadable fake text, no extra fingers, no distorted packaging, no disconnected scene jump, no different actor, no changed hairstyle, no changed wardrobe unless specified, no cinematic ad lighting, no floating product, no studio hero shot.
 ```
 
-## First-Frame QA Review
+## Media Generation Completion
 
-After generating all storyboard first-frame images, inspect each image before video generation. Do not skip this review.
+Do not run automatic first-frame image QA or generated-video QA in this workflow. After first-frame images and videos are generated, save the asset paths, generation prompts, provider metadata, and any generator result URLs or IDs to `script.md`, `prompts.json`, `references.json`, and `product/projects.json`.
 
-Use this QA table:
-
-| 镜头 | 首帧路径/URL | 状态 | 异常检查 | 处理决定 |
-|---|---|---|---|---|
-| 1 | ... | pass / needs_regeneration / usable_with_crop/edit | ... | ... |
-
-Check at minimum:
-
-- `穿模/接触错误`: hand penetrates product/body/counter, product floats, impossible contact or shadows
-- `手部异常`: extra fingers, missing fingers, fused fingers, distorted nails, mismatched jewelry/sleeve
-- `人物一致性`: different face, changed hairstyle, changed wardrobe, different makeup/accessories, extra people or mirror people
-- `产品一致性`: changed packaging shape, unreadable or wrong key label, wrong cap, missing logo hierarchy, invented claims/badges
-- `场景一致性`: changed room, lighting direction mismatch, background objects missing or jumping, impossible camera angle
-- `画面可用性`: subject cropped awkwardly, important product hidden, subtitle space blocked, motion-start pose unclear
-
-If any first frame is `needs_regeneration`, regenerate it using the same references and a tighter prompt that names the exact problem. Only proceed to video generation with `pass` or explicitly accepted `usable_with_crop/edit` frames.
-
-## Video QA Review
-
-After generating all storyboard videos, inspect each video before calling the work complete.
-
-Use this QA table in `video_qa.md`:
-
-| 镜头 | 视频路径/URL | 状态 | 异常检查 | 剪辑建议 |
-|---|---|---|---|---|
-| 1 | ... | pass / needs_regeneration / usable_with_trim | ... | ... |
-
-Check at minimum:
-
-- `时长/格式`: expected duration, vertical orientation, file saved and playable.
-- `动作连续性`: starts from approved first-frame state, one clear physical action, no scene jump.
-- `人物一致性`: same actor, hands, wardrobe, jewelry, hairstyle, makeup.
-- `产品一致性`: no package redesign, no fake badges, no unreadable critical label changes, no wrong product color/shape.
-- `手部/物理`: no extra fingers, fused hands, floating product, object penetration, impossible water/lather behavior.
-- `合规风险`: no guaranteed medical/cosmetic results, no exaggerated before/after, no unsupported claims.
-- `可剪辑性`: identify the best usable second range and any section to trim.
-
-If a video is `needs_regeneration`, regenerate it from the approved first frame with a tighter prompt that names the exact failure. Mark videos as final only when `pass` or explicitly acceptable `usable_with_trim`.
+If the user explicitly asks for QA in a later message, treat that as a separate task and follow the user's requested review method for that turn.
 
 ## User-Facing Behavior
 
 When a product image is provided, do not first ask for market direction and do not print internal generation prompts unless the user requests them. Run the full workflow to final assets by default. Do the work in this order:
 
 1. Create or select the product project folder under `product/YYYYMMDD_HHMMSS_product_slug/`.
-2. Generate one product reference board with the `imagegen` skill and save it as `references/product_reference_board.png`.
-3. Generate the character reference sheet and scene reference board with the active image-generation skill. They must not contain the product or product-like placeholders; when using Flow/flow2api, generate them concurrently.
+2. Generate one product reference board with the active image-generation provider and save it as `references/product_reference_board.png`.
+3. Generate the character reference sheet and scene reference board with the active image-generation provider. They must not contain the product or product-like placeholders; when using Flow/flow2api, generate them concurrently.
 4. Save the foundation prompts as `00_foundation_prompts.md`.
 5. Continue to retrieval-backed storyboard creation.
 6. Save storyboard and structured generation instructions as `script.md`, `prompts.json`, and `references.json`.
-7. Generate all storyboard first-frame images through the active image-generation skill, using parallel batches when supported and mandatory parallel execution for Flow/flow2api. Save them under `generated_media/` and complete first-frame QA.
-8. Regenerate any failed first frames unless the user explicitly accepts the flaw.
-9. Generate all storyboard videos through the active video-generation skill after first-frame QA, save them under `generated_media/`, and complete video QA.
-10. Regenerate any failed videos unless the user explicitly accepts the flaw.
-11. Update `references.json`, `video_qa.md`, and `product/projects.json` with final paths and statuses.
-12. Tell the user the product project folder, final video paths, QA status, and any recommended trim ranges.
+7. Generate all storyboard first-frame images through the active image-generation skill, using parallel batches when supported and mandatory parallel execution for Flow/flow2api. Save them under `generated_media/`.
+8. Generate all storyboard videos through the active video-generation skill from the generated first frames and save them under `generated_media/`.
+9. Update `references.json` and `product/projects.json` with final paths, provider metadata, asset counts, and project status.
+10. Tell the user the product project folder, generated first-frame paths, final video paths, and storyboard edit notes.
