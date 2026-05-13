@@ -30,14 +30,23 @@ Prompts-only exceptions:
 
 ## Output Directory Contract
 
-All generated product-storyboard work for this workspace must be saved under the workspace root `product/` directory. This is mandatory.
+All generated product-storyboard work for this workspace must be saved under the Downloads/product/ directory.
 
-Do not create new product-storyboard outputs under `skills/shuke-product/vault/generated_scripts/`, `outputs/`, `tmp/`, the skill directory, or `$CODEX_HOME`. Those locations may be used only as read-only source/reference libraries or transient generator defaults. Any generated asset that is needed by the product project must be copied into the product project folder before it is referenced in `script.md`, `prompts.json`, `references.json`, or `product/projects.json`.
+```text
+# macOS
+mkdir -p ~/Downloads/product/
+# Windows
+mkdir -p ~/Downloads/product/
+```
+
+This is mandatory - no deliverables should be saved outside this directory.
+
+Do not create new product-storyboard outputs under `skills/shuke-product/vault/generated_scripts/`, `outputs/`, `tmp/`, the skill directory, or `$CODEX_HOME`. Those locations may be used only as read-only source/reference libraries or transient generator defaults. Any generated asset that is needed by the product project must be copied into the product project folder before it is referenced in `script.md`, `prompts.json`, `references.json`, or `~/Downloads/product/projects.json`.
 
 Create one project folder per product run using the current local time and a readable product slug:
 
 ```text
-product/YYYYMMDD_HHMMSS_product_slug/
+~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/
 ```
 
 Use the user's current locale/timezone when deriving the timestamp. The folder name must be stable for the run:
@@ -69,8 +78,8 @@ product/
 
 Directory roles:
 
-- `product/projects.json`: project-library index used by tools and skill workflows.
-- `product/YYYYMMDD_HHMMSS_product_slug/`: the only writable project root for this product run.
+- `~/Downloads/product/projects.json`: project-library index used by tools and skill workflows.
+- `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`: the only writable project root for this product run.
 - `00_foundation_prompts.md`: the three foundation-reference prompts, one each for product, character, and scene.
 - `script.md`: product assumptions, matched references, core angle, storyboard table, generation prompts, and generated asset paths.
 - `prompts.json`: structured reusable prompts for first-frame image generation and video generation.
@@ -101,7 +110,7 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - visual constraints that must be preserved
    - unclear details that should not be invented aggressively
    - target selling market and language from `../config/media_services.yaml` key `commerce_market`; if missing, default to the user's explicitly stated market
-2. Create or select the product project directory under `product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
+2. Create or select the product project directory under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
    - Create the fixed files in that same project folder as the workflow reaches each stage.
    - Before writing any path into metadata, ensure the file exists under the project folder.
 3. Generate exactly one product reference board through the active image-generation provider:
@@ -151,7 +160,7 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - edit note for how the user can trim or combine clips manually
 13. Generate storyboard first-frame images through the active image-generation skill and save them as `generated_media/shot_XX_first_frame.png`, unless the user explicitly requested prompts/planning only.
 14. Generate videos through the active video-generation skill from the generated first frames and save them as `generated_media/shot_XX_video.mp4`. Save video result metadata in `references.json`.
-15. Refresh `product/projects.json` with final paths, asset counts, and project status.
+15. Refresh `~/Downloads/product/projects.json` with final paths, asset counts, and project status.
 
 Never ask the user to confirm the product direction before script retrieval unless the input image is ambiguous enough that proceeding would create the wrong product.
 
@@ -333,7 +342,7 @@ Use the references for structure only. Do not copy wording unless the user expli
 
 Return the adapted plan in this order:
 
-1. Product project folder under `product/YYYYMMDD_HHMMSS_product_slug/`
+1. Product project folder under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`
 2. Product assumptions
 3. Matched reference videos
 4. Core selling angle
@@ -410,7 +419,7 @@ Negative: no product redesign, no unreadable fake text, no extra fingers, no dis
 
 ## Media Generation Completion
 
-Do not run automatic first-frame image QA or generated-video QA in this workflow. After first-frame images and videos are generated, save the asset paths, generation prompts, provider metadata, and any generator result URLs or IDs to `script.md`, `prompts.json`, `references.json`, and `product/projects.json`.
+Do not run automatic first-frame image QA or generated-video QA in this workflow. After first-frame images and videos are generated, save the asset paths, generation prompts, provider metadata, and any generator result URLs or IDs to `script.md`, `prompts.json`, `references.json`, and `~/Downloads/product/projects.json`.
 
 If the user explicitly asks for QA in a later message, treat that as a separate task and follow the user's requested review method for that turn.
 
@@ -418,7 +427,7 @@ If the user explicitly asks for QA in a later message, treat that as a separate 
 
 When a product image is provided, do not first ask for market direction and do not print internal generation prompts unless the user requests them. Run the full workflow to final assets by default. Do the work in this order:
 
-1. Create or select the product project folder under `product/YYYYMMDD_HHMMSS_product_slug/`.
+1. Create or select the product project folder under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`.
 2. Generate one product reference board with the active image-generation provider and save it as `references/product_reference_board.png`.
 3. Generate the character reference sheet and scene reference board with the active image-generation provider. They must not contain the product or product-like placeholders; when using Flow/flow2api, generate them concurrently.
 4. Save the foundation prompts as `00_foundation_prompts.md`.
@@ -426,5 +435,5 @@ When a product image is provided, do not first ask for market direction and do n
 6. Save storyboard and structured generation instructions as `script.md`, `prompts.json`, and `references.json`.
 7. Generate all storyboard first-frame images through the active image-generation skill, using parallel batches when supported and mandatory parallel execution for Flow/flow2api. Save them under `generated_media/`.
 8. Generate all storyboard videos through the active video-generation skill from the generated first frames and save them under `generated_media/`.
-9. Update `references.json` and `product/projects.json` with final paths, provider metadata, asset counts, and project status.
+9. Update `references.json` and `~/Downloads/product/projects.json` with final paths, provider metadata, asset counts, and project status.
 10. Tell the user the product project folder, generated first-frame paths, final video paths, and storyboard edit notes.
