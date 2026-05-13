@@ -24,11 +24,29 @@ cloudy_veo:
     image_to_video_default: "veo_3_1_i2v_fast_portrait"
     multi_reference_video_default: "veo_3_1_r2v_fast_portrait"
 
+
+chaowenai:
+  # 超稳AI (ChaowenAI) 服务地址：支持图片生成和视频生成，统一 /v1/videos 端点。
+  base_url: "https://api.chaowenai.com"
+  api_key: "your-chaowenai-api-key"
+  concurrency_limit: 3
+  models:
+    # 默认图片模型：文生图/图生图
+    image_default: "nano-banana-2"
+    # 默认文生视频模型
+    text_to_video_default: "veo3.1-fast"
+    # 默认图生视频/首尾帧模型
+    image_to_video_default: "veo3.1-fast"
+    # 默认参考图转视频模型
+    multi_reference_video_default: "veo3.1-lite"
+
 image_generation:
-  provider: "flow2api"
+  # provider: "flow2api"  # 旧配置
+  provider: "chaowenai"
 
 video_generation:
-  provider: "cloudy_veo"
+  # provider: "cloudy_veo"  # 旧配置
+  provider: "chaowenai"
 
 commerce_market:
   country: "Mexico"
