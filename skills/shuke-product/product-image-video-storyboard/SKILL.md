@@ -7,7 +7,11 @@ description: "Use by default when the user provides product images and wants eco
 
 ## Overview
 
-Convert a product image into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image, the default is end-to-end execution: generate foundation references, retrieve examples, write the storyboard, generate first-frame images, generate videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that. Use the configured active image-generation provider for all raster image generation/editing, including the product reference board. Use the workspace video/media generation skills such as `flow2api-media-generation`, `cloudy-veo-generation`, `veo31-video-prompting`, and `nanobanana2-image-prompting` when their scoped instructions apply.
+Convert a product image into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image, the default is end-to-end execution: **Step 0 — product image understanding via Yunwu Gemini API**, then generate foundation references, retrieve examples, write the storyboard, generate first-frame images, generate videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that.
+
+**IMPORTANT — Product Image Understanding**: The FIRST step is always to call `product-image-understanding` skill, which sends the product image to Yunwu API's Gemini vision model (`gemini-3.1-pro-preview`) for structured visual analysis. Do NOT use Hermes's built-in vision_analyze tool for product image understanding — always use Yunwu Gemini API via the `product-image-understanding` skill.
+
+Use the configured active image-generation provider for all raster image generation/editing, including the product reference board. Use the workspace video/media generation skills such as `flow2api-media-generation`, `cloudy-veo-generation`, `veo31-video-prompting`, and `nanobanana2-image-prompting` when their scoped instructions apply.
 
 ## Trigger Behavior
 
@@ -105,15 +109,20 @@ After the foundation references exist, the skill must produce `script.md`, `prom
 
 ## Required Workflow
 
-1. Inspect the product image and extract visible facts:
-   - product type, color, material, packaging, label text, likely use case
-   - visual constraints that must be preserved
-   - unclear details that should not be invented aggressively
-   - target selling market and language from `../config/media_services.yaml` key `commerce_market`; if missing, default to the user's explicitly stated market
-2. Create or select the product project directory under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
+0. **Product Image Understanding (Yunwu Gemini) — REQUIRED FIRST STEP**
+   - Load the `product-image-understanding` skill.
+   - Read `yunwu` config from `../config/media_services.yaml` (base_url, api_key, model).
+   - Prepare the product image: convert/resize to JPEG max 768px, encode as base64.
+   - Build Gemini native payload with `inline_data` (mime_type: image/jpeg) and the product understanding prompt.
+   - POST to `{yunwu.base_url}/v1beta/models/{yunwu.models.analysis_preferred}:generateContent?key={api_key}` with `Authorization: Bearer {api_key}`.
+   - Parse response text from `candidates[0].content.parts[0].text`.
+   - Save as `product_analysis.md` and `product_analysis.json` in the project folder.
+   - **Use the extracted product information** (product type, packaging details, text on packaging, colors, materials, brand, usage scenario, target language) as the basis for ALL downstream decisions in steps 1-15.
+   - Do NOT use Hermes's vision_analyze tool for this step.
+1. Create or select the product project directory under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
    - Create the fixed files in that same project folder as the workflow reaches each stage.
    - Before writing any path into metadata, ensure the file exists under the project folder.
-3. Generate exactly one product reference board through the active image-generation provider:
+2. Generate exactly one product reference board through the active image-generation provider:
    - read `image_generation.provider` from `../config/media_services.yaml` before choosing the generator
    - if `image_generation.provider` is `flow2api`, the product reference board must be generated with Flow/flow2api, using the configured `flow2api.models.image_default`
    - use the built-in `image_gen` tool only when the active provider is not configured or when the configured provider is unavailable and the fallback is explicitly recorded
@@ -124,7 +133,7 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - keep it as one image/canvas, not a set of separate outputs
    - preserve packaging/logo/shape as much as possible
    - save the final selected image as `references/product_reference_board.png` inside the product project folder
-4. Generate exactly one character reference sheet with the image-generation skill:
+3. Generate exactly one character reference sheet with the image-generation skill:
    - target output path: `references/character_reference_sheet.png`
    - hard constraint: the character reference sheet must not show the user's product, product packaging, product logo, product label, product-colored stand-ins, or any product-shaped placeholder
    - create one primary creator/customer/hand-model identity suitable for the product and target market
@@ -133,24 +142,24 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - include expression set: neutral, problem/pain-point concern, explaining/pointing, applying/using, satisfied result, CTA smile
    - include wardrobe, hairstyle, makeup, accessories, and body type
    - keep it as one reference sheet with the same person only
-5. Generate exactly one multi-view scene reference board with the image-generation skill:
+4. Generate exactly one multi-view scene reference board with the image-generation skill:
    - target output path: `references/scene_reference_board.png`
    - hard constraint: the scene reference board must not show the user's product, product packaging, product logo, product label, product-colored stand-ins, or any product-shaped placeholder
    - show the main real-shot location where the sequence will happen
    - include multiple camera views of the same scene: wide establishing view, counter/table action view, empty future product close-up zone, selfie/creator angle, and optional top-down layout view when useful
    - include stable lighting direction, counter/table layout, background objects, and an empty future product placement zone
    - make it practical and repeatable for every shot, not a decorative ad set
-6. Save the product, character, and scene reference prompts to `00_foundation_prompts.md`. Do not show the internal generation prompts to the user by default unless the user asks.
-7. If the active image-generation provider cannot be used in the current environment, state the blocker concisely instead of pretending the product reference was generated.
-8. Record reference paths and prompt metadata in `references.json` with keys:
+5. Save the product, character, and scene reference prompts to `00_foundation_prompts.md`. Do not show the internal generation prompts to the user by default unless the user asks.
+6. If the active image-generation provider cannot be used in the current environment, state the blocker concisely instead of pretending the product reference was generated.
+7. Record reference paths and prompt metadata in `references.json` with keys:
    - `product_reference_board`
    - `character_reference_sheet`
    - `scene_reference_board`
    - `commerce_market`
-9. Query the local `skills/shuke-product/vault/` library for relevant references.
-10. Adapt the matched references into an original storyboard for the user's product.
-11. Save the storyboard and generation instructions to `script.md`, `prompts.json`, and `references.json` inside the product project folder.
-12. For every storyboard shot, create:
+8. Query the local `skills/shuke-product/vault/` library for relevant references.
+9. Adapt the matched references into an original storyboard for the user's product.
+10. Save the storyboard and generation instructions to `script.md`, `prompts.json`, and `references.json` inside the product project folder.
+11. For every storyboard shot, create:
    - shot goal
    - duration beat, normally 3-6 seconds for planning
    - final generation duration, default 8 seconds when unspecified
@@ -158,9 +167,9 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - video prompt with explicit duration
    - voiceover or on-screen text in the configured selling-market language if useful
    - edit note for how the user can trim or combine clips manually
-13. Generate storyboard first-frame images through the active image-generation skill and save them as `generated_media/shot_XX_first_frame.png`, unless the user explicitly requested prompts/planning only.
-14. Generate videos through the active video-generation skill from the generated first frames and save them as `generated_media/shot_XX_video.mp4`. Save video result metadata in `references.json`.
-15. Refresh `~/Downloads/product/projects.json` with final paths, asset counts, and project status.
+12. Generate storyboard first-frame images through the active image-generation skill and save them as `generated_media/shot_XX_first_frame.png`, unless the user explicitly requested prompts/planning only.
+13. Generate videos through the active video-generation skill from the generated first frames and save them as `generated_media/shot_XX_video.mp4`. Save video result metadata in `references.json`.
+14. Refresh `~/Downloads/product/projects.json` with final paths, asset counts, and project status.
 
 Never ask the user to confirm the product direction before script retrieval unless the input image is ambiguous enough that proceeding would create the wrong product.
 
@@ -172,14 +181,16 @@ Image-provider selection applies to the entire workflow:
 
 - `image_generation.provider` controls the product reference board, character reference sheet, scene reference board, and all storyboard first-frame images.
 - When `image_generation.provider: "flow2api"`, the product reference board must use Flow/flow2api by default.
-- Only fall back to `imagegen` when the configured provider is missing, blocked, or explicitly overridden by the user; record the fallback reason in `references.json`.
+- **Provider-internal model fallback**: If the configured provider's default model returns `503 model_not_found` (e.g., ChaowenAI's `nano-banana-2` unavailable), try the provider's alternative models (e.g., `nano-banana-pro`, `gemini-3.1-flash-image`) before switching providers entirely. Record which model was actually used in references.json.
+- Only fall back to a different provider (`imagegen` or other) when all models within the configured provider return errors, or when the provider's base URL is unreachable; record the fallback reason in `references.json`.
 
 Video-provider selection applies to final storyboard video generation:
 
 - `video_generation.provider` controls generated storyboard videos after first frames exist.
 - When `video_generation.provider: "flow2api"`, use `flow2api-media-generation` and `flow2api.models.*`.
 - When `video_generation.provider: "cloudy_veo"`, use `cloudy-veo-generation` and `cloudy_veo.models.*`; the workspace default is VEO 3.1 Fast portrait.
-- If the configured video provider is missing, blocked, or lacks credentials, record the blocker in `references.json` instead of pretending videos were generated.
+- When `video_generation.provider: "chaowenai"`, the default video model is `veo3.1-fast`. If it fails, try `veo3.1-lite` before giving up.
+- If the configured video provider is missing, blocked, or all its models fail, record the blocker in `references.json` instead of pretending videos were generated.
 
 ## Commerce Market and Language
 
@@ -427,6 +438,7 @@ If the user explicitly asks for QA in a later message, treat that as a separate 
 
 When a product image is provided, do not first ask for market direction and do not print internal generation prompts unless the user requests them. Run the full workflow to final assets by default. Do the work in this order:
 
+0. **Product Image Understanding** — Call `product-image-understanding` skill (Yunwu Gemini) to analyze the product image. Save analysis to `product_analysis.md` and `product_analysis.json` in project folder. Do NOT use Hermes vision_analyze.
 1. Create or select the product project folder under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`.
 2. Generate one product reference board with the active image-generation provider and save it as `references/product_reference_board.png`.
 3. Generate the character reference sheet and scene reference board with the active image-generation provider. They must not contain the product or product-like placeholders; when using Flow/flow2api, generate them concurrently.

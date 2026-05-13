@@ -263,7 +263,17 @@ When this provider is active:
 
 - `401`: missing or invalid API key.
 - `400`: invalid model, malformed JSON, or image file problem.
+- `503` with `model_not_found`: the configured default model is temporarily unavailable. Try alternative models in order: `nano-banana-pro`, `gemini-3.1-flash-image`, `gemini-3.0-pro-image`. Do not switch providers just because one model fails — fall back within ChaowenAI's model list first, and record the fallback in references.json.
 - The submit and polling endpoints both use `/v1/videos`; POST to submit, GET to poll.
 - If `task_id` is missing, check model name or required parameters.
 - Video and image generation share the same task queue.
 - For local image inputs, always convert to base64 data URLs with the correct MIME type.
+
+### Polling Timeouts and Batch Handling
+
+Video generation (veo3.1-fast) typically takes 2-5+ minutes per job from submission to completion. When generating a batch of 8+ videos:
+
+- Total batch time can exceed 300s (common sandbox/script timeout).
+- Submit all tasks at once — ChaowenAI queues them server-side. Submitting more than `concurrency_limit` tasks is fine; the limit controls how many tasks you actively poll, not how many you submit.
+- If your polling script times out mid-batch, re-submit only the missing shots by their first-frame images. The original tasks may still complete on the server, but you won't have their task IDs. Re-submission with the same first frame is the safest recovery.
+- For long-running batch jobs, consider splitting into rounds of 3-4 shots and tracking task IDs persistently (e.g., save to a JSON file) so you can resume polling without re-submission.
