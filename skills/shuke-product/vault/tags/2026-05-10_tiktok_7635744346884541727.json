@@ -1,0 +1,130 @@
+{
+  "video_id": "2026-05-10_tiktok_7635744346884541727",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635744346884541727.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635744346884541727/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 215.47,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "SKINN DermAppeal Microdermabrasion Treatment",
+    "category": "美妆护肤",
+    "sub_category": "去角质/磨砂",
+    "price_position": "中",
+    "target_audience": [
+      "女性",
+      "35岁以上",
+      "关注皮肤老化",
+      "关注护肤品吸收",
+      "追求护肤效率"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "去角质",
+      "磨砂膏",
+      "面部护理",
+      "维C"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "前后对比",
+      "产品特写",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "护肤爱好者",
+      "成分党",
+      "熟龄肌"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果前置",
+    "first_3s_text": "The results speak for themselves.",
+    "mechanism": "通过展示使用产品后立竿见影的惊人效果，与未使用区域形成鲜明对比，直接用视觉冲击力抓住用户，并引发强烈的好奇心，促使用户继续观看以寻求答案。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "使用后皮肤立竿见影地变得光滑、亮泽。",
+    "能有效去除死皮和角质，帮助后续护肤品更好吸收，避免浪费。",
+    "采用酶和5种维C晶体的两阶段配方，兼顾深层清洁与提亮肤色。",
+    "具有抗衰老、抗氧化、促进胶原蛋白和淡化黑斑等多种功效。",
+    "通过TikTok Shop购买可享50%折扣，并能叠加使用平台优惠码“SPRING2026”，价格极具吸引力。"
+  ],
+  "proof_points": [
+    "在手背上进行实时涂抹、揉搓、擦拭的完整演示。",
+    "视频开头和结尾都清晰展示了使用产品的手与未使用的手之间在肤质和光泽度上的鲜明对比。",
+    "挤出产品时展示了其膏状质地和内含的微小颗粒。",
+    "博主通过讲解产品科学原理和警告其他产品风险，树立了专业可信的形象。"
+  ],
+  "cta": {
+    "text": "This deal is already 50% off...but today, only today, TikTok added a coupon...you have to use the code SPRING2026, all caps, to get additional money off of this.",
+    "clarity": "explicit"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 7,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "“护肤品浪费论”+“即时效果演示”",
+    "script_outline": [
+      "开场展示昂贵护肤品被无效使用的痛点画面（如涂在粗糙皮肤上）。",
+      "提出核心论点：不做好清洁，再贵的护肤品也白搭。",
+      "引入产品，定位为“护肤放大器”或“开路先锋”。",
+      "进行产品的实时演示，重点突出其清洁力和使用后的即时改善效果。",
+      "展示使用前后对比，强调皮肤变得干净、通透。",
+      "给出限时优惠和明确的购买指令，强调其高性价比。"
+    ],
+    "shot_list": [
+      "ECU: 昂贵精华滴在干燥、有纹理的皮肤上",
+      "MCU: 博主表情严肃地讲解“浪费”理论",
+      "CU: 产品特写",
+      "ECU: 产品挤出，展示质地",
+      "MCU: 现场演示使用过程",
+      "ECU: 清洁后皮肤的清爽、透亮感",
+      "Split Screen: 使用前后皮肤细节对比",
+      "MCU: 博主微笑指向下方购物链接"
+    ],
+    "voiceover": "别再浪费你的贵妇面霜了！皮肤像堵墙，抹再多都白搭！你需要的，是给皮肤做一次深层大扫除。看这个...（演示）...脏东西都出来了，皮肤瞬间亮了！现在再上护肤品，效果才能翻倍！今天活动价，快去抢！",
+    "subtitles": [
+      "【停止无效护肤】",
+      "【你的精华白涂了】",
+      "【皮肤大扫除神器】",
+      "【限时半价】",
+      "【点击下方购买】"
+    ],
+    "ai_image_prompts": [
+      "photorealistic, macro shot of the back of a woman's hand, showing dry skin texture and fine lines, studio lighting --ar 9:16",
+      "photorealistic, macro shot of the back of a woman's hand, skin is glowing, smooth, and dewy after a skincare treatment, studio lighting --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "A woman in her 40s energetically explains a skincare product to the camera in her living room, selfie style. She demonstrates the product on the back of her hand, showing a before and after effect. The lighting is natural and bright."
+    ]
+  },
+  "search_text": "产品：SKINN DermAppeal Microdermabrasion Treatment。品类：美妆护肤/去角质/磨砂。人群：女性,35岁以上,关注皮肤老化,关注护肤品吸收,追求护肤效率。视频类型：UGC口播,效果前后对比,质地实测,价格刺激,痛点解决。钩子：结果前置,好奇悬念,限时稀缺，The results speak for themselves.。卖点：使用后皮肤立竿见影地变得光滑、亮泽。,能有效去除死皮和角质，帮助后续护肤品更好吸收，避免浪费。,采用酶和5种维C晶体的两阶段配方，兼顾深层清洁与提亮肤色。,具有抗衰老、抗氧化、促进胶原蛋白和淡化黑斑等多种功效。,通过TikTok Shop购买可享50%折扣，并能叠加使用平台优惠码“SPRING2026”，价格极具吸引力。证明：手背实测,前后对比,产品特写,质地展示。风险：功效宣称风险。适合复刻：“护肤品浪费论”+“即时效果演示”。"
+}

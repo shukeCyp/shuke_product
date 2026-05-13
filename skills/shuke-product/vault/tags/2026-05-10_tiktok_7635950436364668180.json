@@ -1,0 +1,115 @@
+{
+  "video_id": "2026-05-10_tiktok_7635950436364668180",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635950436364668180.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635950436364668180/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.21,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "BRAVEN COOL WOOTAH 男士香水",
+    "category": "男士护理",
+    "sub_category": "香水",
+    "price_position": "未知",
+    "target_audience": [
+      "年轻男性",
+      "送礼女性"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "男香",
+      "礼盒装",
+      "便携装",
+      "持久留香"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "礼物推荐",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "反常识",
+      "好奇悬念",
+      "身份代入",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "恋爱中群体",
+      "运动男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足",
+      "口播缺失"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识悬念",
+    "first_3s_text": "gak heran sih kalo cowo pake ini, pas keringetan malah makin wangi🤫😘🥵",
+    "mechanism": "利用“出汗不仅不臭反而更香”的反常识痛点逆转，结合女性视角的暧昧emoji，激发目标人群好奇心",
+    "retention_score": 7
+  },
+  "selling_points": [
+    "出汗后味道更好闻（汗水融合激发出更迷人的香味）",
+    "提升异性吸引力（通过字幕和表情符号暗示）",
+    "高质感礼盒装（包含100ml正装与便携装，适合送礼）",
+    "EXTRAIT DE PARFUM 香精级别（暗示留香时间极长）"
+  ],
+  "proof_points": [
+    "包装盒上的产品定位文案特写",
+    "深蓝色玻璃瓶身及喷头细节特写"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 8,
+    "trust": 4,
+    "product_display": 8,
+    "purchase_impulse": 6,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "保留女性视角推荐的内核，强化出汗发臭的痛点对比，增加试香实测环节和明确的行动呼吁",
+    "script_outline": [
+      "痛点反转：抛出男生出汗臭的痛点，引出出汗更香的香水",
+      "产品开箱：女性第一人称展示礼盒，强调送男友很合适",
+      "喷雾特写：慢动作展示喷雾，强调香精级别留香久",
+      "引导下单：明确指向购物车，催促下单送礼"
+    ],
+    "shot_list": [
+      "香水喷雾的高清逆光特写",
+      "带有中文字幕的礼盒开箱全景",
+      "手持100ml大瓶和便携装的对比展示",
+      "指向左下角的特效或手势"
+    ],
+    "voiceover": "千万别让汗味毁了男生的形象。这款宝藏男香，出汗越多，后调反而越迷人。蓝瓶礼盒装还带个便携小样，质感拉满！左下角趁有活动赶紧安排上！",
+    "subtitles": [
+      "难怪他出汗不仅不臭，反而更香了！",
+      "出汗越多，味道越迷人",
+      "纯香精级别 留香超长",
+      "礼盒套装 送男友绝佳",
+      "点击左下角 抢同款礼盒"
+    ],
+    "ai_image_prompts": [
+      "Close up of an attractive sweaty young man playing sports, hyper-realistic, cinematic lighting, 8k --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "Slow motion macro shot of perfume being sprayed from a dark blue bottle, fine mist catching the light against a dark background, high detail, 4k resolution."
+    ]
+  },
+  "search_text": "产品：BRAVEN COOL WOOTAH 男士香水。品类：男士护理/香水。人群：年轻男性,送礼女性。视频类型：开箱展示,礼物推荐,痛点解决。钩子：反常识,好奇悬念,身份代入,尴尬痛点，gak heran sih kalo cowo pake ini, pas keringetan malah makin wangi🤫😘🥵。卖点：出汗后味道更好闻（汗水融合激发出更迷人的香味）,提升异性吸引力（通过字幕和表情符号暗示）,高质感礼盒装（包含100ml正装与便携装，适合送礼）,EXTRAIT DE PARFUM 香精级别（暗示留香时间极长）。证明：包装盒上的产品定位文案特写,深蓝色玻璃瓶身及喷头细节特写。风险：无CTA,信任不足,口播缺失。适合复刻：保留女性视角推荐的内核，强化出汗发臭的痛点对比，增加试香实测环节和明确的行动呼吁。"
+}

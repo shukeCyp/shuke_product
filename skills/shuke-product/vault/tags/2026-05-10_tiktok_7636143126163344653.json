@@ -1,0 +1,118 @@
+{
+  "video_id": "2026-05-10_tiktok_7636143126163344653",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7636143126163344653.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7636143126163344653/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 114.9,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "口服体香叶绿素补充剂",
+    "category": "健康养生",
+    "sub_category": "口服美容/功能性食品",
+    "price_position": "未知",
+    "target_audience": [
+      "有体味困扰者",
+      "注重个人形象者",
+      "寻求天然解决方案者"
+    ],
+    "confidence": 0.7
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理",
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "反常识",
+      "尴尬痛点",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "体味困扰"
+    ],
+    "risk_tags": [
+      "产品不清晰",
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念+反常识",
+    "first_3s_text": "I CAN'T BELIEVE THIS HAPPENED TO ME IN THAILAND!! My farts don't even stink no more.",
+    "mechanism": "通过一个旅行中的反常识惊人结果，并直接关联到一个非常私密和尴尬的痛点，迅速建立起强烈的好奇心和代入感，吸引用户继续观看以寻求答案。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "内在调理，从源头解决体味",
+    "消除口臭、腋臭、私处异味",
+    "天然成分（叶绿素、薄荷、欧芹）",
+    "无需使用传统止汗剂",
+    "兼具改善皮肤效果"
+  ],
+  "proof_points": [
+    "个人使用体验长篇分享",
+    "提及具体有效成分",
+    "展示使用后无需止汗剂的自信状态"
+  ],
+  "cta": {
+    "text": "I'm a link it down there... get this stuff.",
+    "clarity": "high"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 5,
+    "purchase_impulse": 9,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "异国旅行意外发现的体味解决方案",
+    "script_outline": [
+      "用惊人结果开场（如扔掉所有止汗剂）",
+      "讲述在泰国忘记带止汗剂的尴尬经历",
+      "揭示当地人推荐的口服补充剂（产品特写）",
+      "解释叶绿素等成分的内在净化原理",
+      "展示使用后无异味的自信生活场景",
+      "明确引导点击小黄车并制造稀缺感"
+    ],
+    "shot_list": [
+      "主讲人口播特写",
+      "产品瓶身清晰特写",
+      "扔掉旧止汗剂的动作镜头",
+      "叶绿素/薄荷等成分的视觉展示",
+      "运动后闻腋下并微笑的镜头",
+      "指向购买链接的手部特写"
+    ],
+    "voiceover": "闺蜜分享秘密的真实、兴奋语气",
+    "subtitles": [
+      "扔掉你的止汗剂！",
+      "泰国体味秘密",
+      "三天见效",
+      "“行走的空气清新剂”",
+      "下方小黄车下单"
+    ],
+    "ai_image_prompts": [
+      "一瓶设计简洁的叶绿素胶囊，旁边放着新鲜的薄荷叶和欧芹，背景是明亮的浴室大理石台面，充满自然光。"
+    ],
+    "ai_video_prompts": [
+      "一段3秒动画，展示绿色叶绿素分子在人体内流动，中和并消除代表异味的红色雾气。"
+    ]
+  },
+  "search_text": "产品：口服体香叶绿素补充剂。品类：健康养生/口服美容/功能性食品。人群：有体味困扰者,注重个人形象者,寻求天然解决方案者。视频类型：UGC口播,痛点解决,场景种草。钩子：反常识,尴尬痛点,结果前置,好奇悬念，I CAN'T BELIEVE THIS HAPPENED TO ME IN THAILAND!! My farts don't even stink no more.。卖点：内在调理，从源头解决体味,消除口臭、腋臭、私处异味,天然成分（叶绿素、薄荷、欧芹）,无需使用传统止汗剂,兼具改善皮肤效果。证明：个人使用体验长篇分享,提及具体有效成分,展示使用后无需止汗剂的自信状态。风险：产品不清晰,功效宣称风险。适合复刻：异国旅行意外发现的体味解决方案。"
+}

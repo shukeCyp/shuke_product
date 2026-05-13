@@ -1,0 +1,110 @@
+{
+  "video_id": "2026-05-10_tiktok_7634169935563853070",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7634169935563853070.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7634169935563853070/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.82,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "未知品牌",
+    "category": "男士护理",
+    "sub_category": "香水",
+    "price_position": "未知",
+    "target_audience": [
+      "年轻男性",
+      "单身男性",
+      "Gen Z"
+    ],
+    "confidence": 0.4
+  },
+  "tags": {
+    "product_tags": [
+      "香水",
+      "男香",
+      "斩女香"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "测评对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "年轻男性",
+      "Gen Z"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "产品不清晰",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念/结果前置",
+    "first_3s_text": "Smell: 12/10, Taste: 4/10, Lasting: 8/10, Huzz: ♾️/10",
+    "mechanism": "利用游戏属性面板式的夸张打分和网络热梗（无限吸引女性）制造悬念，吸引目标男性群体看下去。",
+    "retention_score": 6
+  },
+  "selling_points": [
+    "气味好闻(Smell: 12/10)",
+    "留香持久(Lasting: 8/10)",
+    "极具异性吸引力(Huzz: ♾️/10)"
+  ],
+  "proof_points": [
+    "手持香水瓶特写展示"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6,
+    "clarity": 5,
+    "trust": 4,
+    "product_display": 5,
+    "purchase_impulse": 6,
+    "total": 5
+  },
+  "remake": {
+    "angle": "利用'游戏属性面板'或'雷达图'的形式为单品打分，通过夸张的某一项满分属性（如吸引力）作为核心钩子进行种草。",
+    "script_outline": [
+      "第一视角展示空镜，配合音效弹出夸张的属性评分面板。",
+      "顺势揭晓并特写展示获得该评分的商品。",
+      "增加商品质地或实际使用场景的短镜头（如喷洒香水）。",
+      "加入明确的行动呼吁引导购买。"
+    ],
+    "shot_list": [
+      "手部动作触发（打响指/敲桌子）+ 字幕特效镜头",
+      "第一视角手持产品怼脸特写镜头",
+      "产品使用细节特写镜头（如喷雾逆光展示）"
+    ],
+    "voiceover": "",
+    "subtitles": [
+      "Smell: 12/10",
+      "Taste: 4/10",
+      "Lasting: 8/10",
+      "Huzz: ♾️/10"
+    ],
+    "ai_image_prompts": [
+      "POV shot, a young man's hand holding a sleek glass perfume bottle with amber liquid, dark aesthetic bedroom background, flash photography style, TikTok UGC style"
+    ],
+    "ai_video_prompts": [
+      "First person view, a hand snaps fingers in a dimly lit room, then picks up a bottle of men's cologne from the bed and holds it up to the camera. Amber liquid glows slightly. Flash photography aesthetic, vertical video format."
+    ]
+  },
+  "search_text": "产品：未知品牌疑似男士香水。品类：男士护理/香水。人群：年轻男性 单身男性 Gen Z。视频类型：场景种草 测评对比。钩子：好奇悬念 结果前置，Smell: 12/10, Taste: 4/10, Lasting: 8/10, Huzz: ♾️/10。卖点：气味好闻 留香持久 极具异性吸引力。证明：手持特写 无明显证明。风险：无CTA 产品不清晰 口播缺失 信任不足。适合复刻：利用'游戏属性面板'形式为单品打分突出爆款属性。"
+}

@@ -1,0 +1,117 @@
+{
+  "video_id": "2026-05-10_tiktok_7629764236092181790",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629764236092181790.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629764236092181790/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 63.0,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "YCZ CHARM UNFOLDS MARINE PERFUME",
+    "category": "美妆护肤",
+    "sub_category": "男士香水",
+    "price_position": "低",
+    "target_audience": [
+      "年轻男性",
+      "渴望提升异性吸引力的男性",
+      "学生党",
+      "寻求高性价比产品的消费者"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "男士香水",
+      "古龙水",
+      "平价香水"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "UGC口播",
+      "礼物推荐"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "男性",
+      "情侣",
+      "单身男性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突",
+    "first_3s_text": "Babe. Huh? Magic better than Curry. (宝贝。嗯？魔术师比库里强)",
+    "mechanism": "通过一个与产品无关但具有争议性的话题（篮球明星对比）制造意外冲突，吸引用户停留观看后续发展，成功规避了广告的生硬感。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "香味迷人",
+    "强力吸引异性",
+    "价格实惠",
+    "高性价比",
+    "TikTok商店可购买",
+    "免运费"
+  ],
+  "proof_points": [
+    "女性闻到后表现出强烈的喜爱和亲密行为",
+    "通过对话建立150美元对16美元的价值锚点",
+    "特写展示产品包装",
+    "提及在TikTok商店购买"
+  ],
+  "cta": {
+    "text": "TikTok shop / I'm gonna send you the link right now (TikTok商店 / 我现在就把链接发给你)",
+    "clarity": "implicit"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 6,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "效果反差情景剧",
+    "script_outline": [
+      "场景设定：男生在公共场合（如图书馆、咖啡馆）做自己的事。",
+      "意外事件：一个漂亮的陌生女孩被他的香味吸引，并主动搭讪询问香水品牌。",
+      "价值塑造：周围人猜测这是一款昂贵的奢侈品香水。",
+      "价格反转与CTA：男生揭示产品仅售16美元，并展示TikTok Shop的购买页面，引导转化。"
+    ],
+    "shot_list": [
+      "中景交代环境",
+      "近景捕捉人物表情",
+      "特写展示关键道具（如搭讪纸条）",
+      "手机屏幕录屏展示低价和购买渠道",
+      "产品瓶身高清特写"
+    ],
+    "voiceover": "无，为情景对话",
+    "subtitles": [
+      "关键对话放大突出，如“你身上的味道太好闻了！”",
+      "价格对比强烈显示，如“$1000? NO! ONLY $16!”"
+    ],
+    "ai_image_prompts": [
+      "product photography, a masculine and stylish dark glass perfume bottle named 'YCZ', placed on a textured wooden table next to a cup of coffee, soft morning light, hyper-realistic, 8k --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "UGC style video, a young woman with a surprised and delighted expression leans closely towards a young man in a cafe, she is sniffing the air near him, shot on a smartphone, natural lighting, eye-level angle, candid moment --ar 9:16"
+    ]
+  },
+  "search_text": "产品：YCZ CHARM UNFOLDS MARINE PERFUME。品类：美妆护肤/男士香水。人群：年轻男性,渴望提升异性吸引力的男性。视频类型：剧情反转,场景种草,价格刺激,UGC口播,礼物推荐。钩子：场景冲突,好奇悬念，Babe. Huh? Magic better than Curry.。卖点：香味迷人,强力吸引异性,价格实惠,高性价比,TikTok商店可购买,免运费。证明：使用场景,产品特写。风险：信任不足。适合复刻：效果反差情景剧。"
+}

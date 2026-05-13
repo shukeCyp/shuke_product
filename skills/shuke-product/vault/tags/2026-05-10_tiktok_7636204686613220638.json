@@ -1,0 +1,128 @@
+{
+  "video_id": "2026-05-10_tiktok_7636204686613220638",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7636204686613220638.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7636204686613220638/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 53.8,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "PHOERA Hair Removal Spray/Cream",
+    "category": "身体护理",
+    "sub_category": "脱毛膏",
+    "price_position": "低价位",
+    "target_audience": [
+      "男性",
+      "女性",
+      "体毛浓密人群",
+      "情侣"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "无痛",
+      "无异味",
+      "连根拔起",
+      "含刮板",
+      "男女通用",
+      "喷雾摩丝"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "质地实测",
+      "痛点解决",
+      "UGC口播",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "质地展示",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "受伴侣吐槽者",
+      "怕痛人群",
+      "有纹身人群"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突",
+    "first_3s_text": "She wants the bush GONE... 😅😳",
+    "mechanism": "利用伴侣嫌弃体毛的常见生活痛点，配合满身胸毛的视觉冲击，引发观众对解决放案的好奇。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "完全无痛感（不灼伤皮肤）",
+    "完全无异味",
+    "能连根拔起不留黑点",
+    "男女通用，适用私密敏感部位",
+    "价格便宜且包含刮板配件"
+  ],
+  "proof_points": [
+    "刮板刮下大量混着泡沫的胸毛特写",
+    "刮毛后清晰显露出的胸部纹身（证明除根）",
+    "男主擦拭后展示毫无毛发且未见红肿的光滑胸部皮肤"
+  ],
+  "cta": {
+    "text": "If you guys want to grab this I'll try to leave a link somewhere down here... I would grab it while you can.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "情侣互助改造或有大面积纹身的模特第一人称实测",
+    "script_outline": [
+      "痛点引入：展示浓密体毛或提及伴侣嫌弃/传统剃须刀痛点",
+      "产品展示：喷涂摩丝",
+      "效果揭晓：近距离特写刮板刮除毛发的过程",
+      "痛点解答：口播强调不痛不臭，展示没有红肿的皮肤",
+      "逼单：展示包装、配件、低价，引导点击链接"
+    ],
+    "shot_list": [
+      "模特半身近景，展示体毛",
+      "胸部/腿部喷涂白色摩丝特写",
+      "刮板刮除毛发的微距特写，毛发成块掉落",
+      "清洁后皮肤的平滑特写",
+      "手持产品外包装盒与喷雾罐的口播中景"
+    ],
+    "voiceover": "My girlfriend hated my body hair, so I tried this TikTok viral hair removal spray. You just spray it on, wait, and scrape. The best part? It doesn't burn like name brands and has zero smell. Look at this, it takes it down to the root! It's super cheap and comes with the scraper. Grab it from the link before it sells out!",
+    "subtitles": [
+      "She hated my body hair...",
+      "Let's test this TikTok viral spray",
+      "Wait 10 mins...",
+      "NO WAY!",
+      "Does NOT burn or smell!",
+      "Down to the root",
+      "Grab it on sale now!"
+    ],
+    "ai_image_prompts": [
+      "Close up of a muscular man's chest covered in thick hair, spraying white foam onto it, cinematic lighting, 4k",
+      "Macro shot of a purple plastic scraper removing white foam and dark body hair from skin, revealing a clean tattoo underneath, highly detailed"
+    ],
+    "ai_video_prompts": [
+      "A young man with chest tattoos and thick chest hair applies white shaving foam from a spray can onto his chest, looking at the camera, modern living room background, realistic TikTok style video"
+    ]
+  },
+  "search_text": "产品：PHOERA Hair Removal Spray/Cream。品类：身体护理/脱毛膏。人群：男性, 女性, 体毛浓密人群, 情侣。视频类型：效果前后对比, 质地实测, 痛点解决, UGC口播, 场景种草。钩子：尴尬痛点, 场景冲突, 好奇悬念，She wants the bush GONE... 😅😳。卖点：完全无痛感（不灼伤皮肤）, 完全无异味, 能连根拔起不留黑点, 男女通用，适用私密敏感部位, 价格便宜且包含刮板配件。证明：刮板刮下大量混着泡沫的胸毛特写, 刮毛后清晰显露出的胸部纹身（证明除根）, 男主擦拭后展示毫无毛发且未见红肿的光滑胸部皮肤。风险：功效宣称风险。适合复刻：情侣互助改造或有大面积纹身的模特第一人称实测。"
+}

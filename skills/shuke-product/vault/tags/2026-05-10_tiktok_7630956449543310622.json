@@ -1,0 +1,126 @@
+{
+  "video_id": "2026-05-10_tiktok_7630956449543310622",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7630956449543310622.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7630956449543310622/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 68.83,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "ForChics 睫毛增长液",
+    "category": "美妆护肤",
+    "sub_category": "眼部护理",
+    "price_position": "疑似平价/高性价比",
+    "target_audience": [
+      "女性",
+      "有睫毛增长需求人群",
+      "关注成分安全人群",
+      "受竞品副作用困扰人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "无前列腺素",
+      "睫毛浓密纤长",
+      "无副作用",
+      "高性价比"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "效果前后对比",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "反常识",
+      "好奇悬念",
+      "结果前置",
+      "痛点放大"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写",
+      "第三方背书",
+      "效果展示"
+    ],
+    "audience_tags": [
+      "成分党",
+      "爱美女性"
+    ],
+    "risk_tags": [],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识悬念",
+    "first_3s_text": "was this supposed to happen??",
+    "mechanism": "利用剪掉长睫毛的动图打破大众追求长睫毛的常规认知，制造反向凡尔赛悬念，吸引观众探究原因。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "无前列腺素成分",
+    "不导致眼周脂肪流失和黑眼圈",
+    "促使睫毛过度生长需修剪的强劲效果",
+    "价格实惠"
+  ],
+  "proof_points": [
+    "开篇美容师修剪睫毛的实况动图",
+    "前列腺素副作用的医学科普文字截图",
+    "博主曾经严重的黑眼圈真实对比照",
+    "博主当下的超长睫毛高清特写镜头"
+  ],
+  "cta": {
+    "text": "I'm gonna link it down below for you guys... I would hurry though because it was sold out for like two months",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 10,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "反向凡尔赛切入 + 竞品副作用痛点曝光 + 无害替代品强效种草",
+    "script_outline": [
+      "反常识钩子(展示被修剪的长睫毛)",
+      "解释原因(效果太好导致烦恼)",
+      "曝光行业痛点(含前列腺素导致黑眼圈，配丑照)",
+      "抛出无害新品(强调无副作用且价格好)",
+      "超近景展示现阶段惊人效果",
+      "制造缺货稀缺性逼单CTA"
+    ],
+    "shot_list": [
+      "博主怼脸带疑问字幕",
+      "上方插入剪睫毛PiP动图",
+      "上方插入成分科普PiP图",
+      "上方插入以前受损的黑眼圈照片",
+      "产品外观带钻盖子特写",
+      "产品贴近嘴唇，眼睛直视镜头展示睫毛特写",
+      "手指下方指引链接"
+    ],
+    "voiceover": "这正常吗？我昨天去做睫毛，美容师竟然把我的睫毛剪短了，因为太长太乱！之前我用的那些睫毛精华都有前列腺素，害我黑眼圈巨重，眼眶都凹陷了，看我以前这鬼样子。后来我换了这个不含前列腺素的 ForChics，价格便宜不说，睫毛直接长疯了。它之前断货了两个月，链接我放下面了，想无痛长睫毛的赶紧去抢！",
+    "subtitles": [
+      "was this supposed to happen??",
+      "she had to trim them",
+      "prostaglandin side effects",
+      "it gave me dark under eyes",
+      "prostaglandin free",
+      "so long and thick",
+      "link down below",
+      "hurry sold out recently"
+    ],
+    "ai_image_prompts": [
+      "A selfie of a young woman with tired eyes, prominent dark circles and slightly sunken under-eye area, raw and unfiltered, hyper-realistic, shot on smartphone"
+    ],
+    "ai_video_prompts": [
+      "Close up macro shot of a cosmetic scissors gently trimming the very tips of extremely long and thick natural eyelashes, beauty salon lighting, highly detailed"
+    ]
+  },
+  "search_text": "产品：ForChics 睫毛增长液。品类：美妆护肤/眼部护理。人群：女性，有睫毛增长需求人群，关注成分安全人群，受竞品副作用困扰人群。视频类型：UGC口播，痛点解决，效果前后对比，库存背书。钩子：反常识，好奇悬念，结果前置，痛点放大，was this supposed to happen??。卖点：无前列腺素成分，不导致眼周脂肪流失和黑眼圈，促使睫毛过度生长需修剪的强劲效果，价格实惠。证明：开篇美容师修剪睫毛的实况动图，前列腺素副作用的医学科普文字截图，博主曾经严重的黑眼圈真实对比照，博主当下的超长睫毛高清特写镜头。风险：。适合复刻：反向凡尔赛切入 + 竞品副作用痛点曝光 + 无害替代品强效种草。"
+}

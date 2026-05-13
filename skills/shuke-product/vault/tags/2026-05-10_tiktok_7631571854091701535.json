@@ -1,0 +1,121 @@
+{
+  "video_id": "2026-05-10_tiktok_7631571854091701535",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7631571854091701535.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7631571854091701535/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 64.46,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Tarte Shape Tape Blur Concealer Stick",
+    "category": "美妆护肤",
+    "sub_category": "面部彩妆",
+    "price_position": "未知",
+    "target_audience": [
+      "熟龄肌",
+      "干性肌肤",
+      "有黑眼圈/红血丝困扰女性"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "遮瑕膏",
+      "不卡纹",
+      "送化妆刷",
+      "免粉底"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "质地实测",
+      "UGC口播",
+      "测评对比"
+    ],
+    "hook_tags": [
+      "反常识",
+      "痛点解决",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "美妆爱好者",
+      "熟龄女性",
+      "干皮人群"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "无字幕"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识/信任悬念钩子",
+    "first_3s_text": "I'm sick of people who lie and cut their video...",
+    "mechanism": "通过抨击虚假剪辑建立真实人设，承诺一镜到底实测引发观看兴趣",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "专为熟龄肌设计，不卡细纹皱纹",
+    "强效遮盖黑眼圈、红血丝和眼袋",
+    "含有护肤成分，干性皮肤友好",
+    "附赠专属菱形化妆刷（TikTok福利）"
+  ],
+  "proof_points": [
+    "承诺一镜到底无剪辑实测",
+    "车内真实自然光源展示",
+    "左右脸极具反差的对比效果"
+  ],
+  "cta": {
+    "text": "grab this concealer stick, you do get this brush for free... link for this bundle below",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 10,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "主打'打假无滤镜实测'，利用一镜到底展示立竿见影的半脸对比效果，最后用独家赠品逼单。",
+    "script_outline": [
+      "抨击行业假评测痛点，承诺无剪辑一镜到底",
+      "上脸单侧展示，强调适用人群（熟龄肌/干皮）",
+      "使用赠品刷子晕开，展示惊人的半脸对比",
+      "拓展使用部位（遮盖红血丝），抛出免粉底概念",
+      "展示商品和免费刷子组合，引导下方链接下单"
+    ],
+    "shot_list": [
+      "固定机位：车内自然光近景特写，全程一镜到底无剪切，记录涂抹、晕染和展示动作"
+    ],
+    "voiceover": "我受够了美颜滤镜评测！今天全素颜、无剪辑实测 Tarte 这根遮瑕。涂在左眼，注意看！它专为熟龄肌设计，完全不卡纹。用这把免费送的刷子晕开...看！这黑眼圈消失术！右边脸的暗沉和左边简直两个世界！干皮放心入，连粉底都省了。现在在TikTok下单直接送这把神仙刷子，链接就在下面！",
+    "subtitles": [
+      "受够了假评测？",
+      "无剪辑一镜到底实测！",
+      "熟龄肌亲妈，不卡纹！",
+      "看这惊人的半脸对比！",
+      "黑眼圈、红血丝全不见",
+      "含护肤成分，干皮闭眼入",
+      "买遮瑕【免费送】神仙刷子！",
+      "点击左下角抢福利套餐！"
+    ],
+    "ai_image_prompts": [
+      "Close-up portrait of a woman in a car, natural daylight, dramatic before and after under-eye concealer comparison on her face, holding a purple Tarte concealer and brush, authentic UGC style, no filters"
+    ],
+    "ai_video_prompts": [
+      "A continuous unedited close-up shot of a woman in a car applying concealer under one eye and blending it with a diamond-shaped brush, revealing instantly brightened and flawless skin compared to the other tired eye, natural lighting, TikTok UGC style"
+    ]
+  },
+  "search_text": "产品：Tarte Shape Tape Blur Concealer Stick。品类：美妆护肤/面部彩妆。人群：熟龄肌/干性肌肤/有黑眼圈红血丝困扰女性。视频类型：效果前后对比, 质地实测, UGC口播, 测评对比。钩子：反常识, 痛点解决, 结果前置, 尴尬痛点，I'm sick of people who lie and cut their video...。卖点：专为熟龄肌设计，不卡细纹皱纹, 强效遮盖黑眼圈、红血丝和眼袋, 含有护肤成分，干性皮肤友好, 附赠专属菱形化妆刷（TikTok福利）。证明：承诺一镜到底无剪辑实测, 车内真实自然光源展示, 左右脸极具反差的对比效果。风险：字幕不清, 无字幕。适合复刻：主打'打假无滤镜实测'，利用一镜到底展示立竿见影的半脸对比效果，最后用独家赠品逼单。"
+}

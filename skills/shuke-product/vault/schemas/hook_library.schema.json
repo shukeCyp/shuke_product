@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Commerce Hook Library",
+  "type": "object",
+  "required": [
+    "version",
+    "updated_at",
+    "hooks"
+  ],
+  "properties": {
+    "version": {
+      "type": "string"
+    },
+    "updated_at": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "hooks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "hook_id",
+          "name",
+          "hook_type",
+          "pattern",
+          "first_3s",
+          "best_for",
+          "risk_level",
+          "search_text"
+        ],
+        "properties": {
+          "hook_id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string"
+          },
+          "source": {
+            "type": "object"
+          },
+          "hook_type": {
+            "type": "string"
+          },
+          "secondary_types": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "pattern": {
+            "type": "string"
+          },
+          "opening_script": {
+            "type": "string"
+          },
+          "first_3s": {
+            "type": "object"
+          },
+          "why_it_stops_scroll": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "best_for": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "avoid_for": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "risk_level": {
+            "enum": [
+              "low",
+              "medium",
+              "high"
+            ]
+          },
+          "risk_notes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "safer_variants": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "remake_formula": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "example_lines": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "score": {
+            "type": "object"
+          },
+          "search_text": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+# 媒体与视频分析服务配置示例。
+# 复制为 media_services.yaml 后填入密钥；media_services.yaml 已在 .gitignore 中排除。
+
+flow2api:
+  # Flow2API 服务地址和密钥：用于图片生成、视频生成等媒体生成请求。
+  # 两台机器的 URL 可能不同，按需配置。
+  base_url: "https://your-flow2api-host"
+  api_key: "your-flow2api-api-key"
+  concurrency_limit: 5
+  models:
+    image_default: "gemini-3.1-flash-image-portrait"
+    text_to_video_default: "veo_3_1_t2v_fast_portrait"
+    image_to_video_default: "veo_3_1_i2v_s_fast_portrait_fl"
+    multi_reference_video_default: "veo_3_1_r2v_fast_portrait"
+    interpolation_lite: "veo_3_1_interpolation_lite_portrait"
+
+cloudy_veo:
+  # Cloudy / W Project HOLO API — URL 固定，填入你的 key 即可。
+  base_url: "https://api.dealonhorizon.us"
+  api_key: "your-cloudy-api-key"
+  concurrency_limit: 3
+  models:
+    text_to_video_default: "veo_3_1_t2v_fast_portrait"
+    image_to_video_default: "veo_3_1_i2v_fast_portrait"
+    multi_reference_video_default: "veo_3_1_r2v_fast_portrait"
+
+image_generation:
+  provider: "flow2api"
+
+video_generation:
+  provider: "cloudy_veo"
+
+commerce_market:
+  country: "Mexico"
+  country_code: "MX"
+  locale: "es-MX"
+  language: "Spanish"
+  language_variant: "Mexican Spanish"
+  currency: "MXN"
+  currency_symbol: "$"
+  platform_region: "Mexico"
+  timezone: "America/Mexico_City"
+  copy_style: "Natural Mexican Spanish ecommerce UGC"
+  cta_examples:
+    - "Toca el enlace para ver la promo"
+    - "Aprovecha la oferta de hoy"
+    - "Envío a México"
+
+yunwu:
+  # Yunwu API — URL 固定，填入你的 key 即可。
+  base_url: "https://yunwu.ai"
+  apifox_doc_url: "https://yunwu.apifox.cn/api-309482709"
+  api_key: "your-yunwu-api-key"
+  models:
+    analysis_preferred: "gemini-3.1-pro-preview"
+    analysis_fallback: "gemini-2.5-pro"
+
+google_prompting:
+  nano_banana2:
+    official_model: "gemini-3.1-flash-image-preview"
+  veo31:
+    vertex_ai_models:
+      - "veo-3.1-generate-001"
+      - "veo-3.1-fast-generate-001"
+      - "veo-3.1-lite-generate-001"

@@ -1,0 +1,133 @@
+{
+  "video_id": "2026-05-10_tiktok_7636435755295919391",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7636435755295919391.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7636435755295919391/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 73.33,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "BIOHEAL BOH Probioderm 3D Lifting Cream",
+    "category": "美妆护肤",
+    "sub_category": "面部护理",
+    "price_position": "中端",
+    "target_audience": [
+      "抗衰人群",
+      "护肤爱好者",
+      "K-Beauty爱好者",
+      "女性",
+      "30+"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "面霜",
+      "抗衰面霜",
+      "提拉紧致",
+      "K-Beauty"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "效果前后对比",
+      "质地实测",
+      "第三方背书",
+      "礼物推荐"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "身份代入",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "前后对比",
+      "用户评价",
+      "第三方背书",
+      "成分展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "爱美女性",
+      "成分党",
+      "宝妈",
+      "熟龄肌"
+    ],
+    "risk_tags": [],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "名人背书",
+    "first_3s_text": "I'm on my third one. I'm on my third one. That's how much I love it. Cardi B, the queen herself is on her third jar while I am on my fourth.",
+    "mechanism": "通过画中画展示名人Cardi B使用并推荐同款产品的片段，利用名人的巨大影响力迅速建立产品的权威性和吸引力，引发用户强烈的好奇心和信任感。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "提拉紧致，对抗皮肤松弛下垂",
+    "富含17种胜肽和乙酰基六肽-8，科技抗衰",
+    "韩国销量第一的夜间提拉面霜，市场认可度高",
+    "质地奢华，提供堪比200美元大牌面霜的使用感",
+    "性价比高，效果媲美贵价产品",
+    "经临床验证，2周可见效果",
+    "适合作为母亲节等节日的实用礼物"
+  ],
+  "proof_points": [
+    "Cardi B 使用并推荐的UGC视频片段作为强力名人背书",
+    "博主本人是第四次复购，提供真实用户证言",
+    "展示官方临床数据图表，证明“停用后仍可维持98.8%弹性”",
+    "展示官方“使用前/后”效果对比图",
+    "清晰讲解“17种胜肽”、“乙酰基六肽-8”等核心成分的作用机理",
+    "“韩国第一夜间提拉面霜”的称号背书"
+  ],
+  "cta": {
+    "text": "If you see that orange cart above my name, it's still in stock. I wouldn't wait on this one.",
+    "clarity": "very_clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "借势名人/KOL的测评带货",
+    "script_outline": [
+      "开场：播放名人使用产品的UGC片段，并表达自己的惊讶与认同。",
+      "关联：说明自己也是该产品的忠实用户，已经复购多次。",
+      "解读：从成分、技术、市场地位等方面解释产品为何如此受欢迎。",
+      "演示：展示产品质地和使用方法，描述个人真实感受。",
+      "逼单：强调性价比，结合限时优惠或特定场景（如送礼），并明确指出购买链接/按钮。"
+    ],
+    "shot_list": [
+      "名人UGC视频片段素材",
+      "博主看到视频的惊讶反应（中近景）",
+      "博主手持产品自信介绍（中近景）",
+      "产品开盖及膏体特写（特写）",
+      "产品在皮肤上涂抹的质地展示（特写）",
+      "博主引导点击购买的动作（中近景）"
+    ],
+    "voiceover": "前半段兴奋、惊喜，像发现秘密；后半段自信、诚恳，像与好友分享。",
+    "subtitles": [
+      "名人名字",
+      "产品名",
+      "核心成分/卖点",
+      "限时优惠信息",
+      "行动指令（点击购买）"
+    ],
+    "ai_image_prompts": [
+      "A realistic close-up photo of a luxurious, thick, white cosmetic cream on a woman's fingertip, clean background, studio lighting, macro details, showing the rich texture.",
+      "Photo-realistic shot of a woman in her 40s with glowing skin, in a bright beauty room, holding a purple and white jar of face cream, looking excitedly at the camera. Medium close-up."
+    ],
+    "ai_video_prompts": [
+      "A 40-year-old woman with glowing skin films a selfie-style video in her bathroom. She excitedly shows a purple jar of cream to the camera, then applies it to her cheek, smiling with satisfaction. Medium shot, energetic and convincing."
+    ]
+  },
+  "search_text": "产品：BIOHEAL BOH Probioderm 3D Lifting Cream。品类：美妆护肤/面部护理。人群：抗衰人群, 护肤爱好者, K-Beauty爱好者, 女性, 30+。视频类型：UGC口播, 效果前后对比, 质地实测, 第三方背书, 礼物推荐。钩子：好奇悬念, 身份代入, 结果前置，I'm on my third one. I'm on my third one. That's how much I love it. Cardi B, the queen herself is on her third jar while I am on my fourth.。卖点：提拉紧致，对抗皮肤松弛下垂, 富含17种胜肽和乙酰基六肽-8，科技抗衰, 韩国销量第一的夜间提拉面霜，市场认可度高, 质地奢华，提供堪比200美元大牌面霜的使用感, 性价比高，效果媲美贵价产品, 经临床验证，2周可见效果, 适合作为母亲节等节日的实用礼物。证明：Cardi B 使用并推荐的UGC视频片段作为强力名人背书, 博主本人是第四次复购，提供真实用户证言, 展示官方临床数据图表，证明“停用后仍可维持98.8%弹性”, 展示官方“使用前/后”效果对比图, 清晰讲解“17种胜肽”、“乙酰基六肽-8”等核心成分的作用机理, “韩国第一夜间提拉面霜”的称号背书。风险：。适合复刻：借势名人/KOL的测评带货。"
+}

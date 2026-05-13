@@ -1,0 +1,114 @@
+{
+  "video_id": "2026-05-10_tiktok_7632675018333326623",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7632675018333326623.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7632675018333326623/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.17,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Bare Anatomy Rosemary & Rice Water Hair Spray",
+    "category": "美妆护肤",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "脱发人群",
+      "头皮干痒人群",
+      "女性人群"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "护发喷雾",
+      "迷迭香",
+      "淘米水",
+      "防脱生发",
+      "头皮护理"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "UGC口播",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "反常识",
+      "尴尬痛点",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "女性群体",
+      "有脱发困扰人群"
+    ],
+    "risk_tags": [
+      "字幕不清"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识痛点钩子",
+    "first_3s_text": "I stopped using American hair care products...",
+    "mechanism": "通过直接否定受众可能正在使用的常规大类产品，并配合引发容貌焦虑的头皮对比图，制造悬念迫使停留。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "清爽水状不堵塞毛孔",
+    "迷迭香与淘米水天然成分",
+    "增加头发密度与发根强度",
+    "缓解头皮干痒及头皮屑"
+  ],
+  "proof_points": [
+    "头皮实拍展示无堵塞",
+    "展示新生长的强韧长发",
+    "产品实际喷洒使用演示"
+  ],
+  "cta": {
+    "text": "If you actually want your hair to flourish... I'll go ahead and leave the link right around here",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 7,
+    "trust": 9,
+    "product_display": 7,
+    "purchase_impulse": 8,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "打破陈旧认知+成分平替降维打击",
+    "script_outline": [
+      "否定大众常规选择",
+      "深入剖析常规产品的反向危害制造焦虑",
+      "抛出颠覆性新成分产品",
+      "展示直接使用效果",
+      "好评背书加购物车指引"
+    ],
+    "shot_list": [
+      "博主正脸否定常规品",
+      "头皮痛点微距特写",
+      "展示水状质地",
+      "拉扯头发展示强韧度",
+      "手持产品指引链接"
+    ],
+    "voiceover": "真诚、激动、语速极快的揭秘分享语气。",
+    "subtitles": [
+      "需补充显眼的高对比度动态跟读字幕以提升静音播放转化率。"
+    ],
+    "ai_image_prompts": [
+      "Close-up macro photography of healthy scalp with dense hair roots, clean hair follicles, realistic texture, no oiliness, studio lighting, highly detailed."
+    ],
+    "ai_video_prompts": [
+      "A young woman spraying a clear liquid onto her scalp and massaging it vigorously, looking at the camera with an excited expression, holding the clear bottle, bright indoor lighting, vertical video format, UGC style."
+    ]
+  },
+  "search_text": "产品：Bare Anatomy Rosemary & Rice Water Hair Spray。品类：美妆护肤/身体护理。人群：脱发人群, 头皮干痒人群, 女性人群。视频类型：痛点解决, UGC口播, 效果前后对比。钩子：反常识, 尴尬痛点, 好奇悬念，I stopped using American hair care products...。卖点：清爽水状不堵塞毛孔, 迷迭香与淘米水天然成分, 增加头发密度与发根强度, 缓解头皮干痒及头皮屑。证明：头皮实拍展示无堵塞, 展示新生长的强韧长发, 产品实际喷洒使用演示。风险：字幕不清。适合复刻：打破陈旧认知+成分平替降维打击。"
+}

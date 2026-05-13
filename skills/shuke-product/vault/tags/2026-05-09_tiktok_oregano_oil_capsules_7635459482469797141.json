@@ -1,0 +1,57 @@
+{
+  "video_id": "2026-05-09_tiktok_oregano_oil_capsules_7635459482469797141",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7635459482469797141.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-09_tiktok_oregano_oil_capsules_7635459482469797141/analysis.md",
+    "model": "codex_local_visual_review",
+    "duration_seconds": 14.066667,
+    "created_at": "2026-05-09"
+  },
+  "product": {
+    "name": "Oil of Oregano 牛至油软胶囊",
+    "category": "健康养生",
+    "sub_category": "草本补充剂",
+    "price_position": "未知",
+    "target_audience": ["西语健康补剂用户", "天然草本补充剂用户", "日常健康管理用户"],
+    "confidence": 0.78
+  },
+  "tags": {
+    "product_tags": ["牛至油", "软胶囊", "草本补充剂", "健康补剂"],
+    "video_type_tags": ["UGC口播", "场景种草", "身份代入"],
+    "hook_tags": ["别划走", "好奇悬念", "身份点名"],
+    "proof_tags": ["产品特写", "成分展示"],
+    "audience_tags": ["西语用户", "健康补剂用户", "草本护理"],
+    "risk_tags": ["无CTA", "功效宣称风险", "信任不足"],
+    "platform_tags": ["TikTok", "西语市场", "竖屏短视频"]
+  },
+  "hook": {
+    "type": "强提醒钩子",
+    "first_3s_text": "ESCUCHA ESTO! Es importante!!!",
+    "mechanism": "用西语强提醒和真人近景制造必须听下去的紧迫感",
+    "retention_score": 7
+  },
+  "selling_points": ["牛至油品类", "软胶囊形态", "真人 UGC 推荐", "日常补充场景"],
+  "proof_points": ["包装近距离展示", "黄色软胶囊倒出", "真人持袋口播"],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 5,
+    "trust": 5,
+    "product_display": 7,
+    "purchase_impulse": 5,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "保留西语强提醒和真人 UGC 质感，补充成分、剂量、使用方式和合规型信任证据",
+    "script_outline": ["西语痛点提醒", "包装和胶囊特写", "日常 routine 展示", "成分表/剂量特写", "活动价 CTA"],
+    "shot_list": ["博主对镜强提醒", "胶囊倒出微距", "包装正面", "成分表特写", "水杯和早餐 routine", "结尾手持 CTA"],
+    "voiceover": "如果你正在找日常草本补充，先看这个。它是 Oil of Oregano 牛至油软胶囊，胶囊形态比液体更方便带出门。",
+    "subtitles": ["ESCUCHA ESTO", "Oil of Oregano softgels", "Easy daily routine", "Check ingredients and dosage first", "Tap to see today's offer"],
+    "ai_image_prompts": ["Create a vertical 9:16 UGC-style product image of a green pouch labeled Oil of Oregano softgels on a kitchen counter, with several amber softgel capsules beside a clear glass of water, natural morning light, realistic, no medical claims."],
+    "ai_video_prompts": ["Vertical 9:16 handheld UGC video of a woman in a kitchen holding a green Oil of Oregano softgel pouch. She pours amber capsules into her palm, then points to the package ingredients area. Natural phone-camera style, no subtitles, no medical claims."]
+  },
+  "search_text": "产品：Oil of Oregano 牛至油软胶囊。品类：健康养生/草本补充剂。人群：西语健康补剂用户、天然草本补充剂用户、日常健康管理用户。视频类型：UGC口播、场景种草、身份代入。钩子：别划走、好奇悬念、身份点名，ESCUCHA ESTO! Es importante!!!。卖点：牛至油品类、软胶囊形态、真人 UGC 推荐、日常补充场景。证明：包装近距离展示、黄色软胶囊倒出、真人持袋口播。风险：无CTA、功效宣称风险、信任不足。适合复刻：补充成分、剂量、使用方式和合规型信任证据。"
+}

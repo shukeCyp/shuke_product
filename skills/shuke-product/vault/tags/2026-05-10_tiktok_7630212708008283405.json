@@ -1,0 +1,119 @@
+{
+  "video_id": "2026-05-10_tiktok_7630212708008283405",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7630212708008283405.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7630212708008283405/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 41.6,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "CLO MELANIN Brightening Body Oil",
+    "category": "美妆护肤",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "有身体色素沉着（黑斑）困扰的人群",
+      "深肤色人群",
+      "法语区用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体油",
+      "亮肤",
+      "去黑斑"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "UGC口播",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "色素沉着困扰",
+      "深肤色人群",
+      "爱美女性"
+    ],
+    "risk_tags": [
+      "功效宣称风险",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子",
+    "first_3s_text": "你有腋下、手肘、手指、膝盖的色素沉着问题吗？",
+    "mechanism": "直接点名用户具体、普遍存在的身体皮肤问题，迅速筛选目标人群并引发共鸣，促使其为寻求解决方案而继续观看。",
+    "retention_score": 7
+  },
+  "selling_points": [
+    "针对性解决身体多部位（腋下、手肘、膝盖等）的色素沉着问题",
+    "成分天然（姜黄、咖啡、维生素E）",
+    "提亮肤色，使皮肤焕发光彩",
+    "无需使用刺激性漂白产品",
+    "质地滋润有光泽"
+  ],
+  "proof_points": [
+    "创作者本人均匀光亮的肤质作为使用效果范例",
+    "产品涂抹在皮肤上呈现即时光泽感",
+    "产品瓶身特写展示"
+  ],
+  "cta": {
+    "text": "clique dès maintenant pour prendre pour toi (现在就点击购买)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 8,
+    "trust": 6,
+    "product_display": 8,
+    "purchase_impulse": 7,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "天然成分对抗顽固身体黑斑",
+    "script_outline": [
+      "通过展示因身体暗沉而尴尬的场景作为钩子",
+      "亮出产品，定位为'皮肤橡皮擦'",
+      "通过图文或动画拆解姜黄、咖啡等核心成分的亮肤原理",
+      "展示使用前后的真实对比图作为核心证据",
+      "演示产品质地和即时效果",
+      "发出购买号召，关联自信生活场景"
+    ],
+    "shot_list": [
+      "中景讲解",
+      "产品特写",
+      "成分图文动画",
+      "涂抹细节近景",
+      "使用前后对比图插入"
+    ],
+    "voiceover": "夏天不敢穿吊带？别让腋下、手肘的暗沉影响你的自信！我找到了这个宝藏身体油，里面有天然的姜黄和咖啡提取物，专门对付这些顽固黑斑。看，这是我用三周的对比！质地超润，一抹就亮。想和我一样自信秀身材，就快点击下面带走它！",
+    "subtitles": [
+      "告别黑腋下？",
+      "天然姜黄",
+      "3周见效",
+      "自信一夏",
+      "点击购买"
+    ],
+    "ai_image_prompts": [
+      "A close-up, photorealistic shot of a woman's elbow with visible hyperpigmentation, before treatment.",
+      "A close-up, photorealistic shot of the same elbow, now with smooth, even-toned, glowing skin, after treatment."
+    ],
+    "ai_video_prompts": [
+      "UGC style video, a confident woman with glowing skin is applying a golden body oil to her arms in a sunlit room. She smiles and talks directly to the camera, holding up the product bottle."
+    ]
+  },
+  "search_text": "产品：CLO MELANIN Brightening Body Oil。品类：美妆护肤/身体护理。人群：有身体色素沉着（黑斑）困扰的人群,深肤色人群,法语区用户。视频类型：痛点解决,UGC口播,场景种草。钩子：尴尬痛点,身份点名，你有腋下、手肘、手指、膝盖的色素沉着问题吗？。卖点：针对性解决身体多部位（腋下、手肘、膝盖等）的色素沉着问题,成分天然（姜黄、咖啡、维生素E）,提亮肤色，使皮肤焕发光彩,无需使用刺激性漂白产品,质地滋润有光泽。证明：产品特写,使用场景。风险：功效宣称风险,信任不足。适合复刻：天然成分对抗顽固身体黑斑。"
+}

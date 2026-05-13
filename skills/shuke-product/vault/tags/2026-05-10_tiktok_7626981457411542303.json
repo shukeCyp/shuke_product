@@ -1,0 +1,122 @@
+{
+  "video_id": "2026-05-10_tiktok_7626981457411542303",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7626981457411542303.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7626981457411542303/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 89.73,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Qawafi Voyage Nova",
+    "category": "美妆护肤",
+    "sub_category": "香水香氛",
+    "price_position": "低价/平替",
+    "target_audience": [
+      "女性",
+      "香水爱好者",
+      "平替追求者",
+      "下沉市场"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "香水",
+      "平替",
+      "LV追梦",
+      "花果香",
+      "留香久"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "种草分享",
+      "测评对比",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "视觉对比",
+      "大牌碰瓷"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "女性",
+      "预算有限",
+      "喜欢大牌"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉对比+结果前置",
+    "first_3s_text": "It don't just look like it, it smell like it too.",
+    "mechanism": "通过画面直接贴出昂贵的LV香水，结合口播宣告手里的产品不仅看起来像且味道一致，利用平替的高反差吸引对大牌感兴趣但预算敏感的用户。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "完美复刻LV Attrape-Rêves（追梦）香水的气味",
+    "留香时间非常长（Longevity）",
+    "适合喜欢玫瑰和广藿香的花果香调人群",
+    "包装精美（展示了粉色高级感纸盒）"
+  ],
+  "proof_points": [
+    "博主本人的信誉担保（提及之前推荐过Prada平替成功）",
+    "贴近镜头的香水瓶身和粉色外包装盒特写",
+    "真实的喷洒试香动作"
+  ],
+  "cta": {
+    "text": "Go check it out",
+    "clarity": "low"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 8,
+    "purchase_impulse": 8,
+    "total": 8
+  },
+  "remake": {
+    "angle": "寻找高单价奢侈香水/美妆的绝对平替，利用大牌图片贴纸对比+真实盲测话术+留香痛点解决的口播结构进行种草。",
+    "script_outline": [
+      "前3秒：手持平替产品，屏幕贴出昂贵原版大牌，抛出“闻起来完全一样”的结论",
+      "3-15秒：交代产品来源，拉近距离，建立寻宝人设",
+      "15-30秒：明确大牌与平替的名称，强调“左右手盲测分不清”",
+      "30-45秒：展示产品细节并解决核心痛点（如留香短）",
+      "45-60秒：描述具体香调，圈定精准人群并引导下单"
+    ],
+    "shot_list": [
+      "中景：博主手持香水，屏幕左侧加入大牌香水贴图",
+      "特写：怼脸展示香水瓶身的品牌LOGO和细节",
+      "动作镜头：拿出一张试香纸，按下喷头喷洒香水",
+      "中景：展示香水的精美外包装纸盒",
+      "中景：博主手捧香水，进行沉浸式感受气味的动作"
+    ],
+    "voiceover": "别再花大几百刀买大牌香水了，这款在TikTok上找到的平替不仅味道和大牌一模一样，而且留香时间超长。如果你喜欢玫瑰和广藿香，这款绝对不能错过，快去下面看看吧！",
+    "subtitles": [
+      "Smells exactly like LV!",
+      "My new favorite dupe",
+      "It actually lasts all day",
+      "Fruity floral vibe",
+      "Check the link!"
+    ],
+    "ai_image_prompts": [
+      "A split-screen product photography, left side showing a high-end luxury pink perfume bottle, right side showing an affordable identical pink perfume bottle, soft studio lighting"
+    ],
+    "ai_video_prompts": [
+      "A casual black woman in a striped shirt holding a pink perfume bottle, talking enthusiastically to the camera, medium close up, ring light lighting, TikTok UGC style video"
+    ]
+  },
+  "search_text": "产品：Qawafi Voyage Nova。品类：美妆护肤/香水香氛。人群：女性, 香水爱好者, 平替追求者, 下沉市场。视频类型：UGC口播, 种草分享, 测评对比, 痛点解决。钩子：结果前置, 视觉对比, 大牌碰瓷，It don't just look like it, it smell like it too.。卖点：完美复刻LV Attrape-Rêves（追梦）香水的气味, 留香时间非常长（Longevity）, 适合喜欢玫瑰和广藿香的花果香调人群, 包装精美（展示了粉色高级感纸盒）。证明：博主本人的信誉担保（提及之前推荐过Prada平替成功）, 贴近镜头的香水瓶身和粉色外包装盒特写, 真实的喷洒试香动作。风险：无CTA, 功效宣称风险。适合复刻：寻找高单价奢侈香水/美妆的绝对平替，利用大牌图片贴纸对比+真实盲测话术+留香痛点解决的口播结构进行种草。"
+}

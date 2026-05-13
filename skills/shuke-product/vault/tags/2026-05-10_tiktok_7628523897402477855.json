@@ -1,0 +1,115 @@
+{
+  "video_id": "2026-05-10_tiktok_7628523897402477855",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7628523897402477855.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7628523897402477855/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.44,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Truly Unicorn Fruit After Shave Serum & Deodorant",
+    "category": "女性护理",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "女性",
+      "有私处护理需求者",
+      "外貌协会"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "女性护理",
+      "身体护理",
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "产品特写",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "低价占便宜"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "女性",
+      "注重私处护理",
+      "易受折扣刺激人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足",
+      "卖点单一",
+      "场景割裂"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份点名+价格刺激",
+    "first_3s_text": "Combo femenino En súper descuento hoy chicas",
+    "mechanism": "利用女性身份标签和极具诱惑力的“超级折扣”字眼，配合高颜值产品外观，吸引目标人群停留。",
+    "retention_score": 5
+  },
+  "selling_points": [
+    "针对女性私密/除毛后肌肤护理 (Sérum intimo)",
+    "具有提亮/去暗沉功效 (Desodorante aclarante)",
+    "成分纯净纯素 (Vegan, Clean)",
+    "今日含有极大折扣 (En súper descuento hoy)"
+  ],
+  "proof_points": [
+    "清晰的产品包装标签展示背书",
+    "水油双层分离的精华物理状态展示"
+  ],
+  "cta": {
+    "text": "无明确口播或字幕引导购买动作，仅提示有折扣",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5,
+    "clarity": 8,
+    "trust": 4,
+    "product_display": 6,
+    "purchase_impulse": 6,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "高颜值女性私护产品视觉种草+实测展示",
+    "script_outline": [
+      "视觉抓手：摇匀双层精华展现梦幻质地",
+      "抛出诱饵：口播强调超低折扣与解决暗沉痛点",
+      "产品实测：手背展示精华吸收度与除臭剂质地",
+      "行动号召：制造稀缺感引导点击小黄车"
+    ],
+    "shot_list": [
+      "特写：摇晃水油分离精华液",
+      "中景：手持两款产品高清展示",
+      "特写：挤出精华涂抹，展示膏体涂抹质感"
+    ],
+    "voiceover": "Chicas! Si tienes manchas oscuras, necesitas este combo. El sérum rejuvenece y el desodorante aclara. ¡Y hoy están con un súper descuento! Corre al carrito.",
+    "subtitles": [
+      "Combo femenino 🌸",
+      "Adiós manchas oscuras!",
+      "Sérum intimo rejuvenece🩷",
+      "Desodorante aclarante🍓",
+      "¡Súper descuento HOY!"
+    ],
+    "ai_image_prompts": [
+      "A close-up shot of a hand holding two aesthetic pink skincare products, a glass bottle with dual-layer pink and yellow serum, and a pink deodorant stick. Soft bright lighting, floral background, highly detailed, photorealistic, TikTok aesthetic --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "A female hand gently shaking a glass bottle filled with pink and yellow dual-layer serum to mix it, then opening a pink deodorant stick. Soft warm lighting, makeup vanity background, shot on iPhone, vertical 4k video, smooth motion"
+    ]
+  },
+  "search_text": "产品：Truly Unicorn Fruit After Shave Serum & Deodorant。品类：女性护理/身体护理。人群：女性, 有私处护理需求者, 外貌协会。视频类型：价格刺激, 产品特写, 场景种草。钩子：身份点名, 低价占便宜，Combo femenino En súper descuento hoy chicas。卖点：针对女性私密/除毛后肌肤护理 (Sérum intimo), 具有提亮/去暗沉功效 (Desodorante aclarante), 成分纯净纯素 (Vegan, Clean), 今日含有极大折扣 (En súper descuento hoy)。证明：清晰的产品包装标签展示背书, 水油双层分离的精华物理状态展示。风险：无CTA, 口播缺失, 信任不足, 卖点单一, 场景割裂。适合复刻：高颜值女性私护产品视觉种草+实测展示。"
+}

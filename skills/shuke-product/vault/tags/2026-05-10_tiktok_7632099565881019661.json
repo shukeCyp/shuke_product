@@ -1,0 +1,113 @@
+{
+  "video_id": "2026-05-10_tiktok_7632099565881019661",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7632099565881019661.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7632099565881019661/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 61.97,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dentite Tooth Armor",
+    "category": "身体护理",
+    "sub_category": "口腔护理",
+    "price_position": "未知",
+    "target_audience": [
+      "牙痛患者",
+      "没有牙医保险的人群",
+      "害怕看牙医的儿童家长"
+    ],
+    "confidence": 0.85
+  },
+  "tags": {
+    "product_tags": [
+      "牙齿滴剂",
+      "护牙素",
+      "防蛀牙产品"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "UGC口播",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "父母群体",
+      "低预算人群"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "尴尬痛点直击动作",
+    "first_3s_text": "Having a toothache & cavity PAIN no joke 🦷🥵",
+    "mechanism": "通过极具视觉冲击力的直接上药动作和提及剧痛的文案，瞬间拦截有过牙痛体验的高势能精准人群。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "缓解牙齿敏感",
+    "坚固牙齿与修复牙釉质",
+    "无需看牙医，省下高昂医疗账单",
+    "无痛解决儿童蛀牙烦恼"
+  ],
+  "proof_points": [
+    "博主真实将滴剂滴在自己后槽牙上的操作画面",
+    "口播宣称 TikTok Shop 有超过10万条好评",
+    "讲述儿子牙医复诊时发现蛀牙消失的个人故事"
+  ],
+  "cta": {
+    "text": "If you see that orange cart down below, you're welcome.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 7,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "高价服务平替：讲述无法承担昂贵服务费（如看牙、修车），通过便宜小产品完美解决痛点的经历",
+    "script_outline": [
+      "1. 动作特写前置：直接展示产品解决痛点的生猛动作（如嘴部滴药）。",
+      "2. 抛出痛点故事：倾诉面临的高昂账单或棘手麻烦（如孩子蛀牙但没保险）。",
+      "3. 产品登场背书：展示产品，提及它是怎么被推荐的（如10万好评）。",
+      "4. 使用与结果：描述简单的使用过程和超预期的结果。反差对比极点。",
+      "5. 逼单转化：总结‘省钱+免受苦’，指引点击购物车。"
+    ],
+    "shot_list": [
+      "特写镜头：局部特写展示痛点部位和上药动作",
+      "中景近景：车内对镜讲述，营造私密感",
+      "产品特写：手持商品怼近镜头展示标签"
+    ],
+    "voiceover": "很多人不知道TikTok上有能帮你省大钱的神器。如果你和我一样没有保险，孩子蛀牙痛得不行，别急着去挨宰。我用了这个牙齿护甲，每天一滴，结果回去复查牙医都懵了。它帮我省了几千块，点下面购物车，不用谢。",
+    "subtitles": [
+      "牙痛不是开玩笑的",
+      "不用保险也能修好牙",
+      "每天只需滴一次",
+      "帮我省了一大笔钱"
+    ],
+    "ai_image_prompts": [
+      "A close-up shot, TikTok style, a man holding a small white dropper bottle, pointing to the bottom left of the screen, sitting in a car, expressive face, natural lighting"
+    ],
+    "ai_video_prompts": [
+      "Vertical video, realistic UGC style. A man in a car holds a small dropper bottle. He opens his mouth, uses the dropper to drop liquid onto his back molar, and looks relieved. Close up on his face."
+    ]
+  },
+  "search_text": "产品：Dentite Tooth Armor。品类：身体护理/口腔护理。人群：牙痛患者, 没有牙医保险的人群, 害怕看牙医的儿童家长。视频类型：痛点解决, UGC口播, 场景种草, 效果前后对比。钩子：尴尬痛点, 场景冲突，Having a toothache & cavity PAIN no joke 🦷🥵。卖点：缓解牙齿敏感, 坚固牙齿与修复牙釉质, 无需看牙医，省下高昂医疗账单, 无痛解决儿童蛀牙烦恼。证明：博主真实将滴剂滴在自己后槽牙上的操作画面, 口播宣称 TikTok Shop 有超过10万条好评, 讲述儿子牙医复诊时发现蛀牙消失的个人故事。风险：功效宣称风险。适合复刻：高价服务平替：讲述无法承担昂贵服务费（如看牙、修车），通过便宜小产品完美解决痛点的经历。"
+}

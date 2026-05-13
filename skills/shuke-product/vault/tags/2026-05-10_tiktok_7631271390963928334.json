@@ -1,0 +1,118 @@
+{
+  "video_id": "2026-05-10_tiktok_7631271390963928334",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7631271390963928334.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7631271390963928334/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.22,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "REJURAN Turnover Ampoule 50ml & Dual Effect Ampoule 50ml Bundle",
+    "category": "美妆护肤",
+    "sub_category": "面部精华",
+    "price_position": "$152.61",
+    "target_audience": [
+      "年轻女性",
+      "抗初老",
+      "价格敏感型",
+      "羊毛党",
+      "护肤达人"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "精华",
+      "抗老",
+      "PDRN",
+      "护肤套装",
+      "韩国护肤"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "价格跳水",
+      "低价占便宜",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "羊毛党",
+      "成分党",
+      "爱美女性"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激/悬念",
+    "first_3s_text": "Giá 2 set rẻ chấn động",
+    "mechanism": "利用居家素颜的真实状态配合夸张急促的语调，加上极具冲击力的低价字幕，瞬间激发用户的捡漏心理与好奇心。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "超低折扣：手把手教叠加TikTok平台与店铺优惠券，买两套仅需$150+",
+    "含税包邮：展示真实结算页面，强调价格已含税，无隐藏费用",
+    "核心成分：含有PDRN成分，具备强大的肌肤再生与抗衰老能力"
+  ],
+  "proof_points": [
+    "手机屏幕展示真实的购物车最终结算包含折扣的账单截图",
+    "红圈圈出的商品详情页多重优惠券(15% off, Buy 2 save 20%)截图",
+    "博主真实居家环境素颜上脸涂抹测试质地"
+  ],
+  "cta": {
+    "text": "点左下角链接，下拉应用所有优惠券，趁还没涨价赶紧买",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 7,
+    "purchase_impulse": 9,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "利用电商平台的隐藏优惠/叠加满减机制作为噱头，以手把手教程的形式带货高客单价美妆产品。",
+    "script_outline": [
+      "0-3s 痛点/悬念：手持大牌正装，直接抛出极其不可思议的低价大字报留人。",
+      "3-15s 抛出实锤：直接录屏或拍手机展示结算底价，强力打破信任防线。",
+      "15-25s 优惠教程：截图圈出关键的领券位置，制造只有按步骤操作才能买到的稀缺感。",
+      "25-30s 核心卖点：快速上脸展示并口播核心功效成分，打消质量顾虑。",
+      "30s+ 强力促单：强调优惠限时限量，立刻引导至左下角下单。"
+    ],
+    "shot_list": [
+      "博主面部及手持商品近景特写",
+      "手机结算账单页面屏幕特写",
+      "含有优惠券信息的商品详情页截图展现",
+      "产品按压及上脸涂抹脸部特写"
+    ],
+    "voiceover": "天呐这个两瓶套装现在买简直便宜到地震！你们看，原价一百多的东西，只要你点左下角，把这个15%折扣和买二送一的券叠加起来，结账包含税才152！真的超级无敌便宜！里面有PDRN能让皮肤再生抗老，各账号优惠不同，赶紧去试！",
+    "subtitles": [
+      "Giá 2 set rẻ chấn động",
+      "$152.61 包税带走！",
+      "15% off coupon + Buy 2 save 20%",
+      "PDRN 抗老再生"
+    ],
+    "ai_image_prompts": [
+      "A close-up vertical photo of a smartphone screen showing an online shopping cart checkout. The screen displays multiple stacked discount applied, with a final total price of $152.61 clearly visible. A female hand with long pointed purple acrylic nails is pointing at the price."
+    ],
+    "ai_video_prompts": [
+      "A young Asian woman wearing a pink puffy headband and floral pajamas is speaking rapidly and enthusiastically to the camera in a selfie-vlog style. She is holding two skincare serum pump bottles, one silver and one gold. She looks shocked and excited, gesturing actively with her hands in a brightly lit indoor bedroom setting."
+    ]
+  },
+  "search_text": "产品：REJURAN Turnover Ampoule 50ml & Dual Effect Ampoule 50ml Bundle。品类：美妆护肤/面部精华。人群：年轻女性, 抗初老, 价格敏感型, 羊毛党, 护肤达人。视频类型：价格刺激, UGC口播。钩子：价格跳水, 低价占便宜, 结果前置，Giá 2 set rẻ chấn động。卖点：超低折扣：手把手教叠加TikTok平台与店铺优惠券，买两套仅需$150+, 含税包邮：展示真实结算页面，强调价格已含税，无隐藏费用, 核心成分：含有PDRN成分，具备强大的肌肤再生与抗衰老能力。证明：手机屏幕展示真实的购物车最终结算包含折扣的账单截图, 红圈圈出的商品详情页多重优惠券(15% off, Buy 2 save 20%)截图, 博主真实居家环境素颜上脸涂抹测试质地。风险：功效宣称风险。适合复刻：利用电商平台的隐藏优惠/叠加满减机制作为噱头，以手把手教程的形式带货高客单价美妆产品。"
+}

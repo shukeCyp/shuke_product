@@ -1,0 +1,125 @@
+{
+  "video_id": "2026-05-10_tiktok_7632739031289285902",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7632739031289285902.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7632739031289285902/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 80.78,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "未知润色保湿霜 (含SPF30)",
+    "category": "美妆护肤",
+    "sub_category": "底妆",
+    "price_position": "未知",
+    "target_audience": [
+      "面部泛红/瑕疵人群",
+      "熟龄肌女性",
+      "追求快速精简化妆的女性"
+    ],
+    "confidence": 0.7
+  },
+  "tags": {
+    "product_tags": [
+      "润色保湿霜",
+      "自带SPF30",
+      "赠送化妆刷",
+      "遮瑕强",
+      "不卡纹"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "效果前后对比",
+      "痛点解决",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "反常识",
+      "悬念钩子",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景",
+      "产品特写",
+      "素颜原相机展示"
+    ],
+    "audience_tags": [
+      "熟龄肌",
+      "瑕疵皮",
+      "懒人美妆"
+    ],
+    "risk_tags": [
+      "无明确CTA",
+      "品牌未明确展示"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识悬念 + 结果前置",
+    "first_3s_text": "Everyone wants to say, oh that's foundation, that's foundation. It's not a foundation.",
+    "mechanism": "通过否定用户的直观认知（看着像粉底却不是）制造知识缺口，配合真实的素颜上脸动作留住注意力。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "不是厚重粉底而是润色面霜，无负担",
+    "高遮瑕力，无需额外使用遮瑕膏即可盖住红血丝和晒斑",
+    "自带 SPF30 防晒值，省去防晒步骤",
+    "滋润度高，不卡粉不显纹，专为熟龄肌打造",
+    "买产品即免费赠送一把大号快速上妆刷"
+  ],
+  "proof_points": [
+    "全程无滤镜原相机拍摄，直面额头晒伤和红血丝",
+    "实测大号化妆刷几秒内推开并遮盖泛红区域",
+    "极具视觉冲击力的左右半脸效果对比"
+  ],
+  "cta": {
+    "text": "They don't have a lot of colors in stock right now because they are offering the free brush.",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 10,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 9
+  },
+  "remake": {
+    "angle": "瑕疵皮素人痛点切入，一镜到底展示半脸神级遮盖对比，主打养肤底妆+赠品逼单",
+    "script_outline": [
+      "悬念破冰：否定常规粉底认知，展示真实瑕疵肌",
+      "抛出利益：点明是养肤润色面霜，并强调用它送的刷子极速上妆",
+      "核心演示：一镜到底完成半脸涂抹，突出无需遮瑕",
+      "视觉对比：停顿展示半脸巨大反差，利用爆款属性建立背书",
+      "受众扩圈与逼单：强调对熟龄肌友好，用赠品导致的缺货感催促下单"
+    ],
+    "shot_list": [
+      "素颜怼脸大特写，展示红血丝等痛点",
+      "刷子上脸推开顺滑质地的局部特写",
+      "左右半脸惊艳对比固定镜头",
+      "手持产品管身与刷子展示"
+    ],
+    "voiceover": "都以为这是厚重粉底？根本不是！看我这满脸红血丝和无滤镜晒伤。这是一支带有SPF30的润色面霜，用它免费送的这把大刷子随便一扫，遮瑕力绝了，完全不需要遮瑕膏！看这半脸对比！而且它保湿不卡纹，对熟龄肌超友好。现在因为送刷子导致很多色号断货了，赶紧去看看你的色号还在不在！",
+    "subtitles": [
+      "这不是粉底！",
+      "免费送大号化妆刷！",
+      "无滤镜实测",
+      "红血丝瞬间消失",
+      "半脸对比太疯狂了",
+      "熟龄肌必备，自带SPF30",
+      "送刷子库存告急！"
+    ],
+    "ai_image_prompts": [
+      "Close-up selfie portrait of a Caucasian woman with visible skin redness applying tinted moisturizer with a large kabuki brush on half her face, natural daylight, clear contrast between untreated red skin and flawless skin, TikTok UGC style"
+    ],
+    "ai_video_prompts": [
+      "Vertical video, close-up of a woman with facial redness using a large makeup brush to apply tinted moisturizer. The makeup instantly covers the redness. She stops to show the camera the stark contrast between the flawless right side and the red left side of her face. Authentic UGC feel."
+    ]
+  },
+  "search_text": "产品：未知润色保湿霜 (含SPF30)。品类：美妆护肤/底妆。人群：面部泛红/瑕疵人群, 熟龄肌女性, 追求快速精简化妆的女性。视频类型：UGC口播, 效果前后对比, 痛点解决, 质地实测。钩子：反常识, 悬念钩子, 结果前置, 尴尬痛点，Everyone wants to say, oh that's foundation, that's foundation. It's not a foundation.。卖点：不是厚重粉底而是润色面霜，无负担, 高遮瑕力，无需额外使用遮瑕膏即可盖住红血丝和晒斑, 自带 SPF30 防晒值，省去防晒步骤, 滋润度高，不卡粉不显纹，专为熟龄肌打造, 买产品即免费赠送一把大号快速上妆刷。证明：全程无滤镜原相机拍摄，直面额头晒伤和红血丝, 实测大号化妆刷几秒内推开并遮盖泛红区域, 极具视觉冲击力的左右半脸效果对比。风险：无明确CTA, 品牌未明确展示。适合复刻：瑕疵皮素人痛点切入，一镜到底展示半脸神级遮盖对比，主打养肤底妆+赠品逼单。"
+}

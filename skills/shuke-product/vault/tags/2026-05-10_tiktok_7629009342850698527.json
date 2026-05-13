@@ -1,0 +1,116 @@
+{
+  "video_id": "2026-05-10_tiktok_7629009342850698527",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629009342850698527.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629009342850698527/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.03,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dossier Ambery Saffron 香水",
+    "category": "美妆护肤",
+    "sub_category": "香水",
+    "price_position": "低价",
+    "target_audience": [
+      "年轻女性",
+      "香水爱好者",
+      "平替追求者",
+      "价格敏感型"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "大牌平替",
+      "香氛",
+      "Dossier"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "场景种草",
+      "UGC口播",
+      "探店比价",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "线下标价背书"
+    ],
+    "audience_tags": [
+      "女性",
+      "学生党",
+      "羊毛党"
+    ],
+    "risk_tags": [
+      "无明确CTA指令",
+      "产品实体不清晰",
+      "仅展示包装"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格悬念",
+    "first_3s_text": "How can they sell it this cheap?? Why would you pay $49",
+    "mechanism": "利用线下实体店高价标牌与线上极低价格的落差，配合第一人称反问，制造强烈的信息差和省钱期待。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "价格极具优势（用一半的钱买两瓶）",
+    "Baccarat Rouge 540 的同款平替气味"
+  ],
+  "proof_points": [
+    "线下真实的 $49 标价签特写",
+    "包装盒明确印有 Inspired by 大牌文案"
+  ],
+  "cta": {
+    "text": "right here (配合手指往下指)",
+    "clarity": "隐晦但符合平台习惯"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 6,
+    "purchase_impulse": 9,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "线下专柜实拍防坑比价模式",
+    "script_outline": [
+      "展示线下高价标签抛出痛点",
+      "展示包装大牌对标卖点",
+      "抛出线上半价买双份机制",
+      "手指引导下方购买"
+    ],
+    "shot_list": [
+      "价格牌特写",
+      "商品包装盒平移特写",
+      "多件商品同框俯拍特写"
+    ],
+    "voiceover": "你为什么要花49刀买一瓶？明明在这里你可以用一半的价格直接拿下两瓶！",
+    "subtitles": [
+      "How can they sell it this cheap??",
+      "Why would you pay $49",
+      "for one ML of Ambery Saffron",
+      "when you can get two for half the price right here?"
+    ],
+    "ai_image_prompts": [
+      "First-person perspective, a female hand pointing at a worn price tag on a retail store shelf reading '$49.00', bright fluorescent lighting, close-up shot."
+    ],
+    "ai_video_prompts": [
+      "POV shot inside a store. Camera pans from a price tag down to a perfume box. A manicured hand taps two identical boxes and points downwards. Realistic store lighting."
+    ]
+  },
+  "search_text": "产品：Dossier Ambery Saffron 香水。品类：美妆护肤/香水。人群：年轻女性, 香水爱好者, 平替追求者, 价格敏感型。视频类型：价格刺激, 场景种草, UGC口播, 探店比价, 痛点解决。钩子：低价占便宜, 好奇悬念, 价格跳水, 场景冲突，How can they sell it this cheap?? Why would you pay $49。卖点：价格极具优势（用一半的钱买两瓶）, Baccarat Rouge 540 的同款平替气味。证明：线下真实的 $49 标价签特写, 包装盒明确印有 Inspired by 大牌文案。风险：无明确CTA指令, 产品实体不清晰, 仅展示包装。适合复刻：线下专柜实拍防坑比价模式。"
+}

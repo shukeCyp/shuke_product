@@ -1,0 +1,122 @@
+{
+  "video_id": "2026-05-10_tiktok_7635503041873022221_copy1",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635503041873022221 (1).mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635503041873022221_copy1/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.4,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "疑似韩国护肤棉片/亮肤棉片",
+    "category": "身体护理",
+    "sub_category": "局部护理",
+    "price_position": "平价/低价",
+    "target_audience": [
+      "女性",
+      "有腋下暗沉困扰人群",
+      "追求性价比的用户"
+    ],
+    "confidence": 0.8
+  },
+  "tags": {
+    "product_tags": [
+      "爽肤棉片",
+      "身体亮白",
+      "韩国美妆"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "质地展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "女性护理需求",
+      "平价替代需求"
+    ],
+    "risk_tags": [
+      "功效宣称风险",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "尴尬痛点",
+    "first_3s_text": "ME DABA PENA ALZAR LOS BRAZOS",
+    "mechanism": "展示无效的民间土方（柠檬+小苏打）并直接暴露腋下发黑的尴尬痛点，瞬间引发同类困扰人群的共鸣与好奇。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "有效改善腋下色素沉淀/暗沉",
+    "平价，是昂贵医美/美容院项目的替代品",
+    "精华液丰富，使用方便",
+    "当前有破盘价/历史低价"
+  ],
+  "proof_points": [
+    "挤压棉片流出大量精华液的质地特写",
+    "博主上身擦拭的使用场景",
+    "腋下从暗沉到白净的前后视觉对比"
+  ],
+  "cta": {
+    "text": "Y wow estoy FELIZ SI ESTAS IGUAL AQUI TE LOS DEJO ENLAZADO / Nunca los habia visto a este precio ‼️😯 + 红色向下指示箭头",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 7,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 8
+  },
+  "remake": {
+    "angle": "无效偏方踩雷转平价好物种草（适合去黑头、去痘印、身体美白等功效型产品）",
+    "script_outline": [
+      "痛点展示：展示错误的民间护肤偏方及无改善的肌肤问题",
+      "抛出问题：感叹没钱做昂贵的医美治疗",
+      "引出方案：亮出平价替代品，并特写展示其优秀的质地（如爆水感）",
+      "效果呈现：实测上身并展示惊艳的改善效果",
+      "逼单促转：强调现在的史低价格并用箭头引导点击小黄车"
+    ],
+    "shot_list": [
+      "近景：操作土偏方，面露愁容",
+      "特写：展示糟糕的皮肤局部",
+      "特写：单手用力挤压产品（棉片），滴落大量精华",
+      "中景：涂抹产品，表情逐渐开心",
+      "近景：换装后状态极佳，展示变好的皮肤，画面加红色大箭头"
+    ],
+    "voiceover": "利用带悬念或压迫感的流行BGM配合字幕，或者直接用急促的口播：别再用小苏打擦腋下了！我也曾因为去不起美容院而自卑，直到我发现了这个韩国爆款棉片。你看这精华量！擦了几天现在终于敢穿吊带了。现在正在清仓，赶紧点击左下角！",
+    "subtitles": [
+      "以前根本不敢抬胳膊",
+      "试了偏方毫无用处",
+      "没钱做贵妇保养",
+      "只能试试这个韩国棉片",
+      "哇！质地太牛了",
+      "现在居然这么便宜！快冲！"
+    ],
+    "ai_image_prompts": [
+      "A young woman looking stressed in a bathroom, holding a halved lime and a spoon of baking soda, dark lighting, realistic TikTok style",
+      "A bright clear macro shot of a green cosmetic pad being squeezed, dripping clear essence fluid, bright lighting, high detail"
+    ],
+    "ai_video_prompts": [
+      "Macro shot, slow motion, a hand squeezing a round skincare toner pad, lots of transparent liquid dripping down, soft studio lighting, high resolution"
+    ]
+  },
+  "search_text": "产品：疑似韩国护肤棉片/亮肤棉片。品类：身体护理/局部护理。人群：女性,有腋下暗沉困扰人群,追求性价比的用户。视频类型：痛点解决,效果前后对比,质地实测,价格刺激,UGC口播。钩子：尴尬痛点,场景冲突,结果前置，ME DABA PENA ALZAR LOS BRAZOS。卖点：有效改善腋下色素沉淀/暗沉,平价，是昂贵医美/美容院项目的替代品,精华液丰富，使用方便,当前有破盘价/历史低价。证明：挤压棉片流出大量精华液的质地特写,博主上身擦拭的使用场景,腋下从暗沉到白净的前后视觉对比。风险：功效宣称风险,信任不足。适合复刻：无效偏方踩雷转平价好物种草（适合去黑头、去痘印、身体美白等功效型产品）。"
+}

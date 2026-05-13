@@ -1,0 +1,121 @@
+{
+  "video_id": "2026-05-10_tiktok_7631617254727093534",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7631617254727093534.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7631617254727093534/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 116.4,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Physician's Choice Digestive Enzymes",
+    "category": "健康养生",
+    "sub_category": "消化保健品",
+    "price_position": "未知",
+    "target_audience": [
+      "消化不良者",
+      "餐后易腹胀人群",
+      "麸质/乳糖不耐受者",
+      "经常吃高热量快餐人群"
+    ],
+    "confidence": 0.98
+  },
+  "tags": {
+    "product_tags": [
+      "消化酶",
+      "胶囊",
+      "肠胃健康"
+    ],
+    "video_type_tags": [
+      "健康养生",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "痛点提问",
+      "悬念引入",
+      "视觉奇观"
+    ],
+    "proof_tags": [
+      "成分实测",
+      "强视觉反差",
+      "对照组实验"
+    ],
+    "audience_tags": [
+      "久坐族",
+      "美食爱好者",
+      "肠胃脆弱人群"
+    ],
+    "risk_tags": [
+      "医疗效果夸大风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点呼唤+实验悬念",
+    "first_3s_text": "PROOF DIGESTIVE EMZYMES WORK",
+    "mechanism": "配合大写醒目标题，口播直接点出‘饭后腹胀’痛点，并立刻拿出食物准备进行非日常操作（将布丁倒置在杯底），利用猎奇心理和痛点共鸣死死抓住目标用户的注意力。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "极其快速地分解难以消化的食物",
+    "强效缓解餐后腹胀和胀气",
+    "应对乳糖不耐受和麸质不耐受",
+    "针对高油高碳水饮食（如披萨、汉堡）的日常化解"
+  ],
+  "proof_points": [
+    "将胶囊粉末撒在粘稠固态的巧克力布丁上并轻轻搅拌后，布丁在几秒内瞬间液化成水状并流下杯壁",
+    "右侧未添加消化酶的布丁保持原样形成极强的视觉对比"
+  ],
+  "cta": {
+    "text": "无明确口播CTA",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 10,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "利用极具冲击力的食物物理状态改变实验，来具象化证明晦涩的肠胃消化保健功效",
+    "script_outline": [
+      "0-5s：抛出饭后胀气痛点，引出标题和即将进行的实验对象。",
+      "6-20s：将极度粘稠的食物（如浓芝麻糊/布丁）涂在两个透明介质上（作为实验组和对照组），比喻肠胃里的积食。",
+      "21-50s：展示产品，将粉末撒入其中一组并搅拌。特写展示粘稠物瞬间化为水状流走的过程，产生奇观体验。",
+      "51-60s：对比未处理的一组，植入产品能解决的具体饮食场景（如吃大餐、吃外卖），用个人不胀气的体验做结尾。"
+    ],
+    "shot_list": [
+      "中景：主播口播，展示产品痛点",
+      "近景：将粘稠食物抹在两个倒扣的透明杯底",
+      "特写：清晰展示产品瓶身，拔开一粒胶囊倒出粉末",
+      "特写：用勺子将粉末与粘稠食物混合，重点捕捉食物秒变水滴落的瞬间",
+      "中景：展示液化的左杯与依旧是固体的右杯的鲜明对比"
+    ],
+    "voiceover": "如果你一吃饱肚子就胀得像个气球，一定不要划走。我要给你们看个超震撼的实验。假设这是堵在你肠胃里消化不掉的垃圾（放上粘稠食物糊），我现在只撒上一粒我们的消化酶，看看会发生什么。注意看！稍微搅一下，它直接化成水流下来了！而旁边这个没加的还是硬邦邦的一坨。如果你爱吃外卖、容易胀气或者乳糖不耐受，这东西绝对能救你的命！",
+    "subtitles": [
+      "饭后总是肚子胀气？",
+      "一个实验证明消化酶有多牛",
+      "模拟肠胃里化不开的食物积压",
+      "只需一粒消化酶胶囊粉末",
+      "见证奇迹的时刻",
+      "瞬间变成水流走了！",
+      "彻底告别饭后胀气"
+    ],
+    "ai_image_prompts": [
+      "Two transparent glasses placed upside down on a clean kitchen counter. On the bottom of the left glass, there is a puddle of watery brown liquid rapidly dripping down the sides. On the bottom of the right glass, there is a solid, thick blob of dark chocolate pudding. Bright natural lighting, highly detailed."
+    ],
+    "ai_video_prompts": [
+      "Close-up macro shot of a hand sprinkling white powder from a clear capsule onto a thick scoop of chocolate pudding resting on the bottom of an upside-down glass. As a spoon gently stirs the powder in, the pudding rapidly undergoes a physical change, melting into a thin liquid and dripping down the sides of the glass in real-time."
+    ]
+  },
+  "search_text": "产品：Physician's Choice Digestive Enzymes。品类：健康养生/消化保健品。人群：消化不良者, 餐后易腹胀人群, 麸质/乳糖不耐受者, 经常吃高热量快餐人群。视频类型：健康养生, 痛点解决, 效果前后对比, 质地实测, UGC口播, 场景种草。钩子：痛点提问, 悬念引入, 视觉奇观，PROOF DIGESTIVE EMZYMES WORK。卖点：极其快速地分解难以消化的食物, 强效缓解餐后腹胀和胀气, 应对乳糖不耐受和麸质不耐受, 针对高油高碳水饮食（如披萨、汉堡）的日常化解。证明：将胶囊粉末撒在粘稠固态的巧克力布丁上并轻轻搅拌后，布丁在几秒内瞬间液化成水状并流下杯壁, 右侧未添加消化酶的布丁保持原样形成极强的视觉对比。风险：医疗效果夸大风险。适合复刻：利用极具冲击力的食物物理状态改变实验，来具象化证明晦涩的肠胃消化保健功效。"
+}

@@ -1,0 +1,131 @@
+{
+  "video_id": "2026-05-10_tiktok_7636226006994455822",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7636226006994455822.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7636226006994455822/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 148.27,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dr. Melaxin 护肤套组(微针精华/紧致面霜/去皱棒/眼膜)",
+    "category": "美妆护肤",
+    "sub_category": "面部护理",
+    "price_position": "中高客单",
+    "target_audience": [
+      "30岁+女性",
+      "抗衰老需求",
+      "关注医美平替人群",
+      "有细纹色斑困扰人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "微针精华",
+      "胶原蛋白面霜",
+      "去皱棒",
+      "抗衰套装",
+      "韩国护肤"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播",
+      "测评对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "反常识",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "手背实测",
+      "前后对比",
+      "使用场景",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "熟龄肌",
+      "成分党",
+      "医美劝退党"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观+悬念",
+    "first_3s_text": "I'm nearing 40- how do I look like this?...",
+    "mechanism": "通过脸上贴真实注射器的反常识画面制造强烈的视觉冲击，同时抛出年龄悬念，精准吸引有抗衰焦虑的女性停下观看寻找答案。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "瓶装微针，无需破皮即可促进细胞更新修复纹理",
+    "专利成分有效打散黑色素，均匀肤色淡化黑斑",
+    "强效紧致松弛肌肤，补充胶原蛋白",
+    "便携去皱棒，随时填平法令纹和细纹",
+    "一套解决医美才能解决的问题，性价比高且安全"
+  ],
+  "proof_points": [
+    "博主自身脸部曾因医美失败的照片与当前紧致状态的对比",
+    "各款产品在手背和面部的质地实测特写",
+    "画中画展示的多个淡斑、祛皱的Before/After对比图",
+    "科学原理图解（微针作用图、黑色素分解图）",
+    "画中画展示的其他多位女性试用该产品的反应"
+  ],
+  "cta": {
+    "text": "无",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 7,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "医美踩坑自曝转护肤黑科技平替种草",
+    "script_outline": [
+      "钩子：以夸张造型或痛点黑历史照片开场，留住目光",
+      "痛点放大：吐槽昂贵方案（医美/大牌）的弊端，引发共鸣",
+      "抛出方案：引出硬核护肤组合作为平替",
+      "痛点拆解展示：依次展示单品，结合手背实测、成分图解和前后对比图强化功效说明",
+      "收尾转化：强力引导去评论区或小黄车下单"
+    ],
+    "shot_list": [
+      "脸贴奇特道具近景自拍",
+      "画中画展示皮肤问题照片",
+      "产品包装特写",
+      "手背涂抹质地特写",
+      "面部局部涂抹（眼下、法令纹）特写",
+      "对比图画中画覆盖"
+    ],
+    "voiceover": "不要再给诊所送钱了！看看我以前乱打东西的脸。其实你只需要这些韩国真正的黑科技护肤品...",
+    "subtitles": [
+      "快40岁如何保持状态？",
+      "医美太贵还有风险",
+      "瓶装微针科技",
+      "专利淡斑成分",
+      "抹平法令纹"
+    ],
+    "ai_image_prompts": [
+      "A close-up split-screen showing a woman's nasolabial fold, left side shows a deep wrinkle, right side shows a smooth and plumped skin surface, clinical photography style"
+    ],
+    "ai_video_prompts": [
+      "Macro shot of a pink gel serum being spread on the back of a hand, highlighting the shiny and smooth texture, bright natural lighting"
+    ]
+  },
+  "search_text": "产品：Dr. Melaxin 护肤套组(微针精华/紧致面霜/去皱棒/眼膜)。品类：美妆护肤/面部护理。人群：30岁+女性, 抗衰老需求, 关注医美平替人群, 有细纹色斑困扰人群。视频类型：痛点解决, 效果前后对比, 质地实测, UGC口播, 测评对比。钩子：好奇悬念, 反常识, 场景冲突, 尴尬痛点，I'm nearing 40- how do I look like this?...。卖点：瓶装微针，无需破皮即可促进细胞更新修复纹理, 专利成分有效打散黑色素，均匀肤色淡化黑斑, 强效紧致松弛肌肤，补充胶原蛋白, 便携去皱棒，随时填平法令纹和细纹, 一套解决医美才能解决的问题，性价比高且安全。证明：博主自身脸部曾因医美失败的照片与当前紧致状态的对比, 各款产品在手背和面部的质地实测特写, 画中画展示的多个淡斑、祛皱的Before/After对比图, 科学原理图解（微针作用图、黑色素分解图）, 画中画展示的其他多位女性试用该产品的反应。风险：无CTA, 功效宣称风险。适合复刻：医美踩坑自曝转护肤黑科技平替种草。"
+}

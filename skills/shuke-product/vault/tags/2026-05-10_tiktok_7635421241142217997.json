@@ -1,0 +1,116 @@
+{
+  "video_id": "2026-05-10_tiktok_7635421241142217997",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635421241142217997.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635421241142217997/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.97,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Color Wow Pop & Lock",
+    "category": "美妆护肤",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "有吹发习惯的女性",
+      "受头发毛躁困扰的人群",
+      "熟龄女性"
+    ],
+    "confidence": 0.98
+  },
+  "tags": {
+    "product_tags": [
+      "头发护理",
+      "护发凝露",
+      "抚平毛躁",
+      "增加光泽"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "质地实测",
+      "UGC口播",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "场景代入",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "女性",
+      "发质受损",
+      "熟龄"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ],
+    "risk_tags": []
+  },
+  "hook": {
+    "type": "场景代入",
+    "first_3s_text": "This is you after you blow dry your hair.",
+    "mechanism": "通过指出目标群体高频的日常场景（吹头发），配合挤压产品的动作，唤起观众对吹发后头发毛躁痛点的共鸣。",
+    "retention_score": 7
+  },
+  "selling_points": [
+    "Glossy (提供头发光泽感)",
+    "Shine (让秀发闪亮)",
+    "No more flyaways (抚平飞翘和毛躁)"
+  ],
+  "proof_points": [
+    "开篇真实挤出白色乳液展示质地",
+    "真人无剪辑上头涂抹过程展示延展性",
+    "涂抹后头顶平滑无碎发且发丝在光线下反光的视觉效果"
+  ],
+  "cta": {
+    "text": "Yeah. I have it linked below.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 8,
+    "purchase_impulse": 8,
+    "total": 8
+  },
+  "remake": {
+    "angle": "UGC真人痛点场景直入与极简实测展示",
+    "script_outline": [
+      "场景痛点代入（挤出产品）",
+      "沉浸式上头涂抹展示质地",
+      "亮出产品并带出品牌名",
+      "精炼罗列核心卖点并展示即时效果",
+      "明确指示购物车引流"
+    ],
+    "shot_list": [
+      "近景：直视镜头，手部挤压产品",
+      "近景：双手揉搓并涂抹在头发上",
+      "近景特写：手持产品置于画面中央展示包装",
+      "近景：手指抚平头发，展示光泽度",
+      "近景：手持产品指引屏幕下方"
+    ],
+    "voiceover": "这就是你吹完头发后的样子。（展示涂抹）。这就是你涂了[产品名]后的样子。它有光泽，让你闪亮，不再有毛躁飞翘。我把链接放在下面了。",
+    "subtitles": [
+      "This is you after you blow dry your hair.",
+      "And this is you after you apply Pop & Lock from Color Wow.",
+      "It's glossy.",
+      "It gives you shine.",
+      "No more flyaways.",
+      "Yeah. I have it linked below."
+    ],
+    "ai_image_prompts": [
+      "A vertical portrait of a confident middle-aged blonde woman holding a sleek silver hair serum bottle, natural lighting, glossy smooth hair, realistic style, highly detailed"
+    ],
+    "ai_video_prompts": [
+      "A blonde woman in her 50s pumps a white hair styling lotion into her palm, then rubs it smoothly into her dry hair to tame frizz. The lighting highlights the glossy finish of her hair. Vertical TikTok style video, high resolution."
+    ]
+  },
+  "search_text": "产品：Color Wow Pop & Lock。品类：美妆护肤/身体护理。人群：有吹发习惯的女性, 受头发毛躁困扰的人群, 熟龄女性。视频类型：痛点解决, 质地实测, UGC口播, 场景种草。钩子：场景代入, 尴尬痛点，This is you after you blow dry your hair.。卖点：Glossy (提供头发光泽感), Shine (让秀发闪亮), No more flyaways (抚平飞翘和毛躁)。证明：开篇真实挤出白色乳液展示质地, 真人无剪辑上头涂抹过程展示延展性, 涂抹后头顶平滑无碎发且发丝在光线下反光的视觉效果。风险：。适合复刻：UGC真人痛点场景直入与极简实测展示。"
+}

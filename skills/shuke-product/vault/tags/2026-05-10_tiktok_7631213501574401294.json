@@ -1,0 +1,137 @@
+{
+  "video_id": "2026-05-10_tiktok_7631213501574401294",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7631213501574401294.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7631213501574401294/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 50.63,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dr.Melaxin TX Cream",
+    "category": "美妆护肤",
+    "sub_category": "面部精华/面霜",
+    "price_position": "未知",
+    "target_audience": [
+      "有色斑困扰的女性",
+      "有黄褐斑困扰的用户",
+      "追求美白淡斑效果的人群",
+      "希望改善肤色不均的用户"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "面部精华/面霜"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "UGC口播",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "尴尬痛点",
+      "反常识"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "成分展示",
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "成分党",
+      "爱美女性"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果前置",
+    "first_3s_text": "（画中画展示使用前满脸严重色斑的照片，主画面是博主现在光洁的皮肤和极度惊讶的表情）Oh my god!",
+    "mechanism": "通过前后效果的巨大视觉反差和博主夸张的惊讶反应，瞬间抓住用户注意力，激发其对解决方案的好奇心。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "能在4-5周内显著淡化顽固色斑/黄褐斑",
+    "含有传明酸（TXA），从源头阻止黑色素生成",
+    "复配烟酰胺、谷胱甘肽和维C，有效提亮肤色",
+    "含有神经酰胺、乳木果油、透明质酸，深层保湿修复",
+    "使用后可获得自信，素颜出门也无压力",
+    "非剥脱性成分，对皮肤温和"
+  ],
+  "proof_points": [
+    {
+      "type": "前后对比",
+      "description": "视频开头和贯穿始终的“使用前”色斑照片与“使用后”光洁皮肤的真人实拍对比，是最核心的视觉证明。",
+      "confidence": 9
+    },
+    {
+      "type": "用户评价",
+      "description": "博主以第一人称视角分享了自己从深受色斑困扰到皮肤改善的完整心路历程，属于强有力的个人证言。",
+      "confidence": 8
+    },
+    {
+      "type": "第三方背书",
+      "description": "视频中插入了类似PubMed、Amazon等网站关于产品成分功效的解释截图，增加了产品的科学性和权威感。",
+      "confidence": 7
+    },
+    {
+      "type": "成分展示",
+      "description": "口播清晰地介绍了传明酸、烟酰胺、维C等多种有效成分及其作用机理。",
+      "confidence": 8
+    }
+  ],
+  "cta": {
+    "text": "I'll link it down below.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 7,
+    "purchase_impulse": 8,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "顽固问题解决者",
+    "script_outline": [
+      "钩子：展示使用前最糟糕状态的照片/视频，并配上自己看到现在效果后震惊的反应。",
+      "点明问题：'看，这就是我之前的XX问题。我试过无数方法都没用。'",
+      "展示方案和效果：'直到我用了这款[产品名] X周，你们看现在的效果，问题几乎都解决了。'",
+      "建立信任：拿出产品，讲解核心成分/原理（可配合信息图文层），解释为什么它有效。",
+      "CTA与紧迫感：'它现在正好有活动/优惠，库存不多，想解决同样问题的朋友赶紧去看看，链接我放下面了。'"
+    ],
+    "shot_list": [
+      "[画中画] 使用前问题特写 + [特写] 当前效果和博主震惊表情",
+      "[中近景] 博主口播，手指向之前的照片",
+      "[脸部特写] 手指点出问题改善的区域",
+      "[中景] 手持产品，进行讲解",
+      "[产品特写] 产品包装和名称",
+      "[中近景] 博主自信地展示效果，并给出CTA手势"
+    ],
+    "voiceover": "风格真实、激动，像在和闺蜜分享好东西。语速可以稍快，充满热情。",
+    "subtitles": [
+      "顽固色斑终于有救了！",
+      "使用4周，效果绝了！",
+      "核心成分：传明酸",
+      "闪购中！手慢无！",
+      "点击下方链接get同款"
+    ],
+    "ai_image_prompts": [
+      "A before photo of an Asian woman's face in her 30s, severe melasma and dark spots on her cheek, sad expression, detailed skin texture, hyper-realistic.",
+      "An after photo of the same Asian woman, clear and glowing skin, happy and confident expression, soft natural lighting, extremely detailed skin, minimal blemishes."
+    ],
+    "ai_video_prompts": [
+      "A close-up selfie video of an excited Asian woman in her 30s, she looks shocked and happy, pointing at her flawless skin, soft indoor lighting, 4K."
+    ]
+  },
+  "search_text": "产品：Dr.Melaxin TX Cream。品类：美妆护肤/面部精华/面霜。人群：有色斑困扰的女性,有黄褐斑困扰的用户,追求美白淡斑效果的人群,希望改善肤色不均的用户。视频类型：效果前后对比,UGC口播,痛点解决。钩子：结果前置,尴尬痛点,反常识，（画中画展示使用前满脸严重色斑的照片，主画面是博主现在光洁的皮肤和极度惊讶的表情）Oh my god!。卖点：能在4-5周内显著淡化顽固色斑/黄褐斑,含有传明酸（TXA），从源头阻止黑色素生成,复配烟酰胺、谷胱甘肽和维C，有效提亮肤色,含有神经酰胺、乳木果油、透明质酸，深层保湿修复,使用后可获得自信，素颜出门也无压力,非剥脱性成分，对皮肤温和。证明：前后对比,成分展示,第三方背书,使用场景。风险：功效宣称风险。适合复刻：顽固问题解决者。"
+}

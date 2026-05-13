@@ -1,0 +1,122 @@
+{
+  "video_id": "2026-05-10_tiktok_7632507657496169742",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7632507657496169742.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7632507657496169742/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 72.57,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Medicube 护肤全家桶套装",
+    "category": "美妆护肤",
+    "sub_category": "护肤套装",
+    "price_position": "高性价比",
+    "target_audience": [
+      "年轻女性",
+      "护肤需求人群",
+      "学生党",
+      "追求性价比者"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "精华液",
+      "爽肤水",
+      "洁面乳",
+      "贴片",
+      "睡眠面膜",
+      "护肤套装"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播",
+      "清仓福利"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "情绪制造"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写",
+      "第三方背书",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "容貌焦虑",
+      "价格敏感型",
+      "成分党",
+      "追星族"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪悬念",
+    "first_3s_text": "I'm EMBARRASSED. Plz check reviews yall 😭😭😭",
+    "mechanism": "利用夸张的懊恼情绪和似乎踩雷的字幕，打破用户防御，让用户误以为是吐槽避雷视频而停留，实则为欲扬先抑的反向种草铺垫。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "改善毛孔粗大",
+    "深层清洁肌肤",
+    "抗皱淡纹补充胶原蛋白",
+    "打造韩系玻璃发光肌",
+    "明星同款极高性价比"
+  ],
+  "proof_points": [
+    "博主本人使用一周前后的脸部高清对比图",
+    "多位明星/网红使用的短视频片段画中画",
+    "TikTok Shop不到100美金的价格截图界面"
+  ],
+  "cta": {
+    "text": "it's on a crazy sale... I would run",
+    "clarity": "high"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "反向带货：先吐槽自己原价购买当了怨种，再通过真实对比图证明产品无可挑剔，最后用目前的极端低价套装完成反转逼单。",
+    "script_outline": [
+      "情绪开场：表现得非常生气或懊恼，抛出悬念说自己花冤枉钱了",
+      "盘点痛点：逐一展示几款产品，快速讲清它们分别解决了什么严重的肌肤问题（配明星同款话术）",
+      "效果实证：晒出自己惨不忍睹的过去和现在的好皮肤，证明钱没白花",
+      "抛出反转：解释生气的真正原因是官方出了骨折价套装，呼吁大家去捡漏"
+    ],
+    "shot_list": [
+      "手捂脸情绪特写，配合字幕悬念",
+      "中景手持单品快速怼镜头特写（重复多次）",
+      "画中画叠加强化：叠加明星使用视频/脸部瑕疵细节图",
+      "手机截屏录屏：展示惊人的低价页面"
+    ],
+    "voiceover": "连珠炮式的快语速，情绪从一开始的抱怨急躁，逐渐转变为安利时的激动，最后变成催促下单的急迫。",
+    "subtitles": [
+      "醒目大字：I'm genuinely pissed",
+      "核心卖点词汇高亮：Glass Skin, Poreless, Collagen",
+      "价格对比弹窗：$300 vs Under $100!"
+    ],
+    "ai_image_prompts": [
+      "A realistic split-screen image showing a woman's face before and after skincare. Left side: dull skin, enlarged pores, acne marks. Right side: glowing, smooth 'glass skin', radiant, no makeup, natural lighting. --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "A UGC style vertical video of a young blonde woman aggressively holding up multiple skincare bottles to the camera one by one. She has a frustrated but excited expression. Fast cuts, bright indoor lighting. --ar 9:16"
+    ]
+  },
+  "search_text": "产品：Medicube 护肤全家桶套装。品类：美妆护肤/护肤套装。人群：年轻女性, 护肤需求人群, 学生党, 追求性价比者。视频类型：剧情反转, 价格刺激, 效果前后对比, UGC口播, 清仓福利。钩子：好奇悬念, 价格跳水, 情绪制造，I'm EMBARRASSED. Plz check reviews yall 😭😭😭。卖点：改善毛孔粗大, 深层清洁肌肤, 抗皱淡纹补充胶原蛋白, 打造韩系玻璃发光肌, 明星同款极高性价比。证明：博主本人使用一周前后的脸部高清对比图, 多位明星/网红使用的短视频片段画中画, TikTok Shop不到100美金的价格截图界面。风险：功效宣称风险。适合复刻：反向带货：先吐槽自己原价购买当了怨种，再通过真实对比图证明产品无可挑剔，最后用目前的极端低价套装完成反转逼单。"
+}

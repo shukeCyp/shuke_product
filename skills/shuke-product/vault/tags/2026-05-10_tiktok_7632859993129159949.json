@@ -1,0 +1,121 @@
+{
+  "video_id": "2026-05-10_tiktok_7632859993129159949",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7632859993129159949.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7632859993129159949/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 63.57,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "疑似 Tarte 粉底液及赠品刷子",
+    "category": "美妆护肤",
+    "sub_category": "底妆",
+    "price_position": "中高端",
+    "target_audience": [
+      "40岁以上女性",
+      "熟龄肌",
+      "害怕卡粉人群",
+      "夏季易出汗人群"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "粉底液",
+      "化妆刷",
+      "养肤底妆",
+      "防汗粉底"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "效果前后对比",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "痛点前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "成熟女性",
+      "干性/混干性肌肤"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份点名与痛点解决",
+    "first_3s_text": "Look at this, look at this. If you are in your 40s and you want a foundation that's going to give you coverage without sinking into your fine lines...",
+    "mechanism": "精准筛选40岁以上熟龄肌群体，直接点出容易卡纹卡粉的化妆痛点，建立极强的代入感和观看需求。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "不卡纹卡粉，适合熟龄肌",
+    "超过12小时防汗持妆，适合夏季",
+    "24小时深层保湿水润",
+    "含有护肤成分（让皮肤嘭弹的咖啡因、高维C的云莓）",
+    "妆效轻薄自然，呈现不油腻的水光肌",
+    "购买即免费获赠价值38美元的专柜级化妆刷"
+  ],
+  "proof_points": [
+    "车内无滤镜自然光直接上脸实测",
+    "面部左右两边的上妆与未上妆对比",
+    "博主真实展示近景皮肤质感"
+  ],
+  "cta": {
+    "text": "I don't know how long that lasts though, so I'm gonna link it down below.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 9,
+    "purchase_impulse": 10,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "车内自然光实测痛点美妆+超高价值赠品逼单",
+    "script_outline": [
+      "1. 身份对标：点出年龄段及该年龄段最大的化妆痛点（如卡粉/显老）。",
+      "2. 痛点解决：一边在脸上演示，一边强调产品的功效（遮瑕且不卡纹、防汗）。",
+      "3. 价值塑造：科普1-2个产品内的高级成分，提供信任背书。",
+      "4. 效果呈现：展示完美的半脸对比，呼吁观众保存视频。",
+      "5. 极致逼单：拿出高价值赠品（如专柜刷子），强调买一送一的划算程度及限时性，引导点击下方链接。"
+    ],
+    "shot_list": [
+      "特写镜头：博主在车内，指着自己的脸部开场。",
+      "特写镜头：将粉底液挤在配套化妆刷上。",
+      "近景镜头：将粉底涂抹在半边脸上，展示丝滑质感。",
+      "特写镜头：左右转头展示上妆后的水光感和对比效果。",
+      "近景镜头：展示修容后的整体妆效，强调自然。",
+      "特写镜头：双手同时拿着粉底液和化妆刷，做出惊讶和推荐的表情，手指向下引导点击。"
+    ],
+    "voiceover": "如果你过了40岁，想要一款不卡纹的粉底，看这个！它不仅持妆12小时还能防汗保湿，里面还有抗氧化的云莓成分。看看这自然的水光感！最离谱的是现在买还送这把价值38美金的刷子，不知道活动什么时候结束，链接在下面快去抢！",
+    "subtitles": [
+      "40+必看！不卡纹神仙粉底",
+      "12小时防汗，24小时保湿",
+      "不显毛孔，抗氧水光肌",
+      "现在买还送$38专柜刷？！",
+      "手慢无，点击左下角链接"
+    ],
+    "ai_image_prompts": [
+      "A realistic UGC-style close-up photo of a woman in her 40s inside a car, natural lighting, applying glowing foundation with a bamboo makeup brush, pointing at her cheek, vertical format --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "A vertical selfie video of a woman in her 40s sitting in a car. She is applying liquid foundation to one side of her face using a high-quality makeup brush. Natural light, glowing skin, authentic TikTok UGC style."
+    ]
+  },
+  "search_text": "产品：疑似 Tarte 粉底液及赠品刷子。品类：美妆护肤/底妆。人群：40岁以上女性/熟龄肌/害怕卡粉人群/夏季易出汗人群。视频类型：UGC口播, 痛点解决, 效果前后对比, 场景种草。钩子：身份点名, 痛点前置，Look at this, look at this. If you are in your 40s and you want a foundation that's going to give you coverage without sinking into your fine lines…。卖点：不卡纹卡粉，适合熟龄肌, 超过12小时防汗持妆，适合夏季, 24小时深层保湿水润, 含有护肤成分（让皮肤嘭弹的咖啡因、高维C的云莓）, 妆效轻薄自然，呈现不油腻的水光肌, 购买即免费获赠价值38美元的专柜级化妆刷。证明：车内无滤镜自然光直接上脸实测, 面部左右两边的上妆与未上妆对比, 博主真实展示近景皮肤质感。风险：功效宣称风险。适合复刻：车内自然光实测痛点美妆+超高价值赠品逼单。"
+}

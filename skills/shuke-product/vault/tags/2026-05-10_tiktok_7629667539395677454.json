@@ -1,0 +1,116 @@
+{
+  "video_id": "2026-05-10_tiktok_7629667539395677454",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629667539395677454.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629667539395677454/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.25,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "BASED 男士洗护造型套装",
+    "category": "男士护理",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "男性",
+      "Z世代",
+      "注重形象的人群"
+    ],
+    "confidence": 0.8
+  },
+  "tags": {
+    "product_tags": [
+      "洗发水",
+      "护发素",
+      "发型造型产品",
+      "梳子",
+      "头皮按摩刷"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "库存背书",
+      "老板疯了"
+    ],
+    "hook_tags": [
+      "反常识",
+      "好奇悬念",
+      "价格跳水"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "男性",
+      "年轻男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "产品不清晰",
+      "无明显证明"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识/制造悬念",
+    "first_3s_text": "This guy is an idiot.",
+    "mechanism": "通过直接辱骂下单客户打破常规认知，制造强烈反差，激发观众好奇心，进而顺理成章引入单买与套装的价格差异。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "购买套装比单独购买单品便宜一倍以上",
+    "购买造型套装可免费获赠一把梳子",
+    "购买洗护套装可获赠头皮按摩刷"
+  ],
+  "proof_points": [
+    "真实的仓库环境和大量打包好的纸箱作为库存和热销背书"
+  ],
+  "cta": {
+    "text": "无明确引导语",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 8,
+    "trust": 6,
+    "product_display": 3,
+    "purchase_impulse": 7,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "老板/主理人视角打包发货，通过吐槽客户不会买（买贵了）来反向推销极致性价比的组合套装（Bundle）。",
+    "script_outline": [
+      "强悬念开场：手里拿着快递盒，吐槽某位客户买错了/是个大冤种。",
+      "揭示痛点：指出该客户单买了产品，多花了一倍的钱。",
+      "抛出方案：展示如果购买组合套装，不仅价格减半，还能拿免费赠品。",
+      "逼单反转：嚣张表示如果不按套路买，多花的钱正好给老板换新车，利用损失厌恶心理刺激观众去买套装。",
+      "明确CTA：引导点击下方链接。"
+    ],
+    "shot_list": [
+      "中景：人物处于仓库或大量库存前，手持单品快递盒，面露无语表情。",
+      "中景：说话间距，画面两侧配合手势跳出套装产品和赠品的清晰大图。",
+      "特写（优化建议）：切入一个真实展示赠品质感或核心产品质地的短平快镜头。",
+      "中景：人物潇洒丢掉快递盒，手指引向屏幕下方购物车。"
+    ],
+    "voiceover": "This guy is an idiot. Instead of ordering our bundles, he placed an individual order... So not only did he just spend probably more than double... he's missing out on the free comb...",
+    "subtitles": [
+      "This guy is an idiot.",
+      "Instead of ordering our bundles",
+      "he placed an individual order",
+      "spent more than double",
+      "missing out on the free comb",
+      "it's good for me though cause now I can buy another car."
+    ],
+    "ai_image_prompts": [
+      "A high-quality studio product photography of a men's hair comb, dark wood texture, clean white background, even lighting, 8k resolution, photorealistic --ar 1:1",
+      "Black silicone scalp scrubber massager, studio lighting, white background, product shot, 4k --ar 1:1"
+    ],
+    "ai_video_prompts": [
+      "Vertical video, a young confident handsome man wearing a blue suit, standing in a large distribution warehouse filled with stacked cardboard boxes wrapped in plastic, cinematic lighting, talking directly to the camera, energetic vibe."
+    ]
+  },
+  "search_text": "产品：BASED 男士洗护造型套装。品类：男士护理/身体护理。人群：男性, Z世代, 注重形象的人群。视频类型：价格刺激, 库存背书, 老板疯了。钩子：反常识, 好奇悬念, 价格跳水，This guy is an idiot.。卖点：购买套装比单独购买单品便宜一倍以上, 购买造型套装可免费获赠一把梳子, 购买洗护套装可获赠头皮按摩刷。证明：真实的仓库环境和大量打包好的纸箱作为库存和热销背书。风险：无CTA, 产品不清晰, 无明显证明。适合复刻：老板/主理人视角打包发货，通过吐槽客户不会买（买贵了）来反向推销极致性价比的组合套装（Bundle）。"
+}

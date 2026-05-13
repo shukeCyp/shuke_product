@@ -1,0 +1,128 @@
+{
+  "video_id": "2026-05-10_tiktok_7628775782449433870",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7628775782449433870.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7628775782449433870/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 84.3,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "疑似 Medicube 胶原丰盈淡纹棒及多肽眼膜",
+    "category": "美妆护肤",
+    "sub_category": "面部护理",
+    "price_position": "未知",
+    "target_audience": [
+      "30岁+女性",
+      "有面部凹陷困扰",
+      "抗初老需求",
+      "医美平替寻求者"
+    ],
+    "confidence": 0.85
+  },
+  "tags": {
+    "product_tags": [
+      "抗老",
+      "面部填充平替",
+      "涂抹式水光",
+      "Volufiline成分",
+      "PDRN修复"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "效果前后对比",
+      "痛点解决",
+      "成分科普"
+    ],
+    "hook_tags": [
+      "反常识",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "前后对比",
+      "用户评价",
+      "第三方背书",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "抗老党",
+      "成分党",
+      "懒人护肤"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反常识好奇钩子",
+    "first_3s_text": "I use Boob filler on my 40 yr facecard",
+    "mechanism": "利用丰胸成分涂抹在脸上的极度反差感，制造猎奇心理，同时精准圈定40岁左右的抗老熟龄人群。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "含有Volufiline成分，主打促进脂肪细胞饱满，改善面部/眼下凹陷",
+    "含有PDRN（鲑鱼DNA）成分，修复受损肌肤，刺激胶原再生",
+    "韩国前沿的固态棒状设计，不脏手，随时随地可用，秒杀传统液体精华",
+    "一支多用，可用于眼下、法令纹、抬头纹、颈纹甚至丰唇"
+  ],
+  "proof_points": [
+    "博主自身上脸涂抹后立竿见影的水润光泽感",
+    "绿幕展示的第三方学术论文截图与原理解释",
+    "大量唇部、面部、胸部素人真实的Before/After对比图",
+    "视频内切出的TikTok粉丝真实文字好评截图"
+  ],
+  "cta": {
+    "text": "check the link because you can get the single stick or pair it with...",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 8,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "跨界成分的降维打击（如：把身体猛药用在脸上的奇效），以及医美效果的平价居家替代方案。",
+    "script_outline": [
+      "1. 抛出反常识钩子（我居然把XXX用在了脸上）",
+      "2. 揭秘核心成分的医学背景（展示权威截图）",
+      "3. 痛点对比（传统形态不好用 vs 新形态的便利）",
+      "4. 多部位上脸实测展示光泽感",
+      "5. 展示素人逆袭对比图与评论",
+      "6. 引入黄金搭档产品做连带推荐",
+      "7. 明确指向购物车下单"
+    ],
+    "shot_list": [
+      "极近景：带有悬念表情的口播",
+      "绿幕半身景：手指论文/成分图解",
+      "特写镜头：产品拔盖、旋出膏体",
+      "特写镜头：产品在法令纹和眼下划过的反光瞬间",
+      "绿幕半身景：拼接粉丝使用前后的震撼对比图",
+      "近景：两款产品（棒+眼膜）同框展示"
+    ],
+    "voiceover": "语气需要充满干货分享的兴奋感和笃定感，像是在给闺蜜安利一个不可思议的宝藏好物。语速偏快，不留气口。",
+    "subtitles": [
+      "高亮醒目的大字",
+      "动态弹出核心成分名",
+      "标红痛点词汇"
+    ],
+    "ai_image_prompts": [
+      "Before and after photo of a woman's under eye area, hollow vs plumped, realistic skin texture, clinical lighting",
+      "Scientific illustration of fat cells expanding, pink and gold color palette, high tech skincare concept"
+    ],
+    "ai_video_prompts": [
+      "Extreme close up of a pink skincare balm gliding smoothly over a woman's cheekbone, leaving a glossy radiant finish, natural daylight"
+    ]
+  },
+  "search_text": "产品：疑似 Medicube 胶原丰盈淡纹棒及多肽眼膜。品类：美妆护肤/面部护理。人群：30岁+女性, 有面部凹陷困扰, 抗初老需求, 医美平替寻求者。视频类型：UGC口播, 测评对比, 效果前后对比, 痛点解决, 成分科普。钩子：反常识, 好奇悬念, 身份点名，I use Boob filler on my 40 yr facecard。卖点：含有Volufiline成分，主打促进脂肪细胞饱满，改善面部/眼下凹陷, 含有PDRN（鲑鱼DNA）成分，修复受损肌肤，刺激胶原再生, 韩国前沿的固态棒状设计，不脏手，随时随地可用，秒杀传统液体精华, 一支多用，可用于眼下、法令纹、抬头纹、颈纹甚至丰唇。证明：博主自身上脸涂抹后立竿见影的水润光泽感, 绿幕展示的第三方学术论文截图与原理解释, 大量唇部、面部、胸部素人真实的Before/After对比图, 视频内切出的TikTok粉丝真实文字好评截图。风险：功效宣称风险。适合复刻：跨界成分的降维打击（如：把身体猛药用在脸上的奇效），以及医美效果的平价居家替代方案。"
+}

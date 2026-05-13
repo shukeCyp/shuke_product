@@ -1,0 +1,119 @@
+{
+  "video_id": "2026-05-10_tiktok_7629786882905230622",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629786882905230622.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629786882905230622/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.1,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "疑似 Cyperus 绝毛/抑毛精油",
+    "category": "美妆护肤",
+    "sub_category": "身体护理",
+    "price_position": "平价",
+    "target_audience": [
+      "面部多毛女性",
+      "有多囊卵巢综合征困扰者",
+      "寻求平价无痛脱毛方案的人群"
+    ],
+    "confidence": 0.7
+  },
+  "tags": {
+    "product_tags": [
+      "绝毛精油",
+      "面部脱毛产品",
+      "抑毛液",
+      "无痛脱毛"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "质地展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "容貌焦虑",
+      "女性互助",
+      "变美逆袭"
+    ],
+    "risk_tags": [
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉痛点+情绪共鸣",
+    "first_3s_text": "i don't feel like a girl... why did I have to be born like this",
+    "mechanism": "通过极度反常识的女性面部粗硬胡茬特写产生视觉暴击，结合自我厌弃的情感自白，瞬间死死抓住有同类隐秘痛点的人群，引发深度共鸣。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "比蜜蜡脱毛无痛",
+    "比刮毛刀安全不伤毛囊",
+    "比激光脱毛平价",
+    "使用方法极简（一滴涂抹）"
+  ],
+  "proof_points": [
+    "完全素颜、高清无滤镜的浓密下巴胡茬展示（建立人设和病情真实度）",
+    "精油滴管上脸涂抹演示",
+    "极度光滑、无黑头毛囊的绝毛后下巴特写"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 8,
+    "trust": 9,
+    "product_display": 7,
+    "purchase_impulse": 8,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "尴尬生理痛点真实暴露+情绪宣泄+产品试用逆袭（适用于严重痘痘、脱发、狐臭等产品）",
+    "script_outline": [
+      "暴露痛点（怼脸特写）+ 表达绝望感",
+      "历数过去的失败尝试（强调痛、贵、没用）",
+      "以‘死马当活马医’的态度引入产品并展示用法",
+      "展示无懈可击的Before&After对比",
+      "回归阳光生活，提供情绪价值"
+    ],
+    "shot_list": [
+      "下巴特写（满是胡茬，冷色调）",
+      "用手抚摸粗糙皮肤的侧脸",
+      "手持滴管产品滴在手上/脸上的中景",
+      "下巴特写（完全光滑无毛，暖色调）",
+      "穿戴漂亮在户外微笑的自拍混剪"
+    ],
+    "voiceover": "无配音，全程采用忧伤转舒缓的BGM配纯字幕",
+    "subtitles": [
+      "i don't feel like a girl... why did I have to be born like this",
+      "waxing hurts, shaving makes things worse, laser and electrolysis are too expensive.",
+      "i cancel plans, avoid mirrors, can't ever take a cute selfie",
+      "fine, i'll give this oil a shot. i've got nothing to lose anyway",
+      "i am so glad I did.",
+      "i've never felt this confident",
+      "I finally feel like one of the pretty girls 🫶"
+    ],
+    "ai_image_prompts": [
+      "extreme close-up of a young woman's chin showing noticeable dark facial hair stubble, realistic skin texture, sad mood, iPhone selfie aesthetic --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "vertical smartphone footage, extreme close up of a woman applying facial oil to her neck and chin with a glass dropper, natural bathroom lighting, UGC style"
+    ]
+  },
+  "search_text": "产品：疑似 Cyperus 绝毛/抑毛精油。品类：美妆护肤/身体护理。人群：面部多毛女性, 有多囊卵巢综合征困扰者, 寻求平价无痛脱毛方案的人群。视频类型：痛点解决, 效果前后对比, UGC口播, 质地实测。钩子：尴尬痛点，i don't feel like a girl... why did I have to be born like this。卖点：比蜜蜡脱毛无痛, 比刮毛刀安全不伤毛囊, 比激光脱毛平价, 使用方法极简（一滴涂抹）。证明：完全素颜、高清无滤镜的浓密下巴胡茬展示（建立人设和病情真实度）, 精油滴管上脸涂抹演示, 极度光滑、无黑头毛囊的绝毛后下巴特写。风险：无CTA。适合复刻：尴尬生理痛点真实暴露+情绪宣泄+产品试用逆袭（适用于严重痘痘、脱发、狐臭等产品）。"
+}

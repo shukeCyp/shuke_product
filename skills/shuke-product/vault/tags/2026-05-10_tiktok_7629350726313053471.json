@@ -1,0 +1,131 @@
+{
+  "video_id": "2026-05-10_tiktok_7629350726313053471",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629350726313053471.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629350726313053471/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 58.27,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dr. Melaxin Cementcre Calcium Dark Spot Eye Cream",
+    "category": "美妆护肤",
+    "sub_category": "眼部护理/遮瑕",
+    "price_position": "未知",
+    "target_audience": [
+      "黑眼圈人群",
+      "眼部凹陷者",
+      "早八通勤女性",
+      "追求伪素颜人群",
+      "化妆卡粉人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "眼霜",
+      "黑眼圈遮盖",
+      "水解弹性蛋白",
+      "韩国美妆",
+      "不卡粉",
+      "提亮伪素颜"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "质地实测",
+      "痛点解决",
+      "UGC口播",
+      "测评对比",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "反常识",
+      "尴尬痛点",
+      "真实测评宣告"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "手背实测",
+      "质地展示",
+      "使用场景",
+      "一镜到底涂抹"
+    ],
+    "audience_tags": [
+      "熬夜党",
+      "懒人",
+      "熟龄肌"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "字幕不清"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果前置+痛点直击",
+    "first_3s_text": "I'm going to do this completely unfiltered, real time, watch how my dark circle under my eye just disappears.",
+    "mechanism": "通过承诺“无滤镜真实记录”建立高度信任，叠加马上就能看到的涂抹效果，用悬念和视觉反差牢牢锁住受黑眼圈困扰的用户视线。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "即时隐形黑眼圈并提亮眼底",
+    "护肤品属性（眼霜）取代传统彩妆（遮瑕），全天不起皱卡纹",
+    "富含水解弹性蛋白和钙成分，长效改善眼部凹陷和胶原流失",
+    "一抹即刻拥有好气色，完美适配伪素颜/素颜出门场景"
+  ],
+  "proof_points": [
+    "产品膏体特写及蘸取过程",
+    "无滤镜一镜到底的涂抹吸收全过程",
+    "左右脸“一半暗沉凹陷，一半明亮饱满”的极强视觉对比画面",
+    "博主大力揉搓面部展示服帖度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "用'能遮瑕的抗老眼霜'降维打击传统遮瑕膏。主打'以养代妆'，彻底解决眼底遮瑕卡粉、长脂肪粒的痛点。",
+    "script_outline": [
+      "痛点开场：素颜直出黑眼圈，抛出痛点并宣告不使用任何滤镜。",
+      "半脸实测：一镜到底涂抹半边脸，展示黑眼圈5秒隐形过程。",
+      "视觉震撼：对比左右脸差距，惊呼效果。",
+      "原理解释：展示产品特写，说明这不是容易卡粉的遮瑕膏，而是含有弹性蛋白能被皮肤吸收的抗老眼霜。",
+      "痛点排雷：演示即使面部表情丰富也绝不卡纹。",
+      "场景种草：总结懒人早八伪素颜神器的利益点。"
+    ],
+    "shot_list": [
+      "博主大头怼脸自拍（眼周瑕疵清晰）",
+      "特写镜头：刷子从罐中挑出橘色膏体",
+      "中景：手指将膏体在单侧眼下揉开的完整过程",
+      "特写定格：左右眼状态的直观对比",
+      "中景：快速点涂另一侧眼睛并揉搓眼周肌肤证明服帖度"
+    ],
+    "voiceover": "别划走，关掉所有美颜。看着我的黑眼圈是怎么在5秒内消失的。看这半边脸，简直像换了个头！重点是，它根本不是那种干巴巴的遮瑕膏，它是韩国最近爆火的弹性蛋白眼霜。里面全是补充胶原蛋白的营养，涂抹后直接被皮肤吃进去，哪怕你笑出八颗牙也绝对不会卡出一条干纹！早起没空化妆？随便抹两下，就像睡足了十小时一样清透。扔掉你的遮瑕膏吧，带颜色的眼霜才是伪素颜的神！",
+    "subtitles": [
+      "关掉滤镜！看黑眼圈5秒消失",
+      "一抹隐形，对比太狠了",
+      "不是遮瑕膏！是弹性蛋白眼霜",
+      "护肤级吸收，全天绝对不卡纹",
+      "早八伪素颜，一秒睡醒脸"
+    ],
+    "ai_image_prompts": [
+      "A split-screen vertical image, close-up of a woman's face. The left eye has dark circles and a tired appearance. The right eye is bright, smooth, and flawless after applying a peach-colored eye cream. Text overlay 'Dark Circles Erased'."
+    ],
+    "ai_video_prompts": [
+      "Vertical close-up shot of a woman with natural, unfiltered skin applying a peach-toned cream under her eye with her ring finger. The dark circle visibly fades as the cream blends smoothly into her skin. Bright vanity lighting, realistic skin texture."
+    ]
+  },
+  "search_text": "产品：Dr. Melaxin Cementcre Calcium Dark Spot Eye Cream。品类：美妆护肤/眼部护理/遮瑕。人群：黑眼圈人群, 眼部凹陷者, 早八通勤女性, 追求伪素颜人群, 化妆卡粉人群。视频类型：效果前后对比, 质地实测, 痛点解决, UGC口播, 测评对比, 场景种草。钩子：结果前置, 反常识, 尴尬痛点, 真实测评宣告，I'm going to do this completely unfiltered, real time, watch how my dark circle under my eye just disappears.。卖点：即时隐形黑眼圈并提亮眼底, 护肤品属性（眼霜）取代传统彩妆（遮瑕），全天不起皱卡纹, 富含水解弹性蛋白和钙成分，长效改善眼部凹陷和胶原流失, 一抹即刻拥有好气色，完美适配伪素颜/素颜出门场景。证明：产品膏体特写及蘸取过程, 无滤镜一镜到底的涂抹吸收全过程, 左右脸“一半暗沉凹陷，一半明亮饱满”的极强视觉对比画面, 博主大力揉搓面部展示服帖度。风险：无CTA, 字幕不清。适合复刻：用'能遮瑕的抗老眼霜'降维打击传统遮瑕膏。主打'以养代妆'，彻底解决眼底遮瑕卡粉、长脂肪粒的痛点。"
+}

@@ -1,0 +1,119 @@
+{
+  "video_id": "2026-05-10_tiktok_7630283175100452126",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7630283175100452126.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7630283175100452126/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 39.08,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "TIRTIR 美妆系列 (气垫、遮瑕、腮红棒、定妆喷雾)",
+    "category": "美妆护肤",
+    "sub_category": "彩妆",
+    "price_position": "未知",
+    "target_audience": [
+      "年轻女性",
+      "彩妆爱好者",
+      "易脱妆人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "气垫粉底",
+      "遮瑕",
+      "腮红",
+      "定妆喷雾",
+      "防脱妆",
+      "高遮瑕"
+    ],
+    "video_type_tags": [
+      "质地实测",
+      "开箱展示"
+    ],
+    "hook_tags": [
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值控",
+      "美妆党",
+      "ASMR爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉展示/ASMR",
+    "first_3s_text": "tirtir makeup <3",
+    "mechanism": "通过唯美的产品包装全家福展示和轻快的音乐，吸引对颜值和美妆品牌感兴趣的用户。",
+    "retention_score": 6
+  },
+  "selling_points": [
+    "高遮瑕度",
+    "二合一多功能设计(遮瑕)",
+    "质地易晕染(腮红棒)",
+    "极致防蹭防脱妆(不沾纸巾)"
+  ],
+  "proof_points": [
+    "手背微距涂抹实测展示质地和遮瑕力",
+    "使用白色纸巾在涂满化妆品的手背上用力摩擦后无任何沾染(核心背书)"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6,
+    "clarity": 8,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 7,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "保留ASMR视觉质感，将防蹭测试前置作为钩子，补充口播痛点与购买引导。",
+    "script_outline": [
+      "痛点前置与结果展示(防蹭测试) -> 产品开箱与质地沉浸展示 -> 实测验证 -> 行动号召"
+    ],
+    "shot_list": [
+      "纸巾大力摩擦手背不掉妆特写",
+      "包装全家福展示",
+      "气垫撕膜特写",
+      "膏体涂抹手背特写",
+      "喷雾特写",
+      "终极防脱实测",
+      "指引购买画面"
+    ],
+    "voiceover": "夏天出门疯狂脱妆？这套TIRTIR底妆简直焊在脸上了。看这遮瑕力，再加定妆喷雾，拿纸巾死劲搓，一点都不掉！绝了，赶紧去左下角带走。",
+    "subtitles": [
+      "夏天脱妆重灾区？",
+      "这套底妆焊在脸上了！",
+      "高清微距实测",
+      "高遮瑕 不卡纹",
+      "终极暴力防蹭测试",
+      "死劲搓！",
+      "完全不掉！",
+      "点击左下角告别脱妆"
+    ],
+    "ai_image_prompts": [
+      "Close-up macro photography of makeup foundation blending on skin, perfect smooth finish, warm aesthetic lighting."
+    ],
+    "ai_video_prompts": [
+      "A close-up of a white tissue rubbing hard against a hand covered in makeup, the tissue is pulled away completely clean with no transfer, ASMR beauty style, soft lighting."
+    ]
+  },
+  "search_text": "产品：TIRTIR 美妆系列 (气垫、遮瑕、腮红棒、定妆喷雾)。品类：美妆护肤/彩妆。人群：年轻女性、彩妆爱好者、易脱妆人群。视频类型：质地实测, 开箱展示。钩子：好奇悬念，tirtir makeup <3。卖点：高遮瑕度, 二合一多功能设计(遮瑕), 质地易晕染(腮红棒), 极致防蹭防脱妆(不沾纸巾)。证明：手背微距涂抹实测展示质地和遮瑕力, 使用白色纸巾在涂满化妆品的手背上用力摩擦后无任何沾染(核心背书)。风险：无CTA, 口播缺失。适合复刻：保留ASMR视觉质感，将防蹭测试前置作为钩子，补充口播痛点与购买引导。"
+}

@@ -1,0 +1,114 @@
+{
+  "video_id": "2026-05-10_tiktok_7631402514658725133",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7631402514658725133.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7631402514658725133/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.37,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "MAKE UP FOR EVER 哑光高光粉饼",
+    "category": "美妆护肤",
+    "sub_category": "彩妆",
+    "price_position": "中高端",
+    "target_audience": [
+      "年轻女性",
+      "化妆人群",
+      "追求面部立体感人群"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "高光",
+      "哑光高光",
+      "修容",
+      "粉饼",
+      "提亮"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "美妆党",
+      "颜控"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果前置",
+    "first_3s_text": "The best matte highlighter for dimension to make your features pop",
+    "mechanism": "开场直接展示产品并用字幕定调其最佳功效，吸引有相关美妆需求的精准受众。",
+    "retention_score": 7
+  },
+  "selling_points": [
+    "哑光质地自然不突兀",
+    "增加面部立体感",
+    "提亮五官"
+  ],
+  "proof_points": [
+    "博主真人实测上妆过程",
+    "手持清晰可见的品牌LOGO",
+    "展示鼻梁及面中提亮动作"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 8,
+    "trust": 8,
+    "product_display": 8,
+    "purchase_impulse": 4,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "美妆教程类种草，通过强烈的半脸对比突出哑光高光塑造骨相的作用，并加入明确引导购买的口播和字幕。",
+    "script_outline": [
+      "痛点引入(面中凹陷)并展示产品",
+      "半脸实测上妆教学",
+      "展示强烈的左右脸使用前后对比",
+      "口播引导点击小黄车购买"
+    ],
+    "shot_list": [
+      "面部特写展现扁平面部",
+      "产品包装与取粉特写",
+      "刷子在面颊鼻梁上妆近景",
+      "半脸对比特效镜头",
+      "手势引导购买镜头"
+    ],
+    "voiceover": "千万别小看哑光高光！扁平脸秒变立体骨相就靠它。看这半边脸，鼻梁瞬间拔高，面中嘭起来了。粉质巨细腻，今天直播间有超值机制，赶紧冲！",
+    "subtitles": [
+      "扁平脸逆袭骨相美！",
+      "这块哑光高光绝了",
+      "一笔拔高鼻梁/嘭弹面中",
+      "粉质细腻不显毛孔",
+      "左下角抢官方正品"
+    ],
+    "ai_image_prompts": [
+      "A split-screen close-up of an Asian woman's face. The left side shows a flat facial structure without makeup, while the right side shows a contoured, three-dimensional face after applying matte highlighter on the nose bridge and under eyes. Holding a makeup brush, bright and natural lighting, high resolution, beauty photography style."
+    ],
+    "ai_video_prompts": [
+      "A beautiful Asian female beauty influencer in a bright room is demonstrating makeup. She holds a sleek black compact powder and uses a fluffy red brush to apply matte highlighter to her nose bridge and under her eyes. The camera focuses on her face, showing the immediate brightening and contouring effect. Soft natural light, vertical TikTok style."
+    ]
+  },
+  "search_text": "产品：MAKE UP FOR EVER 哑光高光粉饼。品类：美妆护肤/彩妆。人群：年轻女性, 化妆人群, 追求面部立体感人群。视频类型：场景种草, 质地实测。钩子：结果前置，The best matte highlighter for dimension to make your features pop。卖点：哑光质地自然不突兀, 增加面部立体感, 提亮五官。证明：博主真人实测上妆过程, 手持清晰可见的品牌LOGO, 展示鼻梁及面中提亮动作。风险：无CTA, 口播缺失, 信任不足。适合复刻：美妆教程类种草，通过强烈的半脸对比突出哑光高光塑造骨相的作用，并加入明确引导购买的口播和字幕。"
+}

@@ -1,0 +1,140 @@
+{
+  "video_id": "20260513_161725_11b9650583e9b5ec_fallback",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/temp/RWTemp/2026-05/f4924486545b1b5ea3338793943b5a58/11b9650583e9b5ecec8f2d2cd51cb62c.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/20260513_161725_11b9650583e9b5ec_fallback/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 52.779569,
+    "created_at": "2026-05-13T16:19:41+08:00"
+  },
+  "product": {
+    "name": "透明可折叠/堆叠收纳箱",
+    "category": "家居清洁",
+    "sub_category": "家庭收纳/透明收纳箱",
+    "price_position": "福利价/折扣促销",
+    "target_audience": [
+      "年轻女性",
+      "宝妈",
+      "家庭用户",
+      "衣柜杂乱人群",
+      "玩具收纳需求人群"
+    ],
+    "confidence": 0.94
+  },
+  "tags": {
+    "product_tags": [
+      "家居收纳",
+      "透明收纳箱",
+      "可堆叠",
+      "大容量",
+      "衣柜整理",
+      "玩具收纳"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈",
+      "家庭用户",
+      "收纳整理人群",
+      "租房/小户型用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "短视频带货",
+      "竖屏",
+      "投流素材"
+    ]
+  },
+  "hook": {
+    "type": "夸张剧情反差钩/荒诞人物冲突钩",
+    "first_3s_text": "母亲打开衣柜，衣物山洪般涌出，一个穿粉色兔女郎装的人从衣物堆中出现，伴随惊呼和婴儿哭声。",
+    "mechanism": "把常见的衣柜杂乱痛点夸张成荒诞事故，用普通家庭场景与超现实人物的强反差制造信息差和场景冲突，迫使用户想看下一秒如何收场。",
+    "retention_score": 10
+  },
+  "selling_points": [
+    "大容量，可装衣物、玩具、被子、工具、车内杂物等",
+    "可堆叠，能利用衣柜和角落的垂直空间",
+    "透明可视，方便看到内部物品",
+    "适用卧室、客厅、衣柜、车内等多场景",
+    "限时五折并包邮，促销利益点明确"
+  ],
+  "proof_points": [
+    "开头灾难级衣柜混乱与整理后整齐状态形成强前后对比",
+    "大量衣物、玩具和床品被连续装入收纳箱，证明容量",
+    "多个箱子堆叠入柜，证明空间利用效果",
+    "不同场景和不同人群使用，证明产品普适性"
+  ],
+  "cta": {
+    "text": "现在五折且包邮，点击左下角快速购买。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 10,
+    "clarity": 8,
+    "trust": 7,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "用“日常痛点+荒诞角色+夸张后果”做高停留开头，再用快剪蒙太奇证明收纳效率，最后接折扣包邮 CTA。",
+    "script_outline": [
+      "0-3秒：打开衣柜/抽屉/杂物间，杂物夸张涌出，荒诞角色从混乱中出现",
+      "3-5秒：荒诞角色质问并递出产品，完成问题到解决方案的转折",
+      "5-20秒：快速展示衣物、玩具、床品等多品类收纳过程",
+      "20-38秒：扩展到客厅、车内、工具等更多场景，扩大受众",
+      "38-52秒：展示整齐结果，叠加五折包邮和点击购买 CTA"
+    ],
+    "shot_list": [
+      "衣柜门打开前的普通家庭卧室中景",
+      "衣物雪崩式涌出和人物惊吓反应",
+      "荒诞角色从衣物堆里出现并举起收纳箱",
+      "产品透明材质和支架/边框特写",
+      "衣物、玩具、床品快速装箱快剪",
+      "多个收纳箱堆叠入柜或放到床底",
+      "整理前后同角度对比",
+      "优惠信息和点击位置 CTA 画面"
+    ],
+    "voiceover": "你家衣柜是不是也快爆炸了？别再硬塞了，用这个透明收纳箱，衣服、玩具、被子都能分类装好，堆起来也不占地方。现在五折还包邮，点左下角赶紧拿下。",
+    "subtitles": [
+      "衣柜爆炸现场",
+      "别再硬塞了，用这个",
+      "衣服/玩具/被子都能装",
+      "透明可视，一眼找到",
+      "可堆叠，省出一半空间",
+      "限时五折+包邮，点左下角"
+    ],
+    "ai_image_prompts": [
+      "Photorealistic vertical 9:16 product shot of large transparent stackable storage bins with black trim in a bright bedroom closet, neatly folded clothes visible inside, clean home organization aesthetic, natural daylight",
+      "Vertical lifestyle image of a young mother organizing colorful toys into a clear sturdy storage box in a clean living room, several transparent bins stacked in the background, realistic UGC style",
+      "Studio product close-up of a transparent foldable storage box filled with folded towels, visible support frame and zippered top, crisp commercial lighting, vertical ecommerce image"
+    ],
+    "ai_video_prompts": [
+      "Vertical 9:16 realistic comedic video: a woman opens an overstuffed closet, colorful clothes avalanche onto the floor, she reacts in shock, high-energy UGC phone footage, 3 seconds",
+      "Vertical surreal comedy video: from a pile of messy clothes, an unexpected person in a pink bunny costume rises and angrily hands over a transparent storage box, indoor bedroom lighting, funny ad style, 5 seconds",
+      "Vertical satisfying montage video: hands rapidly fold clothes, toys and blankets into clear stackable storage boxes, final shot shows boxes neatly stacked in a closet, bright clean home, fast cuts, 8 seconds"
+    ]
+  },
+  "search_text": "产品：透明可折叠/堆叠收纳箱。品类：家居清洁/家庭收纳/透明收纳箱。人群：年轻女性、宝妈、家庭用户、衣柜杂乱人群、玩具收纳需求人群。视频类型：痛点解决、剧情反转、场景种草、效果前后对比、价格刺激、UGC口播。钩子：场景冲突、好奇悬念、尴尬痛点、反常识，母亲打开衣柜后衣物雪崩，一个粉色兔女郎角色从衣物堆里出现。卖点：大容量、可堆叠、透明可视、多场景收纳、五折包邮。证明：衣柜混乱前后对比、大量衣物玩具装箱、多个箱子堆叠入柜、多场景使用。风险：信任不足。适合复刻：日常痛点+荒诞角色+夸张后果的高停留剧情钩。"
+}

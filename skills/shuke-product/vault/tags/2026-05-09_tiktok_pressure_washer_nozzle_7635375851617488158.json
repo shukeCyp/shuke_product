@@ -1,0 +1,57 @@
+{
+  "video_id": "2026-05-09_tiktok_pressure_washer_nozzle_7635375851617488158",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7635375851617488158.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-09_tiktok_pressure_washer_nozzle_7635375851617488158/analysis.md",
+    "model": "codex_local_visual_review",
+    "duration_seconds": 47.3,
+    "created_at": "2026-05-09"
+  },
+  "product": {
+    "name": "花园水管高压清洁喷头/清洁水枪",
+    "category": "家居清洁",
+    "sub_category": "户外清洁工具",
+    "price_position": "未知",
+    "target_audience": ["有庭院家庭", "户外清洁用户", "家庭清洁工具用户"],
+    "confidence": 0.86
+  },
+  "tags": {
+    "product_tags": ["户外清洁", "水管喷头", "清洁水枪", "庭院清洁"],
+    "video_type_tags": ["痛点解决", "效果前后对比", "场景种草", "测评对比"],
+    "hook_tags": ["结果前置", "尴尬痛点", "好奇悬念"],
+    "proof_tags": ["产品特写", "前后对比", "使用场景"],
+    "audience_tags": ["家庭用户", "庭院用户", "车道清洁", "户外用品清洁"],
+    "risk_tags": ["无CTA", "信任不足"],
+    "platform_tags": ["TikTok", "竖屏短视频"]
+  },
+  "hook": {
+    "type": "效果前后对比",
+    "first_3s_text": "无清晰可见字幕；开头直接展示脏污车道和水枪冲洗",
+    "mechanism": "用顽固污渍被水流冲开的即时结果制造停留",
+    "retention_score": 8
+  },
+  "selling_points": ["接普通花园水管", "强水流冲洗", "多场景户外清洁", "轻便手持"],
+  "proof_points": ["车道青苔冲洗", "围栏冲洗", "垃圾桶冲洗", "儿童游乐设施冲洗", "户外厨房台面冲洗"],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 8,
+    "trust": 7,
+    "product_display": 6,
+    "purchase_impulse": 7,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "用强前后对比证明普通水管喷头的户外清洁效率，并补足安装、产品特写和价格 CTA",
+    "script_outline": ["脏污车道开场", "喷头接水管特写", "多场景冲洗证明", "单手使用展示", "套装和活动价 CTA"],
+    "shot_list": ["喷头连接水管", "半脏半净车道", "围栏冲洗", "垃圾桶冲洗", "户外桌面冲洗", "产品配件平铺"],
+    "voiceover": "家里有院子的真的可以备一个。它直接接普通水管，打开就是这种扇形强水流，车道青苔、垃圾桶、围栏、户外桌面都能冲。",
+    "subtitles": ["普通水管也能冲成这样？", "青苔、泥垢、灰尘一冲就开", "车道/围栏/垃圾桶都能用", "点开看今日套装价"],
+    "ai_image_prompts": ["Create a vertical 9:16 ecommerce product image of a black garden hose pressure washer nozzle connected to a green hose, placed on a clean driveway with a visible half-clean half-dirty concrete surface, realistic daylight, crisp water droplets, no text."],
+    "ai_video_prompts": ["Vertical 9:16 handheld UGC video of a woman connecting a black pressure washer nozzle to a garden hose and blasting moss off a driveway. The water creates a clean path in one slow pass, realistic outdoor daylight, crisp water sound, no subtitles."]
+  },
+  "search_text": "产品：花园水管高压清洁喷头/清洁水枪。品类：家居清洁/户外清洁工具。人群：有庭院家庭、户外清洁用户、家庭清洁工具用户。视频类型：痛点解决、效果前后对比、场景种草、测评对比。钩子：结果前置、尴尬痛点、好奇悬念，开头直接展示脏污车道和水枪冲洗。卖点：接普通花园水管、强水流冲洗、多场景户外清洁、轻便手持。证明：车道青苔冲洗、围栏冲洗、垃圾桶冲洗、儿童游乐设施冲洗、户外厨房台面冲洗。风险：无CTA、信任不足。适合复刻：补足安装、产品特写和价格 CTA。"
+}

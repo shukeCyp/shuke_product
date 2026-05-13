@@ -1,0 +1,111 @@
+{
+  "video_id": "2026-05-10_tiktok_7629696903000739086",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629696903000739086.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629696903000739086/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 33.8,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "BELLAVITA LUXURY CEO MAN & G.O.A.T MAN Perfume Bundle",
+    "category": "美妆护肤",
+    "sub_category": "男士香水",
+    "price_position": "中低",
+    "target_audience": [
+      "追求吸引力和成功形象的年轻男性"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "男士香水",
+      "香氛"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "UGC口播",
+      "价格刺激",
+      "礼物推荐"
+    ],
+    "hook_tags": [
+      "身份代入",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "男性",
+      "追求魅力",
+      "注重形象"
+    ],
+    "risk_tags": [],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果前置",
+    "first_3s_text": "Uy, papi, qué delicioso hueles. (哦，宝贝，你闻起来太香了。)",
+    "mechanism": "通过展示使用产品后获得异性赞美的理想结果，迅速吸引目标男性用户的注意，并激发其代入感和购买欲。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "吸引异性",
+    "彰显成功与自信",
+    "一套搞定所有场合 (办公/约会)",
+    "两瓶一价性价比高",
+    "奢华香氛体验"
+  ],
+  "proof_points": [
+    "产品包装和瓶身特写展示质感"
+  ],
+  "cta": {
+    "text": "Haz clic al carrito para comprar (Click the cart to buy)",
+    "clarity": "very_clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 7,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "“日夜/职场约会”场景组合套装",
+    "script_outline": [
+      "Hook: '还在用一瓶香水走天下？'",
+      "Day Scene: 展示CEO MAN用于通勤/办公室",
+      "Night Scene: 展示G.O.A.T MAN用于约会/派对",
+      "Offer: 两款香水打包一口价，解决所有场合需求",
+      "CTA: 点击链接立即购买"
+    ],
+    "shot_list": [
+      "男士在镜子前准备的镜头",
+      "CEO MAN香水喷洒特写",
+      "办公室场景快剪",
+      "G.O.A.T MAN香水喷洒特写",
+      "酒吧/餐厅约会场景快剪",
+      "两瓶香水并列的商品展示镜头",
+      "点击购物车的动画"
+    ],
+    "voiceover": "用自信、有磁性的男声讲述，强调不同场景使用不同香水的重要性。",
+    "subtitles": [
+      "突出关键词“职场自信”、“约会魅力”、“日夜套装”、“限时优惠”。"
+    ],
+    "ai_image_prompts": [
+      "A sleek black perfume bottle labeled 'CEO MAN' on a modern office desk next to a laptop",
+      "An amber glass perfume bottle labeled 'G.O.A.T MAN' on a dark wood bar counter with cocktail glasses in the background"
+    ],
+    "ai_video_prompts": [
+      "Dynamic video montage showing a man's transition from a sharp business suit to a stylish evening outfit",
+      "Extreme close-up shot of perfume being sprayed in slow motion"
+    ]
+  },
+  "search_text": "产品：BELLAVITA LUXURY CEO MAN & G.O.A.T MAN Perfume Bundle。品类：美妆护肤/男士香水。人群：追求吸引力和成功形象的年轻男性。视频类型：场景种草,UGC口播,价格刺激,礼物推荐。钩子：身份代入,结果前置,好奇悬念，Uy, papi, qué delicioso hueles. (哦，宝贝，你闻起来太香了。)。卖点：吸引异性,彰显成功与自信,一套搞定所有场合 (办公/约会),两瓶一价性价比高,奢华香氛体验。证明：产品包装和瓶身特写展示质感。风险：。适合复刻：“日夜/职场约会”场景组合套装。"
+}

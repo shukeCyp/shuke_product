@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-07_wechat_mens_intimate_gel",
+  "source": {
+    "video_path": "inputs/微信视频2026-05-07_220926_412.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-07_wechat_mens_intimate_gel/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.5,
+    "created_at": "2026-05-07"
+  },
+  "product": {
+    "name": "BERIGIEN Men's Intimate Care Gel",
+    "category": "男士护理",
+    "sub_category": "男士私处护理凝胶",
+    "price_position": "清仓",
+    "target_audience": ["有私处清洁/护理需求的男性", "为伴侣代买的女性", "价格敏感人群"],
+    "confidence": 0.88
+  },
+  "tags": {
+    "product_tags": ["男士护理", "身体护理", "私处护理"],
+    "video_type_tags": ["价格刺激", "清仓福利", "库存背书", "给老客户道歉", "直播切片"],
+    "hook_tags": ["道歉钩子", "价格跳水", "低价占便宜", "好奇悬念"],
+    "proof_tags": ["产品特写", "库存展示"],
+    "audience_tags": ["男性", "伴侣代买", "价格敏感"],
+    "risk_tags": ["无CTA", "卖点单一", "包装错字", "AI包装痕迹", "口播缺失", "功效宣称风险"],
+    "platform_tags": ["竖屏短视频", "TikTok/Reels/Douyin"]
+  },
+  "hook": {
+    "type": "道歉降价",
+    "first_3s_text": "I would like to apologize to anyone who bought this product at the original price, because it is not expensive now.",
+    "mechanism": "用向原价购买者道歉制造反差，触发用户占便宜和抄底心理。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "现在价格很低",
+    "男士私处舒适/舒缓/保湿护理",
+    "海量库存暗示热销和货源充足"
+  ],
+  "proof_points": [
+    "00:04-00:10 展示满墙同款库存",
+    "00:10-00:12 产品包装特写展示功能文案"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 4,
+    "trust": 3,
+    "product_display": 8,
+    "purchase_impulse": 6,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "保留道歉降价钩子和库存背书，修复包装文字，增加凝胶质地实测和明确 CTA。",
+    "script_outline": [
+      "0-3s 手持产品抛出道歉降价字幕",
+      "3-6s 快速扫过仓库/打包发货现场",
+      "6-9s 挤出透明凝胶并在手背推开",
+      "9-12s 明确引导点击购买"
+    ],
+    "shot_list": [
+      "浴室或洗手台高级感产品摆拍",
+      "仓库堆头/打包快递忙碌场景",
+      "凝胶挤出、涂抹的微距质地特写",
+      "手指指向购物车/链接的 CTA 镜头"
+    ],
+    "voiceover": "I owe an apology to everyone who bought this at full price. The factory just slashed the price for today. Stop dealing with men's intimate discomfort. Grab yours from the link below before stock runs out.",
+    "subtitles": [
+      "给原价买过的人道歉",
+      "今天直接工厂价",
+      "清爽舒缓不黏腻",
+      "点下方链接，库存有限"
+    ],
+    "ai_image_prompts": [
+      "Vertical shot, 9:16, a blue and white tube of Men's Intimate Care Gel sitting on a clean wet bathroom sink next to a modern faucet, bright natural morning light, fresh hygienic aesthetic, realistic photography.",
+      "Vertical shot, 9:16, close-up of a blue and white product tube in the foreground, blurred background filled with warehouse shelves of identical product boxes, warm indoor lighting, realistic depth of field.",
+      "Vertical shot, 9:16, macro photography, a clear drop of soothing gel squeezed out of a blue and white tube onto a clean surface, water droplets implying moisture and freshness, clean clinical lighting."
+    ],
+    "ai_video_prompts": [
+      "Vertical video, 9:16, first-person point of view. A hand reaches into frame and grabs a blue and white tube of men's care gel off a bright outdoor table. Fast motion, upbeat energy.",
+      "Vertical video, 9:16, camera pans slowly across a massive warehouse shelf fully stocked with blue and white cosmetic boxes. A single tube stands in the foreground. Cinematic depth of field.",
+      "Vertical video, 9:16, extreme close-up. A finger gently spreads a clear cooling gel across skin. Clean, well-lit beauty commercial style, slow motion."
+    ]
+  },
+  "search_text": "产品：BERIGIEN Men's Intimate Care Gel。品类：男士护理/男士私处护理凝胶。人群：男性、伴侣代买、价格敏感。视频类型：价格刺激、清仓福利、库存背书、给老客户道歉、直播切片。钩子：道歉钩子、价格跳水、低价占便宜，I would like to apologize to anyone who bought this product at the original price。卖点：低价、男士私处舒适护理、库存充足。证明：满墙库存、产品包装特写。风险：无CTA、卖点单一、包装错字、AI包装痕迹。适合复刻：保留道歉降价钩子和库存背书，增加质地实测和明确CTA。"
+}

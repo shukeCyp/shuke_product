@@ -1,0 +1,121 @@
+{
+  "video_id": "2026-05-10_tiktok_7628849603437251853_copy1",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7628849603437251853 (1).mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7628849603437251853_copy1/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.57,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Haus Labs Foundation",
+    "category": "美妆护肤",
+    "sub_category": "底妆",
+    "price_position": "未知",
+    "target_audience": [
+      "年轻女性",
+      "化妆人群",
+      "追求光泽肌人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "粉底液",
+      "美妆工具",
+      "Haus Labs",
+      "化妆刷"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "质地实测",
+      "测评对比",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "手背实测",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "女性",
+      "美妆爱好者",
+      "学生党",
+      "上班族"
+    ],
+    "risk_tags": [
+      "字幕不清"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "爆款测评引入",
+    "first_3s_text": "I saw so many videos of this Haus Labs foundation...",
+    "mechanism": "利用社媒热门爆款产品的知名度，激发观众想看真实测评的好奇心",
+    "retention_score": 7
+  },
+  "selling_points": [
+    "中度至高度遮瑕 (Medium to full coverage)",
+    "自然光泽妆效 (Shine and glow)",
+    "质地丝滑易推开",
+    "TikTok Shop渠道购买赠送专属化妆刷"
+  ],
+  "proof_points": [
+    "手背挤出展现粉底液流动质地",
+    "使用刷子上脸实测，展现一抹推开的丝滑过程",
+    "侧脸展示完妆后皮肤自然反光的绝美光泽感"
+  ],
+  "cta": {
+    "text": "不要在实体店买，去TikTok Shop买送刷子，点击下方链接",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7,
+    "clarity": 8,
+    "trust": 9,
+    "product_display": 9,
+    "purchase_impulse": 9,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "网传爆款真实上脸测评 + 专属渠道买赠福利（买粉底送工具）",
+    "script_outline": [
+      "展示爆款产品，提出是否好用的疑问作为钩子",
+      "手背挤出展示质地，引出上妆利器（赠品刷子）",
+      "半脸实测，一边涂抹一边惊叹其易推开度和遮瑕力",
+      "全脸完妆，特写展示产品宣称的核心妆效（如光泽感）",
+      "抛出重磅促销利益点（如某渠道买直接送刷子），手势引导下单"
+    ],
+    "shot_list": [
+      "近景：博主素颜，手持粉底液和刷子",
+      "特写：粉底液挤在手背上的质地展示",
+      "近景：粉底刷在脸颊将粉底液丝滑推开",
+      "特写：博主转动面部，展示光线在皮肤上的光泽反射",
+      "中景：博主展示完美底妆，手持产品指引下方购物车"
+    ],
+    "voiceover": "大家都说这瓶粉底液绝了，今天咱们亲自试试！看性质地，搭配这个刷子，上脸简直像绸缎一样丝滑！瑕疵轻松遮住，这水光感绝了吧！别去专柜当大冤种了，现在左下角买，直接送你这把原装刷子！",
+    "subtitles": [
+      "爆款粉底液真的好用吗？",
+      "丝滑质地不卡粉",
+      "一抹遮瑕 中高遮盖力",
+      "绝美光泽发光肌",
+      "别去专柜！这里买送专属粉底刷！"
+    ],
+    "ai_image_prompts": [
+      "A close-up portrait of a woman applying foundation with a premium makeup brush on her cheek, soft natural lighting highlighting a dewy and glowing skin finish, vertical TikTok style."
+    ],
+    "ai_video_prompts": [
+      "A vertical UGC style video. A young woman uses a fluffy makeup brush to blend liquid foundation on her face. As she blends, her skin transforms to look flawless and glowing. She turns her face slightly to catch the light, showing off the radiant finish. Bright, flattering frontal lighting."
+    ]
+  },
+  "search_text": "产品：Haus Labs Foundation。品类：美妆护肤/底妆。人群：年轻女性, 化妆人群, 追求光泽肌人群。视频类型：UGC口播, 质地实测, 测评对比, 场景种草。钩子：好奇悬念, 结果前置, 场景冲突，I saw so many videos of this Haus Labs foundation...。卖点：中度至高度遮瑕 (Medium to full coverage), 自然光泽妆效 (Shine and glow), 质地丝滑易推开, TikTok Shop渠道购买赠送专属化妆刷。证明：手背挤出展现粉底液流动质地, 使用刷子上脸实测，展现一抹推开的丝滑过程, 侧脸展示完妆后皮肤自然反光的绝美光泽感。风险：字幕不清。适合复刻：网传爆款真实上脸测评 + 专属渠道买赠福利（买粉底送工具）。"
+}

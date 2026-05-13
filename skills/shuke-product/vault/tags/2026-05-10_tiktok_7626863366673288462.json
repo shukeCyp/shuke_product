@@ -1,0 +1,118 @@
+{
+  "video_id": "2026-05-10_tiktok_7626863366673288462",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7626863366673288462.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7626863366673288462/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 47.17,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "OKAYLOVE DIY Cluster Eyelashes (Styles Vixen & Tilt)",
+    "category": "美妆护肤",
+    "sub_category": "假睫毛/DIY睫毛",
+    "price_position": "低",
+    "target_audience": [
+      "DIY美妆爱好者",
+      "动漫/漫画爱好者",
+      "假睫毛使用者",
+      "寻求专业嫁接睫毛平替的女性"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "DIY睫毛",
+      "簇状假睫毛",
+      "动漫感睫毛",
+      "下睫毛"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "痛点钩子",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "学生党"
+    ],
+    "risk_tags": [
+      "无字幕"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子",
+    "first_3s_text": "If you really like like anime, manga type extensions...",
+    "mechanism": "Directly addresses the specific desires (anime lashes) and frustrations (cost, time, poor retention of professional services) of a niche audience to create immediate resonance.",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "动漫/漫画风格",
+    "省钱省时",
+    "效果媲美专业嫁接",
+    "细节丰富不塑料",
+    "设计独特",
+    "可搭配下睫毛打造完整妆容"
+  ],
+  "proof_points": [
+    "博主佩戴效果展示",
+    "产品包装特写",
+    "博主热情推荐"
+  ],
+  "cta": {
+    "text": "Go buy. On shopping cart.",
+    "clarity": "medium"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "专业嫁接睫毛平替",
+    "script_outline": [
+      "钩子：展示最终动漫感眼妆效果",
+      "痛点：对比专业嫁接的时间和金钱成本",
+      "解决方案：展示OKAYLOVE产品，强调细节和独特性",
+      "证明：展示上眼效果，特写睫毛细节",
+      "CTA：引导点击小黄车购买"
+    ],
+    "shot_list": [
+      "眼部特写",
+      "博主口播",
+      "产品包装特写",
+      "佩戴效果多角度展示"
+    ],
+    "voiceover": "分享一个省钱小秘密，花1/10的钱就能get到超火的动漫感睫毛！",
+    "subtitles": [
+      "告别$100睫毛刺客",
+      "在家轻松搞定",
+      "手残党也能会"
+    ],
+    "ai_image_prompts": [
+      "A beautiful woman with flawless makeup showcasing her spiky, anime-style false eyelashes, close-up shot on her eye, soft-focus background, beauty blogger aesthetic, high-resolution."
+    ],
+    "ai_video_prompts": [
+      "TikTok style video of a beauty influencer unboxing and reviewing anime-style cluster lashes, she holds the product close to the camera, talking excitedly, then shows the final look, selfie-style."
+    ]
+  },
+  "search_text": "产品：OKAYLOVE DIY Cluster Eyelashes (Styles Vixen & Tilt)。品类：美妆护肤/假睫毛/DIY睫毛。人群：DIY美妆爱好者,动漫/漫画爱好者,假睫毛使用者,寻求专业嫁接睫毛平替的女性。视频类型：UGC口播,痛点解决,开箱展示。钩子：痛点钩子,身份点名，If you really like like anime, manga type extensions...。卖点：动漫/漫画风格,省钱省时,效果媲美专业嫁接,细节丰富不塑料,设计独特。证明：博主佩戴效果展示,产品包装特写。风险：无字幕。适合复刻：专业嫁接睫毛平替。"
+}

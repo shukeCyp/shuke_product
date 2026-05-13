@@ -1,0 +1,122 @@
+{
+  "video_id": "2026-05-10_tiktok_7635776545847659789_copy1",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635776545847659789 (1).mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635776545847659789_copy1/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.94,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Dr.Melaxin 胶原蛋白多效保湿棒",
+    "category": "美妆护肤",
+    "sub_category": "面部精华/保湿棒",
+    "price_position": "未知",
+    "target_audience": [
+      "抗初老女性",
+      "有除皱需求者",
+      "追求便捷护肤者"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "胶原蛋白",
+      "保湿棒",
+      "抗老",
+      "提拉紧致",
+      "不脏手",
+      "韩国护肤"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "UGC口播",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突",
+      "悬念展示"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "熟龄肌",
+      "干皮",
+      "懒人护肤党"
+    ],
+    "risk_tags": [
+      "无动态字幕",
+      "无明显效果对比"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点具象化",
+    "first_3s_text": "Colageno Coreano (韩国胶原蛋白)",
+    "mechanism": "用脸部画黑线的夸张视觉表现，将抽象的衰老痛点直观呈现，引发容貌焦虑共鸣留人。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "固体棒状直接涂抹，不用手更卫生",
+    "富含胶原蛋白与水解弹力蛋白",
+    "深层保湿提拉紧致",
+    "韩国原装背书"
+  ],
+  "proof_points": [
+    "脸上画线对应痛点部位涂抹",
+    "产品膏体近景特写",
+    "拒绝用手的对比动作"
+  ],
+  "cta": {
+    "text": "如果没有看到橙色购物车，说明已经卖光了",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 8,
+    "trust": 7,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "画线痛点具象化 + 踩压传统手涂方式的不卫生痛点",
+    "script_outline": [
+      "痛点前置：脸上画出显老的纹路",
+      "痛点升级：指出用手涂面霜太脏太麻烦",
+      "抛出方案：展示涂抹棒，一抹即刻护肤",
+      "背书：展示膏体质地及核心抗老成分",
+      "逼单：限时断货警告引导购物车"
+    ],
+    "shot_list": [
+      "面部画线特写",
+      "用手护肤的烦躁网图",
+      "产品顺滑上脸特写",
+      "膏体微距展示",
+      "手指指向左下角购物车"
+    ],
+    "voiceover": "随着年龄增长，这些位置的纹路越来越深。别再用带细菌的手指涂护肤品了。这款韩国胶原蛋白棒，直接上脸涂抹，含有水解弹力蛋白深层保湿。经常断货，看到左下角有货赶紧抢！",
+    "subtitles": [
+      "抗老必备",
+      "别用手涂脸！",
+      "随时随地涂抹",
+      "紧致淡纹",
+      "快看小黄车还有没有货"
+    ],
+    "ai_image_prompts": [
+      "A close up portrait of a woman drawing lines on her wrinkles with a black eyeliner pencil, looking concerned, bright lighting."
+    ],
+    "ai_video_prompts": [
+      "A vertical close up video of a young woman applying a solid skincare balm directly onto her cheek, the skin looks hydrated, bright natural light, UGC style."
+    ]
+  },
+  "search_text": "产品：Dr.Melaxin 胶原蛋白多效保湿棒。品类：美妆护肤/面部精华/保湿棒。人群：抗初老女性, 有除皱需求者, 追求便捷护肤者。视频类型：痛点解决, 场景种草, UGC口播, 库存背书。钩子：尴尬痛点, 场景冲突, 悬念展示，Colageno Coreano (韩国胶原蛋白)。卖点：固体棒状直接涂抹，不用手更卫生, 富含胶原蛋白与水解弹力蛋白, 深层保湿提拉紧致, 韩国原装背书。证明：脸上画线对应痛点部位涂抹, 产品膏体近景特写, 拒绝用手的对比动作。风险：无动态字幕, 无明显效果对比。适合复刻：画线痛点具象化 + 踩压传统手涂方式的不卫生痛点。"
+}

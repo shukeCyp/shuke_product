@@ -1,4 +1,15 @@
 .DS_Store
 **/.DS_Store
 product/
-.codex/skills/config/media_services.yaml
+.codex/
+
+# 本地密钥配置（不要提交）
+skills/shuke-product/config/media_services.yaml
+
+# 视频源文件（体积大，不需要版本控制）
+skills/shuke-product/vault/analysis_media/
+
+# 模型原始响应（体积大，analysis.md 已包含摘要）
+skills/shuke-product/vault/analyses/*/raw_response.json
+skills/shuke-product/vault/analyses/*/request_meta.json
+skills/shuke-product/vault/analyses/*/request.json

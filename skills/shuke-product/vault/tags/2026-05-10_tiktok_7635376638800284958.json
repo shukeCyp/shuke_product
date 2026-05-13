@@ -1,0 +1,129 @@
+{
+  "video_id": "2026-05-10_tiktok_7635376638800284958",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7635376638800284958.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7635376638800284958/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.1,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Truly 腋下护理除臭棒",
+    "category": "身体护理",
+    "sub_category": "美体止汗",
+    "price_position": "低价福利",
+    "target_audience": [
+      "女性",
+      "有腋下色素沉淀者",
+      "关注体味人群",
+      "平价好物追求者"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "无铝成分",
+      "纯素",
+      "烟酰胺",
+      "苦杏仁酸",
+      "防止毛发内生",
+      "美白除臭"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "身体展示",
+      "第三方背书(男伴反应)"
+    ],
+    "audience_tags": [
+      "年轻女性",
+      "穿搭受限人群",
+      "成分党"
+    ],
+    "risk_tags": [
+      "无字幕",
+      "质地未展示",
+      "无明显证明(无涂抹过程)"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "尴尬痛点+结果前置",
+    "first_3s_text": "你做腋下激光了吗？你以前那里像地图一样，超级黑。",
+    "mechanism": "利用画外音伴侣直白的痛点吐槽（腋下像地图一样黑）与画面中女性大方展示白净腋下的反差，制造强烈的情绪波动和好奇心，吸引看完解决方案。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "含烟酰胺和苦杏仁酸能有效美白",
+    "无铝及纯素配方更健康",
+    "防止毛发内生并保持水润",
+    "祛除异味",
+    "在TikTok Shop购买比一顿早餐还便宜且免运费"
+  ],
+  "proof_points": [
+    "模特在强烈自然光下自信展示的光滑白净双臂腋下",
+    "画外音男士第一视角的触碰认证"
+  ],
+  "cta": {
+    "text": "在TikTok Shop买，比一顿早餐便宜，有折扣和免运费",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 6,
+    "trust": 9,
+    "product_display": 5,
+    "purchase_impulse": 8,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "情侣/伴侣视角发现身体变化的伪街访UGC模式，痛点自爆+平价好物反差安利。",
+    "script_outline": [
+      "伴侣视角发现惊人变化并提问（制造悬念）",
+      "主角诉说曾经的痛点带来共鸣（如不敢穿吊带）",
+      "掏出随身携带的解决神器",
+      "密集输出成分和功效",
+      "抛出极低价格和包邮福利逼单"
+    ],
+    "shot_list": [
+      "中景：日常生活动作（如开后备箱），伴侣画外音提问",
+      "特写：主角听到提问后的真实反应",
+      "中景：主角翻找包包拿出产品",
+      "近景：手持产品配合口播介绍",
+      "特写补充：产品打开后的质地实拍（原视频缺失，需加）"
+    ],
+    "voiceover": "（画外音）老婆你去医美了？你之前胳肢窝黑得跟碳一样，现在怎么这么白？（女主）几千块做医美我可舍不得，你忘了我以前夏天多自卑吗？全靠我包里这个宝贝，里面有烟酰胺能美白，无铝不过敏，关键是今天在小黄车买，比咱俩刚才吃的早餐还便宜，还包邮！",
+    "subtitles": [
+      "你去做腋下激光了？",
+      "以前黑得像地图一样！",
+      "怎么可能去花那个冤枉钱！",
+      "以前我根本不敢穿抹胸",
+      "全靠这个无铝纯素好物",
+      "含烟酰胺和苦杏仁酸",
+      "美白防异味",
+      "比一顿早餐还便宜！",
+      "免运费！"
+    ],
+    "ai_image_prompts": [
+      "A close-up vertical photo of a confident young woman holding a small deodorant stick, smiling, outdoor bright lighting, clean smooth underarm visible, UGC TikTok style"
+    ],
+    "ai_video_prompts": [
+      "A vertical video shot from a first-person perspective. A young woman in a parking lot opens a car trunk. The camera gets closer, someone's hand reaches out and playfully touches her underarm. She looks surprised and laughs naturally. Bright sunny day, raw and authentic UGC feel."
+    ]
+  },
+  "search_text": "产品：Truly 腋下护理除臭棒。品类：身体护理/美体止汗。人群：女性/有腋下色素沉淀者/关注体味人群/平价好物追求者。视频类型：痛点解决, 场景种草, UGC口播, 价格刺激。钩子：尴尬痛点, 场景冲突, 结果前置, 好奇悬念，你做腋下激光了吗？你以前那里像地图一样，超级黑。。卖点：含烟酰胺和苦杏仁酸能有效美白, 无铝及纯素配方更健康, 防止毛发内生并保持水润, 祛除异味, 在TikTok Shop购买比一顿早餐还便宜且免运费。证明：模特在强烈自然光下自信展示的光滑白净双臂腋下, 画外音男士第一视角的触碰认证。风险：无字幕, 质地未展示, 无明显证明(无涂抹过程)。适合复刻：情侣/伴侣视角发现身体变化的伪街访UGC模式，痛点自爆+平价好物反差安利。"
+}

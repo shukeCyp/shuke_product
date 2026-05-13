@@ -1,0 +1,113 @@
+{
+  "video_id": "2026-05-10_tiktok_7636832470444330271",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7636832470444330271.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7636832470444330271/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 177.1,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Lattafa Ana Abiyedh Passion",
+    "category": "美妆护肤",
+    "sub_category": "香水",
+    "price_position": "疑似平价",
+    "target_audience": [
+      "女性",
+      "香水爱好者",
+      "追求高性价比人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "香水",
+      "平替香水",
+      "阿拉伯香水",
+      "百香果味"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "美妆党",
+      "香水控"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "场景割裂"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "UGC口播问候/身份点名",
+    "first_3s_text": "What's going on my fine fancy fragrant family?",
+    "mechanism": "高能量打招呼，精准圈定香水爱好者圈层，迅速拉近距离。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "百香果奶油冰棍味 (creamy passion fruit creamsicle)",
+    "温和不刺鼻 (subtle, not screechy)",
+    "气味性感迷人 (sexy)"
+  ],
+  "proof_points": [
+    "博主现场喷洒试香的真实肢体反应（瞳孔地震、惊呼）",
+    "敢于吐槽大牌建立的真实评测人设"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 8,
+    "trust": 9,
+    "product_display": 7,
+    "purchase_impulse": 8,
+    "total": 8
+  },
+  "remake": {
+    "angle": "真性情评测：先真实吐槽知名竞品（建立不盲从说真话人设），再现场实测主推产品展现反差惊喜。",
+    "script_outline": [
+      "高能打招呼圈定精准人群",
+      "抛出争议点并狠狠吐槽竞品缺陷",
+      "解答粉丝常规问题（拉满互动）",
+      "拿出实测产品现场试用",
+      "展现极度惊喜的真实反应并用具象化词汇描述体验"
+    ],
+    "shot_list": [
+      "博主大头近景口播",
+      "手持产品特写展示",
+      "手持试香纸喷洒特写",
+      "试香后的表情特写捕捉"
+    ],
+    "voiceover": "等一下！谁说平价香水都刺鼻？今天试了这瓶新品，简直就是行走的一颗性感百香果奶油冰棍，之前那个几千块的大牌在它面前就是个笑话！",
+    "subtitles": [
+      "香水控集合！",
+      "这绝不是大牌平替！",
+      "等一下...这也太好闻了吧！",
+      "性感奶油百香果"
+    ],
+    "ai_image_prompts": [
+      "A stylish woman doing a perfume review, looking extremely surprised and delighted after smelling a tester strip, vibrant lighting, medium close up, TikTok aesthetic."
+    ],
+    "ai_video_prompts": [
+      "Close up of a yellow and gold perfume bottle, cinematic lighting, a fine mist spraying from the nozzle in slow motion against a dark background."
+    ]
+  },
+  "search_text": "产品：Lattafa Ana Abiyedh Passion。品类：美妆护肤/香水。人群：女性，香水爱好者。视频类型：UGC口播，测评对比，效果前后对比。钩子：身份点名，What's going on my fine fancy fragrant family?。卖点：百香果奶油冰棍味，温和不刺鼻，性感迷人。证明：试香真实反应，拉踩大牌建立信任。风险：无CTA，场景割裂。适合复刻：真性情反差评测法，先拉踩后惊喜体验。"
+}

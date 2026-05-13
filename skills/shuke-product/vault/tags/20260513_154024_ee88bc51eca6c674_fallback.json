@@ -1,0 +1,128 @@
+{
+  "video_id": "20260513_154024_ee88bc51eca6c674_fallback",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/temp/RWTemp/2026-05/8439ae793acdf5b2d19c1e54377ba4c9/ee88bc51eca6c6743855f5b298986346.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/20260513_154024_ee88bc51eca6c674_fallback/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 38.73,
+    "created_at": "2026-05-13T15:42:16+08:00"
+  },
+  "product": {
+    "name": "AUTO PLASTIC BLACK LOTION",
+    "category": "汽车用品",
+    "sub_category": "汽车塑料/内饰/表面翻新剂",
+    "price_position": "省钱型DIY替代汽车美容店",
+    "target_audience": [
+      "旧车车主",
+      "汽车内饰/外观塑料件褪色用户",
+      "想低成本翻新车辆外观的人"
+    ],
+    "confidence": 0.92
+  },
+  "tags": {
+    "product_tags": [
+      "汽车用品",
+      "塑料翻新",
+      "车内饰护理",
+      "车灯翻新",
+      "DIY修复"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "场景种草",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写",
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "车主",
+      "旧车用户",
+      "DIY省钱人群"
+    ],
+    "risk_tags": [
+      "功效宣称风险",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "短视频带货",
+      "竖屏"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突+痛点引入",
+    "first_3s_text": "情景剧动作制造冲突，女演员抱怨车漆/表面快掉光，引出修复需求。",
+    "mechanism": "用争议动作让用户停留，再快速抛出旧车褪色痛点和产品解决方案。",
+    "retention_score": 8.5
+  },
+  "selling_points": [
+    "一擦即新，褪色表面快速变黑变亮",
+    "喷+擦两步，操作简单",
+    "可展示多个车内部件和外部塑料件",
+    "替代汽车美容店，强调省钱"
+  ],
+  "proof_points": [
+    "引擎盖/方向盘/保险杠/车门内饰/仪表台/车灯多场景演示",
+    "一半旧一半新的强烈视觉分割线",
+    "POV 手部操作展示产品使用方式",
+    "字幕强调 Stop Paying Detail Shops to Fix Faded Plastic"
+  ],
+  "cta": {
+    "text": "点击下方橙色购物车购买，优惠结束前下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 8.5,
+    "trust": 7.5,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "用安全中性的旧车尴尬痛点开场，保留一擦即新的前后对比蒙太奇，增加防水/持久性证明。",
+    "script_outline": [
+      "0-3秒旧车褪色尴尬痛点",
+      "4-10秒产品登场并首次一擦即新",
+      "11-30秒多部位快速前后对比",
+      "31-39秒产品特写+省钱CTA"
+    ],
+    "shot_list": [
+      "旧车塑料件发白特写",
+      "产品递入画面",
+      "喷到毛巾/海绵上",
+      "擦出一半新一半旧分界线",
+      "方向盘/保险杠/车门/车灯连续修复",
+      "产品瓶身特写和购物车CTA"
+    ],
+    "voiceover": "别再花钱去美容店修复褪色塑料了，用这个自己喷一喷、擦一擦，旧车塑料件立刻变黑变亮。",
+    "subtitles": [
+      "Stop Paying Detail Shops",
+      "One wipe restores faded plastic",
+      "Works on bumpers, dashboards and headlights",
+      "Tap the cart before the promo ends"
+    ],
+    "ai_image_prompts": [
+      "POV close-up of a hand wiping faded black car plastic bumper, one side grey and weathered, the other side glossy deep black, sharp before-after line, vertical 9:16, realistic daylight",
+      "Close-up product shot of auto plastic black lotion bottle beside a restored car dashboard, faded section visible in background, realistic UGC style, vertical 9:16",
+      "Hand applying black restoration liquid to an old car steering wheel, half restored glossy black, half dull grey, strong visual comparison, photorealistic vertical"
+    ],
+    "ai_video_prompts": [
+      "Vertical 9:16 POV video: a hand wipes a sponge across a faded grey car dashboard, instantly restoring a deep glossy black strip, smooth continuous motion, realistic UGC phone footage, 8 seconds",
+      "Vertical UGC video: close-up of a faded black plastic bumper, hand applies auto plastic lotion with a cloth, revealing a clean before-after divide, natural outdoor light, 8 seconds",
+      "Vertical product demo video: a cloudy yellow car headlight is wiped with a treated cloth and becomes clearer, handheld phone camera, realistic garage setting, 8 seconds"
+    ]
+  },
+  "search_text": "产品：AUTO PLASTIC BLACK LOTION。品类：汽车用品/汽车塑料/内饰/表面翻新剂。人群：旧车车主、汽车内饰/外观塑料件褪色用户、想低成本翻新车辆外观的人。视频类型：痛点解决、效果前后对比、场景种草、测评对比、UGC口播。钩子：场景冲突、尴尬痛点、好奇悬念，情景剧动作制造冲突，女演员抱怨车漆/表面快掉光，引出修复需求。。卖点：一擦即新，褪色表面快速变黑变亮；喷+擦两步，操作简单；可展示多个车内部件和外部塑料件；替代汽车美容店，强调省钱。证明：引擎盖/方向盘/保险杠/车门内饰/仪表台/车灯多场景演示；一半旧一半新的强烈视觉分割线；POV 手部操作展示产品使用方式；字幕强调 Stop Paying Detail Shops to Fix Faded Plastic。风险：功效宣称风险、信任不足。适合复刻：用安全中性的旧车尴尬痛点开场，保留一擦即新的前后对比蒙太奇，增加防水/持久性证明。。"
+}

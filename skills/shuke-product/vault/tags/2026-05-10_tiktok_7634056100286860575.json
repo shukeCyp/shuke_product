@@ -1,0 +1,119 @@
+{
+  "video_id": "2026-05-10_tiktok_7634056100286860575",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7634056100286860575.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7634056100286860575/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.47,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Happy Curves Comfort Powder",
+    "category": "身体护理",
+    "sub_category": "女性护理",
+    "price_position": "未知",
+    "target_audience": [
+      "女性",
+      "夏季易出汗人群",
+      "有皮肤摩擦困扰人群"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "爽身粉",
+      "防摩擦",
+      "吸汗除味",
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "UGC口播",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "女性",
+      "出汗痛点人群",
+      "微胖人群"
+    ],
+    "risk_tags": [],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "尴尬痛点+视觉冲击",
+    "first_3s_text": "sometimes you can't control it 😫",
+    "mechanism": "通过大胆展示私密部位(胸下)出汗擦粉的动作，配合引人共鸣的文案，直击女性夏日尴尬痛点截流",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "吸汗除味 (absorbs sweat and neutralizes odor)",
+    "防止皮肤摩擦防擦伤 (prevents chafing)",
+    "全身易出汗死角可用",
+    "易拍落不留白痕不脏衣服 (dusts right off)"
+  ],
+  "proof_points": [
+    "倒粉动作清晰展示粉末细腻质地",
+    "将粉末涂在深色衣服上并轻松拍落不留痕迹的实测演示"
+  ],
+  "cta": {
+    "text": "grab you some of this powder and just thank me later",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 9,
+    "trust": 9,
+    "product_display": 8,
+    "purchase_impulse": 8,
+    "total": 8
+  },
+  "remake": {
+    "angle": "闺蜜分享私密好物/解决痛点实测展示",
+    "script_outline": [
+      "1. 痛点钩子：展示擦拭出汗部位的动作，抛出夏日出汗痛点",
+      "2. 引入解法：展示产品及粉扑",
+      "3. 卖点罗列：口播吸汗、除味、防摩擦",
+      "4. 场景延展：指出多个容易出汗发臭的身体死角",
+      "5. 信任实测：把粉末涂在衣服上拍落，证明不弄脏衣物",
+      "6. 强促单：呼唤有同样困扰的女生立即下单"
+    ],
+    "shot_list": [
+      "中景：掀起衣服用粉扑擦拭胸下",
+      "近景：手持产品包装展示品牌",
+      "特写：把粉末倒在毛绒粉扑上",
+      "中景：结合肢体动作讲解使用部位",
+      "特写/近景：用沾了粉的粉扑擦拭深色衣服，随后用手拍掉无痕迹",
+      "中景：指向镜头呼吁购买"
+    ],
+    "voiceover": "听着，女孩们夏天真的太难了，尤其是出汗根本控制不住！但我发现了整天保持清香的秘密武器。这款爽身粉能吸汗、除味、防摩擦。腋下、胸下、大腿根，哪里出汗扑哪里。而且它叫dusting powder是有原因的，不小心弄到衣服上？轻轻一扫就没了！如果你也是爱出汗的女生，别犹豫，买它，以后你会感谢我的！",
+    "subtitles": [
+      "夏天出汗真的控制不住😫",
+      "发现了一整天保持清香的秘密",
+      "吸汗除味还能防摩擦！",
+      "胸下、大腿根、任何出汗的缝隙都能用",
+      "弄到衣服上？一扫就掉！",
+      "爱出汗的姐妹赶紧去冲！"
+    ],
+    "ai_image_prompts": [
+      "A young woman in a pink t-shirt holding a bottle of pink body powder and a fluffy puff, looking confident, modern bathroom background, TikTok aesthetic, soft lighting"
+    ],
+    "ai_video_prompts": [
+      "Slow motion macro shot of fine white powder being dusted off a bright pink cotton t-shirt fabric, leaving no trace, clean lighting, 4k resolution"
+    ]
+  },
+  "search_text": "产品：Happy Curves Comfort Powder。品类：身体护理/女性护理。人群：女性出汗痛点人群微胖人群。视频类型：痛点解决, 场景种草, UGC口播, 质地实测。钩子：尴尬痛点, 身份点名，sometimes you can't control it。卖点：吸汗除味防摩擦, 易拍落不留白痕不脏衣服, 全身易出汗死角可用。证明：产品特写, 质地展示, 使用场景, 前后对比实测。风险：无。适合复刻：闺蜜分享私密好物/解决痛点实测展示。"
+}

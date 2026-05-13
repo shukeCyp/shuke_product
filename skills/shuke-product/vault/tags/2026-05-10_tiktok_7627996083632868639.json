@@ -1,0 +1,125 @@
+{
+  "video_id": "2026-05-10_tiktok_7627996083632868639",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7627996083632868639.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7627996083632868639/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 60.13,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Natural Vitality MAX CALM Magnesium Citrate + Glycinate",
+    "category": "健康养生",
+    "sub_category": "膳食补充剂",
+    "price_position": "平价/性价比",
+    "target_audience": [
+      "失眠人群",
+      "高压人群",
+      "女性",
+      "注重性价比买家"
+    ],
+    "confidence": 0.95
+  },
+  "tags": {
+    "product_tags": [
+      "镁补充剂",
+      "大容量",
+      "无糖",
+      "助眠",
+      "缓解压力"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "测评对比",
+      "身份代入",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "低价占便宜"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "前后对比",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "失眠",
+      "压力大",
+      "脱发",
+      "容貌焦虑"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突+痛点共鸣",
+    "first_3s_text": "Insomnio, Estrés, Cortisol por las nubes (失眠 压力 皮质醇飙升)",
+    "mechanism": "通过偷听路人打电话抱怨失眠和水肿的真实场景，迅速引发同类痛点用户共鸣，制造好奇心。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "超大容量性价比极高",
+    "含柠檬酸镁和甘氨酸镁双重成分",
+    "解决失眠、高皮质醇、脱发、双下巴等问题",
+    "零糖健康",
+    "覆盆子柠檬口味好喝"
+  ],
+  "proof_points": [
+    "在实体店货架前将网购大包装与店售小包装进行直接的体积对比",
+    "产品瓶身Zero Sugar及成分标签的高清特写"
+  ],
+  "cta": {
+    "text": "cómpralo en TikTok Shop en el carrito naranja (在TikTok Shop的橙色购物车购买)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 9,
+    "purchase_impulse": 8,
+    "total": 8
+  },
+  "remake": {
+    "angle": "线下超市截胡对比法：在实体店用小包装高价对比线上大包装低价",
+    "script_outline": [
+      "场景导入：演员在超市货架前抱怨商品太小太贵或痛点未解决",
+      "截胡冲突：博主突然递上巨大的线上包装阻断购买",
+      "视觉震撼：小瓶与大桶的同框对比",
+      "痛点解答：对症下药口播产品核心功效及好喝/好用属性",
+      "渠道指引：明示实体店买不到，指引小黄车并强调省钱"
+    ],
+    "shot_list": [
+      "主角货架前挑选中景",
+      "大包装突然入画近景",
+      "大小两款产品并排对比手部特写",
+      "大包装标签成分特写",
+      "主角恍然大悟拿着大包装离开的中景"
+    ],
+    "voiceover": "朋友，别在实体店花冤枉钱了！看看这个，同样的价格你在网上能买到这么大一桶！它能解决你的失眠和高压力，还是零糖的，赶紧去小黄车省下这笔钱！",
+    "subtitles": [
+      "失眠 压力 皮质醇飙升",
+      "看看这个！比那个大太多了",
+      "失眠、压力、脱发、双下巴",
+      "全在这个大桶里",
+      "TikTok专属，零糖超好喝",
+      "实体店在抢钱，快去购物车买"
+    ],
+    "ai_image_prompts": [
+      "A split screen showing a tiny supplement bottle in a pharmacy setting on the left, and a massive, oversized tub of the same supplement with a bright glowing aura on the right, visual comparison, hyper-realistic, POV style --ar 9:16"
+    ],
+    "ai_video_prompts": [
+      "POV shot, handheld camera style. A person holding a tiny medicine bottle in a brightly lit pharmacy aisle. Another hand enters the frame holding a giant, colorful tub of dietary supplement next to the small bottle, demonstrating a massive size difference. Realistic lighting, TikTok style video."
+    ]
+  },
+  "search_text": "产品：Natural Vitality MAX CALM Magnesium Citrate + Glycinate。品类：健康养生/膳食补充剂。人群：失眠人群, 高压人群, 女性, 注重性价比买家。视频类型：场景种草, 痛点解决, 测评对比, 身份代入, UGC口播。钩子：场景冲突, 尴尬痛点, 低价占便宜，Insomnio, Estrés, Cortisol por las nubes (失眠 压力 皮质醇飙升)。卖点：超大容量性价比极高, 含柠檬酸镁和甘氨酸镁双重成分, 解决失眠、高皮质醇、脱发、双下巴等问题, 零糖健康, 覆盆子柠檬口味好喝。证明：在实体店货架前将网购大包装与店售小包装进行直接的体积对比, 产品瓶身Zero Sugar及成分标签的高清特写。风险：功效宣称风险。适合复刻：线下超市截胡对比法：在实体店用小包装高价对比线上大包装低价。"
+}

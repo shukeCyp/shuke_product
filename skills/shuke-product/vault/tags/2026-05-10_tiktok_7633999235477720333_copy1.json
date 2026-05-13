@@ -1,0 +1,128 @@
+{
+  "video_id": "2026-05-10_tiktok_7633999235477720333_copy1",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7633999235477720333 (1).mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7633999235477720333_copy1/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 86.47,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "Beauty by Earth Self Tanner Tanning Lotion",
+    "category": "美妆护肤",
+    "sub_category": "身体护理",
+    "price_position": "未知",
+    "target_audience": [
+      "爱美女性",
+      "忙碌的上班族",
+      "追求健康护肤的人",
+      "希望获得自然肤色的人"
+    ],
+    "confidence": 0.9
+  },
+  "tags": {
+    "product_tags": [
+      "自助美黑乳",
+      "身体乳",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "身份代入",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "个人证言",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "模特",
+      "爱美女性"
+    ],
+    "risk_tags": [],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念",
+    "first_3s_text": "How models self tan.",
+    "mechanism": "通过揭秘“模特”这一特殊群体的护肤秘密，引发用户的好奇心和向往，从而吸引用户停留。",
+    "retention_score": 8
+  },
+  "selling_points": [
+    "模特同款",
+    "妆效自然",
+    "提亮肤色",
+    "成分安全 (无对羟基苯甲酸酯、无染料、无毒素)",
+    "护肤功效 (抗衰老, 含乳木果油、石榴、芦荟)",
+    "使用便捷 (免洗, 15分钟快干)",
+    "不沾染衣物",
+    "气味清新 (椰子香草味)",
+    "不导致色素沉着",
+    "持久",
+    "可叠加使用"
+  ],
+  "proof_points": [
+    "个人使用两周后的效果展示 (面部)",
+    "产品质地展示 (白色乳液状)",
+    "口播提及具体护肤成分"
+  ],
+  "cta": {
+    "text": "I'm gonna drop the link where both of us got it right here... get medium to dark... if they don't have medium to dark, get the lighter color and build upon it.",
+    "clarity": "very_clear"
+  },
+  "scores": {
+    "retention": 8,
+    "clarity": 9,
+    "trust": 8,
+    "product_display": 7,
+    "purchase_impulse": 9,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "聚焦“不沾染衣物/床单”的痛点，进行白T恤或白床单实测。",
+    "script_outline": [
+      "钩子：展示一件被传统美黑产品染色的白T恤，并说'这就是我换掉所有美黑产品的原因'",
+      "痛点：抱怨传统美黑产品气味难闻、等待时间长、毁衣服",
+      "产品展示：介绍Beauty by Earth美黑乳，展示其乳液质地和宜人香味",
+      "实测证明：将产品涂在手臂上，等待片刻后用白毛巾按压，证明无颜色转移",
+      "效果与优点：展示使用后的自然肤色，并强调其护肤、安全的优点",
+      "CTA：引导点击小黄车购买，并给出色号选择建议"
+    ],
+    "shot_list": [
+      "特写：被染色的白T恤",
+      "中近景：博主抱怨",
+      "特写：挤出产品展示质地",
+      "近景：涂抹产品于手臂",
+      "特写：白毛巾按压测试",
+      "中景：展示使用后效果",
+      "近景：手持产品指向购买链接"
+    ],
+    "voiceover": "像闺蜜分享好物一样，语气亲切、真实，带有一点解决大问题的兴奋感。",
+    "subtitles": [
+      "毁掉你白T恤的美黑乳",
+      "告别尴尬染色！",
+      "闻起来像度假",
+      "【零转移测试】",
+      "懒人必备",
+      "模特光环肌",
+      "点击这里get同款"
+    ],
+    "ai_image_prompts": [
+      "A flat lay of a white t-shirt, a bottle of 'Beauty by Earth' self-tanner, and some coconut shells on a clean, bright background, lifestyle aesthetic.",
+      "A close-up shot of a woman's glowing, tanned leg next to a pristine white bedsheet, emphasizing no color transfer."
+    ],
+    "ai_video_prompts": [
+      "Create a 5-second hyper-realistic video clip of a white lotion being smoothly applied to an arm, absorbing instantly without any residue, under bright bathroom lighting, UGC style."
+    ]
+  },
+  "search_text": "产品：Beauty by Earth Self Tanner Tanning Lotion。品类：美妆护肤/身体护理。人群：爱美女性, 忙碌的上班族, 追求健康护肤的人, 希望获得自然肤色的人。视频类型：UGC口播, 痛点解决, 身份代入, 场景种草。钩子：好奇悬念, 身份点名，How models self tan。卖点：模特同款, 妆效自然, 不沾染衣物, 免洗, 成分安全, 护肤功效, 气味清新。证明：质地展示, 个人证言。风险：无。适合复刻：聚焦“不沾染衣物/床单”的痛点，进行白T恤或白床单实测。"
+}

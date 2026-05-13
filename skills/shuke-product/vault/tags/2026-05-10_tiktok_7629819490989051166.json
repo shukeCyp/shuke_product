@@ -1,0 +1,126 @@
+{
+  "video_id": "2026-05-10_tiktok_7629819490989051166",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Library/Containers/com.tencent.xinWeChat/Data/Documents/xwechat_files/wxid_t5bkm7ic58je22_f536/msg/file/2026-05/素材/素材/TikVideo.App_7629819490989051166.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-10_tiktok_7629819490989051166/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.83,
+    "created_at": "2026-05-10"
+  },
+  "product": {
+    "name": "疑似 Dr.Melaxin Peel Shot 去角质啫喱",
+    "category": "美妆护肤",
+    "sub_category": "面部护理",
+    "price_position": "未知",
+    "target_audience": [
+      "黑头粉刺人群",
+      "毛孔粗大人群",
+      "油痘肌",
+      "有去角质需求人群"
+    ],
+    "confidence": 0.85
+  },
+  "tags": {
+    "product_tags": [
+      "去角质",
+      "去黑头",
+      "毛孔清洁",
+      "啫喱精华"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "结果前置",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "质地展示",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "油性皮肤",
+      "护肤小白",
+      "问题肌肤"
+    ],
+    "risk_tags": [
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点前置+反常识质疑",
+    "first_3s_text": "That was in my pores... got to just be the product pilling up",
+    "mechanism": "通过极微距展示恶心但解压的毛孔清理过程吸睛，同时博主主动提出消费者常见的质疑（这是产品假搓泥吧），打破常规广告套路，利用悬念留人。",
+    "retention_score": 9
+  },
+  "selling_points": [
+    "瞬间清理毛孔深层油脂和死皮角质",
+    "真实有效，通过二次测试证明绝非产品自身的化学反应（假搓泥）",
+    "拥有日常温和版与强效去黑头版，满足不同护肤需求",
+    "目前正在打折促销，性价比极高"
+  ],
+  "proof_points": [
+    "微距镜头下第一次揉搓出大量白色颗粒物",
+    "微距镜头下展示清理后空出的毛孔凹洞",
+    "在同一部位进行二次揉搓，未出现任何碎屑，证实第一次搓出的确为皮肤污垢"
+  ],
+  "cta": {
+    "text": "Grab them before they mark the price back up / 配合手指指向链接动作",
+    "clarity": "high"
+  },
+  "scores": {
+    "retention": 9,
+    "clarity": 10,
+    "trust": 10,
+    "product_display": 8,
+    "purchase_impulse": 9,
+    "total": 9
+  },
+  "remake": {
+    "angle": "真假去角质测试：利用'原位二次测试法'打破搓泥类护肤品的信任危机",
+    "script_outline": [
+      "微距展示粗糙堵塞皮肤，使用产品搓出污垢，抛出质疑（这肯定是假搓泥智商税）",
+      "展示毛孔变干净的特写",
+      "高光验证：在同一位置再次涂抹揉搓，证明完全不出泥，打破质疑",
+      "切真人出镜，分享真实体验，介绍产品分类",
+      "抛出限时折扣信息，引导点击购物车"
+    ],
+    "shot_list": [
+      "极微距：额头/鼻头皮肤特写涂抹啫喱",
+      "极微距：手指揉搓出白色颗粒",
+      "极微距：干净的毛孔凹洞特写",
+      "极微距：同部位二次涂抹揉搓，手指干净",
+      "中景：博主手持两款产品讲解",
+      "特写/手势：指向屏幕下方链接处"
+    ],
+    "voiceover": "很多人说去角质啫喱是智商税，搓出来的都是产品自己？今天我们来做个硬核测试。看，第一次搓出这么多脏东西，毛孔都空了。但这到底是死皮还是假搓泥？我们在同一个地方再试一次……完全没有！说明第一次搓出来的全是你毛孔里的垃圾！这个绝了，现在有折扣赶紧去囤。",
+    "subtitles": [
+      "去角质都是假搓泥？",
+      "毛孔真的空了！",
+      "原位复测！",
+      "竟然一点都不搓泥了！",
+      "真能拉出毛孔垃圾",
+      "趁涨价前快抢"
+    ],
+    "ai_image_prompts": [
+      "Extreme macro photography of clogged skin pores on a forehead, high detail, dermatological aesthetic",
+      "A drop of clear exfoliating gel on human skin, extreme close up, sharp focus"
+    ],
+    "ai_video_prompts": [
+      "Macro video shot of a finger gently rubbing clear gel on textured forehead skin, circular motion, small white particles forming on the skin surface, hyper-realistic, 4k",
+      "Macro video shot of clean, empty skin pores after exfoliation, smooth texture, warm lighting, highly detailed"
+    ]
+  },
+  "search_text": "产品：疑似 Dr.Melaxin Peel Shot 去角质啫喱。品类：美妆护肤/面部护理。人群：黑头粉刺人群，毛孔粗大人群，油痘肌。视频类型：痛点解决，效果前后对比，质地实测，UGC口播，价格刺激。钩子：尴尬痛点，结果前置，反常识，That was in my pores... got to just be the product pilling up。卖点：瞬间清理毛孔深层油脂和死皮角质，真实有效，通过二次测试证明绝非产品自身的化学反应（假搓泥），拥有日常温和版与强效去黑头版，目前正在打折促销。证明：微距镜头下第一次揉搓出大量白色颗粒物，微距镜头下展示清理后空出的毛孔凹洞，在同一部位进行二次揉搓未出现任何碎屑。风险：功效宣称风险。适合复刻：真假去角质测试：利用'原位二次测试法'打破搓泥类护肤品的信任危机。"
+}
