@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637610939277249799",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/063_oliverday28_7637610939277249799.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637610939277249799/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款适配 iPhone（疑似 iPhone 13/14）的粉色半透明磨砂、带 MagSafe 磁吸圈的全包防摔手机壳",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求高颜值、注重性价比的年轻女性 iPhone 用户（从“$39 pesitos”判断主要面向墨西哥/拉美下沉或学生市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "极端价格钩（Price Hook） + 稀缺性钩（Scarcity Hook）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求高颜值、注重性价比的年轻女性 iPhone 用户（从“$39 pesitos”判断主要面向墨西哥/拉美下沉或学生市场）"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "极端价格钩（Price Hook） + 稀缺性钩（Scarcity Hook）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "手指指向屏幕左下角，字幕：“最后24小时$39，点左下角抢！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款适配 iPhone（疑似 iPhone 13/14）的粉色半透明磨砂、带 MagSafe 磁吸圈的全包防摔手机壳。品类：数码配件。人群：追求高颜值、注重性价比的年轻女性 iPhone 用户（从“$39 pesitos。钩子：极端价格钩（Price Hook） + 稀缺性钩（Scarcity Hook）。评分：6.0"
+}

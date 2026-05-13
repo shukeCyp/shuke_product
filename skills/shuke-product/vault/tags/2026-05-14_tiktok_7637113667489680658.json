@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637113667489680658",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/427_ubikpfltj2_7637113667489680658.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637113667489680658/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "洗衣机槽清洁泡腾片（包装显示为 \"WASHING MACHINE CLEANER\"）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家庭主妇、独居青年、注重家庭卫生与衣物健康的家清人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇视觉（倒可乐）+ 恐惧诉求（三个月不洗的后果）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家庭主妇、独居青年、注重家庭卫生与衣物健康的家清人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇视觉（倒可乐）+ 恐惧诉求（三个月不洗的后果）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：洗衣机槽清洁泡腾片（包装显示为 \"WASHING MACHINE CLEANER\"）。品类：健康养生。人群：家庭主妇、独居青年、注重家庭卫生与衣物健康的家清人群。钩子：猎奇视觉（倒可乐）+ 恐惧诉求（三个月不洗的后果）。评分：8.4"
+}

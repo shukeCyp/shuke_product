@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7637323257842011412",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/228_.karleemaar_7637323257842011412.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637323257842011412/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "飞天小女警IP（泡泡 Burbuja）联名/印花手机壳",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "Z世代及千禧一代年轻女性、喜爱可爱风配件的用户、飞天小女警IP粉丝"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉（大IP图案）+ 听觉（回忆杀BGM）+ 场景（真实对镜自拍）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "Z世代及千禧一代年轻女性、喜爱可爱风配件的用户、飞天小女警IP粉丝"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉（大IP图案）+ 听觉（回忆杀BGM）+ 场景（真实对镜自拍）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "画面文字明示（去橙色购物车）+ 人物手指精准指向左下角/正下方，极其标准且有效",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：飞天小女警IP（泡泡 Burbuja）联名/印花手机壳。品类：身体护理。人群：Z世代及千禧一代年轻女性、喜爱可爱风配件的用户、飞天小女警IP粉丝。钩子：视觉（大IP图案）+ 听觉（回忆杀BGM）+ 场景（真实对镜自拍）。评分：7.4"
+}

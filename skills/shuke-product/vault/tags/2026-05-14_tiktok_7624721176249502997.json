@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7624721176249502997",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/147_vpenaloza.ilustracion_7624721176249502997.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624721176249502997/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一本情侣互动恋爱打卡纪念册（名为“100 Citas Junto a Ti”/与你一起的100次约会），包含约会规则、照片粘贴区和心得记录区",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "处于恋爱期或婚姻中的年轻女性、寻找纪念日/情人节礼物的受众、手账/DIY爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "ASMR听觉钩子 + 颜值展示钩子 + 场景氛围钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "处于恋爱期或婚姻中的年轻女性、寻找纪念日/情人节礼物的受众、手账/DIY爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "ASMR听觉钩子 + 颜值展示钩子 + 场景氛围钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一本情侣互动恋爱打卡纪念册（名为“100 Citas Junto a Ti”/与你一起的100次约会），包含约会规则、照。品类：数码配件。人群：处于恋爱期或婚姻中的年轻女性、寻找纪念日/情人节礼物的受众、手账/DIY爱好者。钩子：ASMR听觉钩子 + 颜值展示钩子 + 场景氛围钩子。评分：9.0"
+}

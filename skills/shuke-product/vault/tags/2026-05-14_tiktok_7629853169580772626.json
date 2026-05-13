@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629853169580772626",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/486_monseolveraf_7629853169580772626.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629853169580772626/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "家用半永久眉毛染色/印染套装（DIY Eyebrow Tint Kit）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "每天画眉毛嫌麻烦、素颜眉毛稀疏、想做纹眉但怕痛或嫌贵的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "极端测试（破坏性视觉）+ 痛点场景代入"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "每天画眉毛嫌麻烦、素颜眉毛稀疏、想做纹眉但怕痛或嫌贵的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "极端测试（破坏性视觉）+ 痛点场景代入",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：家用半永久眉毛染色/印染套装（DIY Eyebrow Tint Kit）。品类：美妆护肤。人群：每天画眉毛嫌麻烦、素颜眉毛稀疏、想做纹眉但怕痛或嫌贵的年轻女性。钩子：极端测试（破坏性视觉）+ 痛点场景代入。评分：8.6"
+}

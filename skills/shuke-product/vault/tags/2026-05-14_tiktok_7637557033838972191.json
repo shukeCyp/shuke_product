@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7637557033838972191",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7637557033838972191.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637557033838972191/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "大扭力（1000 N.m）无刷锂电冲击扳手及配套工具箱",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "汽修工人、大货车/工程车司机、重型机械维修人员、硬核DIY玩家"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点展示 + 场景冲突 + 竞品拉踩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "汽修工人、大货车/工程车司机、重型机械维修人员、硬核DIY玩家"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点展示 + 场景冲突 + 竞品拉踩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "将工具箱“啪”一声打开，配件铺满",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：大扭力（1000 N.m）无刷锂电冲击扳手及配套工具箱。品类：数码配件。人群：汽修工人、大货车/工程车司机、重型机械维修人员、硬核DIY玩家。钩子：痛点展示 + 场景冲突 + 竞品拉踩。评分：0.0"
+}

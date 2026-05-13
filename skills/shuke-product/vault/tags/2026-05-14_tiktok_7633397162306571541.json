@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633397162306571541",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/060_lemarze002_7633397162306571541.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633397162306571541/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "儿童可重复使用的褪色凹槽练字帖套装（含握笔器和特制笔）",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "学龄前及低小学年级儿童的家长（特别是为孩子写字潦草、握笔姿势不对而焦虑的家长）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "食品饮料"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉解压奇观 + 痛点/反差对比（医生处方字 vs 完美印刷体）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "学龄前及低小学年级儿童的家长（特别是为孩子写字潦草、握笔姿势不对而焦虑的家长）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉解压奇观 + 痛点/反差对比（医生处方字 vs 完美印刷体）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：儿童可重复使用的褪色凹槽练字帖套装（含握笔器和特制笔）。品类：食品饮料。人群：学龄前及低小学年级儿童的家长（特别是为孩子写字潦草、握笔姿势不对而焦虑的家长）。钩子：视觉解压奇观 + 痛点/反差对比（医生处方字 vs 完美印刷体）。评分：9.2"
+}

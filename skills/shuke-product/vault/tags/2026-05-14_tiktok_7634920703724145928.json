@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634920703724145928",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/469_mfe3te2_7634920703724145928.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634920703724145928/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "12双装的高颜值女士透气玻璃丝/蕾丝短袜",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求时尚穿搭、注重细节美感、喜欢性价比好物的年轻女性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力开箱） + 情绪钩子（震惊的感叹词）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求时尚穿搭、注重细节美感、喜欢性价比好物的年轻女性群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力开箱） + 情绪钩子（震惊的感叹词）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：12双装的高颜值女士透气玻璃丝/蕾丝短袜。品类：服饰穿搭。人群：追求时尚穿搭、注重细节美感、喜欢性价比好物的年轻女性群体。钩子：动作钩子（暴力开箱） + 情绪钩子（震惊的感叹词）。评分：9.4"
+}

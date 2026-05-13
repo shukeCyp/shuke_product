@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637145927437896980",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/419_virycastaneda6_7637145927437896980.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637145927437896980/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Panini（帕尼尼）出品的2026年FIFA世界杯官方球星卡/贴纸（10包套装）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "足球迷、球星卡收藏爱好者、为孩子购买礼物的家长（主要受众为西语区用户，因字幕为西班牙语）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪感染型（夸张表情） + 圈层垂直型（直接亮出世界杯/梅西元素）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "足球迷、球星卡收藏爱好者、为孩子购买礼物的家长（主要受众为西语区用户，因字幕为西班牙语）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪感染型（夸张表情） + 圈层垂直型（直接亮出世界杯/梅西元素）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Panini（帕尼尼）出品的2026年FIFA世界杯官方球星卡/贴纸（10包套装）。品类：其他。人群：足球迷、球星卡收藏爱好者、为孩子购买礼物的家长（主要受众为西语区用户，因字幕为西。钩子：情绪感染型（夸张表情） + 圈层垂直型（直接亮出世界杯/梅西元素）。评分：6.2"
+}

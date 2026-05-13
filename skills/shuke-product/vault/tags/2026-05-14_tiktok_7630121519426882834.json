@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7630121519426882834",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/006_xux2mh3a73_7630121519426882834.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630121519426882834/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "单向透视防窥玻璃贴膜（静电吸附无胶版）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对家庭隐私有需求的人群（特别是一楼住户、临街住户）、孕妇/宝妈（追求安全无毒无隐患）、以及希望阻隔紫外线隔热的家庭"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇/视觉奇观类钩子 (Pattern Interrupt) + 效果前置钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对家庭隐私有需求的人群（特别是一楼住户、临街住户）、孕妇/宝妈（追求安全无毒无隐患）、以及希望阻隔紫外线隔热的家庭"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇/视觉奇观类钩子 (Pattern Interrupt) + 效果前置钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "撕下一角展示（无胶），口播：“夏天还能隔热防晒，租房党闭眼入，左下角直接拍",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：单向透视防窥玻璃贴膜（静电吸附无胶版）。品类：男士护理。人群：对家庭隐私有需求的人群（特别是一楼住户、临街住户）、孕妇/宝妈（追求安全无毒无隐。钩子：猎奇/视觉奇观类钩子 (Pattern Interrupt) + 效果前置钩子。评分：8.2"
+}

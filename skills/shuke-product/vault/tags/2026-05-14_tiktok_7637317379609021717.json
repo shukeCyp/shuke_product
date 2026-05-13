@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637317379609021717",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/133_lalofitt_7637317379609021717.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637317379609021717/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "QKZ ENZO Pro 有线入耳式HiFi耳机",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "预算有限但追求音质与外观的数码爱好者、游戏玩家及学生群体（平替党）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景视觉钩子 + 价格悬念钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "预算有限但追求音质与外观的数码爱好者、游戏玩家及学生群体（平替党）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景视觉钩子 + 价格悬念钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：QKZ ENZO Pro 有线入耳式HiFi耳机。品类：数码配件。人群：预算有限但追求音质与外观的数码爱好者、游戏玩家及学生群体（平替党）。钩子：场景视觉钩子 + 价格悬念钩子。评分：8.4"
+}

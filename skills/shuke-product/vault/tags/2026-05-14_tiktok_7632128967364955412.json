@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632128967364955412",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/274_fashion.outfits05_7632128967364955412.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632128967364955412/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "男士 230g 重磅纯棉复古水洗做旧大码（Oversized）短袖T恤",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对身材不自信（有肚腩、胸部激凸发胖）的男性，以及追求硬挺版型和复古穿搭的男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大/社交尴尬场景演绎"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对身材不自信（有肚腩、胸部激凸发胖）的男性，以及追求硬挺版型和复古穿搭的男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大/社交尴尬场景演绎",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：男士 230g 重磅纯棉复古水洗做旧大码（Oversized）短袖T恤。品类：男士护理。人群：对身材不自信（有肚腩、胸部激凸发胖）的男性，以及追求硬挺版型和复古穿搭的男性。钩子：痛点放大/社交尴尬场景演绎。评分：7.8"
+}

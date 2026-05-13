@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632875557721476360",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/296_aslyca_7632875557721476360.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632875557721476360/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款穿戴式肩颈按摩仪",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "热门真人秀（如La Casa de los Famosos/VIP House）的观众、有肩颈放松需求的人群、容易被“明星同款”和“折扣”冲动转化的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "名人/权威背书钩子（VIP屋里的明星都在用） + 社会认同钩子（展示别人说“我需要这个”的评论贴纸）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "热门真人秀（如La Casa de los Famosos/VIP House）的观众、有肩颈放松需求的人群、容易被“明星同款”和“折扣”冲动转化的消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "名人/权威背书钩子（VIP屋里的明星都在用） + 社会认同钩子（展示别人说“我需要这个”的评论贴纸）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款穿戴式肩颈按摩仪。品类：数码配件。人群：热门真人秀（如La Casa de los Famosos/VIP House）。钩子：名人/权威背书钩子（VIP屋里的明星都在用） + 社会认同钩子（展示别人说“我需。评分：6.2"
+}

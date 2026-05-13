@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636170359217065237",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/393_monseolveraf_7636170359217065237.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636170359217065237/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一把兼具防晒（防紫外线）与防雨功能、且非常小巧便携的高颜值黑胶防晒伞（口播称粉色/视觉偏香芋紫）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "注重颜值、日常有通勤防晒防雨需求、喜欢背小包的年轻女性（核心痛点：传统的伞太大太丑，不方便带）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大（环境痛点） + 颜值反差钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "注重颜值、日常有通勤防晒防雨需求、喜欢背小包的年轻女性（核心痛点：传统的伞太大太丑，不方便带）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大（环境痛点） + 颜值反差钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一把兼具防晒（防紫外线）与防雨功能、且非常小巧便携的高颜值黑胶防晒伞（口播称粉色/视觉偏香芋紫）。品类：美妆护肤。人群：注重颜值、日常有通勤防晒防雨需求、喜欢背小包的年轻女性（核心痛点：传统的伞太大太。钩子：痛点放大（环境痛点） + 颜值反差钩子。评分：7.6"
+}

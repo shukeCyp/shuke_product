@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634761692567604487",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/196_lyhnbmpnh49_7634761692567604487.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634761692567604487/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式插电加热饭盒",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "每天带饭、厌倦在公司排队等微波炉、追求效率和性价比的上班族"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "警告型悬念钩子 (“没看这个前别买”) + 痛点场景前置 (背景里的微波炉排队队伍)"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "每天带饭、厌倦在公司排队等微波炉、追求效率和性价比的上班族"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "警告型悬念钩子 (“没看这个前别买”) + 痛点场景前置 (背景里的微波炉排队队伍)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式插电加热饭盒。品类：身体护理。人群：每天带饭、厌倦在公司排队等微波炉、追求效率和性价比的上班族。钩子：警告型悬念钩子 (“没看这个前别买”) + 痛点场景前置 (背景里的微波炉排队队。评分：9.0"
+}

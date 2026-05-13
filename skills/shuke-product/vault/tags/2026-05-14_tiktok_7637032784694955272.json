@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637032784694955272",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/401_celia_gsp_7637032784694955272.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637032784694955272/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款印有防弹少年团（BTS）及BT21元素的紫底毛绒毯",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "BTS粉丝（ARMY）、K-pop爱好者，以及寻找粉丝向礼物的送礼人群（朋友、家人）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉魔术/变装钩子 + 关键词精准拦截"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "BTS粉丝（ARMY）、K-pop爱好者，以及寻找粉丝向礼物的送礼人群（朋友、家人）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉魔术/变装钩子 + 关键词精准拦截",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.9
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款印有防弹少年团（BTS）及BT21元素的紫底毛绒毯。品类：其他。人群：BTS粉丝（ARMY）、K-pop爱好者，以及寻找粉丝向礼物的送礼人群（朋友、家。钩子：视觉魔术/变装钩子 + 关键词精准拦截。评分：8.9"
+}

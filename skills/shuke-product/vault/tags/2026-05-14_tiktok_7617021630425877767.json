@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7617021630425877767",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/303_sgaslijc2iv_7617021630425877767.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617021630425877767/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一双阿迪达斯（Adidas）三条纹贝壳头风格的白色半拖鞋（Slip-on/Mule）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢运动休闲风、街头潮搭的年轻男性，或阿迪达斯品牌爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "开箱展示钩（Unboxing）+ 颜值暴击钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢运动休闲风、街头潮搭的年轻男性，或阿迪达斯品牌爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "开箱展示钩（Unboxing）+ 颜值暴击钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一双阿迪达斯（Adidas）三条纹贝壳头风格的白色半拖鞋（Slip-on/Mule）。品类：男士护理。人群：喜欢运动休闲风、街头潮搭的年轻男性，或阿迪达斯品牌爱好者。钩子：开箱展示钩（Unboxing）+ 颜值暴击钩。评分：8.0"
+}

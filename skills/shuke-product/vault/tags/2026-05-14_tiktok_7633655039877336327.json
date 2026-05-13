@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633655039877336327",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/465_liniajiqvmhfu_7633655039877336327.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633655039877336327/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一件印有大面积金色烫金Logo（疑似复刻某大学/体育俱乐部标志）的白色连帽卫衣",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻男性、学生党、健身爱好者（从原声的受众口吻和“去健身房”、“穿一整个学期”的话术推断）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力拆包） + 场景/痛点钩子（需要去健身房穿的衣服）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻男性、学生党、健身爱好者（从原声的受众口吻和“去健身房”、“穿一整个学期”的话术推断）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力拆包） + 场景/痛点钩子（需要去健身房穿的衣服）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一件印有大面积金色烫金Logo（疑似复刻某大学/体育俱乐部标志）的白色连帽卫衣。品类：男士护理。人群：年轻男性、学生党、健身爱好者（从原声的受众口吻和“去健身房”、“穿一整个学期”的。钩子：动作钩子（暴力拆包） + 场景/痛点钩子（需要去健身房穿的衣服）。评分：8.4"
+}

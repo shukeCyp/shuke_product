@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7623879954346052871",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/377_edecool3_7623879954346052871.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623879954346052871/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款亮粉色、厚底、EVA材质的“踩屎感”居家/外穿拖鞋",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求年轻时尚、喜欢多巴胺穿搭（如Barbiecore粉色）、注重舒适度的年轻女性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉冲击钩子（色彩） + 产品表现力钩子（动作证实）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求年轻时尚、喜欢多巴胺穿搭（如Barbiecore粉色）、注重舒适度的年轻女性群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击钩子（色彩） + 产品表现力钩子（动作证实）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款亮粉色、厚底、EVA材质的“踩屎感”居家/外穿拖鞋。品类：家居清洁。人群：追求年轻时尚、喜欢多巴胺穿搭（如Barbiecore粉色）、注重舒适度的年轻女性。钩子：视觉冲击钩子（色彩） + 产品表现力钩子（动作证实）。评分：8.6"
+}

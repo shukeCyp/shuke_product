@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7606211401073544466",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/111_jaqui26100_7606211401073544466.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7606211401073544466/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有巨大粉色蝴蝶结、表情极度“厌世/哀怨”的灰猫毛绒玩具（主打情绪价值的恶搞/趣味礼物）",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "情侣、年轻闺蜜/朋友群体（特别是喜欢互黑、有“臭脸综合征”或需要送趣味礼物的人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“社交关系绑定” + “视觉悬念”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "情侣、年轻闺蜜/朋友群体（特别是喜欢互黑、有“臭脸综合征”或需要送趣味礼物的人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“社交关系绑定” + “视觉悬念”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有巨大粉色蝴蝶结、表情极度“厌世/哀怨”的灰猫毛绒玩具（主打情绪价值的恶搞/趣味礼物）。品类：母婴宠物。人群：情侣、年轻闺蜜/朋友群体（特别是喜欢互黑、有“臭脸综合征”或需要送趣味礼物的人群。钩子：“社交关系绑定” + “视觉悬念”。评分：8.2"
+}

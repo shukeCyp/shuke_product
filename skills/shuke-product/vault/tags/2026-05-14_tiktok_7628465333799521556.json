@@ -1,0 +1,67 @@
+{
+  "video_id": "2026-05-14_tiktok_7628465333799521556",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/492_bethcamarillo_7628465333799521556.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628465333799521556/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "目标挑战钩（Goal Challenge）+ 开箱动作钩（Unboxing）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "目标挑战钩（Goal Challenge）+ 开箱动作钩（Unboxing）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "Follow me to watch my daily journey of filling this box and reaching my goal\",",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。人群：。钩子：目标挑战钩（Goal Challenge）+ 开箱动作钩（Unboxing）。评分：7.4"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632024921702419732",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/294_vv_tt09_7632024921702419732.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632024921702419732/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Lulu Aura MX 品牌的直发梳/夹板（以及配套的吹风机等美发工具）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "关注流行趋势的年轻女性、吃瓜群众（真人秀/达人粉丝）、有头发造型需求且容易受“全网爆款”影响的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“名人效应/八卦吃瓜” + “夸张功效承诺”（借势营销）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "关注流行趋势的年轻女性、吃瓜群众（真人秀/达人粉丝）、有头发造型需求且容易受“全网爆款”影响的用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“名人效应/八卦吃瓜” + “夸张功效承诺”（借势营销）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“在我的橙色购物车里购买（En mi carrito naranja）”，指令极其明确，直接指向TikTok Shop的转化组件",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Lulu Aura MX 品牌的直发梳/夹板（以及配套的吹风机等美发工具）。品类：美妆护肤。人群：关注流行趋势的年轻女性、吃瓜群众（真人秀/达人粉丝）、有头发造型需求且容易受“全。钩子：“名人效应/八卦吃瓜” + “夸张功效承诺”（借势营销）。评分：6.2"
+}

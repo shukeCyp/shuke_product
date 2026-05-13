@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633740270785400071",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/431_nasaku90_7633740270785400071.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633740270785400071/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一套带有凹槽设计的儿童神奇练字帖（Montessori Cuaderno Mágico/蒙特梭利神奇练习本）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有3岁至小学低年级儿童的家长（视频为西班牙语配音，面向西语市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直拍演示类 + 视觉爽点（ASMR）钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有3岁至小学低年级儿童的家长（视频为西班牙语配音，面向西语市场）"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直拍演示类 + 视觉爽点（ASMR）钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示墨水彻底褪色，小孩开心地拿着本子",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一套带有凹槽设计的儿童神奇练字帖（Montessori Cuaderno Mágico/蒙特梭利神奇练习本）。品类：男士护理。人群：家有3岁至小学低年级儿童的家长（视频为西班牙语配音，面向西语市场）。钩子：产品直拍演示类 + 视觉爽点（ASMR）钩子。评分：6.8"
+}

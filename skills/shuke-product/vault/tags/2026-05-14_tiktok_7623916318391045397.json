@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7623916318391045397",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/152_ameliaoropezamx_7623916318391045397.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623916318391045397/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "无痕提臀/塑形安全裤（带隐形提臀线设计）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对自身臀部线条不满意，渴望拥有自然饱满臀型，但又排斥使用虚假海绵垫的女性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（Action Hook）+ 材质展示钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对自身臀部线条不满意，渴望拥有自然饱满臀型，但又排斥使用虚假海绵垫的女性群体"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（Action Hook）+ 材质展示钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "非常明确，不仅指出了购买位置（小黄车/橙色购物车），还利用“售罄前”制造稀缺性，并提供了尺码建议以扫除下单疑虑",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：无痕提臀/塑形安全裤（带隐形提臀线设计）。品类：家居清洁。人群：对自身臀部线条不满意，渴望拥有自然饱满臀型，但又排斥使用虚假海绵垫的女性群体。钩子：动作钩子（Action Hook）+ 材质展示钩子。评分：9.0"
+}

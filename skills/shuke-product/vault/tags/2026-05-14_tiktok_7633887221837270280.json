@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633887221837270280",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/263_user8795565288141_7633887221837270280.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633887221837270280/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款外观酷似 Apple Watch Ultra 的平替/廉价版智能手表",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "预算有限但追求科技感与大牌外观的消费者（且为西班牙语受众，或针对该语言市场的投放）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "极限场景测试（暴力破坏/防水测试）+ 价格锚点"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "预算有限但追求科技感与大牌外观的消费者（且为西班牙语受众，或针对该语言市场的投放）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "极限场景测试（暴力破坏/防水测试）+ 价格锚点",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款外观酷似 Apple Watch Ultra 的平替/廉价版智能手表。品类：健康养生。人群：预算有限但追求科技感与大牌外观的消费者（且为西班牙语受众，或针对该语言市场的投放。钩子：极限场景测试（暴力破坏/防水测试）+ 价格锚点。评分：8.0"
+}

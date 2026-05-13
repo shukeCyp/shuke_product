@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7617857530160893204",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/436_shanafunda66_7617857530160893204.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617857530160893204/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "冬季保暖加厚毛绒床单/毛毯（口播提及为“三合一床单”）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "女性（口播称呼“Amigas”）、家庭主妇、对冬季保暖居家用品有需求及对价格敏感的下沉/性价比购物人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "悬念/福利钩子（音频：“是不是标错价了”） + 视觉动效钩子（画面：夸张抛掷大体积毛毯）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "女性（口播称呼“Amigas”）、家庭主妇、对冬季保暖居家用品有需求及对价格敏感的下沉/性价比购物人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "悬念/福利钩子（音频：“是不是标错价了”） + 视觉动效钩子（画面：夸张抛掷大体积毛毯）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指令非常明确——“corran a dar clic en el carrito naranja” (赶紧去点击橙色购物车)，使用了“跑(corran)”这个动词，增强了行动的紧迫感",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：冬季保暖加厚毛绒床单/毛毯（口播提及为“三合一床单”）。品类：其他。人群：女性（口播称呼“Amigas”）、家庭主妇、对冬季保暖居家用品有需求及对价格敏感。钩子：悬念/福利钩子（音频：“是不是标错价了”） + 视觉动效钩子（画面：夸张抛掷大体。评分：8.4"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7626959868066270471",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/169_magicjohn.mex_7626959868066270471.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626959868066270471/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 66.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款多功能磁吸手机摄影支架（集成相机握把、自拍杆、三脚架、蓝牙遥控器功能，疑似带补光/充电模块）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢手机摄影/拍Vlog的用户、旅游爱好者、经常独自出行的女性、喜欢新奇特数码配件的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "价格猜忌 + 动作冲突互动型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢手机摄影/拍Vlog的用户、旅游爱好者、经常独自出行的女性、喜欢新奇特数码配件的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "价格猜忌 + 动作冲突互动型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款多功能磁吸手机摄影支架（集成相机握把、自拍杆、三脚架、蓝牙遥控器功能，疑似带补光/充电模块）。品类：男士护理。人群：喜欢手机摄影/拍Vlog的用户、旅游爱好者、经常独自出行的女性、喜欢新奇特数码配。钩子：价格猜忌 + 动作冲突互动型。评分：9.2"
+}

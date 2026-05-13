@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7636654645468826896",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/443_aaajykj_7636654645468826896.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636654645468826896/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款360度可旋转、多层大容量、带透明亚克力挡板的桌面化妆品收纳架",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有大量美妆护肤品、有桌面收纳需求、追求精致生活方式的女性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观（魔术剪辑） + 动态展示"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有大量美妆护肤品、有桌面收纳需求、追求精致生活方式的女性群体"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观（魔术剪辑） + 动态展示",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确的手势引导（手指商品 -> 手指屏幕下方购物车位置）+ 明确指令（Order now）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款360度可旋转、多层大容量、带透明亚克力挡板的桌面化妆品收纳架。品类：美妆护肤。人群：拥有大量美妆护肤品、有桌面收纳需求、追求精致生活方式的女性群体。钩子：视觉奇观（魔术剪辑） + 动态展示。评分：9.2"
+}

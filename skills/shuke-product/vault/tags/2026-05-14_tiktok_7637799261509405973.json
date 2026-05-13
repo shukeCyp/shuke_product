@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637799261509405973",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/307_koooydfg_7637799261509405973.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637799261509405973/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一件带有防弹少年团（BTS）成员人像印花的美式复古水洗做旧款男女同款短袖T恤",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "西语区（拉美/西班牙）的防弹少年团粉丝（ARMY），追求复古街头穿搭风格的年轻男女"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“利益受损/亏本抱歉”反向钩子 + 粉丝定向钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "西语区（拉美/西班牙）的防弹少年团粉丝（ARMY），追求复古街头穿搭风格的年轻男女"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“利益受损/亏本抱歉”反向钩子 + 粉丝定向钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一件带有防弹少年团（BTS）成员人像印花的美式复古水洗做旧款男女同款短袖T恤。品类：服饰穿搭。人群：西语区（拉美/西班牙）的防弹少年团粉丝（ARMY），追求复古街头穿搭风格的年轻男。钩子：“利益受损/亏本抱歉”反向钩子 + 粉丝定向钩子。评分：8.8"
+}

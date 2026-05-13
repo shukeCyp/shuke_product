@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7635020381035826440",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/280_luna.shop54_7635020381035826440.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635020381035826440/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式户外/家用折叠长桌",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "女性群体（口播以“姐妹们”开头）、家庭主妇、有家庭聚会、户外野餐或活动策划需求的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人设称呼钩（姐妹们）+ 硬核背面展示钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "女性群体（口播以“姐妹们”开头）、家庭主妇、有家庭聚会、户外野餐或活动策划需求的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人设称呼钩（姐妹们）+ 硬核背面展示钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“Les dejo el carrito naranja”（留下小黄车链接），直接指向短视频平台的电商组件",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式户外/家用折叠长桌。品类：家居清洁。人群：女性群体（口播以“姐妹们”开头）、家庭主妇、有家庭聚会、户外野餐或活动策划需求的。钩子：人设称呼钩（姐妹们）+ 硬核背面展示钩。评分：6.2"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7616636989630172423",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/387_magicjohn_mx2_7616636989630172423.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616636989630172423/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 109.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Magic John（神奇约翰）自带贴膜舱、防尘防窥防刮的手机钢化膜",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对传统手机膜容易贴歪、进灰感到烦恼，注重手机屏幕隐私保护及屏幕防碎防刮的智能手机用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "冲突型/视觉冲击型 + 问答挑战型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对传统手机膜容易贴歪、进灰感到烦恼，注重手机屏幕隐私保护及屏幕防碎防刮的智能手机用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "冲突型/视觉冲击型 + 问答挑战型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "对比线下门店贴膜价格，放出直播间/视频专属骨折价及买一送一机制，引导小黄车",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Magic John（神奇约翰）自带贴膜舱、防尘防窥防刮的手机钢化膜。品类：数码配件。人群：对传统手机膜容易贴歪、进灰感到烦恼，注重手机屏幕隐私保护及屏幕防碎防刮的智能手机。钩子：冲突型/视觉冲击型 + 问答挑战型。评分：9.2"
+}

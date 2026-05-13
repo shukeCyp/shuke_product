@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7633346660046851348",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/359_skor735_7633346660046851348.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633346660046851348/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一包 840g 的大容量高品质混合坚果燕麦脆（含碧根果、扁桃仁、南瓜子、无花果干等）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求健康饮食的减脂人群、零食爱好者、酸奶代餐党，以及对价格敏感的 TikTok 冲动消费人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇悬念 + 利益诱惑（价格Bug钩子）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求健康饮食的减脂人群、零食爱好者、酸奶代餐党，以及对价格敏感的 TikTok 冲动消费人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇悬念 + 利益诱惑（价格Bug钩子）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一包 840g 的大容量高品质混合坚果燕麦脆（含碧根果、扁桃仁、南瓜子、无花果干等）。品类：健康养生。人群：追求健康饮食的减脂人群、零食爱好者、酸奶代餐党，以及对价格敏感的 TikTok 。钩子：猎奇悬念 + 利益诱惑（价格Bug钩子）。评分：9.0"
+}

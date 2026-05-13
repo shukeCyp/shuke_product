@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636551220362038546",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/043_mumatiti100_7636551220362038546.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636551220362038546/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "2026年FIFA世界杯官方Panini（帕尼尼）球星卡/贴纸盲盒包",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "足球迷、球星卡/贴纸收藏爱好者、为孩子购买玩具的家长（主要针对拉美/墨西哥市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "汽车用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点解决型钩子（不用去超市） + 视觉冲击型钩子（镭射闪卡包装的质感与散落的动作）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "足球迷、球星卡/贴纸收藏爱好者、为孩子购买玩具的家长（主要针对拉美/墨西哥市场）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点解决型钩子（不用去超市） + 视觉冲击型钩子（镭射闪卡包装的质感与散落的动作）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：2026年FIFA世界杯官方Panini（帕尼尼）球星卡/贴纸盲盒包。品类：汽车用品。人群：足球迷、球星卡/贴纸收藏爱好者、为孩子购买玩具的家长（主要针对拉美/墨西哥市场）。钩子：痛点解决型钩子（不用去超市） + 视觉冲击型钩子（镭射闪卡包装的质感与散落的动作。评分：7.8"
+}

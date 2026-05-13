@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7629570408026574101",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/145_simplelife1261_7629570408026574101.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629570408026574101/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式可充电双头电动剃须刀（主打安全不伤肤）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有修剪面部及全身（特别是私密处）毛发需求，且有过被传统刮胡刀刮伤经历的男性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "声画反差钩子 + 痛点共鸣钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有修剪面部及全身（特别是私密处）毛发需求，且有过被传统刮胡刀刮伤经历的男性群体"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "声画反差钩子 + 痛点共鸣钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视觉指示（红色手绘箭头向下）+ 听觉指示（口播提醒寻找橙色购物车）+ 利益驱动（正在打折）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式可充电双头电动剃须刀（主打安全不伤肤）。品类：男士护理。人群：有修剪面部及全身（特别是私密处）毛发需求，且有过被传统刮胡刀刮伤经历的男性群体。钩子：声画反差钩子 + 痛点共鸣钩子。评分：8.8"
+}

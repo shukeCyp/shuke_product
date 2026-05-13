@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632263915862314261",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/012_user1528413788125_7632263915862314261.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632263915862314261/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 61.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打天然成分的护肤膏（牛脂蜂蜜膏 Tallow Honey Balm）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有抗老、祛痘需求，追求无瑕肌肤的受众，以及对“纯天然/古法护肤”（如牛脂成分）感兴趣的泛健康/美妆人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉异常 + 争议性标题党 (Clickbait/Misdirection)"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有抗老、祛痘需求，追求无瑕肌肤的受众，以及对“纯天然/古法护肤”（如牛脂成分）感兴趣的泛健康/美妆人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉异常 + 争议性标题党 (Clickbait/Misdirection)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指示小黄车",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打天然成分的护肤膏（牛脂蜂蜜膏 Tallow Honey Balm）。品类：美妆护肤。人群：有抗老、祛痘需求，追求无瑕肌肤的受众，以及对“纯天然/古法护肤”（如牛脂成分）感。钩子：视觉异常 + 争议性标题党 (Clickbait/Misdirection)。评分：7.2"
+}

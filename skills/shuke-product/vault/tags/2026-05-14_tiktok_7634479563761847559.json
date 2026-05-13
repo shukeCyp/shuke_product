@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634479563761847559",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/363_rslexsbbyta_7634479563761847559.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634479563761847559/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打轻便、高弹性的男士运动鞋/健身鞋（类似阿迪达斯条纹风格的平替款）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有健身/运动需求、追求性价比、容易被真实开箱种草的男性群体（通过西语男声俚语和粗犷动作判定）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力撕快递袋） + 情绪/听觉钩子（极度兴奋的俚语音频“No mames”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有健身/运动需求、追求性价比、容易被真实开箱种草的男性群体（通过西语男声俚语和粗犷动作判定）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力撕快递袋） + 情绪/听觉钩子（极度兴奋的俚语音频“No mames”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打轻便、高弹性的男士运动鞋/健身鞋（类似阿迪达斯条纹风格的平替款）。品类：男士护理。人群：有健身/运动需求、追求性价比、容易被真实开箱种草的男性群体（通过西语男声俚语和粗。钩子：动作钩子（暴力撕快递袋） + 情绪/听觉钩子（极度兴奋的俚语音频“No mame。评分：8.0"
+}

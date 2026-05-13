@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7617512743184190741",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/243_user2261297130226_7617512743184190741.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617512743184190741/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "摩托车LED流水转向灯（4件套装）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "摩托车车主、机车改装爱好者、追求高性价比配件的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益诱惑型（Price Bug/标错价） + 场景信任型（线下实体店背景）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "摩托车车主、机车改装爱好者、追求高性价比配件的用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益诱惑型（Price Bug/标错价） + 场景信任型（线下实体店背景）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示产品的实际上车效果（流水灯效非常吸引机车党），配合红箭头和口播进行强有力的行动呼唤（CTA）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：摩托车LED流水转向灯（4件套装）。品类：其他。人群：摩托车车主、机车改装爱好者、追求高性价比配件的用户。钩子：利益诱惑型（Price Bug/标错价） + 场景信任型（线下实体店背景）。评分：8.2"
+}

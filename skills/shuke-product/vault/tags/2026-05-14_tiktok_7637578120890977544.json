@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637578120890977544",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/044_mia.1617gamail.com_7637578120890977544.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637578120890977544/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "日常超市商品（食品、日用品等）的微缩模型/盲盒配件",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "微缩模型爱好者、手账/食玩玩家、盲盒收集控、微缩景观DIY爱好者、或者为孩子购买玩具的家长"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "食品饮料"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作解压钩子（撕包装） + 品类直给钩子（开门见山展示微缩模型）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "微缩模型爱好者、手账/食玩玩家、盲盒收集控、微缩景观DIY爱好者、或者为孩子购买玩具的家长"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作解压钩子（撕包装） + 品类直给钩子（开门见山展示微缩模型）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：日常超市商品（食品、日用品等）的微缩模型/盲盒配件。品类：食品饮料。人群：微缩模型爱好者、手账/食玩玩家、盲盒收集控、微缩景观DIY爱好者、或者为孩子购买。钩子：动作解压钩子（撕包装） + 品类直给钩子（开门见山展示微缩模型）。评分：8.8"
+}

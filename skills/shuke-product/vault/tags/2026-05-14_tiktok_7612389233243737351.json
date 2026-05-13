@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7612389233243737351",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/475_oferteka_7612389233243737351.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612389233243737351/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 48.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式外接显示屏（便携显示器）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有车一族、数码爱好者、喜欢随时随地追剧/游戏且追求大屏体验的人群，以及想要在独立空间（如车内）独处的人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "剧情悬疑悬念类 + 猎奇视觉钩（车外地上的白鞋）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有车一族、数码爱好者、喜欢随时随地追剧/游戏且追求大屏体验的人群，以及想要在独立空间（如车内）独处的人"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "剧情悬疑悬念类 + 猎奇视觉钩（车外地上的白鞋）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "老婆：“给我拿去追剧！”老公一把护住：“左下角小黄车自己买去，才几百块！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式外接显示屏（便携显示器）。品类：男士护理。人群：有车一族、数码爱好者、喜欢随时随地追剧/游戏且追求大屏体验的人群，以及想要在独立。钩子：剧情悬疑悬念类 + 猎奇视觉钩（车外地上的白鞋）。评分：0.0"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7619034640422014226",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/032_soloriokass_7619034640422014226.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619034640422014226/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Grace and Glow 品牌的腋下提亮走珠/精华霜（主打“止汗剂+护肤”概念）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受腋下色素沉淀、暗沉困扰，追求身体细节美白与异味管理的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "概念冲突 + 痛点前置 + 对比图视觉刺激"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受腋下色素沉淀、暗沉困扰，追求身体细节美白与异味管理的女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "概念冲突 + 痛点前置 + 对比图视觉刺激",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Grace and Glow 品牌的腋下提亮走珠/精华霜（主打“止汗剂+护肤”概念）。品类：美妆护肤。人群：受腋下色素沉淀、暗沉困扰，追求身体细节美白与异味管理的女性。钩子：概念冲突 + 痛点前置 + 对比图视觉刺激。评分：9.0"
+}

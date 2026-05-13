@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7635886711167339794",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/008_vanessaalvarado1846_7635886711167339794.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635886711167339794/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "带有LED数字电量显示的透明款真无线蓝牙耳机，附带硅胶保护套及挂绳等配件",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比的学生党、年轻群体、日常通勤需要基础款耳机的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益诱惑型（极致低价）+ 颜值视觉型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比的学生党、年轻群体、日常通勤需要基础款耳机的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益诱惑型（极致低价）+ 颜值视觉型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：带有LED数字电量显示的透明款真无线蓝牙耳机，附带硅胶保护套及挂绳等配件。品类：厨房用品。人群：追求性价比的学生党、年轻群体、日常通勤需要基础款耳机的人群。钩子：利益诱惑型（极致低价）+ 颜值视觉型。评分：7.8"
+}

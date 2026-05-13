@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637398447460699412",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/001_graceaispuro_7637398447460699412.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637398447460699412/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "手机配件惊喜盲盒/福袋（包含4个手机壳、2张手机膜、贴纸）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比、喜欢新鲜感（盲盒机制）、注重手机外观个性化的年轻智能手机用户（尤以女性为主，但也提及支持男性/中性选项）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "- 动作钩子：极具破坏力和解压感的“撕扯快递袋”动作"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比、喜欢新鲜感（盲盒机制）、注重手机外观个性化的年轻智能手机用户（尤以女性为主，但也提及支持男性/中性选项）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "- 动作钩子：极具破坏力和解压感的“撕扯快递袋”动作",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：手机配件惊喜盲盒/福袋（包含4个手机壳、2张手机膜、贴纸）。品类：男士护理。人群：追求性价比、喜欢新鲜感（盲盒机制）、注重手机外观个性化的年轻智能手机用户（尤以女。钩子：- 动作钩子：极具破坏力和解压感的“撕扯快递袋”动作。评分：8.2"
+}

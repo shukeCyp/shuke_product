@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7622153384044317960",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/282_fatymeza2_7622153384044317960.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622153384044317960/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 53.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款含有费洛蒙（Pheromone）成分的滚珠香水（一套3支，视频展示了其中粉色的一支）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "希望提升个人魅力、吸引异性注意、增强自信感，以及喜欢便携式花香调香水的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "闺蜜分享型/开箱提问型钩子（“猜猜我买了什么？”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "希望提升个人魅力、吸引异性注意、增强自信感，以及喜欢便携式花香调香水的女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "闺蜜分享型/开箱提问型钩子（“猜猜我买了什么？”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "强指令引导下单路径，完成转化闭环",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款含有费洛蒙（Pheromone）成分的滚珠香水（一套3支，视频展示了其中粉色的一支）。品类：数码配件。人群：希望提升个人魅力、吸引异性注意、增强自信感，以及喜欢便携式花香调香水的女性。钩子：闺蜜分享型/开箱提问型钩子（“猜猜我买了什么？”）。评分：8.0"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7626851177866579221",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/397_q8ukf15r27_7626851177866579221.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626851177866579221/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有前置双口袋的草莓图案大容量帆布/棉布托特包",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性、学生党、职场新人，喜欢甜美/实用风，追求高性价比日常通勤或上课包包的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“开箱动作” + “价格悬念/反差”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性、学生党、职场新人，喜欢甜美/实用风，追求高性价比日常通勤或上课包包的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“开箱动作” + “价格悬念/反差”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有前置双口袋的草莓图案大容量帆布/棉布托特包。品类：美妆护肤。人群：年轻女性、学生党、职场新人，喜欢甜美/实用风，追求高性价比日常通勤或上课包包的人。钩子：“开箱动作” + “价格悬念/反差”。评分：8.7"
+}

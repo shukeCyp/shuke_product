@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7633437642243230977",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/062_user8821054810672e_7633437642243230977.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633437642243230977/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款紫色的多隔层、大容量、防水尼龙材质的便携小挎包/手腕包（零钱包/收纳包）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "女性，特别是经常开车、需要短途出行（如去超市买菜）、喜欢收纳、对随身零碎物品（硬币、钥匙、耳机）有规整需求的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点反问音频钩子 + 真实场景开箱视觉钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "女性，特别是经常开车、需要短途出行（如去超市买菜）、喜欢收纳、对随身零碎物品（硬币、钥匙、耳机）有规整需求的消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点反问音频钩子 + 真实场景开箱视觉钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款紫色的多隔层、大容量、防水尼龙材质的便携小挎包/手腕包（零钱包/收纳包）。品类：美妆护肤。人群：女性，特别是经常开车、需要短途出行（如去超市买菜）、喜欢收纳、对随身零碎物品（硬。钩子：痛点反问音频钩子 + 真实场景开箱视觉钩子。评分：8.2"
+}

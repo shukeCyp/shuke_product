@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631609504324406529",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/426_pqr567asdf_7631609504324406529.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631609504324406529/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "全包围松紧防滑、不起球的超细纤维（仿棉）床笠（品牌：Miccofibra）",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受床单破损、起球、移位困扰的家庭人群，特别是养宠家庭（视频开篇点明宠物弄坏床单）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大/视觉冲击型钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受床单破损、起球、移位困扰的家庭人群，特别是养宠家庭（视频开篇点明宠物弄坏床单）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大/视觉冲击型钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：全包围松紧防滑、不起球的超细纤维（仿棉）床笠（品牌：Miccofibra）。品类：母婴宠物。人群：受床单破损、起球、移位困扰的家庭人群，特别是养宠家庭（视频开篇点明宠物弄坏床单）。钩子：痛点放大/视觉冲击型钩子。评分：8.7"
+}

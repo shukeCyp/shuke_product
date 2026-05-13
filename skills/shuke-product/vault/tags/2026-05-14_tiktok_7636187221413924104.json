@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7636187221413924104",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/086_punto.y.coma.mx7_7636187221413924104.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636187221413924104/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "《小王子》主题的3D立体插画手账本/笔记本（封面印有“Dream Planet”）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "文具手账爱好者、《小王子》IP粉丝、有送礼需求的人群（情侣、闺蜜、学生）、追求生活仪式感及高颜值物品的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "颜值暴击 + 奇观展示型（平面到立体的视觉突变）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "文具手账爱好者、《小王子》IP粉丝、有送礼需求的人群（情侣、闺蜜、学生）、追求生活仪式感及高颜值物品的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "颜值暴击 + 奇观展示型（平面到立体的视觉突变）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 88.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：《小王子》主题的3D立体插画手账本/笔记本（封面印有“Dream Planet”）。品类：数码配件。人群：文具手账爱好者、《小王子》IP粉丝、有送礼需求的人群（情侣、闺蜜、学生）、追求生。钩子：颜值暴击 + 奇观展示型（平面到立体的视觉突变）。评分：88.0"
+}

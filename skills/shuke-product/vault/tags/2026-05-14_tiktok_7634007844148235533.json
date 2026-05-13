@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634007844148235533",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7634007844148235533.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634007844148235533/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "O-Cedar（雪松）旋转拖把的平替/升级替换头套装（包含2个红色硬毛刷头+4个白色超细纤维拖把头）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "已有O-Cedar拖把桶的家庭主妇/清洁人群，对地板深层清洁有需求，且对高性价比替换装敏感的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "认知挑战型（Challenging belief）+ 视觉解压型（ASMR/Satisfying）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "已有O-Cedar拖把桶的家庭主妇/清洁人群，对地板深层清洁有需求，且对高性价比替换装敏感的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "认知挑战型（Challenging belief）+ 视觉解压型（ASMR/Satisfying）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：O-Cedar（雪松）旋转拖把的平替/升级替换头套装（包含2个红色硬毛刷头+4个白色超细纤维拖把头）。品类：家居清洁。人群：已有O-Cedar拖把桶的家庭主妇/清洁人群，对地板深层清洁有需求，且对高性价比。钩子：认知挑战型（Challenging belief）+ 视觉解压型（ASMR/Sa。评分：8.8"
+}

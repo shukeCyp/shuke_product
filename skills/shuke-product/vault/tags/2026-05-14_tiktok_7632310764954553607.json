@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632310764954553607",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/137_santiago.ah32_7632310764954553607.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632310764954553607/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "云朵造型的郁金香无限镜像氛围小夜灯",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性群体、寻找送礼（闺蜜/女友）灵感的人群、追求卧室氛围感与高颜值家居摆件的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "开箱悬念钩子 + 情绪感染（包装颜值）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性群体、寻找送礼（闺蜜/女友）灵感的人群、追求卧室氛围感与高颜值家居摆件的消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "开箱悬念钩子 + 情绪感染（包装颜值）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：云朵造型的郁金香无限镜像氛围小夜灯。品类：美妆护肤。人群：年轻女性群体、寻找送礼（闺蜜/女友）灵感的人群、追求卧室氛围感与高颜值家居摆件的。钩子：开箱悬念钩子 + 情绪感染（包装颜值）。评分：8.8"
+}

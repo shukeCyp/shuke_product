@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634217451240115473",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/406_f1xjfsaqj6_7634217451240115473.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634217451240115473/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有木质手柄、独特倾斜刀片角度并附带开瓶器功能的多功能厨房削皮/刨丝刀",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家庭主妇/夫、经常做饭的人群、喜欢厨房解压神器及追求备菜效率的年轻群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观 + ASMR解压钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家庭主妇/夫、经常做饭的人群、喜欢厨房解压神器及追求备菜效率的年轻群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观 + ASMR解压钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 84.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有木质手柄、独特倾斜刀片角度并附带开瓶器功能的多功能厨房削皮/刨丝刀。品类：家居清洁。人群：家庭主妇/夫、经常做饭的人群、喜欢厨房解压神器及追求备菜效率的年轻群体。钩子：视觉奇观 + ASMR解压钩子。评分：84.0"
+}

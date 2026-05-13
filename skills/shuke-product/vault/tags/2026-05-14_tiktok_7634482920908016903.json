@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634482920908016903",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/407_wfl1vc8_7634482920908016903.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634482920908016903/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "5件装无边框彩色切边太阳镜套装",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻男性，追求街头潮流/夜店穿搭，对价格敏感但渴望高性价比“装x”神器的受众（从使用的墨西哥俚语“bélico/placoso”判断，定位为拉美/墨西哥下沉年轻市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪感染 + 视觉冲击（丰盛感）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻男性，追求街头潮流/夜店穿搭，对价格敏感但渴望高性价比“装x”神器的受众（从使用的墨西哥俚语“bélico/placoso”判断，定位为拉美/墨西哥下沉年轻市场）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪感染 + 视觉冲击（丰盛感）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“Pícale al carrito amarillo ya, porque van a volar”（赶紧点小黄车，马上飞空），指令明确且带有紧迫感",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：5件装无边框彩色切边太阳镜套装。品类：男士护理。人群：年轻男性，追求街头潮流/夜店穿搭，对价格敏感但渴望高性价比“装x”神器的受众（从。钩子：情绪感染 + 视觉冲击（丰盛感）。评分：9.0"
+}

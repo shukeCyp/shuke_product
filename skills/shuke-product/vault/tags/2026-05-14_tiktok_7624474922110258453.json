@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7624474922110258453",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/214_wxyzab79c_7624474922110258453.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624474922110258453/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "皮质/防水材质的双面门底挡风防尘条（门挡/密封条）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受室内外温差、灰尘、漏水、爬虫困扰的家庭用户、租客或房主"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“原产地/源头直供” + “爆款展示”型钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受室内外温差、灰尘、漏水、爬虫困扰的家庭用户、租客或房主"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“原产地/源头直供” + “爆款展示”型钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "showing the item packed in a shipping bag with a label, indicating it is ready to ship immediately.\"",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：皮质/防水材质的双面门底挡风防尘条（门挡/密封条）。品类：家居清洁。人群：受室内外温差、灰尘、漏水、爬虫困扰的家庭用户、租客或房主。钩子：“原产地/源头直供” + “爆款展示”型钩子。评分：8.8"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7626275988715932945",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/434_carlos.juhoe_7626275988715932945.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626275988715932945/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "大尺寸户外防晒遮阳网（带加固包边和金属扣眼）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有庭院、露台、户外停车位防晒需求的用户（拉美/西班牙语市场，基于口播语言）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观 + 粗暴导购"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有庭院、露台、户外停车位防晒需求的用户（拉美/西班牙语市场，基于口播语言）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观 + 粗暴导购",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：大尺寸户外防晒遮阳网（带加固包边和金属扣眼）。品类：美妆护肤。人群：有庭院、露台、户外停车位防晒需求的用户（拉美/西班牙语市场，基于口播语言）。钩子：视觉奇观 + 粗暴导购。评分：7.6"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634217146549095687",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/085_cinnamonwafle_7634217146549095687.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634217146549095687/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Felyfit品牌的Lumi Tote大容量托特包（展示了Greige灰褐色和Trufa松露棕色）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "需要大容量包袋的女性，如通勤族、宝妈、健身爱好者或学生；追求简约实用且注重舒适度的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直拍型 + 羊群效应型钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "需要大容量包袋的女性，如通勤族、宝妈、健身爱好者或学生；追求简约实用且注重舒适度的消费者"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直拍型 + 羊群效应型钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "Stimulating desire to purchase multiple colors through personal testimonial (no direct 'buy now' tex",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Felyfit品牌的Lumi Tote大容量托特包（展示了Greige灰褐色和Trufa松露棕色）。品类：美妆护肤。人群：需要大容量包袋的女性，如通勤族、宝妈、健身爱好者或学生；追求简约实用且注重舒适度。钩子：产品直拍型 + 羊群效应型钩子。评分：8.0"
+}

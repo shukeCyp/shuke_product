@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7637112481118211346",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/299_nau806ehq7_7637112481118211346.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637112481118211346/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款可折叠、可伸缩的便携式桌面风扇（品牌标识可见为 SKYPRONiC）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "深受室内/卧室闷热困扰，桌面空间有限，追求实用性与收纳便利性的学生、租客或办公人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点场景再现（手摇纸扇） + 悬念开箱（划开快递）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "深受室内/卧室闷热困扰，桌面空间有限，追求实用性与收纳便利性的学生、租客或办公人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点场景再现（手摇纸扇） + 悬念开箱（划开快递）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "软性种草型CTA（“真的是个神仙好物 / Neta es una joyita”），用强烈的个人推荐情绪代替生硬的“点击左下角购买”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款可折叠、可伸缩的便携式桌面风扇（品牌标识可见为 SKYPRONiC）。品类：数码配件。人群：深受室内/卧室闷热困扰，桌面空间有限，追求实用性与收纳便利性的学生、租客或办公人。钩子：痛点场景再现（手摇纸扇） + 悬念开箱（划开快递）。评分：0.0"
+}

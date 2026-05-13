@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7625404413963685128",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/400_yesica.proa_7625404413963685128.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625404413963685128/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打高颜值、自定义表盘及流畅UI交互的智能手表（疑似某大牌平替款）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性、学生党（“Chavita”在西语中意为年轻女孩）、追求时尚穿搭及高性价比数码产品的受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉展示钩子 + 身份认同钩子（屏幕上的自拍靓照 + 字幕“年轻女孩的手表”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性、学生党（“Chavita”在西语中意为年轻女孩）、追求时尚穿搭及高性价比数码产品的受众"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉展示钩子 + 身份认同钩子（屏幕上的自拍靓照 + 字幕“年轻女孩的手表”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打高颜值、自定义表盘及流畅UI交互的智能手表（疑似某大牌平替款）。品类：健康养生。人群：年轻女性、学生党（“Chavita”在西语中意为年轻女孩）、追求时尚穿搭及高性价。钩子：视觉展示钩子 + 身份认同钩子（屏幕上的自拍靓照 + 字幕“年轻女孩的手表”）。评分：6.0"
+}

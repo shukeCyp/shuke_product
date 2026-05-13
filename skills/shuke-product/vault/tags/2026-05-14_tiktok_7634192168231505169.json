@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634192168231505169",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/210_f1xjfsaqj6_7634192168231505169.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634192168231505169/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有木质手柄、特殊倾斜刀片设计且尾部带开瓶器的多功能厨房刨丝/削皮刀",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "经常做饭的家庭主妇/煮夫、追求厨房效率的烹饪爱好者、喜欢解压神器和新奇特小商品的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观/ASMR爽感钩子 + 加速夸张钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "经常做饭的家庭主妇/煮夫、追求厨房效率的烹饪爱好者、喜欢解压神器和新奇特小商品的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观/ASMR爽感钩子 + 加速夸张钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有木质手柄、特殊倾斜刀片设计且尾部带开瓶器的多功能厨房刨丝/削皮刀。品类：家居清洁。人群：经常做饭的家庭主妇/煮夫、追求厨房效率的烹饪爱好者、喜欢解压神器和新奇特小商品的。钩子：视觉奇观/ASMR爽感钩子 + 加速夸张钩子。评分：8.1"
+}

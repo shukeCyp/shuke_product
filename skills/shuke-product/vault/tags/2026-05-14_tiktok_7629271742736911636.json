@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7629271742736911636",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/045_user5211923471661_7629271742736911636.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629271742736911636/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一件背面印有酷炫动漫IP（类似《龙珠》悟空变体）图案的黑色连帽卫衣",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢动漫文化、追求街头潮流服饰的年轻男性，以及对价格敏感的下沉/冲动消费群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉冲击钩（大面积亮色二次元印花） + 利益悬念钩（“TikTok是不是标错价格了”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢动漫文化、追求街头潮流服饰的年轻男性，以及对价格敏感的下沉/冲动消费群体"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击钩（大面积亮色二次元印花） + 利益悬念钩（“TikTok是不是标错价格了”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "非常标准且强烈的CTA，不仅有口播明确提示“点击下方小黄车（carrito amarillo）”，还配合了极具引导性的肢体动作（手指猛指左下角）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一件背面印有酷炫动漫IP（类似《龙珠》悟空变体）图案的黑色连帽卫衣。品类：男士护理。人群：喜欢动漫文化、追求街头潮流服饰的年轻男性，以及对价格敏感的下沉/冲动消费群体。钩子：视觉冲击钩（大面积亮色二次元印花） + 利益悬念钩（“TikTok是不是标错价格。评分：6.4"
+}

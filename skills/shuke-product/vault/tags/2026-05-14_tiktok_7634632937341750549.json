@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634632937341750549",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/464_karenveldee_7634632937341750549.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634632937341750549/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一件带有不对称蕾丝下摆设计的黑色短袖T恤",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求穿着舒适、喜欢基础款但又想避免穿搭单调乏味（“basic but without looking basic”）、处于较热气候地区的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点/欲望型钩子（\"básica pero sin verte básica\" - 基础但不显平庸）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求穿着舒适、喜欢基础款但又想避免穿搭单调乏味（“basic but without looking basic”）、处于较热气候地区的女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点/欲望型钩子（\"básica pero sin verte básica\" - 基础但不显平庸）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确指向平台转化组件（“Se los dejo en el cuadrito naranja” - 放在橙色小方框/购物车里），并用“好价格”临门一脚促单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一件带有不对称蕾丝下摆设计的黑色短袖T恤。品类：服饰穿搭。人群：追求穿着舒适、喜欢基础款但又想避免穿搭单调乏味（“basic but witho。钩子：痛点/欲望型钩子（\"básica pero sin verte básica\" 。评分：7.6"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625364604415233287",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/206_geradesantia_7625364604415233287.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625364604415233287/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "隐形防驼背矫正带（Posture Corrector）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "长期低头看手机/电脑、存在体态焦虑、希望在视觉上增高或提升个人气质的年轻群体（视频演员为男性，因此更偏向男性受众，但产品本身具有通用性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反差钩子 + 痛点/焦虑钩子（数字跳动带来直观利益点）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "长期低头看手机/电脑、存在体态焦虑、希望在视觉上增高或提升个人气质的年轻群体（视频演员为男性，因此更偏向男性受众，但产品本身具有通用性）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反差钩子 + 痛点/焦虑钩子（数字跳动带来直观利益点）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：隐形防驼背矫正带（Posture Corrector）。品类：男士护理。人群：长期低头看手机/电脑、存在体态焦虑、希望在视觉上增高或提升个人气质的年轻群体（视。钩子：反差钩子 + 痛点/焦虑钩子（数字跳动带来直观利益点）。评分：8.2"
+}

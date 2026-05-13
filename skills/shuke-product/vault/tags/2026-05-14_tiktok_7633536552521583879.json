@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7633536552521583879",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/084_emprendeconpasteles__7633536552521583879.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633536552521583879/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有智能触控屏幕（可控制音乐、降噪模式等）的无线蓝牙耳机",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "数码产品爱好者、追求新奇特配件的年轻人、注重性价比的学生党/下沉市场人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观（猎奇） + 价格痛点（情绪反差）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "数码产品爱好者、追求新奇特配件的年轻人、注重性价比的学生党/下沉市场人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观（猎奇） + 价格痛点（情绪反差）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有智能触控屏幕（可控制音乐、降噪模式等）的无线蓝牙耳机。品类：数码配件。人群：数码产品爱好者、追求新奇特配件的年轻人、注重性价比的学生党/下沉市场人群。钩子：视觉奇观（猎奇） + 价格痛点（情绪反差）。评分：0.0"
+}

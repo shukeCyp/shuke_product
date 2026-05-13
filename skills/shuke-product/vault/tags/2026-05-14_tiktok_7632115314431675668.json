@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632115314431675668",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/144_mon.cast__7632115314431675668.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632115314431675668/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "100%全遮光窗帘（物理遮光布）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "周末喜欢睡懒觉的人群、夜班工作者、对光线敏感的睡眠障碍人群（文案中用西班牙语“huevones”懒汉/偷懒的人来自嘲，精准命中赖床人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪共鸣钩（文案） + 视觉悬念钩（画面）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "周末喜欢睡懒觉的人群、夜班工作者、对光线敏感的睡眠障碍人群（文案中用西班牙语“huevones”懒汉/偷懒的人来自嘲，精准命中赖床人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪共鸣钩（文案） + 视觉悬念钩（画面）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：100%全遮光窗帘（物理遮光布）。品类：其他。人群：周末喜欢睡懒觉的人群、夜班工作者、对光线敏感的睡眠障碍人群（文案中用西班牙语“h。钩子：情绪共鸣钩（文案） + 视觉悬念钩（画面）。评分：8.6"
+}

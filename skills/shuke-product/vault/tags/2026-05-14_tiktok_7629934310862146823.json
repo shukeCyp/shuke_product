@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7629934310862146823",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/495_jannrv_7629934310862146823.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629934310862146823/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款便携式U型挂脖风扇（无叶设计）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "苦于夏季高温、容易出汗，且需要解放双手或保持妆容/发型的年轻人群（尤其是女性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景痛点钩子 (POV文案) + 颜值/猎奇钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "苦于夏季高温、容易出汗，且需要解放双手或保持妆容/发型的年轻人群（尤其是女性）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景痛点钩子 (POV文案) + 颜值/猎奇钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“出风口全朝上，精准降温还不花妆",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款便携式U型挂脖风扇（无叶设计）。品类：身体护理。人群：苦于夏季高温、容易出汗，且需要解放双手或保持妆容/发型的年轻人群（尤其是女性）。钩子：场景痛点钩子 (POV文案) + 颜值/猎奇钩子。评分：7.2"
+}

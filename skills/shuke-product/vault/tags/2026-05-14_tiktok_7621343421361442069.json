@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7621343421361442069",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/324_biiorkmena_7621343421361442069.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621343421361442069/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "3D立体几何黑色哑光装饰墙板（一箱12片装）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家居改造爱好者、租房党、内容创作者（如播客、电竞玩家）、追求低成本提升空间质感的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益前置型 + 视觉对比型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家居改造爱好者、租房党、内容创作者（如播客、电竞玩家）、追求低成本提升空间质感的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益前置型 + 视觉对比型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确指向视频下方的链接，并给出了具体的凑单动作指导（激活3张优惠券）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：3D立体几何黑色哑光装饰墙板（一箱12片装）。品类：其他。人群：家居改造爱好者、租房党、内容创作者（如播客、电竞玩家）、追求低成本提升空间质感的。钩子：利益前置型 + 视觉对比型。评分：0.0"
+}

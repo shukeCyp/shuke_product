@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7616946621502213394",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/154_alexaamendezz_7616946621502213394.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616946621502213394/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "具有拼接心形设计的银色情侣对戒（或闺蜜戒指），配有绿色复古礼物盒",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "恋爱中的年轻女性、追求浪漫仪式感的学生党/年轻情侣"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "汽车用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪剧情钩子（“假装结婚”的文案） + 猎奇/悬念钩子（精美的盲盒包装）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "恋爱中的年轻女性、追求浪漫仪式感的学生党/年轻情侣"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪剧情钩子（“假装结婚”的文案） + 猎奇/悬念钩子（精美的盲盒包装）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：具有拼接心形设计的银色情侣对戒（或闺蜜戒指），配有绿色复古礼物盒。品类：汽车用品。人群：恋爱中的年轻女性、追求浪漫仪式感的学生党/年轻情侣。钩子：情绪剧情钩子（“假装结婚”的文案） + 猎奇/悬念钩子（精美的盲盒包装）。评分：8.0"
+}

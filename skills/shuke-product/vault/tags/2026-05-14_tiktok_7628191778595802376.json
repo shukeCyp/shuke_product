@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7628191778595802376",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/423_alisoyhlrnm_7628191778595802376.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628191778595802376/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "免缝纫五金按扣安装工具套装（包含一把红色压线钳和100套彩色五金扣）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "讨厌缝纫/不会针线活的人群、宝妈（需要修补婴儿衣服/鞋子）、手工DIY爱好者、需要快速修补衣物的人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点提问 + 爽感结果前置"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "讨厌缝纫/不会针线活的人群、宝妈（需要修补婴儿衣服/鞋子）、手工DIY爱好者、需要快速修补衣物的人"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点提问 + 爽感结果前置",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "童装、被套、包包快剪，引导左下角下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：免缝纫五金按扣安装工具套装（包含一把红色压线钳和100套彩色五金扣）。品类：服饰穿搭。人群：讨厌缝纫/不会针线活的人群、宝妈（需要修补婴儿衣服/鞋子）、手工DIY爱好者、需。钩子：痛点提问 + 爽感结果前置。评分：8.6"
+}

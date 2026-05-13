@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7638348969436925202",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/091_cocinafamiliarrecetas_7638348969436925202.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638348969436925202/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "本视频无直接口播推销，属于典型的“沉浸式美食教程种草/带货”视频",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "注重健康减脂的健身人群、追求快手早餐的上班族、厨房新手、宝妈"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作解压钩子 + 痛点解决钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "注重健康减脂的健身人群、追求快手早餐的上班族、厨房新手、宝妈"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作解压钩子 + 痛点解决钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "Try this recipe)\",",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 71.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：本视频无直接口播推销，属于典型的“沉浸式美食教程种草/带货”视频。品类：健康养生。人群：注重健康减脂的健身人群、追求快手早餐的上班族、厨房新手、宝妈。钩子：动作解压钩子 + 痛点解决钩子。评分：71.0"
+}

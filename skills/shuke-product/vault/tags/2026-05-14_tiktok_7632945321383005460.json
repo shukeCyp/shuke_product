@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632945321383005460",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/449_rosyg17_7632945321383005460.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632945321383005460/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一把蓝黑配色的充电式电动剪刀（Electric Scissors）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "手工爱好者（DIY/Manualidades）、经常处理纸箱/快递包装的人群、仓储打包人员"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作演示型 + 感官刺激型（ASMR音效）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "手工爱好者（DIY/Manualidades）、经常处理纸箱/快递包装的人群、仓储打包人员"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作演示型 + 感官刺激型（ASMR音效）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "手指左下方（常规商品锚点位），强调“便宜”和“省时”两个行动理由",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一把蓝黑配色的充电式电动剪刀（Electric Scissors）。品类：数码配件。人群：手工爱好者（DIY/Manualidades）、经常处理纸箱/快递包装的人群、仓。钩子：动作演示型 + 感官刺激型（ASMR音效）。评分：8.8"
+}

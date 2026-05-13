@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7619090695910853901",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7619090695910853901.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619090695910853901/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "宠物局部剃毛器（带有LED照明灯，专用于修剪眼周、脚底等狭窄区域）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "在家自己给狗狗美容的宠物主，特别是对使用剪刀有恐惧感、狗狗胆小易激动的受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大 + 视觉奇观/反差"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "在家自己给狗狗美容的宠物主，特别是对使用剪刀有恐惧感、狗狗胆小易激动的受众"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大 + 视觉奇观/反差",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：宠物局部剃毛器（带有LED照明灯，专用于修剪眼周、脚底等狭窄区域）。品类：美妆护肤。人群：在家自己给狗狗美容的宠物主，特别是对使用剪刀有恐惧感、狗狗胆小易激动的受众。钩子：痛点放大 + 视觉奇观/反差。评分：9.2"
+}

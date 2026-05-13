@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7638241029342104852",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/297_user8007014612653_7638241029342104852.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638241029342104852/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "做旧水洗风的 BTS（防弹少年团）主题印花短袖T恤（周边服饰）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "西语地区的 BTS 粉丝（ARMY），追求潮流穿搭且对价格/包邮敏感的受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反向营销/悬念制造（“向已经购买的人道歉”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "西语地区的 BTS 粉丝（ARMY），追求潮流穿搭且对价格/包邮敏感的受众"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反向营销/悬念制造（“向已经购买的人道歉”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：做旧水洗风的 BTS（防弹少年团）主题印花短袖T恤（周边服饰）。品类：数码配件。人群：西语地区的 BTS 粉丝（ARMY），追求潮流穿搭且对价格/包邮敏感的受众。钩子：反向营销/悬念制造（“向已经购买的人道歉”）。评分：7.8"
+}

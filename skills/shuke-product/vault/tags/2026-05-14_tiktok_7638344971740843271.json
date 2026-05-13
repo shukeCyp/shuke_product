@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7638344971740843271",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/336_montsearambula21_7638344971740843271.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638344971740843271/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打塑形、轻薄且底裆舒适的黑色吊带连体衣（Body / Faja moldeadora）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻妈妈群体（字幕明确提及“día de mamá”）、追求日常穿搭兼顾身材修饰与舒适度的都市女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人群标签钩子 + 原生场景钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻妈妈群体（字幕明确提及“día de mamá”）、追求日常穿搭兼顾身材修饰与舒适度的都市女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人群标签钩子 + 原生场景钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打塑形、轻薄且底裆舒适的黑色吊带连体衣（Body / Faja moldeadora）。品类：数码配件。人群：年轻妈妈群体（字幕明确提及“día de mamá”）、追求日常穿搭兼顾身材修饰。钩子：人群标签钩子 + 原生场景钩子。评分：8.0"
+}

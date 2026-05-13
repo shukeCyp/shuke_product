@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7624437758718692624",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/489_prefgyq_7624437758718692624.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624437758718692624/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打日常百搭、厚底增高、轻便柔软的韩系/Aesthetic风女士小白鞋",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比、舒适度，且有增高和日常百搭需求的年轻女性（学生党、通勤族）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪钩子（惊讶/激动） + 动作钩子（拉链开箱）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比、舒适度，且有增高和日常百搭需求的年轻女性（学生党、通勤族）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪钩子（惊讶/激动） + 动作钩子（拉链开箱）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打日常百搭、厚底增高、轻便柔软的韩系/Aesthetic风女士小白鞋。品类：服饰穿搭。人群：追求性价比、舒适度，且有增高和日常百搭需求的年轻女性（学生党、通勤族）。钩子：情绪钩子（惊讶/激动） + 动作钩子（拉链开箱）。评分：8.8"
+}

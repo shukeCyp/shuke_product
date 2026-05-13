@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7636202126137396501",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/245_adaprotips_7636202126137396501.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636202126137396501/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 61.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Megneta 品牌的复合胶原蛋白肽补充剂（包含多种胶原蛋白及维C、生物素等）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "面临皮肤松弛、腹部下垂、关节疼痛、脱发、指甲脆弱等初老/衰老问题的成年人群（男女皆可，偏向关注抗衰与关节健康的群体）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点前置型 + 认知冲突型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "面临皮肤松弛、腹部下垂、关节疼痛、脱发、指甲脆弱等初老/衰老问题的成年人群（男女皆可，偏向关注抗衰与关节健康的群体）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点前置型 + 认知冲突型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视觉指示（红箭头）+ 利益诱惑（超级折扣）+ 动作指令（点击橙色购物车）+ 信任托底（去看好评）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Megneta 品牌的复合胶原蛋白肽补充剂（包含多种胶原蛋白及维C、生物素等）。品类：身体护理。人群：面临皮肤松弛、腹部下垂、关节疼痛、脱发、指甲脆弱等初老/衰老问题的成年人群（男女。钩子：痛点前置型 + 认知冲突型。评分：7.6"
+}

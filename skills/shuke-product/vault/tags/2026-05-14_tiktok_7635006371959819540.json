@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7635006371959819540",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/472_soyalmacervantes_7635006371959819540.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635006371959819540/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 64.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款螃蟹造型的电子按压闯关早教玩具（Fast Push Fun Game）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有婴幼儿/学龄前儿童的宝妈宝爸，尤其是渴望“解放双手”的家长"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点直给型 + 利益承诺型（\"si quieres que tu bebé se entretenga bastante\" - 想让宝宝充分打发时间）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有婴幼儿/学龄前儿童的宝妈宝爸，尤其是渴望“解放双手”的家长"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点直给型 + 利益承诺型（\"si quieres que tu bebé se entretenga bastante\" - 想让宝宝充分打发时间）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视频结尾明确指路（“这里有链接，评论区见”），配合宝宝啃玩具的可爱画面自然收尾",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款螃蟹造型的电子按压闯关早教玩具（Fast Push Fun Game）。品类：数码配件。人群：有婴幼儿/学龄前儿童的宝妈宝爸，尤其是渴望“解放双手”的家长。钩子：痛点直给型 + 利益承诺型（\"si quieres que tu bebé se。评分：8.6"
+}

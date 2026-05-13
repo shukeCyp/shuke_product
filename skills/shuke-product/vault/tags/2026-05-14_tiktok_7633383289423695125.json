@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633383289423695125",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/168_zzwhdd7_7633383289423695125.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633383289423695125/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 131.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "人体工学记忆棉护颈枕（带有蝶形分区、手臂放置区和可拆洗外套）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有睡眠障碍、经常落枕/颈椎酸痛、打呼噜、在意双下巴或体态不良的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "恐吓型指令（Never sleep like this） + 痛点场景再现 + 视觉对比（真人vs医学解剖图）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有睡眠障碍、经常落枕/颈椎酸痛、打呼噜、在意双下巴或体态不良的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "恐吓型指令（Never sleep like this） + 痛点场景再现 + 视觉对比（真人vs医学解剖图）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：人体工学记忆棉护颈枕（带有蝶形分区、手臂放置区和可拆洗外套）。品类：健康养生。人群：有睡眠障碍、经常落枕/颈椎酸痛、打呼噜、在意双下巴或体态不良的人群。钩子：恐吓型指令（Never sleep like this） + 痛点场景再现 + 。评分：8.6"
+}

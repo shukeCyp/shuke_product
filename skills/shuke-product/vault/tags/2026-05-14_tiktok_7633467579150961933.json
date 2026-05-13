@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633467579150961933",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7633467579150961933.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633467579150961933/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 39.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "HICC PET 宠物免洗除味清洁手套（含有椰子油成分的湿巾手套）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "养狗/宠物人群，特别是怕麻烦、宠物抗拒水洗、经常带宠物户外活动或急需给宠物除味的铲屎官"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大（狗臭了） + 结果承诺（60秒洗澡） + 反差好奇（用一张纸怎么洗澡？）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "养狗/宠物人群，特别是怕麻烦、宠物抗拒水洗、经常带宠物户外活动或急需给宠物除味的铲屎官"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大（狗臭了） + 结果承诺（60秒洗澡） + 反差好奇（用一张纸怎么洗澡？）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：HICC PET 宠物免洗除味清洁手套（含有椰子油成分的湿巾手套）。品类：家居清洁。人群：养狗/宠物人群，特别是怕麻烦、宠物抗拒水洗、经常带宠物户外活动或急需给宠物除味的。钩子：痛点放大（狗臭了） + 结果承诺（60秒洗澡） + 反差好奇（用一张纸怎么洗澡？。评分：8.8"
+}

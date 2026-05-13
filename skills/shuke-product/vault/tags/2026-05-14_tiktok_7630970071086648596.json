@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7630970071086648596",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/500_phanyezndjs_7630970071086648596.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630970071086648596/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "15件套医疗级不锈钢去黑头/粉刺清理工具盒（Kit removedor de puntos negros）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受黑头、粉刺、痘痘困扰，喜欢在家自行清理皮肤，或对“挤痘痘”有解压观看偏好的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉痛点展示 + 猎奇/解压强刺激（类“挤痘痘”视频的经典流量密码）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受黑头、粉刺、痘痘困扰，喜欢在家自行清理皮肤，或对“挤痘痘”有解压观看偏好的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉痛点展示 + 猎奇/解压强刺激（类“挤痘痘”视频的经典流量密码）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：15件套医疗级不锈钢去黑头/粉刺清理工具盒（Kit removedor de puntos negros）。品类：美妆护肤。人群：受黑头、粉刺、痘痘困扰，喜欢在家自行清理皮肤，或对“挤痘痘”有解压观看偏好的人群。钩子：视觉痛点展示 + 猎奇/解压强刺激（类“挤痘痘”视频的经典流量密码）。评分：8.2"
+}

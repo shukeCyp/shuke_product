@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631063312356232455",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/396_la.vida.en.rosa15_7631063312356232455.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631063312356232455/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打拉美/西班牙语文化圈“拖鞋教育”梗的恶搞创意礼物——“最佳妈妈金拖鞋”奖杯 (Chancla de Oro)",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有拉美/西班牙语文化背景的年轻人或成年子女（存在“被妈妈用拖鞋打”的童年共鸣），正在寻找母亲节或妈妈生日的创意礼物"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点提问 + 猎奇视觉物搭 + 文化符号共鸣"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有拉美/西班牙语文化背景的年轻人或成年子女（存在“被妈妈用拖鞋打”的童年共鸣），正在寻找母亲节或妈妈生日的创意礼物"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点提问 + 猎奇视觉物搭 + 文化符号共鸣",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示商品装在礼盒里的样子，或者送给妈妈时的搞笑反应画面",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打拉美/西班牙语文化圈“拖鞋教育”梗的恶搞创意礼物——“最佳妈妈金拖鞋”奖杯 (Chancla de Oro)。品类：服饰穿搭。人群：拥有拉美/西班牙语文化背景的年轻人或成年子女（存在“被妈妈用拖鞋打”的童年共鸣）。钩子：痛点提问 + 猎奇视觉物搭 + 文化符号共鸣。评分：8.0"
+}

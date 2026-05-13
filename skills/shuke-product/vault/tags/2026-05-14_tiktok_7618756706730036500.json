@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7618756706730036500",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/331_mxg1741869p_7618756706730036500.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618756706730036500/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "具有防蓝光（防屏幕辐射）和防紫外线（遇光变色）双重功能的时尚变色眼镜",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "长时间使用手机/电脑/电视等电子屏幕，且具有一定审美要求、关注眼部健康和防晒的年轻女性人群（视频原生口播使用了“amiga”闺蜜/女性朋友的称呼，且画面具有明显的女性向Ins风特征）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点呼唤型钩子（结合了微弱的视觉猎奇）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "长时间使用手机/电脑/电视等电子屏幕，且具有一定审美要求、关注眼部健康和防晒的年轻女性人群（视频原生口播使用了“amiga”闺蜜/女性朋友的称呼，且画面具有明显的女性向Ins风特征）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点呼唤型钩子（结合了微弱的视觉猎奇）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：具有防蓝光（防屏幕辐射）和防紫外线（遇光变色）双重功能的时尚变色眼镜。品类：美妆护肤。人群：长时间使用手机/电脑/电视等电子屏幕，且具有一定审美要求、关注眼部健康和防晒的年。钩子：痛点呼唤型钩子（结合了微弱的视觉猎奇）。评分：7.0"
+}

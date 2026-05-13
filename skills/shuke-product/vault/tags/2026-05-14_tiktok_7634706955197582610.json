@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634706955197582610",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/039_bcuetara1_7634706955197582610.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634706955197582610/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Magneta 品牌的多效胶原蛋白肽胶囊（包含5种胶原蛋白及生物素、维C等）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "存在衰老焦虑的女性（具体表现为皮肤松弛/拜拜肉、脱发/发际线后移、关节不适等）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“人群限定 + 痛点具象化”钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "存在衰老焦虑的女性（具体表现为皮肤松弛/拜拜肉、脱发/发际线后移、关节不适等）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“人群限定 + 痛点具象化”钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Magneta 品牌的多效胶原蛋白肽胶囊（包含5种胶原蛋白及生物素、维C等）。品类：身体护理。人群：存在衰老焦虑的女性（具体表现为皮肤松弛/拜拜肉、脱发/发际线后移、关节不适等）。钩子：“人群限定 + 痛点具象化”钩子。评分：8.4"
+}

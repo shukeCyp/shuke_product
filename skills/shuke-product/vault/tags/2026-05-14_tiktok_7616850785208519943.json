@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7616850785208519943",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/157_la_yuyos_7616850785208519943.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616850785208519943/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款会播放音乐（生日快乐歌）且受到触碰后会剧烈震动、弹跳的猪猪毛绒球玩具（名义上是宠物玩具，实际展示了儿童游玩）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有孩家庭（特别是学龄前儿童父母）、宠物主人（猫狗饲养者）、喜欢搞笑解压玩具的年轻人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪与悬念钩（预期违背）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有孩家庭（特别是学龄前儿童父母）、宠物主人（猫狗饲养者）、喜欢搞笑解压玩具的年轻人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪与悬念钩（预期违背）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款会播放音乐（生日快乐歌）且受到触碰后会剧烈震动、弹跳的猪猪毛绒球玩具（名义上是宠物玩具，实际展示了儿童游玩）。品类：家居清洁。人群：有孩家庭（特别是学龄前儿童父母）、宠物主人（猫狗饲养者）、喜欢搞笑解压玩具的年轻。钩子：情绪与悬念钩（预期违背）。评分：8.2"
+}

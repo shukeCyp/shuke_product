@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633718004345212180",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/352_unxanbkx4x0_7633718004345212180.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633718004345212180/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款大容量、多功能的综合五金工具套装（包含棘轮扳手、套筒、批头等，配有黑色硬壳手提箱）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家庭维修者、有车一族（汽车/摩托车）、DIY爱好者、以及经常苦于找不到合适工具的男性用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“价格锚点/受害者心理” + “开箱爽感”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家庭维修者、有车一族（汽车/摩托车）、DIY爱好者、以及经常苦于找不到合适工具的男性用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“价格锚点/受害者心理” + “开箱爽感”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款大容量、多功能的综合五金工具套装（包含棘轮扳手、套筒、批头等，配有黑色硬壳手提箱）。品类：男士护理。人群：家庭维修者、有车一族（汽车/摩托车）、DIY爱好者、以及经常苦于找不到合适工具的。钩子：“价格锚点/受害者心理” + “开箱爽感”。评分：7.8"
+}

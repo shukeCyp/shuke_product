@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7636719534790954247",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/037_zk202752khs_7636719534790954247.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636719534790954247/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一本引导母亲写下生平回忆的填空式日记本/纪念册（书名：《Mamá, déjame conocerte con 100 preguntas》/ 妈妈，通过100个",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "成年子女（尤其是女性，因视频中强调了“女性力量”），有送礼需求、具有较强家庭观念、害怕失去长辈记忆的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "极度情绪化钩子（痛点+共鸣） + POV（第一人称代入）场景设定"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "成年子女（尤其是女性，因视频中强调了“女性力量”），有送礼需求、具有较强家庭观念、害怕失去长辈记忆的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "极度情绪化钩子（痛点+共鸣） + POV（第一人称代入）场景设定",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一本引导母亲写下生平回忆的填空式日记本/纪念册（书名：《Mamá, déjame conocerte con 100 p。品类：数码配件。人群：成年子女（尤其是女性，因视频中强调了“女性力量”），有送礼需求、具有较强家庭观念。钩子：极度情绪化钩子（痛点+共鸣） + POV（第一人称代入）场景设定。评分：8.4"
+}

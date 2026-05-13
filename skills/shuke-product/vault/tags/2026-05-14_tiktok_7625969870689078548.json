@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625969870689078548",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/029_noomdassdes_7625969870689078548.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625969870689078548/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 250.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一本面向儿童/青少年的漫画版心理学与高情商启蒙读物（书名：《La Ley de Murphy》/ 墨菲定律漫画版）",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "焦虑的家长，特别是希望孩子未来能跨越阶层、具备高情商、领导力和社交能力，而非仅仅成为“听话打工人”的中产家庭父母"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "剧情悬念钩 + 冲突钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "焦虑的家长，特别是希望孩子未来能跨越阶层、具备高情商、领导力和社交能力，而非仅仅成为“听话打工人”的中产家庭父母"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "剧情悬念钩 + 冲突钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一本面向儿童/青少年的漫画版心理学与高情商启蒙读物（书名：《La Ley de Murphy》/ 墨菲定律漫画版）。品类：厨房用品。人群：焦虑的家长，特别是希望孩子未来能跨越阶层、具备高情商、领导力和社交能力，而非仅仅。钩子：剧情悬念钩 + 冲突钩。评分：7.6"
+}

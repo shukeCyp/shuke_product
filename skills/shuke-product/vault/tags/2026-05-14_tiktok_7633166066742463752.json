@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633166066742463752",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/191_juley02_7633166066742463752.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633166066742463752/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 237.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "这是一条以泛娱乐搞笑美妆挑战为包装的美妆产品种草/软广视频，核心疑似带货商品为 NYX Epic Ink Liner（防水眼线液笔） 以及部分假睫毛产品",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对美妆感兴趣的年轻女性（Z世代/千禧一代）、喜欢看家庭互动/母女搞笑日常的泛娱乐受众、以及喜欢夸张亚文化妆容（如E-girl/网感妆）的群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉反差钩 + 挑战悬念钩（素人母亲 VS 极致网感妆的画中画）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对美妆感兴趣的年轻女性（Z世代/千禧一代）、喜欢看家庭互动/母女搞笑日常的泛娱乐受众、以及喜欢夸张亚文化妆容（如E-girl/网感妆）的群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差钩 + 挑战悬念钩（素人母亲 VS 极致网感妆的画中画）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：这是一条以泛娱乐搞笑美妆挑战为包装的美妆产品种草/软广视频，核心疑似带货商品为 NYX Epic Ink Liner（防。品类：美妆护肤。人群：对美妆感兴趣的年轻女性（Z世代/千禧一代）、喜欢看家庭互动/母女搞笑日常的泛娱乐。钩子：视觉反差钩 + 挑战悬念钩（素人母亲 VS 极致网感妆的画中画）。评分：6.6"
+}

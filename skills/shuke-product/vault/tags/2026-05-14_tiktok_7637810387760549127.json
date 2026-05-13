@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637810387760549127",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/463_nnmxqm1_7637810387760549127.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637810387760549127/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "汽车后备箱自动升举弹簧（免改装件）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有传统手动开启后备箱轿车的车主，追求性价比与车辆“高级感”的男性用户为主"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观 + 反差疑问句"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有传统手动开启后备箱轿车的车主，追求性价比与车辆“高级感”的男性用户为主"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观 + 反差疑问句",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：汽车后备箱自动升举弹簧（免改装件）。品类：男士护理。人群：拥有传统手动开启后备箱轿车的车主，追求性价比与车辆“高级感”的男性用户为主。钩子：视觉奇观 + 反差疑问句。评分：8.7"
+}

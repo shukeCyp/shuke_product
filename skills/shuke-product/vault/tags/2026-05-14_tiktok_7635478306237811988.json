@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7635478306237811988",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/046_mextec.box_7635478306237811988.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635478306237811988/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "QKZ AK6 舞台级入耳式有线耳机（带麦克风及耳挂配件）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比的学生党、游戏玩家、音乐爱好者及预算有限但追求炫酷外观的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉矩阵阵列 + 开箱分享型钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比的学生党、游戏玩家、音乐爱好者及预算有限但追求炫酷外观的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉矩阵阵列 + 开箱分享型钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：QKZ AK6 舞台级入耳式有线耳机（带麦克风及耳挂配件）。品类：数码配件。人群：追求性价比的学生党、游戏玩家、音乐爱好者及预算有限但追求炫酷外观的用户。钩子：视觉矩阵阵列 + 开箱分享型钩子。评分：8.2"
+}

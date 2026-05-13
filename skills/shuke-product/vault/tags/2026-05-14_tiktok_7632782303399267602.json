@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7632782303399267602",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/076_soza.edith_7632782303399267602.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632782303399267602/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "高弹力提花全包餐椅套（用于旧椅翻新/保护）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家庭主妇、租房党、家里有宠物/儿童导致家具破损污渍的人群、注重家居颜值且追求性价比的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点视觉冲击 + 悬念解疑"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家庭主妇、租房党、家里有宠物/儿童导致家具破损污渍的人群、注重家居颜值且追求性价比的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点视觉冲击 + 悬念解疑",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：高弹力提花全包餐椅套（用于旧椅翻新/保护）。品类：美妆护肤。人群：家庭主妇、租房党、家里有宠物/儿童导致家具破损污渍的人群、注重家居颜值且追求性价。钩子：痛点视觉冲击 + 悬念解疑。评分：8.4"
+}

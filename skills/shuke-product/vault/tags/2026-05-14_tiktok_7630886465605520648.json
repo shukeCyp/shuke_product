@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7630886465605520648",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/306_centenoficial_7630886465605520648.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630886465605520648/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款包含彩色足球（疑似世界杯指定用球微缩版）和大力神杯造型的精致钥匙扣",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "正在为热爱足球、常看球赛或喜欢玩《FIFA》足球游戏的男性朋友/伴侣（拉美文化中常称为“el FIFAS”）寻找礼物的消费者（以女性或非球迷朋友为主）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "身份认同/送礼场景钩 + 听觉情绪钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "正在为热爱足球、常看球赛或喜欢玩《FIFA》足球游戏的男性朋友/伴侣（拉美文化中常称为“el FIFAS”）寻找礼物的消费者（以女性或非球迷朋友为主）"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "身份认同/送礼场景钩 + 听觉情绪钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "A red downward pointing arrow at the end of the video directing the user to the shopping cart icon.\"",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款包含彩色足球（疑似世界杯指定用球微缩版）和大力神杯造型的精致钥匙扣。品类：男士护理。人群：正在为热爱足球、常看球赛或喜欢玩《FIFA》足球游戏的男性朋友/伴侣（拉美文化中。钩子：身份认同/送礼场景钩 + 听觉情绪钩。评分：7.8"
+}

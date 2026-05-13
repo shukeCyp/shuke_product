@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631028183239888149",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/174_mevastudio_7631028183239888149.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631028183239888149/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款紫色的多隔层迷你收纳包（零钱包/卡包）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "女性、喜欢整理收纳的人群、受“小包找不到东西”困扰的用户、追求色彩搭配和实用性的年轻消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“解压/收纳演示”钩子 + 视觉对比（杂乱 vs 秩序的起点）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "女性、喜欢整理收纳的人群、受“小包找不到东西”困扰的用户、追求色彩搭配和实用性的年轻消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“解压/收纳演示”钩子 + 视觉对比（杂乱 vs 秩序的起点）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款紫色的多隔层迷你收纳包（零钱包/卡包）。品类：美妆护肤。人群：女性、喜欢整理收纳的人群、受“小包找不到东西”困扰的用户、追求色彩搭配和实用性的。钩子：“解压/收纳演示”钩子 + 视觉对比（杂乱 vs 秩序的起点）。评分：8.6"
+}

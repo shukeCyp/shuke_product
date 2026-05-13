@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631448434163141896",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/061_eliandradd_7631448434163141896.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631448434163141896/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "印花真空收纳袋套装（含便携电动抽气泵）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受衣柜空间不足困扰、需要换季收纳（厚棉被/毛衣）、注重防潮防虫的家庭主妇或租房人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直展 + 场景痛点提问"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受衣柜空间不足困扰、需要换季收纳（厚棉被/毛衣）、注重防潮防虫的家庭主妇或租房人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直展 + 场景痛点提问",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：印花真空收纳袋套装（含便携电动抽气泵）。品类：服饰穿搭。人群：受衣柜空间不足困扰、需要换季收纳（厚棉被/毛衣）、注重防潮防虫的家庭主妇或租房人。钩子：产品直展 + 场景痛点提问。评分：9.0"
+}

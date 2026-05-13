@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7633655315929566484",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/403_fluffycornia_7633655315929566484.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633655315929566484/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 54.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有一键清理退毛功能的宠物褪毛梳（“神奇刷子”）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "养宠人群（特别是养中长毛犬/猫，深受宠物掉毛、毛发打结困扰的主人）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "结果展示型 + 猎奇/解压型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "养宠人群（特别是养中长毛犬/猫，深受宠物掉毛、毛发打结困扰的主人）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 猎奇/解压型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "继续缓慢梳毛，宠物彻底睡着",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.3
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有一键清理退毛功能的宠物褪毛梳（“神奇刷子”）。品类：身体护理。人群：养宠人群（特别是养中长毛犬/猫，深受宠物掉毛、毛发打结困扰的主人）。钩子：结果展示型 + 猎奇/解压型。评分：9.3"
+}

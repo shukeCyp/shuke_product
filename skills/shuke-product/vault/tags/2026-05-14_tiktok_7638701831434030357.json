@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7638701831434030357",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/425_sandybarajjas_7638701831434030357.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638701831434030357/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "免胶水自粘式单簇咖啡色假睫毛（品牌标识疑似“OO”/“OAT”）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求自然妆感、手残党新手、对传统假睫毛胶水过敏或觉得麻烦的女性用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "最终效果展示（Outcome） + 痛点反转文案（Pain-point reversal）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求自然妆感、手残党新手、对传统假睫毛胶水过敏或觉得麻烦的女性用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "最终效果展示（Outcome） + 痛点反转文案（Pain-point reversal）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "解答“能戴多久”和“是否防水”的核心疑虑，诚实说明留存天数增加真实性",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：免胶水自粘式单簇咖啡色假睫毛（品牌标识疑似“OO”/“OAT”）。品类：美妆护肤。人群：追求自然妆感、手残党新手、对传统假睫毛胶水过敏或觉得麻烦的女性用户。钩子：最终效果展示（Outcome） + 痛点反转文案（Pain-point reve。评分：8.6"
+}

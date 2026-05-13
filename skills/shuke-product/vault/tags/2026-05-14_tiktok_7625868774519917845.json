@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7625868774519917845",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/364_rhr4bchcw0_7625868774519917845.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625868774519917845/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有阿迪达斯Logo、防弹少年团（BTS）世界巡演墨西哥城站标识及BT21卡通形象的运动风V领球衣（短袖T恤）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "BTS粉丝（ARMY）、K-pop周边收藏者、喜欢美式街头/运动混搭风的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "IP/颜值钩子 + 开箱猎奇钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "BTS粉丝（ARMY）、K-pop周边收藏者、喜欢美式街头/运动混搭风的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "IP/颜值钩子 + 开箱猎奇钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有阿迪达斯Logo、防弹少年团（BTS）世界巡演墨西哥城站标识及BT21卡通形象的运动风V领球衣（短袖T恤）。品类：美妆护肤。人群：BTS粉丝（ARMY）、K-pop周边收藏者、喜欢美式街头/运动混搭风的年轻女性。钩子：IP/颜值钩子 + 开箱猎奇钩子。评分：8.4"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7633758670035094791",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/450_faxvkbsxa90_7633758670035094791.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633758670035094791/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款以动漫（疑似《龙珠》悟空元素）为设计灵感的黑橙撞色加绒连帽卫衣",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "动漫爱好者、泛二次元人群、喜欢街头潮流服饰的年轻人（男女皆宜）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作解压钩子 + 精准视觉符号钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "动漫爱好者、泛二次元人群、喜欢街头潮流服饰的年轻人（男女皆宜）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足",
+      "卖点单一"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作解压钩子 + 精准视觉符号钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款以动漫（疑似《龙珠》悟空元素）为设计灵感的黑橙撞色加绒连帽卫衣。品类：服饰穿搭。人群：动漫爱好者、泛二次元人群、喜欢街头潮流服饰的年轻人（男女皆宜）。钩子：动作解压钩子 + 精准视觉符号钩子。评分：8.0"
+}

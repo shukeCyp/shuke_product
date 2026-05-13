@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7624285975505603860",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/183_micocinatucocina6_7624285975505603860.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624285975505603860/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“REIMIOGTON”（疑似山寨仿冒Remington雷明顿）的粉色菱格纹直发梳/夹板",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "下沉市场女性、价格敏感型消费者、西语区用户（基于字幕语言和BGM）、对颜值有一定要求但预算有限的学生党或年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益点直给（字幕文字）+ 沉浸式开箱（视觉动作）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "下沉市场女性、价格敏感型消费者、西语区用户（基于字幕语言和BGM）、对颜值有一定要求但预算有限的学生党或年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益点直给（字幕文字）+ 沉浸式开箱（视觉动作）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“REIMIOGTON”（疑似山寨仿冒Remington雷明顿）的粉色菱格纹直发梳/夹板。品类：身体护理。人群：下沉市场女性、价格敏感型消费者、西语区用户（基于字幕语言和BGM）、对颜值有一定。钩子：利益点直给（字幕文字）+ 沉浸式开箱（视觉动作）。评分：5.4"
+}

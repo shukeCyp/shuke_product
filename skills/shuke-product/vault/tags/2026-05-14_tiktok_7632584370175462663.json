@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632584370175462663",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/417_i9hso59_7632584370175462663.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632584370175462663/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "四叉防水水眉笔（主打画出野生眉/根根分明效果）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "早上赶时间没空化妆的女性、手残党、中年/成熟女性（追求自然效果且毛发稀疏者）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景痛点呼唤（字幕：“早上没时间的我们”）+ 视觉反差冲击（老年人稀疏眉毛秒变浓密）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "早上赶时间没空化妆的女性、手残党、中年/成熟女性（追求自然效果且毛发稀疏者）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景痛点呼唤（字幕：“早上没时间的我们”）+ 视觉反差冲击（老年人稀疏眉毛秒变浓密）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：四叉防水水眉笔（主打画出野生眉/根根分明效果）。品类：美妆护肤。人群：早上赶时间没空化妆的女性、手残党、中年/成熟女性（追求自然效果且毛发稀疏者）。钩子：场景痛点呼唤（字幕：“早上没时间的我们”）+ 视觉反差冲击（老年人稀疏眉毛秒变浓。评分：8.8"
+}

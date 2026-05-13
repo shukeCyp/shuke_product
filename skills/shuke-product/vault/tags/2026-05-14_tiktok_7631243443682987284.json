@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631243443682987284",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7631243443682987284.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631243443682987284/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "VYBLOO 品牌的系列保温杯（主打马卡龙色系、多容量、304不锈钢材质）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有日常饮水、通勤、健身需求，追求高颜值与实用性结合的年轻群体（尤其是女性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点提问 + 视觉冲击"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有日常饮水、通勤、健身需求，追求高颜值与实用性结合的年轻群体（尤其是女性）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点提问 + 视觉冲击",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：VYBLOO 品牌的系列保温杯（主打马卡龙色系、多容量、304不锈钢材质）。品类：服饰穿搭。人群：有日常饮水、通勤、健身需求，追求高颜值与实用性结合的年轻群体（尤其是女性）。钩子：痛点提问 + 视觉冲击。评分：8.0"
+}

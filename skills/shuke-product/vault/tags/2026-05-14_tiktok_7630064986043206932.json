@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7630064986043206932",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/166_yhnmkwty6864_7630064986043206932.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630064986043206932/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Kiwo E88 航拍无人机（入门级/玩具级无人机）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "数码小白、追求性价比的冲动消费人群、想买入门级无人机练手或送礼的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益驱动型 + 情绪冲突型（“标错价/Bug价”噱头）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "数码小白、追求性价比的冲动消费人群、想买入门级无人机练手或送礼的用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益驱动型 + 情绪冲突型（“标错价/Bug价”噱头）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指令非常明确（去点橙色购物车），并给出了“必须现在点”的理由（在他们发现标错价之前），最后配以红色大箭头做视觉引导",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Kiwo E88 航拍无人机（入门级/玩具级无人机）。品类：身体护理。人群：数码小白、追求性价比的冲动消费人群、想买入门级无人机练手或送礼的用户。钩子：利益驱动型 + 情绪冲突型（“标错价/Bug价”噱头）。评分：7.8"
+}

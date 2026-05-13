@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632646303062740245",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/452_aaaddd0718_7632646303062740245.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632646303062740245/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 46.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "草坪种子（视频末尾展示了“修补混合草籽+肥料”以及“Kentucky 31”高羊茅草籽包装）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有带院子/草坪的房主、园艺新手、渴望低维护成本且追求高颜值庭院的家庭"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点场景展现 + 认知反差（画面极度劳累 vs 旁白承诺极其轻松）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有带院子/草坪的房主、园艺新手、渴望低维护成本且追求高颜值庭院的家庭"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点场景展现 + 认知反差（画面极度劳累 vs 旁白承诺极其轻松）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视频最后10秒，强视觉引导（手指指向屏幕特定区域）配合紧迫感话术（“现在是播种的理想时机，链接在下方”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：草坪种子（视频末尾展示了“修补混合草籽+肥料”以及“Kentucky 31”高羊茅草籽包装）。品类：服饰穿搭。人群：拥有带院子/草坪的房主、园艺新手、渴望低维护成本且追求高颜值庭院的家庭。钩子：痛点场景展现 + 认知反差（画面极度劳累 vs 旁白承诺极其轻松）。评分：7.4"
+}

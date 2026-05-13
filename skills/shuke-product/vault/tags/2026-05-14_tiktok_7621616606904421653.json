@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7621616606904421653",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/418_bobo.mex_7621616606904421653.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621616606904421653/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款BOBO品牌的迷你双肩包造型丝绒/仿皮草零钱包（Mini Monedero）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性、学生党、喜欢高颜值/可爱物件及有轻便出行需求的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观（反差萌） + 触觉ASMR代入"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性、学生党、喜欢高颜值/可爱物件及有轻便出行需求的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观（反差萌） + 触觉ASMR代入",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款BOBO品牌的迷你双肩包造型丝绒/仿皮草零钱包（Mini Monedero）。品类：美妆护肤。人群：年轻女性、学生党、喜欢高颜值/可爱物件及有轻便出行需求的用户。钩子：视觉奇观（反差萌） + 触觉ASMR代入。评分：8.4"
+}

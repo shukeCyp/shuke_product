@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7605751354631490836",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/481_ferja.mx_7605751354631490836.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7605751354631490836/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "FERJA 品牌的多色液体唇釉/不沾杯口红套装（包含正红、粉色及黄、绿、蓝等奇特颜色）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "Z世代年轻女性、喜欢玩妆/欧美妆的用户、对高显色度唇彩和价格敏感（喜欢折扣）的冲动型消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直给型 + 情绪感染型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "Z世代年轻女性、喜欢玩妆/欧美妆的用户、对高显色度唇彩和价格敏感（喜欢折扣）的冲动型消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直给型 + 情绪感染型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：FERJA 品牌的多色液体唇釉/不沾杯口红套装（包含正红、粉色及黄、绿、蓝等奇特颜色）。品类：美妆护肤。人群：Z世代年轻女性、喜欢玩妆/欧美妆的用户、对高显色度唇彩和价格敏感（喜欢折扣）的冲。钩子：产品直给型 + 情绪感染型。评分：8.2"
+}

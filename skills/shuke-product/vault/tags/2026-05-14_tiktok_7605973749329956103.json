@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7605973749329956103",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/453_glaazzz__7605973749329956103.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7605973749329956103/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "西语版心理自助畅销书《NO TE CREAS TODO LO QUE PIENSAS》（别相信你所有的想法）",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "存在精神内耗、过度思考（Overthinking）、焦虑压力大且追求性价比的西语区成年受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "办公学习"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益驱动型（限时低价）+ 痛点共鸣型（书名）+ 视觉引导型（红箭头）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "存在精神内耗、过度思考（Overthinking）、焦虑压力大且追求性价比的西语区成年受众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益驱动型（限时低价）+ 痛点共鸣型（书名）+ 视觉引导型（红箭头）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "A bouncing red arrow pointing towards the bottom left corner where the e-commerce shopping cart is l",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：西语版心理自助畅销书《NO TE CREAS TODO LO QUE PIENSAS》（别相信你所有的想法）。品类：办公学习。人群：存在精神内耗、过度思考（Overthinking）、焦虑压力大且追求性价比的西语。钩子：利益驱动型（限时低价）+ 痛点共鸣型（书名）+ 视觉引导型（红箭头）。评分：8.4"
+}

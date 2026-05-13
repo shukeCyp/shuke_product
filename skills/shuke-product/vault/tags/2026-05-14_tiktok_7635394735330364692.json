@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7635394735330364692",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/293_mar7fitugc_7635394735330364692.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635394735330364692/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "黑色阔腿休闲裤/运动裤（Streetwear风格）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求潮流街头穿搭（Y2K/辣妹风）、注重性价比、易受“氛围感”影响的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "价格反差钩子 + 氛围感展示"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求潮流街头穿搭（Y2K/辣妹风）、注重性价比、易受“氛围感”影响的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "价格反差钩子 + 氛围感展示",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：黑色阔腿休闲裤/运动裤（Streetwear风格）。品类：身体护理。人群：追求潮流街头穿搭（Y2K/辣妹风）、注重性价比、易受“氛围感”影响的年轻女性。钩子：价格反差钩子 + 氛围感展示。评分：6.8"
+}

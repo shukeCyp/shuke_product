@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7633629750786886932",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/104_monnliie_7633629750786886932.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633629750786886932/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款迷你的、便携式吹泡泡玩具（外形类似小纸盒/烟盒）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "想要戒烟的年轻男性、正在为伴侣寻找趣味礼物的女性、面临生活压力的年轻人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景共鸣（压力大/戒烟）+ 视觉反差悬念（拿着不像烟的东西做抽烟动作）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "想要戒烟的年轻男性、正在为伴侣寻找趣味礼物的女性、面临生活压力的年轻人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景共鸣（压力大/戒烟）+ 视觉反差悬念（拿着不像烟的东西做抽烟动作）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款迷你的、便携式吹泡泡玩具（外形类似小纸盒/烟盒）。品类：男士护理。人群：想要戒烟的年轻男性、正在为伴侣寻找趣味礼物的女性、面临生活压力的年轻人。钩子：场景共鸣（压力大/戒烟）+ 视觉反差悬念（拿着不像烟的东西做抽烟动作）。评分：6.6"
+}

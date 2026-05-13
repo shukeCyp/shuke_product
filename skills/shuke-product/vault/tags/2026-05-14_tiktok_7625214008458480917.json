@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625214008458480917",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/379_hiehamx_7625214008458480917.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625214008458480917/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "车载便携式多媒体智能中控屏（支持手机投屏、导航、蓝牙、倒车/行车影像）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有无自带智能中控屏的老旧车型车主、不想拆卸原车车机且追求无损改装的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉冲击/猎奇（争议性Logo）+ 情绪痛点贴纸（相见恨晚型）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有无自带智能中控屏的老旧车型车主、不想拆卸原车车机且追求无损改装的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击/猎奇（争议性Logo）+ 情绪痛点贴纸（相见恨晚型）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：车载便携式多媒体智能中控屏（支持手机投屏、导航、蓝牙、倒车/行车影像）。品类：男士护理。人群：拥有无自带智能中控屏的老旧车型车主、不想拆卸原车车机且追求无损改装的用户。钩子：视觉冲击/猎奇（争议性Logo）+ 情绪痛点贴纸（相见恨晚型）。评分：8.2"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7626252003248753940",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/059_lesslynohemy_7626252003248753940.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626252003248753940/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "婴幼儿迷你抓夹/发卡（针对发量稀少的宝宝）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "新手宝妈、女宝家长（特别是宝宝发量少、但又想给宝宝打扮的妈妈）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉反差钩 + 猎奇/幽默钩 + 痛点共鸣钩（当妈的最后倔强：发量再少也要打扮）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "新手宝妈、女宝家长（特别是宝宝发量少、但又想给宝宝打扮的妈妈）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差钩 + 猎奇/幽默钩 + 痛点共鸣钩（当妈的最后倔强：发量再少也要打扮）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指向屏幕下方，引导下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：婴幼儿迷你抓夹/发卡（针对发量稀少的宝宝）。品类：数码配件。人群：新手宝妈、女宝家长（特别是宝宝发量少、但又想给宝宝打扮的妈妈）。钩子：视觉反差钩 + 猎奇/幽默钩 + 痛点共鸣钩（当妈的最后倔强：发量再少也要打扮）。评分：7.4"
+}

@@ -1,0 +1,67 @@
+{
+  "video_id": "2026-05-14_tiktok_7634373654775729416",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/164_wrvbfqaoqha_7634373654775729416.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634373654775729416/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 257.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“视觉奇观” + “对标锚点”双重钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“视觉奇观” + “对标锚点”双重钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "直接的购买指令“不要错过，加入你的衣柜”，配合手指下方的肢体动作",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。人群：。钩子：“视觉奇观” + “对标锚点”双重钩子。评分：8.6"
+}

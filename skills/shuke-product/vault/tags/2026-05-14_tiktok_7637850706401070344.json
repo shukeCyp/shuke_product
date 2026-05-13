@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637850706401070344",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/322_omuztsdzv6_7637850706401070344.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637850706401070344/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 63.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款支持240W超级快充、带有180度旋转金属接头、加粗硅胶线身的耐用多功能手机数据线",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对手机充电速度有高要求、经常面临充电线损坏或折断问题、边充边玩（如游戏玩家）的智能手机用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇/视觉冲击 + 剧情反转"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对手机充电速度有高要求、经常面临充电线损坏或折断问题、边充边玩（如游戏玩家）的智能手机用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇/视觉冲击 + 剧情反转",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款支持240W超级快充、带有180度旋转金属接头、加粗硅胶线身的耐用多功能手机数据线。品类：家居清洁。人群：对手机充电速度有高要求、经常面临充电线损坏或折断问题、边充边玩（如游戏玩家）的智。钩子：猎奇/视觉冲击 + 剧情反转。评分：7.8"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634513754574621973",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/298_victorgregory3915_7634513754574621973.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634513754574621973/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“Mason Juicer”的粉色高颜值便携式榨汁杯（带吸管和梅森杯把手设计）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "健身人群、年轻女性、上班族、追求健康饮食及便捷生活方式的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“开箱展示” + “动作制造悬念（加冰块）”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "健身人群、年轻女性、上班族、追求健康饮食及便捷生活方式的消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“开箱展示” + “动作制造悬念（加冰块）”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“Mason Juicer”的粉色高颜值便携式榨汁杯（带吸管和梅森杯把手设计）。品类：健康养生。人群：健身人群、年轻女性、上班族、追求健康饮食及便捷生活方式的消费者。钩子：“开箱展示” + “动作制造悬念（加冰块）”。评分：9.2"
+}

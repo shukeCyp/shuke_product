@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7635066863449296136",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/161_revlonmexico_7635066863449296136.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635066863449296136/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 43.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "美妆唇部套装（Revlon PhotoReady系列的 Instant Blur Liner 唇线笔 #009 + Instant Plump Serum 丰唇",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求快速出门、喜欢丰盈嘟嘟唇妆效、化妆新手或对繁琐唇部打底感到厌倦的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "结果前置钩子 (Result-First) + 数字量化钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求快速出门、喜欢丰盈嘟嘟唇妆效、化妆新手或对繁琐唇部打底感到厌倦的女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "结果前置钩子 (Result-First) + 数字量化钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：美妆唇部套装（Revlon PhotoReady系列的 Instant Blur Liner 唇线笔 #009 + In。品类：美妆护肤。人群：追求快速出门、喜欢丰盈嘟嘟唇妆效、化妆新手或对繁琐唇部打底感到厌倦的女性。钩子：结果前置钩子 (Result-First) + 数字量化钩子。评分：8.2"
+}

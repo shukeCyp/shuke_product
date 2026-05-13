@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634508849197681940",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/036_tongtoulaman999_7634508849197681940.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634508849197681940/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 206.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "西班牙语少儿财商/情商科普漫画书《La Ley de Murphy》（墨菲定律）",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有13岁以下儿童的父母（尤其是对孩子未来在社会上吃亏感到焦虑的中产阶级家庭）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "负面情绪（暗黑/报复） + 猎奇悬疑 + 逆向心理筛选（劝退型钩子）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有13岁以下儿童的父母（尤其是对孩子未来在社会上吃亏感到焦虑的中产阶级家庭）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "负面情绪（暗黑/报复） + 猎奇悬疑 + 逆向心理筛选（劝退型钩子）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确商品形态，给出具体使用场景（被欺负、社交），直接呼吁下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：西班牙语少儿财商/情商科普漫画书《La Ley de Murphy》（墨菲定律）。品类：母婴宠物。人群：家有13岁以下儿童的父母（尤其是对孩子未来在社会上吃亏感到焦虑的中产阶级家庭）。钩子：负面情绪（暗黑/报复） + 猎奇悬疑 + 逆向心理筛选（劝退型钩子）。评分：6.6"
+}

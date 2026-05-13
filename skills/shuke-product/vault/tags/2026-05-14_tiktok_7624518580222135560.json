@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7624518580222135560",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/184_rxzpfdhzws_7624518580222135560.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624518580222135560/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款迷你便携式高亮COB工作灯/钥匙扣灯",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求极致性价比的下沉市场用户、冲动消费人群、户外/五金工具爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "极限低价钩（$1） + 视觉冲击钩（刺眼的高亮灯光） + 悬念钩（“你可能注意到了…”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求极致性价比的下沉市场用户、冲动消费人群、户外/五金工具爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "极限低价钩（$1） + 视觉冲击钩（刺眼的高亮灯光） + 悬念钩（“你可能注意到了…”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款迷你便携式高亮COB工作灯/钥匙扣灯。品类：数码配件。人群：追求极致性价比的下沉市场用户、冲动消费人群、户外/五金工具爱好者。钩子：极限低价钩（$1） + 视觉冲击钩（刺眼的高亮灯光） + 悬念钩（“你可能注意到。评分：6.4"
+}

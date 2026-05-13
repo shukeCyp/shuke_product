@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7628859487054581013",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/236_monse_0527_7628859487054581013.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628859487054581013/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 89.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一套超大型（68件套）、全粉色的美妆工具套装（包含30把化妆刷、各色美妆蛋、粉扑、洗脸巾、发带及收纳包等）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性、美妆爱好者、喜欢粉色系高颜值物品的用户、追求极高性价比（平替/捡漏）的网购人群，以及寻找送礼灵感的男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“视觉冲击 + 价格反差/闺蜜八卦”钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性、美妆爱好者、喜欢粉色系高颜值物品的用户、追求极高性价比（平替/捡漏）的网购人群，以及寻找送礼灵感的男性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“视觉冲击 + 价格反差/闺蜜八卦”钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示收纳后的整洁样子，口播“就在左下角，手慢无”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一套超大型（68件套）、全粉色的美妆工具套装（包含30把化妆刷、各色美妆蛋、粉扑、洗脸巾、发带及收纳包等）。品类：男士护理。人群：年轻女性、美妆爱好者、喜欢粉色系高颜值物品的用户、追求极高性价比（平替/捡漏）的。钩子：“视觉冲击 + 价格反差/闺蜜八卦”钩子。评分：8.8"
+}

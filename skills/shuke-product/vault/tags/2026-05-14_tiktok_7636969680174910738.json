@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7636969680174910738",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/207_adiaguirre12_7636969680174910738.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636969680174910738/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "12件装的少女/学生发育期吊带内衣（品牌印有“Ghluin Klain”字样，带有卡通印花和可拆卸胸垫）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有青春期/发育期女儿的母亲，或追求高性价比、需要大批量囤货的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉量感钩子 + 动作钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有青春期/发育期女儿的母亲，或追求高性价比、需要大批量囤货的年轻女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉量感钩子 + 动作钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "强调“12件”和“极佳价格”，制造极致性价比的下单冲动，明确指出购买路径（小黄车/橙色购物车）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：12件装的少女/学生发育期吊带内衣（品牌印有“Ghluin Klain”字样，带有卡通印花和可拆卸胸垫）。品类：家居清洁。人群：家有青春期/发育期女儿的母亲，或追求高性价比、需要大批量囤货的年轻女性。钩子：视觉量感钩子 + 动作钩子。评分：8.4"
+}

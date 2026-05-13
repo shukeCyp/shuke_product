@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7632748024883612935",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/160_emprendeconpasteles__7632748024883612935.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632748024883612935/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "带有智能触控屏幕的真无线蓝牙耳机（外观酷似AirPods Pro的华强北/平替带屏版）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求新奇特数码产品、注重性价比、喜欢炫酷外观的年轻群体（Z世代/千禧一代）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "听觉反差钩 + 猎奇视觉钩 + 期待预设钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求新奇特数码产品、注重性价比、喜欢炫酷外观的年轻群体（Z世代/千禧一代）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "听觉反差钩 + 猎奇视觉钩 + 期待预设钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：带有智能触控屏幕的真无线蓝牙耳机（外观酷似AirPods Pro的华强北/平替带屏版）。品类：数码配件。人群：追求新奇特数码产品、注重性价比、喜欢炫酷外观的年轻群体（Z世代/千禧一代）。钩子：听觉反差钩 + 猎奇视觉钩 + 期待预设钩。评分：8.2"
+}

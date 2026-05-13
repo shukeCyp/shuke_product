@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7624111052359273749",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/438_misaelelrey_7624111052359273749.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624111052359273749/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "SEESE 品牌无线锂电高压洗车枪",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "摩托车/汽车车主、喜欢自己动手洗车的人、住处没有接水接电条件（需要用带水桶洗车）的机车党或有车一族"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉满足感（机车+发泡） + 行为否定（挑战旧习惯）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "摩托车/汽车车主、喜欢自己动手洗车的人、住处没有接水接电条件（需要用带水桶洗车）的机车党或有车一族"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉满足感（机车+发泡） + 行为否定（挑战旧习惯）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：SEESE 品牌无线锂电高压洗车枪。品类：家居清洁。人群：摩托车/汽车车主、喜欢自己动手洗车的人、住处没有接水接电条件（需要用带水桶洗车）。钩子：视觉满足感（机车+发泡） + 行为否定（挑战旧习惯）。评分：9.1"
+}

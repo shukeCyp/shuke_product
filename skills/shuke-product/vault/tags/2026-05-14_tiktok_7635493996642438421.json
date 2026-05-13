@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7635493996642438421",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/193_cheliflores123_7635493996642438421.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635493996642438421/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款可折叠、带手机支架功能、高度角度可调的便携式桌面小风扇（附带RGB氛围灯和USB充电）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "怕热人群、学生党、办公族、喜欢在桌面追剧/看视频的人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作变换钩子（视觉解压） + 场景痛点钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "怕热人群、学生党、办公族、喜欢在桌面追剧/看视频的人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作变换钩子（视觉解压） + 场景痛点钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款可折叠、带手机支架功能、高度角度可调的便携式桌面小风扇（附带RGB氛围灯和USB充电）。品类：数码配件。人群：怕热人群、学生党、办公族、喜欢在桌面追剧/看视频的人。钩子：动作变换钩子（视觉解压） + 场景痛点钩子。评分：8.4"
+}

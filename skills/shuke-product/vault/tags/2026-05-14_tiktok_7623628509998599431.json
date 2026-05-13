@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7623628509998599431",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/411_alexaamendezz_7623628509998599431.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623628509998599431/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "自带RGB律动炫彩灯效的便携式蓝牙音箱",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "Z世代年轻人、学生党、喜欢蹦迪/Reggaeton音乐的人群、追求情绪价值与室内氛围感的年轻消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "行为共鸣钩子 + 视觉开关钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "Z世代年轻人、学生党、喜欢蹦迪/Reggaeton音乐的人群、追求情绪价值与室内氛围感的年轻消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "行为共鸣钩子 + 视觉开关钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：自带RGB律动炫彩灯效的便携式蓝牙音箱。品类：数码配件。人群：Z世代年轻人、学生党、喜欢蹦迪/Reggaeton音乐的人群、追求情绪价值与室内。钩子：行为共鸣钩子 + 视觉开关钩子。评分：8.0"
+}

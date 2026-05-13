@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7628754031262960903",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/049_gomita_oficial_7628754031262960903.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628754031262960903/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 101.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有RGB炫彩灯效、支持混响调节且配有手机转接头的桌面级直播/游戏麦克风",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "TikTok直播博主（尤其是连麦打PK的）、游戏玩家、ASMR爱好者、以及预算有限但需要提升音质的入门级内容创作者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "原生互动钩子 + 好物分享钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "TikTok直播博主（尤其是连麦打PK的）、游戏玩家、ASMR爱好者、以及预算有限但需要提升音质的入门级内容创作者"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "卖点单一"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "原生互动钩子 + 好物分享钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "强调适合新手直播、连麦，点明价格优势，引导购物车",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有RGB炫彩灯效、支持混响调节且配有手机转接头的桌面级直播/游戏麦克风。品类：数码配件。人群：TikTok直播博主（尤其是连麦打PK的）、游戏玩家、ASMR爱好者、以及预算有。钩子：原生互动钩子 + 好物分享钩子。评分：0.0"
+}

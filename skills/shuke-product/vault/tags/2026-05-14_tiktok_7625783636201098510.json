@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7625783636201098510",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7625783636201098510.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625783636201098510/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 46.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Shark Steam Pickup（鲨客吸拖蒸汽一体机）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求高效家务的家庭主妇/夫、养宠人群、有娃家庭、硬质地板家庭"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反差/悬念钩子 + 视觉奇观钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求高效家务的家庭主妇/夫、养宠人群、有娃家庭、硬质地板家庭"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反差/悬念钩子 + 视觉奇观钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "总结核心价值，叠加稀缺性（库存不多/活动快结束），明确引导视线完成点击",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Shark Steam Pickup（鲨客吸拖蒸汽一体机）。品类：家居清洁。人群：追求高效家务的家庭主妇/夫、养宠人群、有娃家庭、硬质地板家庭。钩子：反差/悬念钩子 + 视觉奇观钩子。评分：8.6"
+}

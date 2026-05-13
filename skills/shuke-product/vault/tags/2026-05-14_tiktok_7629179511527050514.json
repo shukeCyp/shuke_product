@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629179511527050514",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/484_taniaguerrerooficial_7629179511527050514.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629179511527050514/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Color Dreams 品牌的盒装混合床垫（记忆棉+独立袋装弹簧）",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "租房党、独居青年、近期有搬家需求、追求性价比和便利性的年轻消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "办公学习"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反差/好奇钩子 + 人物视觉钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "租房党、独居青年、近期有搬家需求、追求性价比和便利性的年轻消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反差/好奇钩子 + 人物视觉钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Color Dreams 品牌的盒装混合床垫（记忆棉+独立袋装弹簧）。品类：办公学习。人群：租房党、独居青年、近期有搬家需求、追求性价比和便利性的年轻消费者。钩子：反差/好奇钩子 + 人物视觉钩子。评分：5.0"
+}

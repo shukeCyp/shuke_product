@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7630704293628136724",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7630704293628136724.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630704293628136724/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一套包含5种不同尺寸的铸铁煎锅套装（5-piece cast iron skillet set）",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "烹饪爱好者、家庭主厨、户外露营/烧烤玩家"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "身份代入（如果你是烹饪粉丝...）+ 产品直给"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "烹饪爱好者、家庭主厨、户外露营/烧烤玩家"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（如果你是烹饪粉丝...）+ 产品直给",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "主厨装扮，手持一口锅敲击展现材质，给出限时优惠引导下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一套包含5种不同尺寸的铸铁煎锅套装（5-piece cast iron skillet set）。品类：厨房用品。人群：烹饪爱好者、家庭主厨、户外露营/烧烤玩家。钩子：身份代入（如果你是烹饪粉丝...）+ 产品直给。评分：6.0"
+}

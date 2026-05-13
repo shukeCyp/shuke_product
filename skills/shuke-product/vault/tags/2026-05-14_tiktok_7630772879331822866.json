@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7630772879331822866",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/221_nox_qahn_7630772879331822866.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630772879331822866/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款印有“FASHION”字样的多功能防盗防水斜挎包（胸包）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "城市通勤者、骑行爱好者、年轻男性、旅行者以及需要日常携带数码设备的“极客”人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“直给型”开箱钩子（Product Reveal）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "城市通勤者、骑行爱好者、年轻男性、旅行者以及需要日常携带数码设备的“极客”人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“直给型”开箱钩子（Product Reveal）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款印有“FASHION”字样的多功能防盗防水斜挎包（胸包）。品类：男士护理。人群：城市通勤者、骑行爱好者、年轻男性、旅行者以及需要日常携带数码设备的“极客”人群。钩子：“直给型”开箱钩子（Product Reveal）。评分：0.0"
+}

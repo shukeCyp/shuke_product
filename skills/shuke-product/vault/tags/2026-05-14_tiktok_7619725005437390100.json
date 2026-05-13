@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7619725005437390100",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/153_brillo.lux_7619725005437390100.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619725005437390100/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有水钻字母（D）和粉色碎钻星球/爱心吊坠的定制感项链",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢“BlingBling”奢华风、个性化定制（字母）、追求轻奢名媛感穿搭的年轻女性（从西班牙语文案及拉美风背景音乐推测，受众主要为西语区女性或喜爱该审美的群体）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉/颜值钩子（Visual Hook） + 痛点/偏好直给（Text Hook）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢“BlingBling”奢华风、个性化定制（字母）、追求轻奢名媛感穿搭的年轻女性（从西班牙语文案及拉美风背景音乐推测，受众主要为西语区女性或喜爱该审美的群体）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉/颜值钩子（Visual Hook） + 痛点/偏好直给（Text Hook）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有水钻字母（D）和粉色碎钻星球/爱心吊坠的定制感项链。品类：美妆护肤。人群：喜欢“BlingBling”奢华风、个性化定制（字母）、追求轻奢名媛感穿搭的年轻。钩子：视觉/颜值钩子（Visual Hook） + 痛点/偏好直给（Text Hook。评分：8.0"
+}

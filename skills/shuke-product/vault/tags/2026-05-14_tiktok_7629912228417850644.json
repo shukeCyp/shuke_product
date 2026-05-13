@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629912228417850644",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/462_karibeev_7629912228417850644.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629912228417850644/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "专为卷发设计的排骨梳/造型梳（多色可选）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有自然卷发或烫卷发，深受头发打结、毛躁困扰，追求快速打理并保持卷度的人群（视频口播明确呼叫“amantes de los rizos/卷发爱好者”）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "明确人群呼叫（“卷发爱好者”） + 痛点前置（快速、无毛躁） + 视觉冲击（高饱和度多色梳子动态叠加）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有自然卷发或烫卷发，深受头发打结、毛躁困扰，追求快速打理并保持卷度的人群（视频口播明确呼叫“amantes de los rizos/卷发爱好者”）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "明确人群呼叫（“卷发爱好者”） + 痛点前置（快速、无毛躁） + 视觉冲击（高饱和度多色梳子动态叠加）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：专为卷发设计的排骨梳/造型梳（多色可选）。品类：家居清洁。人群：拥有自然卷发或烫卷发，深受头发打结、毛躁困扰，追求快速打理并保持卷度的人群（视频。钩子：明确人群呼叫（“卷发爱好者”） + 痛点前置（快速、无毛躁） + 视觉冲击（高饱。评分：8.4"
+}

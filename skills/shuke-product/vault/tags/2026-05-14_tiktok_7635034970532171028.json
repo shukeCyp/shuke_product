@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7635034970532171028",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/416_mar7fitugc_7635034970532171028.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635034970532171028/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似售卖女式黑色休闲长裤（具有提臀、修身、垂坠感等特点）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求街头风（Streetwear/Y2K）、注重穿着舒适度同时希望凸显身材曲线（特别是腰臀比）的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉身材钩子 + 场景字幕钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求街头风（Streetwear/Y2K）、注重穿着舒适度同时希望凸显身材曲线（特别是腰臀比）的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉身材钩子 + 场景字幕钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似售卖女式黑色休闲长裤（具有提臀、修身、垂坠感等特点）。品类：身体护理。人群：追求街头风（Streetwear/Y2K）、注重穿着舒适度同时希望凸显身材曲线（。钩子：视觉身材钩子 + 场景字幕钩子。评分：7.0"
+}

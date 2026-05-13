@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634968777142160647",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/288_deivy.junior1_7634968777142160647.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634968777142160647/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "男士修身纯色短袖T恤（3件装组合）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻男性、有健身习惯或希望通过穿搭显壮、有小肚子需要遮肉的男性、追求性价比的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉对比/痛点前置型钩子（Good vs. Bad）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻男性、有健身习惯或希望通过穿搭显壮、有小肚子需要遮肉的男性、追求性价比的消费者"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉对比/痛点前置型钩子（Good vs. Bad）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“点击我名字上方的橙色购物车，有折扣和包邮”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：男士修身纯色短袖T恤（3件装组合）。品类：男士护理。人群：年轻男性、有健身习惯或希望通过穿搭显壮、有小肚子需要遮肉的男性、追求性价比的消费。钩子：视觉对比/痛点前置型钩子（Good vs. Bad）。评分：8.2"
+}

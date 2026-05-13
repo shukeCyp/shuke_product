@@ -1,0 +1,67 @@
+{
+  "video_id": "2026-05-14_tiktok_7633528608702745864",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/028_geradesantia_7633528608702745864.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633528608702745864/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 89.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“颜值/肉体钩子” + “悬念道具递进钩子” + “痛点直击”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“颜值/肉体钩子” + “悬念道具递进钩子” + “痛点直击”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "直接且带有手势引导（指引左下角购物车），强调低价和稀缺性",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。人群：。钩子：“颜值/肉体钩子” + “悬念道具递进钩子” + “痛点直击”。评分：9.2"
+}

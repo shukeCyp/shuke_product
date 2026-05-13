@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634502952488619282",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/318_fashion.outfits05_7634502952488619282.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634502952488619282/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "男士重磅复古水洗纯棉Oversize T恤（主打多件组合装）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "微胖/大码男性，或对自己上半身身材（胸部凸出、有啤酒肚）不自信、追求穿着舒适度与性价比的男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点前置/视觉反差钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "微胖/大码男性，或对自己上半身身材（胸部凸出、有啤酒肚）不自信、追求穿着舒适度与性价比的男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点前置/视觉反差钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：男士重磅复古水洗纯棉Oversize T恤（主打多件组合装）。品类：男士护理。人群：微胖/大码男性，或对自己上半身身材（胸部凸出、有啤酒肚）不自信、追求穿着舒适度与。钩子：痛点前置/视觉反差钩子。评分：8.6"
+}

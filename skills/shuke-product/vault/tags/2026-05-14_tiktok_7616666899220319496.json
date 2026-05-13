@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7616666899220319496",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/392_dadanji0_7616666899220319496.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616666899220319496/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款放置在枕下/枕边的“睡眠音箱”（疑似采用骨传导或定向传音技术）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "睡前喜欢听音乐/有声书、有伴侣怕打扰对方、且讨厌佩戴入耳式耳机导致耳朵疼痛的失眠或助眠需求人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇悬念 + 视觉演示双重钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "睡前喜欢听音乐/有声书、有伴侣怕打扰对方、且讨厌佩戴入耳式耳机导致耳朵疼痛的失眠或助眠需求人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇悬念 + 视觉演示双重钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款放置在枕下/枕边的“睡眠音箱”（疑似采用骨传导或定向传音技术）。品类：男士护理。人群：睡前喜欢听音乐/有声书、有伴侣怕打扰对方、且讨厌佩戴入耳式耳机导致耳朵疼痛的失眠。钩子：猎奇悬念 + 视觉演示双重钩子。评分：9.0"
+}

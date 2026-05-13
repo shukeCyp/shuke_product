@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7624434004019776789",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/185_compritasnecesarias__7624434004019776789.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624434004019776789/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "带收纳底座和双搅拌头的USB充电式电动奶泡机（也可用作打蛋器）",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "咖啡爱好者、追求生活仪式感的居家办公人群、烘焙爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人群精准呼唤（“如果你是咖啡粉”） + 痛点解决承诺（“做超好喝的咖啡你需要它”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "咖啡爱好者、追求生活仪式感的居家办公人群、烘焙爱好者"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人群精准呼唤（“如果你是咖啡粉”） + 痛点解决承诺（“做超好喝的咖啡你需要它”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "直接且带有利益点（“想用折扣价购买” -> “点击橙色购物车”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：带收纳底座和双搅拌头的USB充电式电动奶泡机（也可用作打蛋器）。品类：厨房用品。人群：咖啡爱好者、追求生活仪式感的居家办公人群、烘焙爱好者。钩子：人群精准呼唤（“如果你是咖啡粉”） + 痛点解决承诺（“做超好喝的咖啡你需要它”。评分：8.5"
+}

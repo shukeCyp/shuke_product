@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7636976093727100181",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/227_juangi25_7636976093727100181.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636976093727100181/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "包装透明杯装的低卡粉色草莓味蛋白霜/马卡龙零食（隐约可见品牌标识包含“don't worry”）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢吃甜食零食但有身材焦虑/怕胖的年轻群体，以及对价格敏感的TikTok电商用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“评论回应型冲突钩子” + “吃播动作钩子”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢吃甜食零食但有身材焦虑/怕胖的年轻群体，以及对价格敏感的TikTok电商用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“评论回应型冲突钩子” + “吃播动作钩子”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确指示购买路径（橙色购物车），完成销售闭环",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：包装透明杯装的低卡粉色草莓味蛋白霜/马卡龙零食（隐约可见品牌标识包含“don't worry”）。品类：服饰穿搭。人群：喜欢吃甜食零食但有身材焦虑/怕胖的年轻群体，以及对价格敏感的TikTok电商用户。钩子：“评论回应型冲突钩子” + “吃播动作钩子”。评分：8.5"
+}

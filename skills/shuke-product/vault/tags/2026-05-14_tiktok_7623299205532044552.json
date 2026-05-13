@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7623299205532044552",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/390_shary.xadani_7623299205532044552.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623299205532044552/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "皮克斯动画《赛车总动员》IP印花情侣T恤（闪电麦昆款与莎莉款）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻情侣、Z世代、《赛车总动员》粉丝、注重性价比的学生党"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪社交钩子 + 价格防御钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻情侣、Z世代、《赛车总动员》粉丝、注重性价比的学生党"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪社交钩子 + 价格防御钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：皮克斯动画《赛车总动员》IP印花情侣T恤（闪电麦昆款与莎莉款）。品类：服饰穿搭。人群：年轻情侣、Z世代、《赛车总动员》粉丝、注重性价比的学生党。钩子：情绪社交钩子 + 价格防御钩子。评分：6.8"
+}

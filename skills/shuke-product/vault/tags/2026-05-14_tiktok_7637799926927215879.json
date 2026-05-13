@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637799926927215879",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/040_bithytin293_7637799926927215879.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637799926927215879/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 469.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "DR.DENT 品牌的牙齿美白产品（视频前半段演示了紫色色彩调和美白牙膏/精华，后半段口播展示的是 DR.DENT 美白牙贴）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "深受牙齿发黄困扰、有美白需求但又害怕牙齿酸软敏感的年轻人群（特别是女性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉猎奇冲击 + 常识/科普反差"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "深受牙齿发黄困扰、有美白需求但又害怕牙齿酸软敏感的年轻人群（特别是女性）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉猎奇冲击 + 常识/科普反差",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：DR.DENT 品牌的牙齿美白产品（视频前半段演示了紫色色彩调和美白牙膏/精华，后半段口播展示的是 DR.DENT 美白。品类：美妆护肤。人群：深受牙齿发黄困扰、有美白需求但又害怕牙齿酸软敏感的年轻人群（特别是女性）。钩子：视觉猎奇冲击 + 常识/科普反差。评分：6.8"
+}

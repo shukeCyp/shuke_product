@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7605510919828901127",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/347_funcat_mxc01_7605510919828901127.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7605510919828901127/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 56.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "FUNCAT 品牌的带有无尘自动贴膜舱的 iPhone 手机防窥钢化膜",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "iPhone 手机用户，特别是手残党（贴膜容易有气泡/进灰）、注重手机隐私保护、追求屏幕洁净度及抗摔保护的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉猎奇钩 + 痛点提问钩（视觉上是极度解压的“抽拉动作”，听觉上是“为什么别人手机比你高级”的灵魂拷问）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "iPhone 手机用户，特别是手残党（贴膜容易有气泡/进灰）、注重手机隐私保护、追求屏幕洁净度及抗摔保护的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉猎奇钩 + 痛点提问钩（视觉上是极度解压的“抽拉动作”，听觉上是“为什么别人手机比你高级”的灵魂拷问）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视频结尾展示完整品牌包装，配以“不要错过新优惠”，明确引导转化",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：FUNCAT 品牌的带有无尘自动贴膜舱的 iPhone 手机防窥钢化膜。品类：数码配件。人群：iPhone 手机用户，特别是手残党（贴膜容易有气泡/进灰）、注重手机隐私保护、。钩子：视觉猎奇钩 + 痛点提问钩（视觉上是极度解压的“抽拉动作”，听觉上是“为什么别人。评分：9.2"
+}

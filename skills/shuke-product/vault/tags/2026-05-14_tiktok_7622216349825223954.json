@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7622216349825223954",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/024_mkonjiuytr1_7622216349825223954.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622216349825223954/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式/车载迷你电动剃须刀（带LED电量显示）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "男性用户，特别是经常出差、有车载备用需求、或偏好极简EDC（日常通勤携带）数码好物的男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景代入型 + 悬念开箱钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "男性用户，特别是经常出差、有车载备用需求、或偏好极简EDC（日常通勤携带）数码好物的男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景代入型 + 悬念开箱钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式/车载迷你电动剃须刀（带LED电量显示）。品类：男士护理。人群：男性用户，特别是经常出差、有车载备用需求、或偏好极简EDC（日常通勤携带）数码好。钩子：场景代入型 + 悬念开箱钩子。评分：9.0"
+}

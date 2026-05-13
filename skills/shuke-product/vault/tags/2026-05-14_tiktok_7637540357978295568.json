@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637540357978295568",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/388_e1qft2jyp9_7637540357978295568.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637540357978295568/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 91.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "BARUBT 甜橙去角质凝胶（Orange Exfoliating Gel）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受关节黑、腋下黑、大腿根部色素沉淀及皮肤粗糙困扰的女性（或注重身体护理的人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大（Gross-out / 恶心猎奇向） + 强对比展示"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受关节黑、腋下黑、大腿根部色素沉淀及皮肤粗糙困扰的女性（或注重身体护理的人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大（Gross-out / 恶心猎奇向） + 强对比展示",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：BARUBT 甜橙去角质凝胶（Orange Exfoliating Gel）。品类：身体护理。人群：受关节黑、腋下黑、大腿根部色素沉淀及皮肤粗糙困扰的女性（或注重身体护理的人群）。钩子：痛点放大（Gross-out / 恶心猎奇向） + 强对比展示。评分：7.0"
+}

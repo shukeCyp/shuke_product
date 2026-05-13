@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637457097298382101",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/268_blissbitesttt_7637457097298382101.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637457097298382101/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有多档位调节和4个替换头的小型便携式筋膜枪/按摩枪（绿色配金色装饰）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "经常感到背部和腿部酸痛的上班族、劳累人群，以及寻找实用礼物的消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点提问钩子（听觉） + 快速开箱钩子（视觉）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "经常感到背部和腿部酸痛的上班族、劳累人群，以及寻找实用礼物的消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点提问钩子（听觉） + 快速开箱钩子（视觉）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有多档位调节和4个替换头的小型便携式筋膜枪/按摩枪（绿色配金色装饰）。品类：身体护理。人群：经常感到背部和腿部酸痛的上班族、劳累人群，以及寻找实用礼物的消费者。钩子：痛点提问钩子（听觉） + 快速开箱钩子（视觉）。评分：8.0"
+}

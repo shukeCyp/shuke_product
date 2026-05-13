@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7623095165762227486",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7623095165762227486.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623095165762227486/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似售卖一种具有“促进新陈代谢/辅助减脂”功效的条装固体饮料/补剂（冲泡粉）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "渴望在夏季快速瘦身、有身材焦虑、追求便捷高效减脂方式的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点（身材焦虑）+ 结果展示（主播本人的好身材）+ 场景冲突（车内冲泡）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "渴望在夏季快速瘦身、有身材焦虑、追求便捷高效减脂方式的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点（身材焦虑）+ 结果展示（主播本人的好身材）+ 场景冲突（车内冲泡）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似售卖一种具有“促进新陈代谢/辅助减脂”功效的条装固体饮料/补剂（冲泡粉）。品类：健康养生。人群：渴望在夏季快速瘦身、有身材焦虑、追求便捷高效减脂方式的年轻女性。钩子：痛点（身材焦虑）+ 结果展示（主播本人的好身材）+ 场景冲突（车内冲泡）。评分：6.4"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7636129577911258386",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/209_luy4gk2_7636129577911258386.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636129577911258386/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "毕业季主题的16寸铝膜气球（10件装混搭包，包含动物、学士帽等造型），带托杆",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "准备参加毕业典礼的学生家属/朋友、派对策划师、DIY毕业礼物花束/礼盒的手工爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“高颜值视觉冲击” + “熟人种草式（UGC）开场”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "准备参加毕业典礼的学生家属/朋友、派对策划师、DIY毕业礼物花束/礼盒的手工爱好者"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“高颜值视觉冲击” + “熟人种草式（UGC）开场”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "将气球插进准备好的零食花束或礼品袋中展示成品",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：毕业季主题的16寸铝膜气球（10件装混搭包，包含动物、学士帽等造型），带托杆。品类：数码配件。人群：准备参加毕业典礼的学生家属/朋友、派对策划师、DIY毕业礼物花束/礼盒的手工爱好。钩子：“高颜值视觉冲击” + “熟人种草式（UGC）开场”。评分：0.0"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7627398622220487957",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/412_mjr92yprq3_7627398622220487957.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627398622220487957/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一套装在紫色硬壳手提箱内的高级综合五金工具套装（包含套筒、扳手、棘轮、螺丝刀头等）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有修车需求的车主、汽修学徒、家庭DIY爱好者、经常需要借工具的人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景钩（真实修车环境） + 动作钩（重重放下箱子展示分量） + 悬念/反向钩（“心疼那些买贵了的人”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有修车需求的车主、汽修学徒、家庭DIY爱好者、经常需要借工具的人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景钩（真实修车环境） + 动作钩（重重放下箱子展示分量） + 悬念/反向钩（“心疼那些买贵了的人”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一套装在紫色硬壳手提箱内的高级综合五金工具套装（包含套筒、扳手、棘轮、螺丝刀头等）。品类：男士护理。人群：有修车需求的车主、汽修学徒、家庭DIY爱好者、经常需要借工具的人。钩子：场景钩（真实修车环境） + 动作钩（重重放下箱子展示分量） + 悬念/反向钩（“。评分：8.2"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7624039680715050261",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/485_wangxi911_7624039680715050261.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624039680715050261/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "汽车划痕修复补漆笔（品牌疑似为Color Smart，黄色笔管）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有车一族，特别是车漆有轻微剐蹭/划痕，不想花高价去汽修店，寻求高性价比DIY解决方案的车主"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "破坏欲/痛点具象化钩子 + 视觉奇观（瞬间修复）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有车一族，特别是车漆有轻微剐蹭/划痕，不想花高价去汽修店，寻求高性价比DIY解决方案的车主"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "破坏欲/痛点具象化钩子 + 视觉奇观（瞬间修复）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：汽车划痕修复补漆笔（品牌疑似为Color Smart，黄色笔管）。品类：数码配件。人群：有车一族，特别是车漆有轻微剐蹭/划痕，不想花高价去汽修店，寻求高性价比DIY解决。钩子：破坏欲/痛点具象化钩子 + 视觉奇观（瞬间修复）。评分：8.2"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625766884805365012",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/176_carloschaviratv_7625766884805365012.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625766884805365012/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "磁吸式手机充电线（带可留在手机接口内的磁吸接头）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "所有智能手机用户（视频中明确提及Apple、Samsung），特别是经常损坏充电线或手机充电接口的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "行为否定 + 情绪钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "所有智能手机用户（视频中明确提及Apple、Samsung），特别是经常损坏充电线或手机充电接口的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "行为否定 + 情绪钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：磁吸式手机充电线（带可留在手机接口内的磁吸接头）。品类：家居清洁。人群：所有智能手机用户（视频中明确提及Apple、Samsung），特别是经常损坏充电。钩子：行为否定 + 情绪钩子。评分：8.2"
+}

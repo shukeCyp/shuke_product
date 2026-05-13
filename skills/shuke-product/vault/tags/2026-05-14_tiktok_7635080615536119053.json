@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7635080615536119053",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7635080615536119053.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635080615536119053/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "泛Y2K复古街头风穿搭（低腰牛仔裤、修身短款上衣） 或 城市代步电动滑板车（带底盘/尾部氛围灯）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢Hip-hop文化、追求个性穿搭的Gen Z（Z世代）年轻女性，或关注城市潮酷出行方式的年轻人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景冲突（骑车+跳舞）、身份代入（酷Girl人设）、听觉刺激（卡点音乐）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢Hip-hop文化、追求个性穿搭的Gen Z（Z世代）年轻女性，或关注城市潮酷出行方式的年轻人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（骑车+跳舞）、身份代入（酷Girl人设）、听觉刺激（卡点音乐）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：泛Y2K复古街头风穿搭（低腰牛仔裤、修身短款上衣） 或 城市代步电动滑板车（带底盘/尾部氛围灯）。品类：身体护理。人群：喜欢Hip-hop文化、追求个性穿搭的Gen Z（Z世代）年轻女性，或关注城市潮。钩子：场景冲突（骑车+跳舞）、身份代入（酷Girl人设）、听觉刺激（卡点音乐）。评分：5.0"
+}

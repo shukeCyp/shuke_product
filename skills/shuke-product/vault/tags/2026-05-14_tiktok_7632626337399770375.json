@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632626337399770375",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/215_vpeun212_7632626337399770375.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632626337399770375/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 109.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "EASYES品牌的紫色牙齿美白贴（利用色彩中和原理：黄+紫=白）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有牙齿发黄困扰、尝试过常规美白产品无效或嫌见效慢、且担心牙齿敏感的年轻消费者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪冲突 + 打假反转钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有牙齿发黄困扰、尝试过常规美白产品无效或嫌见效慢、且担心牙齿敏感的年轻消费者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪冲突 + 打假反转钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：EASYES品牌的紫色牙齿美白贴（利用色彩中和原理：黄+紫=白）。品类：其他。人群：有牙齿发黄困扰、尝试过常规美白产品无效或嫌见效慢、且担心牙齿敏感的年轻消费者。钩子：情绪冲突 + 打假反转钩。评分：8.6"
+}

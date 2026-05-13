@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7631477988240018709",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/432_graceaispuro_7631477988240018709.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631477988240018709/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款红黑配色的蜘蛛侠（Spider-Man）3D硬壳儿童双肩背包",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家中有学龄前或小学生男孩的家长、长辈，以及蜘蛛侠IP粉丝（寻求高性价比礼物的购买者）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "食品饮料"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "评论回复型 + 制造争议型（价格反差） + 超级IP视觉冲击"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家中有学龄前或小学生男孩的家长、长辈，以及蜘蛛侠IP粉丝（寻求高性价比礼物的购买者）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "评论回复型 + 制造争议型（价格反差） + 超级IP视觉冲击",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示背负系统（完整性），用略带情绪的话术刺激消费冲动，最后明确指向购物车/链接",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款红黑配色的蜘蛛侠（Spider-Man）3D硬壳儿童双肩背包。品类：食品饮料。人群：家中有学龄前或小学生男孩的家长、长辈，以及蜘蛛侠IP粉丝（寻求高性价比礼物的购买。钩子：评论回复型 + 制造争议型（价格反差） + 超级IP视觉冲击。评分：8.0"
+}

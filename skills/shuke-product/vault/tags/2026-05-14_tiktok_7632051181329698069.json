@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632051181329698069",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/179_monreal_adair_7632051181329698069.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632051181329698069/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 69.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Ladped品牌智能电动滑板车",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "短途代步需求者、学生党、年轻上班族，以及有送礼需求的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "真实场景切入型 + 第一视角沉浸式（FPV）钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "短途代步需求者、学生党、年轻上班族，以及有送礼需求的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "真实场景切入型 + 第一视角沉浸式（FPV）钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "结合“低价”和“强烈推荐”的钩子，引导最终转化",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Ladped品牌智能电动滑板车。品类：男士护理。人群：短途代步需求者、学生党、年轻上班族，以及有送礼需求的人群。钩子：真实场景切入型 + 第一视角沉浸式（FPV）钩子。评分：9.2"
+}

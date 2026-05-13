@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7633402862684376338",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/491_a8gpwgkt50_7633402862684376338.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633402862684376338/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一件带有“马里奥 x 密尔沃基（Milwaukee）”联名恶搞重工印花的纯棉黑色短袖T恤",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求个性的年轻男性、街头文化爱好者、电玩粉（马里奥）以及蓝领/工装风爱好者（密尔沃基工具品牌受众）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点共鸣 + 好奇心拆箱（\"寻找基础但不同的黑T\" + \"看看我发现了什么\"）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求个性的年轻男性、街头文化爱好者、电玩粉（马里奥）以及蓝领/工装风爱好者（密尔沃基工具品牌受众）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣 + 好奇心拆箱（\"寻找基础但不同的黑T\" + \"看看我发现了什么\"）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示衣服的百搭属性（与一堆衣服放在一起），最后强力下达行动指令促单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一件带有“马里奥 x 密尔沃基（Milwaukee）”联名恶搞重工印花的纯棉黑色短袖T恤。品类：男士护理。人群：追求个性的年轻男性、街头文化爱好者、电玩粉（马里奥）以及蓝领/工装风爱好者（密尔。钩子：痛点共鸣 + 好奇心拆箱（\"寻找基础但不同的黑T\" + \"看看我发现了什么\"）。评分：0.0"
+}

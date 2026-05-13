@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7635071584721652999",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/182_creme.of.nature.mx_7635071584721652999.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635071584721652999/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Creme of Nature 摩洛哥坚果油系列护发三部曲（无硫酸盐洗发水、密集修护护发素、7合1免洗护发喷雾）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有卷发、受发质干枯/毛躁/打结困扰、追求头发柔顺光泽的女性群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点共鸣 + 视觉动效转场"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有卷发、受发质干枯/毛躁/打结困扰、追求头发柔顺光泽的女性群体"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣 + 视觉动效转场",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "提供强有力的“After”结果展示，打破消费者疑虑（不是空头支票），强力促单（你急需它）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Creme of Nature 摩洛哥坚果油系列护发三部曲（无硫酸盐洗发水、密集修护护发素、7合1免洗护发喷雾）。品类：美妆护肤。人群：拥有卷发、受发质干枯/毛躁/打结困扰、追求头发柔顺光泽的女性群体。钩子：痛点共鸣 + 视觉动效转场。评分：8.4"
+}

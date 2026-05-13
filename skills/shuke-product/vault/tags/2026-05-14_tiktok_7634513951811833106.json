@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634513951811833106",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/120_sfap84593n2_7634513951811833106.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634513951811833106/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "洗衣机槽清洁泡腾片（WASHING MACHINE CLEANER）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家庭主妇、注重居家卫生健康的人群、负责家务的高频洗衣人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观/猎奇解压钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家庭主妇、注重居家卫生健康的人群、负责家务的高频洗衣人群"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观/猎奇解压钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“现在官方半价补贴，一盒能用大半年，左下角赶紧给家里的洗衣机洗个澡！”展示包装并指向购物车",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：洗衣机槽清洁泡腾片（WASHING MACHINE CLEANER）。品类：健康养生。人群：家庭主妇、注重居家卫生健康的人群、负责家务的高频洗衣人群。钩子：视觉奇观/猎奇解压钩子。评分：8.4"
+}

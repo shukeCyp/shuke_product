@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625081187362426119",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/281_soy_litzygg_7625081187362426119.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625081187362426119/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似软植入海边度假风女装（黑色挂脖吊带、紧身提臀牛仔短裤）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "18-35岁年轻女性、有度假出行需求的人群、关注情侣搞笑互动的受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉钩子（海滩夕阳+美女背影） + 共鸣/悬念钩子（字幕：为什么没人愿意给我拍照？）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "18-35岁年轻女性、有度假出行需求的人群、关注情侣搞笑互动的受众"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉钩子（海滩夕阳+美女背影） + 共鸣/悬念钩子（字幕：为什么没人愿意给我拍照？）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似软植入海边度假风女装（黑色挂脖吊带、紧身提臀牛仔短裤）。品类：数码配件。人群：18-35岁年轻女性、有度假出行需求的人群、关注情侣搞笑互动的受众。钩子：视觉钩子（海滩夕阳+美女背影） + 共鸣/悬念钩子（字幕：为什么没人愿意给我拍照。评分：4.6"
+}

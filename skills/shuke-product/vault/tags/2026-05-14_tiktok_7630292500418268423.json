@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7630292500418268423",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/108_kaishopmx_7630292500418268423.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630292500418268423/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似一款迷你便携式蓝牙音箱（黑色方形，带有网状防尘罩和便携挂绳）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比的数码小白、学生党或需要便携音频设备的用户（针对西语市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作悬念钩（开箱揭秘）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比的数码小白、学生党或需要便携音频设备的用户（针对西语市场）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作悬念钩（开箱揭秘）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似一款迷你便携式蓝牙音箱（黑色方形，带有网状防尘罩和便携挂绳）。品类：美妆护肤。人群：追求性价比的数码小白、学生党或需要便携音频设备的用户（针对西语市场）。钩子：动作悬念钩（开箱揭秘）。评分：0.0"
+}

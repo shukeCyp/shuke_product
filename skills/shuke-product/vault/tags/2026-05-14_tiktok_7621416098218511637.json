@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7621416098218511637",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/047_maryhernandez3442_7621416098218511637.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621416098218511637/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "女士尖头低跟包头后空凉鞋/单鞋（展示了酒红色亮面与米白色哑光两款）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求穿搭质感、需要日常通勤或休闲百搭鞋款的年轻至中青年女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作展示型钩子（Action Hook） + 痛点/场景直入"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求穿搭质感、需要日常通勤或休闲百搭鞋款的年轻至中青年女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作展示型钩子（Action Hook） + 痛点/场景直入",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：女士尖头低跟包头后空凉鞋/单鞋（展示了酒红色亮面与米白色哑光两款）。品类：数码配件。人群：追求穿搭质感、需要日常通勤或休闲百搭鞋款的年轻至中青年女性。钩子：动作展示型钩子（Action Hook） + 痛点/场景直入。评分：7.6"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7627336455018319125",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/344_vnhnamthng9819_7627336455018319125.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627336455018319125/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Minecraft（我的世界）苦力怕（Creeper）经典像素方块风格的床品/毛毯",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家里有喜欢玩《我的世界》的儿童/青少年的家长（尤其是宝妈，因为画面中出现了做美甲的女性手部），以及追求极致性价比的下沉/羊毛党用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观（知名IP） + 价格痛点（制造反差）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家里有喜欢玩《我的世界》的儿童/青少年的家长（尤其是宝妈，因为画面中出现了做美甲的女性手部），以及追求极致性价比的下沉/羊毛党用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观（知名IP） + 价格痛点（制造反差）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Minecraft（我的世界）苦力怕（Creeper）经典像素方块风格的床品/毛毯。品类：母婴宠物。人群：家里有喜欢玩《我的世界》的儿童/青少年的家长（尤其是宝妈，因为画面中出现了做美甲。钩子：视觉奇观（知名IP） + 价格痛点（制造反差）。评分：8.2"
+}

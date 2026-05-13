@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7626795342431800584",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/488_ofertabasco_7626795342431800584.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626795342431800584/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 71.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款预装了11500首各类曲目（主打拉美/墨西哥流行及传统音乐）的16GB车载/家用U盘",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "中老年驾驶员、网约车司机、喜爱传统/怀旧音乐的人群、不擅长使用智能手机蓝牙或流媒体APP寻歌的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "数据震惊体 + 实物直拍（11500首 vs 指甲盖大小的U盘）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "中老年驾驶员、网约车司机、喜爱传统/怀旧音乐的人群、不擅长使用智能手机蓝牙或流媒体APP寻歌的用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "数据震惊体 + 实物直拍（11500首 vs 指甲盖大小的U盘）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指令明确（点击橙色小车）、排他性（不要再用手机找歌了）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.9
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款预装了11500首各类曲目（主打拉美/墨西哥流行及传统音乐）的16GB车载/家用U盘。品类：数码配件。人群：中老年驾驶员、网约车司机、喜爱传统/怀旧音乐的人群、不擅长使用智能手机蓝牙或流媒。钩子：数据震惊体 + 实物直拍（11500首 vs 指甲盖大小的U盘）。评分：7.9"
+}

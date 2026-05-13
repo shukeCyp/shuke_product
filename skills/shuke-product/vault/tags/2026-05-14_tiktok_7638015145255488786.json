@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7638015145255488786",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/002_skllyy___7638015145255488786.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638015145255488786/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "无明确商业售卖",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "18-25岁年轻女性（Gen Z），正处于情感迷茫期、经历过失恋或单向奔赴（基于屏幕中的西班牙语情感语录）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“扎心语录”文字钩子 + 强视觉冲击（RGB灯光变幻）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "18-25岁年轻女性（Gen Z），正处于情感迷茫期、经历过失恋或单向奔赴（基于屏幕中的西班牙语情感语录）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“扎心语录”文字钩子 + 强视觉冲击（RGB灯光变幻）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 3.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：无明确商业售卖。品类：美妆护肤。人群：18-25岁年轻女性（Gen Z），正处于情感迷茫期、经历过失恋或单向奔赴（基于。钩子：“扎心语录”文字钩子 + 强视觉冲击（RGB灯光变幻）。评分：3.4"
+}

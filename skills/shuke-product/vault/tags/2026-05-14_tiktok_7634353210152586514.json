@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634353210152586514",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/497_artbyjeyjey_7634353210152586514.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634353210152586514/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似售卖视频开头出现的彩色针管笔/细线笔（包装带“FINE”字样），或配套的螺旋画（单线画）创意模板套装",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "手帐爱好者、美术生、文具控、创意绘画爱好者、DIY手工玩家，以及视频中画作对象（疑似Taylor Swift）的粉丝群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "办公学习"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直给 + 极度解压的过程展示"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "手帐爱好者、美术生、文具控、创意绘画爱好者、DIY手工玩家，以及视频中画作对象（疑似Taylor Swift）的粉丝群体"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直给 + 极度解压的过程展示",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "展示人物成品图，配合口播/字幕：“带一套回家，你也能画出这种神仙作品！左下角速抢",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似售卖视频开头出现的彩色针管笔/细线笔（包装带“FINE”字样），或配套的螺旋画（单线画）创意模板套装。品类：办公学习。人群：手帐爱好者、美术生、文具控、创意绘画爱好者、DIY手工玩家，以及视频中画作对象（。钩子：产品直给 + 极度解压的过程展示。评分：7.0"
+}

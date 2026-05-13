@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7638107793664380180",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/130_estefweeb_7638107793664380180.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638107793664380180/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一支类似口红管状的超粗、极黑、高显色的眼线膏/眼影笔（Kajal/Kohl类型）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢欧美妆、亚文化妆容（如Emo、哥特）、追求极致黑眼线效果的年轻女性及美妆爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "行为异常（把疑似口红的黑色膏体放进嘴里）+ 痛点/场景共鸣字幕（“自从我画了极致浓黑眼线”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢欧美妆、亚文化妆容（如Emo、哥特）、追求极致黑眼线效果的年轻女性及美妆爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "行为异常（把疑似口红的黑色膏体放进嘴里）+ 痛点/场景共鸣字幕（“自从我画了极致浓黑眼线”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一支类似口红管状的超粗、极黑、高显色的眼线膏/眼影笔（Kajal/Kohl类型）。品类：美妆护肤。人群：喜欢欧美妆、亚文化妆容（如Emo、哥特）、追求极致黑眼线效果的年轻女性及美妆爱好。钩子：行为异常（把疑似口红的黑色膏体放进嘴里）+ 痛点/场景共鸣字幕（“自从我画了极致。评分：8.0"
+}

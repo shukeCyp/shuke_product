@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7630528764438449415",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/326_alelunagomez_7630528764438449415.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630528764438449415/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款附带旅行收纳盒、替换刀片和小镜子的经典款金属手动剃须刀/刮毛刀",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "想要节省日常剃须/脱毛开销、有旅行便携需求、或倾向于环保耐用产品的消费者（男女皆宜，视频中出现女性录制者，产品偏中性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益驱动型（音频） + 痛点解决型（音频）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "想要节省日常剃须/脱毛开销、有旅行便携需求、或倾向于环保耐用产品的消费者（男女皆宜，视频中出现女性录制者，产品偏中性）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益驱动型（音频） + 痛点解决型（音频）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "非常具体，直接指出“下方的橙色小购物车”，并通过手指物理指向手机屏幕上的商品页面，实现了线上线下的视觉统一",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款附带旅行收纳盒、替换刀片和小镜子的经典款金属手动剃须刀/刮毛刀。品类：身体护理。人群：想要节省日常剃须/脱毛开销、有旅行便携需求、或倾向于环保耐用产品的消费者（男女皆。钩子：利益驱动型（音频） + 痛点解决型（音频）。评分：7.4"
+}

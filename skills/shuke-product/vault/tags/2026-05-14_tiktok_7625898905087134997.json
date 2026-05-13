@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7625898905087134997",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/448_xugdn9yu71_7625898905087134997.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625898905087134997/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "疑似售卖带有动漫风格（类似七龙珠孙悟空潮服版）大面积印花的黑色连帽卫衣",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢动漫IP、追求个性穿搭的年轻男性，以及潮牌/街头文化爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉钩子（强烈的色彩对比：黑底+大面积橙色印花） + 氛围钩子（纹身、戒指、豪宅背景、拽酷的站姿）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢动漫IP、追求个性穿搭的年轻男性，以及潮牌/街头文化爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉钩子（强烈的色彩对比：黑底+大面积橙色印花） + 氛围钩子（纹身、戒指、豪宅背景、拽酷的站姿）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：疑似售卖带有动漫风格（类似七龙珠孙悟空潮服版）大面积印花的黑色连帽卫衣。品类：男士护理。人群：喜欢动漫IP、追求个性穿搭的年轻男性，以及潮牌/街头文化爱好者。钩子：视觉钩子（强烈的色彩对比：黑底+大面积橙色印花） + 氛围钩子（纹身、戒指、豪宅。评分：5.4"
+}

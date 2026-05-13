@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7610616055316221205",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/398_kim_vaz22_7610616055316221205.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610616055316221205/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "深蓝色紧身微喇裤/喇叭裤（及同色系长袖紧身上衣套装）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "年轻女性（18-25岁为主），追求显身材、紧身穿搭，喜欢流行音乐与舞蹈，性格外向的泛娱乐受众"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪共鸣钩子（Relatable Hook）+ 视觉动效钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "年轻女性（18-25岁为主），追求显身材、紧身穿搭，喜欢流行音乐与舞蹈，性格外向的泛娱乐受众"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪共鸣钩子（Relatable Hook）+ 视觉动效钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：深蓝色紧身微喇裤/喇叭裤（及同色系长袖紧身上衣套装）。品类：身体护理。人群：年轻女性（18-25岁为主），追求显身材、紧身穿搭，喜欢流行音乐与舞蹈，性格外向。钩子：情绪共鸣钩子（Relatable Hook）+ 视觉动效钩子。评分：6.0"
+}

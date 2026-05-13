@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7631275456636947719",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/332_ro.hdzzz_7631275456636947719.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631275456636947719/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 73.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "纯白色、高回弹、大尺寸的平价家居枕头",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "注重卧室颜值、有更换床品需求、追求性价比的年轻女性、学生党或租房族"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景陪伴型钩子（Vlog-style hook）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "注重卧室颜值、有更换床品需求、追求性价比的年轻女性、学生党或租房族"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景陪伴型钩子（Vlog-style hook）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "博主正对镜头，比出“2”的手势，随后手指指向屏幕下方",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：纯白色、高回弹、大尺寸的平价家居枕头。品类：厨房用品。人群：注重卧室颜值、有更换床品需求、追求性价比的年轻女性、学生党或租房族。钩子：场景陪伴型钩子（Vlog-style hook）。评分：8.8"
+}

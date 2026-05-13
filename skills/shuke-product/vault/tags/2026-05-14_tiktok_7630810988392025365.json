@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7630810988392025365",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/186_donzel.siles_7630810988392025365.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630810988392025365/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 65.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "SEESE品牌的电工专用多功能剥线钳（集成了剪切、剥线、绕线、测电、压线等功能）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "专业电工、家庭维修DIY爱好者、五金工具控"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉猎奇（燃烧的钳子） + 反常识悬念口播（好产品却要退货）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "专业电工、家庭维修DIY爱好者、五金工具控"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉猎奇（燃烧的钳子） + 反常识悬念口播（好产品却要退货）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“如果你在找全能工具，链接就在下方”——指令清晰，直接指向转化组件",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：SEESE品牌的电工专用多功能剥线钳（集成了剪切、剥线、绕线、测电、压线等功能）。品类：家居清洁。人群：专业电工、家庭维修DIY爱好者、五金工具控。钩子：视觉猎奇（燃烧的钳子） + 反常识悬念口播（好产品却要退货）。评分：9.4"
+}

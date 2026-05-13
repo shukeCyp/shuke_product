@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636473479541427464",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/304_user4711932100313_7636473479541427464.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636473479541427464/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打防盗、自带USB充电接口、大容量且具备硬壳防护的男士机能胸包/斜挎包",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "城市通勤族、差旅人士、数码产品爱好者、注重财产安全与穿搭实用性的男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力撕快递袋） + 痛点/悬念钩子（口播制造安全焦虑）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "城市通勤族、差旅人士、数码产品爱好者、注重财产安全与穿搭实用性的男性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力撕快递袋） + 痛点/悬念钩子（口播制造安全焦虑）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打防盗、自带USB充电接口、大容量且具备硬壳防护的男士机能胸包/斜挎包。品类：男士护理。人群：城市通勤族、差旅人士、数码产品爱好者、注重财产安全与穿搭实用性的男性。钩子：动作钩子（暴力撕快递袋） + 痛点/悬念钩子（口播制造安全焦虑）。评分：8.8"
+}

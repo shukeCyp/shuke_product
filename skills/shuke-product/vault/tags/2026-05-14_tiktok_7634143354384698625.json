@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634143354384698625",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/071_mrajidtqpzw_7634143354384698625.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634143354384698625/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打舒适、防滑的平替版厚底白色休闲运动鞋（外观类似Nike Air Force 1，但侧面Logo为“V”型，搭配了类似Gucci老花的平替背包，推测为白牌",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "需要长时间站立或行走的年轻女性，如学生、通勤上班族，且具有追求百搭款和性价比的消费特征"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点直击 + 场景代入型（Product-in-use）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "需要长时间站立或行走的年轻女性，如学生、通勤上班族，且具有追求百搭款和性价比的消费特征"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 场景代入型（Product-in-use）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "赶紧下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打舒适、防滑的平替版厚底白色休闲运动鞋（外观类似Nike Air Force 1，但侧面Logo为“V”型，搭配了。品类：服饰穿搭。人群：需要长时间站立或行走的年轻女性，如学生、通勤上班族，且具有追求百搭款和性价比的消。钩子：痛点直击 + 场景代入型（Product-in-use）。评分：8.2"
+}

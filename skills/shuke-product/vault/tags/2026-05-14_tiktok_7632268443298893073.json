@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632268443298893073",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/026_wapghtztfyxx_7632268443298893073.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632268443298893073/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "自带面罩的连帽长袖防晒服（轻薄、速干材质）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "在户外、建筑工地烈日下工作的男性（同时触达想为丈夫/家人购买的女性）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "精准人群定向（口播） + 痛点场景唤醒（晒伤） + 猎奇视觉（瞬间蒙面）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "在户外、建筑工地烈日下工作的男性（同时触达想为丈夫/家人购买的女性）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "精准人群定向（口播） + 痛点场景唤醒（晒伤） + 猎奇视觉（瞬间蒙面）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指令清晰，加入了紧迫感（涨价前）和方位引导（指着名字上方）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：自带面罩的连帽长袖防晒服（轻薄、速干材质）。品类：男士护理。人群：在户外、建筑工地烈日下工作的男性（同时触达想为丈夫/家人购买的女性）。钩子：精准人群定向（口播） + 痛点场景唤醒（晒伤） + 猎奇视觉（瞬间蒙面）。评分：8.4"
+}

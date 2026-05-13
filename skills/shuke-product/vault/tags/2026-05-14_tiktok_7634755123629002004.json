@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7634755123629002004",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/458_drigueztv0_7634755123629002004.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634755123629002004/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款自带双线（Type-C与Lightning）、带数显屏幕、支持65W快充的12800mAh便携充电宝",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "数码爱好者、手机重度使用者、通勤/出差人群、讨厌出门带一堆充电线的人"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点反问+直接展示（\"Looking for a practical power bank?\"）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "数码爱好者、手机重度使用者、通勤/出差人群、讨厌出门带一堆充电线的人"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点反问+直接展示（\"Looking for a practical power bank?\"）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款自带双线（Type-C与Lightning）、带数显屏幕、支持65W快充的12800mAh便携充电宝。品类：男士护理。人群：数码爱好者、手机重度使用者、通勤/出差人群、讨厌出门带一堆充电线的人。钩子：痛点反问+直接展示（\"Looking for a practical power。评分：8.8"
+}

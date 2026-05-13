@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631149915564952853",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/456_dkcasemx_7631149915564952853.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631149915564952853/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "飞天小女警（Powerpuff Girls）联名/主题 iPhone 手机壳（包含花花、泡泡、毛毛三款）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "Z世代女性、千禧一代（具有童年情怀）、喜欢可爱Y2K风格的用户、以及寻找闺蜜同款手机壳的年轻群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉冲击 + 听觉唤醒 + 利益点直给（直接展示高颜值产品+经典IP洗脑BGM）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "Z世代女性、千禧一代（具有童年情怀）、喜欢可爱Y2K风格的用户、以及寻找闺蜜同款手机壳的年轻群体"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击 + 听觉唤醒 + 利益点直给（直接展示高颜值产品+经典IP洗脑BGM）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "Blinking pink arrows pointing downwards at the end of the video.\",",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：飞天小女警（Powerpuff Girls）联名/主题 iPhone 手机壳（包含花花、泡泡、毛毛三款）。品类：数码配件。人群：Z世代女性、千禧一代（具有童年情怀）、喜欢可爱Y2K风格的用户、以及寻找闺蜜同款。钩子：视觉冲击 + 听觉唤醒 + 利益点直给（直接展示高颜值产品+经典IP洗脑BGM）。评分：0.0"
+}

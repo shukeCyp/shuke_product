@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7625112610693745934",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/用所选项目新建的文件夹/TikVideo.App_7625112610693745934.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625112610693745934/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款防滑无肩带内衣（视频中最初展示的黑色抹胸式内衣）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有穿抹胸、吊带、露肩装需求，且深受“无肩带内衣容易掉/需要反复拉扯”痛点困扰的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "实测预告（To the test）+ 场景代入（穿抹胸衣服的场景）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有穿抹胸、吊带、露肩装需求，且深受“无肩带内衣容易掉/需要反复拉扯”痛点困扰的年轻女性"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "实测预告（To the test）+ 场景代入（穿抹胸衣服的场景）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指引左下角小黄车",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款防滑无肩带内衣（视频中最初展示的黑色抹胸式内衣）。品类：身体护理。人群：有穿抹胸、吊带、露肩装需求，且深受“无肩带内衣容易掉/需要反复拉扯”痛点困扰的年。钩子：实测预告（To the test）+ 场景代入（穿抹胸衣服的场景）。评分：0.0"
+}

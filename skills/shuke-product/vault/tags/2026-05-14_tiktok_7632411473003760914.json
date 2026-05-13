@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632411473003760914",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/116_mumatiti100_7632411473003760914.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632411473003760914/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款便携式、防晒兼顾护肤（含玻尿酸）的防晒棒",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "忙碌的通勤族、经常开车的司机、讨厌涂抹防晒弄脏手的人群、有抗老防斑意识的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点文案钩（红底大字） + 真实场景故事钩（迟到赶时间）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "忙碌的通勤族、经常开车的司机、讨厌涂抹防晒弄脏手的人群、有抗老防斑意识的女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点文案钩（红底大字） + 真实场景故事钩（迟到赶时间）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "非常明确的指向性动作和语言（“我会放在橙色购物车里”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款便携式、防晒兼顾护肤（含玻尿酸）的防晒棒。品类：美妆护肤。人群：忙碌的通勤族、经常开车的司机、讨厌涂抹防晒弄脏手的人群、有抗老防斑意识的女性。钩子：痛点文案钩（红底大字） + 真实场景故事钩（迟到赶时间）。评分：8.6"
+}

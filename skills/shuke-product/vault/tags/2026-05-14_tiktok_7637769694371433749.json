@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637769694371433749",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/150_valkirie_homeandbeauty_7637769694371433749.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637769694371433749/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "UniYeal品牌的一次性丁腈手套（亮荧光绿色，100只/盒）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对卫生、防护有高频需求的B端及C端专业人士（包含医疗、美容美发、纹身师、餐饮后厨、保洁及实验室人员）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "色彩视觉冲击 + 利益直给型钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对卫生、防护有高频需求的B端及C端专业人士（包含医疗、美容美发、纹身师、餐饮后厨、保洁及实验室人员）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "色彩视觉冲击 + 利益直给型钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：UniYeal品牌的一次性丁腈手套（亮荧光绿色，100只/盒）。品类：美妆护肤。人群：对卫生、防护有高频需求的B端及C端专业人士（包含医疗、美容美发、纹身师、餐饮后厨。钩子：色彩视觉冲击 + 利益直给型钩子。评分：8.4"
+}

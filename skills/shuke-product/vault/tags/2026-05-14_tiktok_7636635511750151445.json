@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636635511750151445",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/031_graceaispuro_7636635511750151445.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636635511750151445/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "iPhone手机壳配件盲盒/惊喜包（包含4个手机壳、2张手机膜、贴纸）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "iPhone手机用户，尤其是喜欢新鲜感、追求高性价比和丰富色彩的年轻女性（基于画面中出现的粉、紫、透等马卡龙色系及毛绒背景）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力撕快递袋） + 悬念钩子（口播强调“惊喜盲盒”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "iPhone手机用户，尤其是喜欢新鲜感、追求高性价比和丰富色彩的年轻女性（基于画面中出现的粉、紫、透等马卡龙色系及毛绒背景）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力撕快递袋） + 悬念钩子（口播强调“惊喜盲盒”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：iPhone手机壳配件盲盒/惊喜包（包含4个手机壳、2张手机膜、贴纸）。品类：家居清洁。人群：iPhone手机用户，尤其是喜欢新鲜感、追求高性价比和丰富色彩的年轻女性（基于画。钩子：动作钩子（暴力撕快递袋） + 悬念钩子（口播强调“惊喜盲盒”）。评分：8.4"
+}

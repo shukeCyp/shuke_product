@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636580316617903378",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/474_zahirarobles08_7636580316617903378.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636580316617903378/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“ACQUA DI CIO PURE HOMME”的男士香水（从包装和命名看，疑似阿玛尼寄情香水的平替/Dupe产品），规格100ml",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "寻找夏季清爽型香水的男性用户，或准备给伴侣购买礼物的女性用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人群定向呼叫（“如果你是男生...”） + 视觉冲击（产品快速推向镜头）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "寻找夏季清爽型香水的男性用户，或准备给伴侣购买礼物的女性用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人群定向呼叫（“如果你是男生...”） + 视觉冲击（产品快速推向镜头）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“ACQUA DI CIO PURE HOMME”的男士香水（从包装和命名看，疑似阿玛尼寄情香水的平替/Dupe。品类：男士护理。人群：寻找夏季清爽型香水的男性用户，或准备给伴侣购买礼物的女性用户。钩子：人群定向呼叫（“如果你是男生...”） + 视觉冲击（产品快速推向镜头）。评分：7.6"
+}

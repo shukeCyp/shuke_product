@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7637060373631356168",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/142_gnz8yuspt3_7637060373631356168.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637060373631356168/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "重型/工业级塑料折叠椅（带金属框架）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "租赁公司、活动策划方、餐饮老板、企业采购或需要坚固耐用备用椅的家庭用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（Action Hook）+ 暴力测试前奏"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "租赁公司、活动策划方、餐饮老板、企业采购或需要坚固耐用备用椅的家庭用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（Action Hook）+ 暴力测试前奏",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "Buy now to get free home delivery\",",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：重型/工业级塑料折叠椅（带金属框架）。品类：身体护理。人群：租赁公司、活动策划方、餐饮老板、企业采购或需要坚固耐用备用椅的家庭用户。钩子：动作钩子（Action Hook）+ 暴力测试前奏。评分：8.6"
+}

@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7631659400532397332",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/339_roman.2j_7631659400532397332.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631659400532397332/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "水粉双层分层祛痘/淡斑精华液（附赠专用棉签）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受痘痘、痘印、面部色素沉淀困扰的年轻男女"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "问答互动钩（回复粉丝评论）+ 痛点视觉钩（一闪而过的严重痘痘肌图片）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受痘痘、痘印、面部色素沉淀困扰的年轻男女"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "问答互动钩（回复粉丝评论）+ 痛点视觉钩（一闪而过的严重痘痘肌图片）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "非常明确的物理动作指向（手指引）+ 口语化的引导（“在下方橙色小车”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：水粉双层分层祛痘/淡斑精华液（附赠专用棉签）。品类：美妆护肤。人群：受痘痘、痘印、面部色素沉淀困扰的年轻男女。钩子：问答互动钩（回复粉丝评论）+ 痛点视觉钩（一闪而过的严重痘痘肌图片）。评分：8.8"
+}

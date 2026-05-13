@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7629147891998739713",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/404_user1413222132542_7629147891998739713.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629147891998739713/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "婴儿/学步童软底一脚蹬帆布鞋（类Vans经典款）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有0-2岁学步期婴幼儿的父母、祖父母，追求性价比与穿脱便利性的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直拍展示 + 情感共鸣（微缩萌物）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有0-2岁学步期婴幼儿的父母、祖父母，追求性价比与穿脱便利性的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直拍展示 + 情感共鸣（微缩萌物）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "手指指向屏幕左下角引导下单",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：婴儿/学步童软底一脚蹬帆布鞋（类Vans经典款）。品类：数码配件。人群：家有0-2岁学步期婴幼儿的父母、祖父母，追求性价比与穿脱便利性的人群。钩子：产品直拍展示 + 情感共鸣（微缩萌物）。评分：8.4"
+}

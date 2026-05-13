@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629543472504065287",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/229_elizabethhernande222_7629543472504065287.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629543472504065287/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "处于青春发育期的少女初穿内衣/发育期文胸（视频内标为 corpiños para princesas）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有刚刚步入青春期/发育期女儿的母亲"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人群标签 + 痛点预告"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有刚刚步入青春期/发育期女儿的母亲"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人群标签 + 痛点预告",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：处于青春发育期的少女初穿内衣/发育期文胸（视频内标为 corpiños para princesas）。品类：数码配件。人群：家有刚刚步入青春期/发育期女儿的母亲。钩子：人群标签 + 痛点预告。评分：5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7637236815199489301",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/222_furpatas_7637236815199489301.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637236815199489301/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款穿戴式的宠物去毛手套/除毛刷（黑色布面，带摩擦吸附材质）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "养宠人群，特别是深受猫狗掉毛困扰、需要经常清理床铺/沙发的宠物主"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇悬念钩 + 场景代入钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "养宠人群，特别是深受猫狗掉毛困扰、需要经常清理床铺/沙发的宠物主"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇悬念钩 + 场景代入钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款穿戴式的宠物去毛手套/除毛刷（黑色布面，带摩擦吸附材质）。品类：家居清洁。人群：养宠人群，特别是深受猫狗掉毛困扰、需要经常清理床铺/沙发的宠物主。钩子：猎奇悬念钩 + 场景代入钩。评分：8.8"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637776060217560333",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7637776060217560333.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637776060217560333/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款带有手肘支撑垫的双轮健腹轮（Ab Roller）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "渴望在夏季前练出腹肌、追求身材管理的男性，特别是觉得传统健腹轮难以平衡发力或容易伤腰的健身人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "结果展示 + 极限挑战（反差）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "渴望在夏季前练出腹肌、追求身材管理的男性，特别是觉得传统健腹轮难以平衡发力或容易伤腰的健身人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 极限挑战（反差）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款带有手肘支撑垫的双轮健腹轮（Ab Roller）。品类：男士护理。人群：渴望在夏季前练出腹肌、追求身材管理的男性，特别是觉得传统健腹轮难以平衡发力或容易。钩子：结果展示 + 极限挑战（反差）。评分：8.4"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629505487330954514",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/098_soyjanethq_7629505487330954514.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629505487330954514/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "韩国三养（Samyang）Buldak火鸡面（粉色奶油培根味，5连包）",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢韩国辣味速食、追求性价比（价格敏感）、受粉色系/可爱风（如Hello Kitty周边）吸引的年轻吃货群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“开箱期待感” + “价格悬念”复合钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢韩国辣味速食、追求性价比（价格敏感）、受粉色系/可爱风（如Hello Kitty周边）吸引的年轻吃货群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“开箱期待感” + “价格悬念”复合钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：韩国三养（Samyang）Buldak火鸡面（粉色奶油培根味，5连包）。品类：厨房用品。人群：喜欢韩国辣味速食、追求性价比（价格敏感）、受粉色系/可爱风（如Hello Kit。钩子：“开箱期待感” + “价格悬念”复合钩子。评分：8.6"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636941158547066133",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/159_soficantu_7636941158547066133.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636941158547066133/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Panini（帕尼尼）2022年卡塔尔世界杯官方球星卡/贴纸（5包盲盒装）",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有小孩的家长（特别是妈妈群）、足球/体育周边爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情感/场景钩子（“我给女儿准备了惊喜”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有小孩的家长（特别是妈妈群）、足球/体育周边爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情感/场景钩子（“我给女儿准备了惊喜”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Panini（帕尼尼）2022年卡塔尔世界杯官方球星卡/贴纸（5包盲盒装）。品类：母婴宠物。人群：有小孩的家长（特别是妈妈群）、足球/体育周边爱好者。钩子：情感/场景钩子（“我给女儿准备了惊喜”）。评分：7.4"
+}

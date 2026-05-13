@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632970638902185236",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/067_wozniak78_7632970638902185236.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632970638902185236/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "二合一（Lightning + Type-C）多功能手机读卡器/U盘转接头",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "手机内存经常告急，且不愿意每月花钱订阅云储存（iCloud/Google Drive等）的iPhone和Android用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益反差钩（“不用再交云储存费”）+ 情绪夸张钩（“发明它的人该加薪”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "手机内存经常告急，且不愿意每月花钱订阅云储存（iCloud/Google Drive等）的iPhone和Android用户"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益反差钩（“不用再交云储存费”）+ 情绪夸张钩（“发明它的人该加薪”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视觉（红箭头+文字+手指指向）与听觉（限时包邮+别等卖光+位置指引）双管齐下，指令非常清晰",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：二合一（Lightning + Type-C）多功能手机读卡器/U盘转接头。品类：家居清洁。人群：手机内存经常告急，且不愿意每月花钱订阅云储存（iCloud/Google Dri。钩子：利益反差钩（“不用再交云储存费”）+ 情绪夸张钩（“发明它的人该加薪”）。评分：8.4"
+}

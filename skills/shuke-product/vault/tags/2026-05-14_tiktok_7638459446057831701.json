@@ -1,0 +1,67 @@
+{
+  "video_id": "2026-05-14_tiktok_7638459446057831701",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/248_valkirie_homeandbeauty_7638459446057831701.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638459446057831701/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "提问型钩子 + 视觉直给钩子（\"你喜欢穿得超级舒服吗？\" + 商品贴纸）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "提问型钩子 + 视觉直给钩子（\"你喜欢穿得超级舒服吗？\" + 商品贴纸）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指令非常明确，结合了手部动作（指向上方）和视觉引导（提示“橙色购物车”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。人群：。钩子：提问型钩子 + 视觉直给钩子（\"你喜欢穿得超级舒服吗？\" + 商品贴纸）。评分：6.8"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637570313601010951",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/480_alexjjtorres_7637570313601010951.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637570313601010951/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "苹果手机兼容充电器套装（充电头+数据线）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对价格敏感、原装充电器损坏或遗失、需要备用充电器的智能手机用户（尤指苹果用户）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点引发型（“太贵了”） + 猎奇音效"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对价格敏感、原装充电器损坏或遗失、需要备用充电器的智能手机用户（尤指苹果用户）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点引发型（“太贵了”） + 猎奇音效",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：苹果手机兼容充电器套装（充电头+数据线）。品类：数码配件。人群：对价格敏感、原装充电器损坏或遗失、需要备用充电器的智能手机用户（尤指苹果用户）。钩子：痛点引发型（“太贵了”） + 猎奇音效。评分：5.6"
+}

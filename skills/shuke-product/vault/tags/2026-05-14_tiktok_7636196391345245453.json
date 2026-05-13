@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636196391345245453",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7636196391345245453.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636196391345245453/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式腰部挂脖风扇（带LED灯功能）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "蓝领工人的妻子/伴侣（送礼视角），以及需要经常在户外高温环境下工作或活动的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "身份代入（If your husband is a blue collar worker...） + 场景暗示（反光背心代表户外高温工作）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "蓝领工人的妻子/伴侣（送礼视角），以及需要经常在户外高温环境下工作或活动的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（If your husband is a blue collar worker...） + 场景暗示（反光背心代表户外高温工作）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式腰部挂脖风扇（带LED灯功能）。品类：数码配件。人群：蓝领工人的妻子/伴侣（送礼视角），以及需要经常在户外高温环境下工作或活动的人群。钩子：身份代入（If your husband is a blue collar wo。评分：8.6"
+}

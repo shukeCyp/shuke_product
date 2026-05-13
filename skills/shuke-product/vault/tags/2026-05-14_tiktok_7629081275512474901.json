@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629081275512474901",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/097_gexhvbzj3vy_7629081275512474901.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629081275512474901/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款侧边隐形弹力收腰带（无搭扣腰带/收腰神器），带有“H”字样印花设计",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "讨厌传统腰带勒肚子的人群、裤腰经常偏大需要调节的人群、追求穿搭舒适度与便利性（上厕所解纽扣方便）的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "疑问悬念（文字） + 痛点解决方案前置（视觉效果）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "讨厌传统腰带勒肚子的人群、裤腰经常偏大需要调节的人群、追求穿搭舒适度与便利性（上厕所解纽扣方便）的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "疑问悬念（文字） + 痛点解决方案前置（视觉效果）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款侧边隐形弹力收腰带（无搭扣腰带/收腰神器），带有“H”字样印花设计。品类：服饰穿搭。人群：讨厌传统腰带勒肚子的人群、裤腰经常偏大需要调节的人群、追求穿搭舒适度与便利性（上。钩子：疑问悬念（文字） + 痛点解决方案前置（视觉效果）。评分：8.4"
+}

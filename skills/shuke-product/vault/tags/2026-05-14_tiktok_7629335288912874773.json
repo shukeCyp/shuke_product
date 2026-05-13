@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629335288912874773",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/382_katteyesss..__7629335288912874773.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629335288912874773/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打日常穿搭的粉灰拼色、厚底气垫女士网面运动鞋（鞋舌标有通用“FASHION”字样，推测为白牌或源头工厂货）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求日常穿着舒适度、需要长时间站立或行走、注重性价比的年轻至中年女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景钩（仓储源头） + 颜值钩（高饱和度粉色视觉刺激） + 悬念钩（开箱展示）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求日常穿着舒适度、需要长时间站立或行走、注重性价比的年轻至中年女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景钩（仓储源头） + 颜值钩（高饱和度粉色视觉刺激） + 悬念钩（开箱展示）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打日常穿搭的粉灰拼色、厚底气垫女士网面运动鞋（鞋舌标有通用“FASHION”字样，推测为白牌或源头工厂货）。品类：服饰穿搭。人群：追求日常穿着舒适度、需要长时间站立或行走、注重性价比的年轻至中年女性。钩子：场景钩（仓储源头） + 颜值钩（高饱和度粉色视觉刺激） + 悬念钩（开箱展示）。评分：8.0"
+}

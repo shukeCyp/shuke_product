@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7631541998025035029",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/082_esperoqueey_7631541998025035029.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631541998025035029/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "超薄隐形/睡眠真无线蓝牙耳机（带数字显屏充电仓）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "侧睡听歌/播客/白噪音人群、学生党（上课摸鱼）、追求佩戴舒适度无异物感的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点对比测试 + 奇特道具（硅胶仿真耳）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "侧睡听歌/播客/白噪音人群、学生党（上课摸鱼）、追求佩戴舒适度无异物感的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点对比测试 + 奇特道具（硅胶仿真耳）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：超薄隐形/睡眠真无线蓝牙耳机（带数字显屏充电仓）。品类：数码配件。人群：侧睡听歌/播客/白噪音人群、学生党（上课摸鱼）、追求佩戴舒适度无异物感的用户。钩子：痛点对比测试 + 奇特道具（硅胶仿真耳）。评分：9.0"
+}

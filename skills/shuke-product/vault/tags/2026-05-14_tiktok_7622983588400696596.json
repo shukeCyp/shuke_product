@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7622983588400696596",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/420_etshehas_7622983588400696596.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622983588400696596/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "24双装儿童短袜（大容量组合装）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有幼儿/儿童的母亲，深受“孩子总丢袜子”、“每天找袜子”困扰的家长"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点共鸣 + 视觉反差"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有幼儿/儿童的母亲，深受“孩子总丢袜子”、“每天找袜子”困扰的家长"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣 + 视觉反差",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "视频最后一秒出现“Pídanlos ya!”（现在就下单！），简单直接",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：24双装儿童短袜（大容量组合装）。品类：服饰穿搭。人群：家有幼儿/儿童的母亲，深受“孩子总丢袜子”、“每天找袜子”困扰的家长。钩子：痛点共鸣 + 视觉反差。评分：9.1"
+}

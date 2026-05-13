@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7622194383206731029",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/140_user4083381603693_7622194383206731029.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622194383206731029/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一键退毛宠物梳（带去浮毛、除跳蚤功能）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "深受宠物掉毛困扰的猫狗主人，以及喜欢“解压/爽感”类视频的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉爽感验证型（ASMR/解压）+ 痛点直击型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "深受宠物掉毛困扰的猫狗主人，以及喜欢“解压/爽感”类视频的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉爽感验证型（ASMR/解压）+ 痛点直击型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一键退毛宠物梳（带去浮毛、除跳蚤功能）。品类：身体护理。人群：深受宠物掉毛困扰的猫狗主人，以及喜欢“解压/爽感”类视频的用户。钩子：视觉爽感验证型（ASMR/解压）+ 痛点直击型。评分：8.5"
+}

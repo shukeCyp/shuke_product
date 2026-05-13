@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637178442533866760",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/455_creme.of.nature.mx_7637178442533866760.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637178442533866760/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 48.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Creme of Nature 品牌的 Pure Honey 系列卷发护理套装（包含洗发水、护发素、免洗护发喷雾、卷发慕斯）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "拥有自然卷、烫卷发，受头发毛躁、干枯、打结困扰，追求卷度清晰、有弹性的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "悬念/提问型钩子 + 视觉状态钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "拥有自然卷、烫卷发，受头发毛躁、干枯、打结困扰，追求卷度清晰、有弹性的女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "悬念/提问型钩子 + 视觉状态钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Creme of Nature 品牌的 Pure Honey 系列卷发护理套装（包含洗发水、护发素、免洗护发喷雾、卷发慕。品类：美妆护肤。人群：拥有自然卷、烫卷发，受头发毛躁、干枯、打结困扰，追求卷度清晰、有弹性的女性。钩子：悬念/提问型钩子 + 视觉状态钩子。评分：8.3"
+}

@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7621488083220909319",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/313_srfr7347zwo_7621488083220909319.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621488083220909319/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款针对女性痛经的粉色便携式无线电热暖宫腰带（Almohadilla eléctrica portátil inalámbrica cinturón menst",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受痛经困扰的女性群体，或为伴侣寻找缓解痛经方案的男性（页面语言为西班牙语，主要针对西语区市场）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "听觉惊吓钩子（Audio Shock） + 利益诱惑钩子（超大折扣）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受痛经困扰的女性群体，或为伴侣寻找缓解痛经方案的男性（页面语言为西班牙语，主要针对西语区市场）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "听觉惊吓钩子（Audio Shock） + 利益诱惑钩子（超大折扣）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款针对女性痛经的粉色便携式无线电热暖宫腰带（Almohadilla eléctrica portátil inalám。品类：男士护理。人群：受痛经困扰的女性群体，或为伴侣寻找缓解痛经方案的男性（页面语言为西班牙语，主要针。钩子：听觉惊吓钩子（Audio Shock） + 利益诱惑钩子（超大折扣）。评分：5.8"
+}

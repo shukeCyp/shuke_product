@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7623744517040131346",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/189_mocelpggjpg_7623744517040131346.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623744517040131346/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“Power Factor Saver / Electricity Saving Box”的家用节电器插头",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "承担高昂家庭/商铺电费支出，寻求低成本降本方案的消费者（根据账单和语言判断，受众倾向于拉美/墨西哥地区，账单显示为CFE和MXN比索）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "食品饮料"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大 + 效果对比（Before/After）钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "承担高昂家庭/商铺电费支出，寻求低成本降本方案的消费者（根据账单和语言判断，受众倾向于拉美/墨西哥地区，账单显示为CFE和MXN比索）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大 + 效果对比（Before/After）钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“Power Factor Saver / Electricity Saving Box”的家用节电器插头。品类：食品饮料。人群：承担高昂家庭/商铺电费支出，寻求低成本降本方案的消费者（根据账单和语言判断，受众。钩子：痛点放大 + 效果对比（Before/After）钩子。评分：7.8"
+}

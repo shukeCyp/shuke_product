@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7629235514998050061",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7629235514998050061.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629235514998050061/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 57.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款大容量、双层设计、全地形轮的折叠户外露营车（疑似带有 TikTok Shop 链接直接带货）",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "经常去沙滩、喜欢户外运动的家庭，以及有重物搬运需求（如露营、钓鱼、摆摊）的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反差钩子 + 痛点钩子（旧的小推车 vs 新的折叠大推车）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "经常去沙滩、喜欢户外运动的家庭，以及有重物搬运需求（如露营、钓鱼、摆摊）的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反差钩子 + 痛点钩子（旧的小推车 vs 新的折叠大推车）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款大容量、双层设计、全地形轮的折叠户外露营车（疑似带有 TikTok Shop 链接直接带货）。品类：母婴宠物。人群：经常去沙滩、喜欢户外运动的家庭，以及有重物搬运需求（如露营、钓鱼、摆摊）的人群。钩子：反差钩子 + 痛点钩子（旧的小推车 vs 新的折叠大推车）。评分：8.3"
+}

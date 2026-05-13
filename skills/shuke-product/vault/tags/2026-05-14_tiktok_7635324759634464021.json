@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7635324759634464021",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/078_pyospe3_7635324759634464021.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635324759634464021/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款5/6/7/8层可选、可快速组装的简易家用鞋架（Zapatero Armable）",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "玄关/卧室鞋子乱丢、有收纳痛点、追求高性价比和省空间的人群（尤其是租房党或鞋子多的人）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点场景钩（满地的鞋）+ 动作开箱钩（划开大纸箱）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "玄关/卧室鞋子乱丢、有收纳痛点、追求高性价比和省空间的人群（尤其是租房党或鞋子多的人）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点场景钩（满地的鞋）+ 动作开箱钩（划开大纸箱）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "动作（手指下方）配合语言（Pícale al carrito），非常标准且有效的短视频收尾",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款5/6/7/8层可选、可快速组装的简易家用鞋架（Zapatero Armable）。品类：服饰穿搭。人群：玄关/卧室鞋子乱丢、有收纳痛点、追求高性价比和省空间的人群（尤其是租房党或鞋子多。钩子：痛点场景钩（满地的鞋）+ 动作开箱钩（划开大纸箱）。评分：0.0"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633383281278356757",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/035_mxsg5415_7633383281278356757.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633383281278356757/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 96.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款符合人体工学的慢回弹记忆棉颈椎枕（带凹槽、手臂放置区及可拆洗外套）",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "饱受不良睡姿困扰、早晨醒来经常落枕/颈椎酸痛、有打鼾问题或习惯趴睡/侧睡的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反面警告（负面行为）+ 视觉冲击（医疗解剖图）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "饱受不良睡姿困扰、早晨醒来经常落枕/颈椎酸痛、有打鼾问题或习惯趴睡/侧睡的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反面警告（负面行为）+ 视觉冲击（医疗解剖图）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款符合人体工学的慢回弹记忆棉颈椎枕（带凹槽、手臂放置区及可拆洗外套）。品类：健康养生。人群：饱受不良睡姿困扰、早晨醒来经常落枕/颈椎酸痛、有打鼾问题或习惯趴睡/侧睡的人群。钩子：反面警告（负面行为）+ 视觉冲击（医疗解剖图）。评分：9.1"
+}

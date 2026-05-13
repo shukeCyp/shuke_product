@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7634017645641092372",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/370_joyce627277_7634017645641092372.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634017645641092372/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“SHEDOES The MAGNUM”的黄色管身防水睫毛膏（具有强烈的平替/白牌特征）",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求浓密卷翘睫毛效果、苦恼于贴假睫毛麻烦、有晕妆痛点的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "反共识钩子（“假睫毛过时了”）+ 高颜值视觉冲击钩子（美女超大眼特写）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求浓密卷翘睫毛效果、苦恼于贴假睫毛麻烦、有晕妆痛点的年轻女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "反共识钩子（“假睫毛过时了”）+ 高颜值视觉冲击钩子（美女超大眼特写）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "拿起黄色小管对准镜头",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“SHEDOES The MAGNUM”的黄色管身防水睫毛膏（具有强烈的平替/白牌特征）。品类：美妆护肤。人群：追求浓密卷翘睫毛效果、苦恼于贴假睫毛麻烦、有晕妆痛点的年轻女性。钩子：反共识钩子（“假睫毛过时了”）+ 高颜值视觉冲击钩子（美女超大眼特写）。评分：5.8"
+}

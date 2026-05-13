@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7631767171932114183",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/022_nancyy2mas_7631767171932114183.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631767171932114183/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "女性无痕塑形连体衣/束腰带（Body viral / Faja）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有小腹赘肉困扰、穿着中大码（视频提及L码上衣和11码裤子）且追求性价比的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大展示 + 测评悬念钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有小腹赘肉困扰、穿着中大码（视频提及L码上衣和11码裤子）且追求性价比的女性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大展示 + 测评悬念钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确、直接",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：女性无痕塑形连体衣/束腰带（Body viral / Faja）。品类：数码配件。人群：有小腹赘肉困扰、穿着中大码（视频提及L码上衣和11码裤子）且追求性价比的女性。钩子：痛点放大展示 + 测评悬念钩子。评分：8.4"
+}

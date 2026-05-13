@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7634977051593723156",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/192_vv_tt09_7634977051593723156.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634977051593723156/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Barullo Spicy Sandia 辣味西瓜棉花糖（一种融合了酸、甜、辣口味的网红零食）",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "喜欢追热点/真人秀的年轻群体、喜欢猎奇口味或墨西哥风味（甜辣酸混合）零食的消费者、易受社交媒体种草的冲动消费人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "食品饮料"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "明星背书/流行文化锚点 + 猎奇食欲钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "喜欢追热点/真人秀的年轻群体、喜欢猎奇口味或墨西哥风味（甜辣酸混合）零食的消费者、易受社交媒体种草的冲动消费人群"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "卖点单一"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "明星背书/流行文化锚点 + 猎奇食欲钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确商品规格（12包=高性价比），给出明确的行动指令（点击购物车）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Barullo Spicy Sandia 辣味西瓜棉花糖（一种融合了酸、甜、辣口味的网红零食）。品类：食品饮料。人群：喜欢追热点/真人秀的年轻群体、喜欢猎奇口味或墨西哥风味（甜辣酸混合）零食的消费者。钩子：明星背书/流行文化锚点 + 猎奇食欲钩子。评分：8.5"
+}

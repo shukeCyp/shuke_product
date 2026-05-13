@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636199219954519327",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7636199219954519327.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636199219954519327/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "8合1长柄电动清洁刷（视频结尾明确口播提及 \"8-in-1 electric brush\"）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "讨厌繁重家务的年轻人群、家庭主妇/夫、腰膝不好不便弯腰的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点共鸣 + 视觉解压"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "讨厌繁重家务的年轻人群、家庭主妇/夫、腰膝不好不便弯腰的人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣 + 视觉解压",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：8合1长柄电动清洁刷（视频结尾明确口播提及 \"8-in-1 electric brush\"）。品类：家居清洁。人群：讨厌繁重家务的年轻人群、家庭主妇/夫、腰膝不好不便弯腰的人群。钩子：痛点共鸣 + 视觉解压。评分：7.0"
+}

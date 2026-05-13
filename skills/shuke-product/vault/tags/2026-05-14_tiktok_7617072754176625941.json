@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7617072754176625941",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/167_xddmxg10302_7617072754176625941.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617072754176625941/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款黑色C型多功能沙发边几/移动电脑桌",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "居家办公人群（WFH）、租房党、喜欢在沙发上休闲/进食的“沙发土豆”、追求小户型空间利用率的家居人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "厨房用品"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作+产品直拍型 (Action & Product-first)"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "居家办公人群（WFH）、租房党、喜欢在沙发上休闲/进食的“沙发土豆”、追求小户型空间利用率的家居人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作+产品直拍型 (Action & Product-first)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款黑色C型多功能沙发边几/移动电脑桌。品类：厨房用品。人群：居家办公人群（WFH）、租房党、喜欢在沙发上休闲/进食的“沙发土豆”、追求小户型。钩子：动作+产品直拍型 (Action & Product-first)。评分：7.8"
+}

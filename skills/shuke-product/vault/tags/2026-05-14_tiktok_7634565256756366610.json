@@ -1,0 +1,68 @@
+{
+  "video_id": "2026-05-14_tiktok_7634565256756366610",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/405_mz202033de1_7634565256756366610.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634565256756366610/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉冲击型 + 痛点提问型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击型 + 痛点提问型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "扎个半丸子头或戴发夹，字幕+语音引导：“点击左下角，同款大波浪带回家”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。人群：。钩子：视觉冲击型 + 痛点提问型。评分：5.8"
+}

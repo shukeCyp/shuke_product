@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7633542041733057800",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/065_micuerpoesmitemplo_7633542041733057800.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633542041733057800/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款背部体态矫正带（防驼背矫姿带）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "因为长期看手机导致含胸驼背、对身高有容貌焦虑的男性（以及想给伴侣改善体态的女性受众）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作冲突型（拍打背部） + 痛点攻击型（直指外貌缺陷“像卡西莫多/显矮”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "因为长期看手机导致含胸驼背、对身高有容貌焦虑的男性（以及想给伴侣改善体态的女性受众）"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作冲突型（拍打背部） + 痛点攻击型（直指外貌缺陷“像卡西莫多/显矮”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "明确指向UI界面（“点击橘色的购物车”），并直接排除了用户的心理障碍（“别拿太贵当借口”）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款背部体态矫正带（防驼背矫姿带）。品类：男士护理。人群：因为长期看手机导致含胸驼背、对身高有容貌焦虑的男性（以及想给伴侣改善体态的女性受。钩子：动作冲突型（拍打背部） + 痛点攻击型（直指外貌缺陷“像卡西莫多/显矮”）。评分：8.2"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7626814708749798676",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/223_pyelufyve2_7626814708749798676.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626814708749798676/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打厚底踩屎感、支持“一鞋两穿”（凉鞋/拖鞋切换）的EVA材质潮流沙滩洞洞鞋/凉拖",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求潮流穿搭、看重日常穿着舒适度的年轻男性（虽然视频中模特腿部特征偏女性化，但口播明确提及“sandalias para hombre”男士凉鞋）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作展示钩子 + 羊群效应钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求潮流穿搭、看重日常穿着舒适度的年轻男性（虽然视频中模特腿部特征偏女性化，但口播明确提及“sandalias para hombre”男士凉鞋）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作展示钩子 + 羊群效应钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打厚底踩屎感、支持“一鞋两穿”（凉鞋/拖鞋切换）的EVA材质潮流沙滩洞洞鞋/凉拖。品类：男士护理。人群：追求潮流穿搭、看重日常穿着舒适度的年轻男性（虽然视频中模特腿部特征偏女性化，但口。钩子：动作展示钩子 + 羊群效应钩子。评分：7.8"
+}

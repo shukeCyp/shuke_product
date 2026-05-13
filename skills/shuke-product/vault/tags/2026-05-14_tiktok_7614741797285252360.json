@@ -1,0 +1,68 @@
+{
+  "video_id": "2026-05-14_tiktok_7614741797285252360",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/253_yissus_rayas_7614741797285252360.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614741797285252360/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 69.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "利益冲突/家庭日常抓马 (Drama)"
+    ],
+    "proof_tags": [],
+    "audience_tags": [],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "利益冲突/家庭日常抓马 (Drama)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。人群：。钩子：利益冲突/家庭日常抓马 (Drama)。评分：8.2"
+}

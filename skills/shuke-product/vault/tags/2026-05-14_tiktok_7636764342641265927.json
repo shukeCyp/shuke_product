@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636764342641265927",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/361_zop6bvxgn7_7636764342641265927.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636764342641265927/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一双男士黑色商务休闲皮鞋（一脚蹬/乐福鞋款式）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "需要长时间穿着皮鞋的职场男性、追求脚感舒适的中老年男性，或为伴侣/父亲购买鞋子的女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点引发 + 真实开箱场景"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "需要长时间穿着皮鞋的职场男性、追求脚感舒适的中老年男性，或为伴侣/父亲购买鞋子的女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点引发 + 真实开箱场景",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一双男士黑色商务休闲皮鞋（一脚蹬/乐福鞋款式）。品类：男士护理。人群：需要长时间穿着皮鞋的职场男性、追求脚感舒适的中老年男性，或为伴侣/父亲购买鞋子的。钩子：痛点引发 + 真实开箱场景。评分：8.2"
+}

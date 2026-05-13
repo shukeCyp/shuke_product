@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7628571460113632530",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/181_lovefong777_7628571460113632530.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628571460113632530/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 59.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "发光快充数据线（加粗、多接口、带金属质感接头）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对手机充电速度有要求、经常面临原装线损坏断裂、喜欢炫酷桌搭或科技感配件的智能手机用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "猎奇/反差剧情钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对手机充电速度有要求、经常面临原装线损坏断裂、喜欢炫酷桌搭或科技感配件的智能手机用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "猎奇/反差剧情钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：发光快充数据线（加粗、多接口、带金属质感接头）。品类：家居清洁。人群：对手机充电速度有要求、经常面临原装线损坏断裂、喜欢炫酷桌搭或科技感配件的智能手机。钩子：猎奇/反差剧情钩。评分：7.2"
+}

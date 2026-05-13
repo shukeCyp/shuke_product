@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7620535280851750164",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/362_pelonichonboy3_7620535280851750164.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620535280851750164/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 51.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "无框变色眼镜（防蓝光+太阳镜两用）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "经常看电脑的上班族、需要开车出行的有车一族、追求高性价比和时尚感的年轻男女"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "原生开箱型 + 熟人称呼型（开口第一句用西班牙语拉美俚语“Banda/兄弟们/家人们”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "经常看电脑的上班族、需要开车出行的有车一族、追求高性价比和时尚感的年轻男女"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "原生开箱型 + 熟人称呼型（开口第一句用西班牙语拉美俚语“Banda/兄弟们/家人们”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "直接指向TikTok的“橙色购物车 (carrito naranja)”，并用“超级价格 (súper precio)”作为临门一脚",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：无框变色眼镜（防蓝光+太阳镜两用）。品类：数码配件。人群：经常看电脑的上班族、需要开车出行的有车一族、追求高性价比和时尚感的年轻男女。钩子：原生开箱型 + 熟人称呼型（开口第一句用西班牙语拉美俚语“Banda/兄弟们/家。评分：7.6"
+}

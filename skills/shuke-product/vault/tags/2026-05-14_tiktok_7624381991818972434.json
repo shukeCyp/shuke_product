@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7624381991818972434",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/165_edumotovlogsclips_7624381991818972434.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624381991818972434/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "大功率爆闪LED外置车灯/探照灯（适用于摩托车/汽车改装）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "摩托车骑友、汽车越野改装爱好者、夜间出行有强光照明需求的人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉奇观钩子 + 产品直摄钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "摩托车骑友、汽车越野改装爱好者、夜间出行有强光照明需求的人群"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观钩子 + 产品直摄钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "手指动作配合口播，明确指向左下角（购物车位置），并抛出“包邮”利益点",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：大功率爆闪LED外置车灯/探照灯（适用于摩托车/汽车改装）。品类：数码配件。人群：摩托车骑友、汽车越野改装爱好者、夜间出行有强光照明需求的人群。钩子：视觉奇观钩子 + 产品直摄钩子。评分：7.8"
+}

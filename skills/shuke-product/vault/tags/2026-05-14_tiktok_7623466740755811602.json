@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7623466740755811602",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/371_alexaamendezz_7623466740755811602.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623466740755811602/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款创意“二合一”礼物——外观是针织玫瑰花束，展开后是一条带有玫瑰花边点缀的针织保暖毛毯/披肩",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "核心受众为需要送礼的男性（情人节、纪念日、道歉礼物）；传播受众为女性（通过引起共鸣，促使她们@伴侣或转发暗示）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "情绪共鸣型 + 疑问挑衅型"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "核心受众为需要送礼的男性（情人节、纪念日、道歉礼物）；传播受众为女性（通过引起共鸣，促使她们@伴侣或转发暗示）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "情绪共鸣型 + 疑问挑衅型",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款创意“二合一”礼物——外观是针织玫瑰花束，展开后是一条带有玫瑰花边点缀的针织保暖毛毯/披肩。品类：男士护理。人群：核心受众为需要送礼的男性（情人节、纪念日、道歉礼物）；传播受众为女性（通过引起共。钩子：情绪共鸣型 + 疑问挑衅型。评分：9.2"
+}

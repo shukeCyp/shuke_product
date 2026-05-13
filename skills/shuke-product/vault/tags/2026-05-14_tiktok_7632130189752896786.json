@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7632130189752896786",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/496_alex_ferxrod__7632130189752896786.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632130189752896786/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款名为“Fa's Color 4 IN 1 Geluxe”的透色果冻美甲胶（Jelly Nail Gel）",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "讲西班牙语的年轻女性（特别是墨西哥受众，因口播使用了“wey”, “chido”, “neta”等极具墨西哥色彩的年轻俚语），以及喜欢自然清透裸妆感的美甲爱好者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "其他"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "结果前置钩子 + ASMR听觉钩子 + 促销利益钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "讲西班牙语的年轻女性（特别是墨西哥受众，因口播使用了“wey”, “chido”, “neta”等极具墨西哥色彩的年轻俚语），以及喜欢自然清透裸妆感的美甲爱好者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "结果前置钩子 + ASMR听觉钩子 + 促销利益钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款名为“Fa's Color 4 IN 1 Geluxe”的透色果冻美甲胶（Jelly Nail Gel）。品类：其他。人群：讲西班牙语的年轻女性（特别是墨西哥受众，因口播使用了“wey”, “chido”。钩子：结果前置钩子 + ASMR听觉钩子 + 促销利益钩子。评分：8.0"
+}

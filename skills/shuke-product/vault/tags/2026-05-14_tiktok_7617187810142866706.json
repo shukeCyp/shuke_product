@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7617187810142866706",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/356_natyd1az_7617187810142866706.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617187810142866706/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 46.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款针对摩托罗拉手机的“三合一”高透防摔重型保护壳（透明手机壳）",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "摩托罗拉手机用户，特别是对手机保护有高要求（防摔、耐用）、同时又想展示手机原机色彩的用户"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "产品直拍钩子 + 利益点悬念（3 piezas）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "摩托罗拉手机用户，特别是对手机保护有高要求（防摔、耐用）、同时又想展示手机原机色彩的用户"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "产品直拍钩子 + 利益点悬念（3 piezas）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款针对摩托罗拉手机的“三合一”高透防摔重型保护壳（透明手机壳）。品类：数码配件。人群：摩托罗拉手机用户，特别是对手机保护有高要求（防摔、耐用）、同时又想展示手机原机色。钩子：产品直拍钩子 + 利益点悬念（3 piezas）。评分：7.4"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7626342243745615125",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/013_rdepuetwj5_7626342243745615125.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626342243745615125/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "树脂材质的“三不”（不看、不听、不说）造型圣死神（Santa Muerte）连座雕像摆件",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "圣死神信徒、暗黑系/哥特/骷髅文化爱好者、手办及模型收藏家（明确提到“devota y coleccionista”）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "母婴宠物"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景钩子（巨大仓库背景） + 动作钩子（人物捧着显眼的庞大商品走向镜头）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "圣死神信徒、暗黑系/哥特/骷髅文化爱好者、手办及模型收藏家（明确提到“devota y coleccionista”）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景钩子（巨大仓库背景） + 动作钩子（人物捧着显眼的庞大商品走向镜头）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：树脂材质的“三不”（不看、不听、不说）造型圣死神（Santa Muerte）连座雕像摆件。品类：母婴宠物。人群：圣死神信徒、暗黑系/哥特/骷髅文化爱好者、手办及模型收藏家（明确提到“devot。钩子：场景钩子（巨大仓库背景） + 动作钩子（人物捧着显眼的庞大商品走向镜头）。评分：0.0"
+}

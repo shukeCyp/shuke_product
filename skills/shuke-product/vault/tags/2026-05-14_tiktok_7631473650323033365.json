@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631473650323033365",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/195_mirandarodriguez839_7631473650323033365.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631473650323033365/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一套带有详细释义和关键词的西班牙语“新手友好型”塔罗牌",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对神秘学、塔罗占卜感兴趣的年轻群体，特别是想学塔罗但记不住牌意的新手，以及喜欢“吃瓜/八卦”他人生活的泛娱乐受众（受众偏女性/Z世代）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "办公学习"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "行为钩子（沉浸式开箱） + 情绪/身份识别钩子（共鸣文案）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对神秘学、塔罗占卜感兴趣的年轻群体，特别是想学塔罗但记不住牌意的新手，以及喜欢“吃瓜/八卦”他人生活的泛娱乐受众（受众偏女性/Z世代）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "行为钩子（沉浸式开箱） + 情绪/身份识别钩子（共鸣文案）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一套带有详细释义和关键词的西班牙语“新手友好型”塔罗牌。品类：办公学习。人群：对神秘学、塔罗占卜感兴趣的年轻群体，特别是想学塔罗但记不住牌意的新手，以及喜欢“。钩子：行为钩子（沉浸式开箱） + 情绪/身份识别钩子（共鸣文案）。评分：8.4"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7618515182570048789",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/435_risafactory2_7618515182570048789.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618515182570048789/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "背部姿势矫正带（防驼背矫正器）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "久坐办公族、低头族、有圆肩驼背体态问题的人群（男女通用）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点具象化（视觉奇观）+ 场景提问"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "久坐办公族、低头族、有圆肩驼背体态问题的人群（男女通用）"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点具象化（视觉奇观）+ 场景提问",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "画面出现产品全家福，大字引导“左下角半价带走，拯救气质”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：背部姿势矫正带（防驼背矫正器）。品类：男士护理。人群：久坐办公族、低头族、有圆肩驼背体态问题的人群（男女通用）。钩子：痛点具象化（视觉奇观）+ 场景提问。评分：7.8"
+}

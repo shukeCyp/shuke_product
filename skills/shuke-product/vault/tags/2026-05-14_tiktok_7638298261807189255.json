@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7638298261807189255",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/471_gicelaaguilarbaez_7638298261807189255.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638298261807189255/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款书本造型的“ICOODCO”儿童彩妆及饰品双层礼盒",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "正在为小女孩（女儿、侄女、孙女等）寻找生日礼物或节日礼物的家长及亲属"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "美妆护肤"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "直给型商品钩子 + 场景呼唤（直接展示最华丽的商品状态，口播带入送礼场景）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "正在为小女孩（女儿、侄女、孙女等）寻找生日礼物或节日礼物的家长及亲属"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "直给型商品钩子 + 场景呼唤（直接展示最华丽的商品状态，口播带入送礼场景）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款书本造型的“ICOODCO”儿童彩妆及饰品双层礼盒。品类：美妆护肤。人群：正在为小女孩（女儿、侄女、孙女等）寻找生日礼物或节日礼物的家长及亲属。钩子：直给型商品钩子 + 场景呼唤（直接展示最华丽的商品状态，口播带入送礼场景）。评分：0.0"
+}

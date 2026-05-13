@@ -1,0 +1,73 @@
+{
+  "video_id": "2026-05-14_tiktok_7619637962980003088",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/333_mexicolove0678_7619637962980003088.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619637962980003088/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 61.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "壁挂式一次性马桶刷套装（包含刷柄、壁挂收纳盒及自带清洁液的可替换海绵刷头）",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "对传统马桶刷滴水、藏污纳垢感到恶心或困扰的家庭主妇、独居青年及注重卫生的群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "家居清洁"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "快闪混剪 + 场景代入钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "对传统马桶刷滴水、藏污纳垢感到恶心或困扰的家庭主妇、独居青年及注重卫生的群体"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "快闪混剪 + 场景代入钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：壁挂式一次性马桶刷套装（包含刷柄、壁挂收纳盒及自带清洁液的可替换海绵刷头）。品类：家居清洁。人群：对传统马桶刷滴水、藏污纳垢感到恶心或困扰的家庭主妇、独居青年及注重卫生的群体。钩子：快闪混剪 + 场景代入钩子。评分：8.6"
+}

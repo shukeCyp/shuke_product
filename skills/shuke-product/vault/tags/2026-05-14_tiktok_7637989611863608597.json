@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7637989611863608597",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/073_puracositalinda_7637989611863608597.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637989611863608597/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款主打“除螨祛痘”功效的亮橙色沐浴露",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "受身体肌肤问题困扰的人群（特别是臀部起痘/暗沉、背部严重粉刺/痘痘、手臂毛囊炎/鸡皮肤的人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点具象化展示 + 闺蜜私语式互动"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "受身体肌肤问题困扰的人群（特别是臀部起痘/暗沉、背部严重粉刺/痘痘、手臂毛囊炎/鸡皮肤的人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点具象化展示 + 闺蜜私语式互动",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款主打“除螨祛痘”功效的亮橙色沐浴露。品类：身体护理。人群：受身体肌肤问题困扰的人群（特别是臀部起痘/暗沉、背部严重粉刺/痘痘、手臂毛囊炎/。钩子：痛点具象化展示 + 闺蜜私语式互动。评分：6.0"
+}

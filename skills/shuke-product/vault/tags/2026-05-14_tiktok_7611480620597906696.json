@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7611480620597906696",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/422_yahi9974_7611480620597906696.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611480620597906696/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "女士高弹力罗纹无痕丁字裤（多色套装打包售卖）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求日常穿着舒适度、无勒痕、透气，且喜欢高性价比套装的年轻至中年女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "“冲突评论回应” + “痛点前置”"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求日常穿着舒适度、无勒痕、透气，且喜欢高性价比套装的年轻至中年女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "“冲突评论回应” + “痛点前置”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：女士高弹力罗纹无痕丁字裤（多色套装打包售卖）。品类：身体护理。人群：追求日常穿着舒适度、无勒痕、透气，且喜欢高性价比套装的年轻至中年女性。钩子：“冲突评论回应” + “痛点前置”。评分：8.2"
+}

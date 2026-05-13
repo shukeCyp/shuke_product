@@ -1,0 +1,71 @@
+{
+  "video_id": "2026-05-14_tiktok_7632302955768614164",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/444_donzel.siles_7632302955768614164.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632302955768614164/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 82.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "SEESE 8合1多功能电工钳（带测电笔功能）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "专业电工、家装维修工人、DIY爱好者及有家庭电路维修需求的成年男性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "场景共鸣 + 悬念提问（“谁发明了这个工具…”）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "专业电工、家装维修工人、DIY爱好者及有家庭电路维修需求的成年男性"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "场景共鸣 + 悬念提问（“谁发明了这个工具…”）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "使用了典型的电商紧迫感话术：“价格不再有”、“看到橙色按钮说明有货”、“现在购买”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：SEESE 8合1多功能电工钳（带测电笔功能）。品类：男士护理。人群：专业电工、家装维修工人、DIY爱好者及有家庭电路维修需求的成年男性。钩子：场景共鸣 + 悬念提问（“谁发明了这个工具…”）。评分：9.0"
+}

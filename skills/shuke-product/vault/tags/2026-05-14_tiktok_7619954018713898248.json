@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7619954018713898248",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/490_cesar.bed_7619954018713898248.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619954018713898248/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "便携式电动鼻毛修剪器",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "注重个人社交形象的男性（尤其是受社交尴尬痛点困扰的人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点放大（Pain-point Agitation）+ 第三方背书（Third-party POV）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "注重个人社交形象的男性（尤其是受社交尴尬痛点困扰的人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点放大（Pain-point Agitation）+ 第三方背书（Third-party POV）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：便携式电动鼻毛修剪器。品类：男士护理。人群：注重个人社交形象的男性（尤其是受社交尴尬痛点困扰的人群）。钩子：痛点放大（Pain-point Agitation）+ 第三方背书（Third-。评分：7.2"
+}

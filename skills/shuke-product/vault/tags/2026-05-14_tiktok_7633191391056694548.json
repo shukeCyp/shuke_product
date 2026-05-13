@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7633191391056694548",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/429_valentina.lara600_7633191391056694548.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633191391056694548/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "带有叫叫鞋跟（发声气囊）和卡通配件的婴童款洞洞鞋",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "家有学步期婴幼儿的宝妈/家长"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "人群呼唤（“para tu bebé”） + 视觉冲击（亮粉色） + 猎奇展示（按压发声）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "家有学步期婴幼儿的宝妈/家长"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "人群呼唤（“para tu bebé”） + 视觉冲击（亮粉色） + 猎奇展示（按压发声）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：带有叫叫鞋跟（发声气囊）和卡通配件的婴童款洞洞鞋。品类：服饰穿搭。人群：家有学步期婴幼儿的宝妈/家长。钩子：人群呼唤（“para tu bebé”） + 视觉冲击（亮粉色） + 猎奇展示（。评分：7.6"
+}

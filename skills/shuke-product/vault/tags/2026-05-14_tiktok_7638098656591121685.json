@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7638098656591121685",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/087_yarelimengar_7638098656591121685.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638098656591121685/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款“BERUDI”品牌的U型肩颈揉捏按摩仪（浅绿色款）",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "久坐办公族、肩颈酸痛人群，以及容易被“真人秀明星同款/网红同款”和“低价捡漏”心理驱动的冲动消费群体"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "身体护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "夸张反应钩 + 圈层背书钩"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "久坐办公族、肩颈酸痛人群，以及容易被“真人秀明星同款/网红同款”和“低价捡漏”心理驱动的冲动消费群体"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "夸张反应钩 + 圈层背书钩",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "博主居家穿睡衣边看剧边按，手指下方字幕：“打工人自救神器，左下角直接拿捏”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款“BERUDI”品牌的U型肩颈揉捏按摩仪（浅绿色款）。品类：身体护理。人群：久坐办公族、肩颈酸痛人群，以及容易被“真人秀明星同款/网红同款”和“低价捡漏”心。钩子：夸张反应钩 + 圈层背书钩。评分：7.4"
+}

@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7636150159910522126",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/26/TikVideo.App_7636150159910522126.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636150159910522126/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "布艺可视前窗棒球帽收纳盒",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "深受伴侣物品杂乱困扰的女性（女友/妻子）、帽子收集爱好者、家居收纳人群"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "服饰穿搭"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "痛点代入 + 极速反差"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "深受伴侣物品杂乱困扰的女性（女友/妻子）、帽子收集爱好者、家居收纳人群"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "痛点代入 + 极速反差",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：布艺可视前窗棒球帽收纳盒。品类：服饰穿搭。人群：深受伴侣物品杂乱困扰的女性（女友/妻子）、帽子收集爱好者、家居收纳人群。钩子：痛点代入 + 极速反差。评分：9.1"
+}

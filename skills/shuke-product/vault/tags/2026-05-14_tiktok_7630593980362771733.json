@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7630593980362771733",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/050_leomerch_01_7630593980362771733.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630593980362771733/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 114.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "Color Dreams 品牌的 Hybrid Classic 盒装压缩弹簧床垫",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "睡眠质量不佳的用户，以及需要为家人（如视频中提到的儿子）更换旧床垫以改善睡眠的家庭决策者"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "数码配件"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "悬念钩子 + 从众心理钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "睡眠质量不佳的用户，以及需要为家人（如视频中提到的儿子）更换旧床垫以改善睡眠的家庭决策者"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "悬念钩子 + 从众心理钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：Color Dreams 品牌的 Hybrid Classic 盒装压缩弹簧床垫。品类：数码配件。人群：睡眠质量不佳的用户，以及需要为家人（如视频中提到的儿子）更换旧床垫以改善睡眠的家。钩子：悬念钩子 + 从众心理钩子。评分：8.6"
+}

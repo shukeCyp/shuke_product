@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7631495858206313746",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/249_laomo136_7631495858206313746.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631495858206313746/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "一款紫红色/梅子色女士紧身运动拉链外套",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "有健身习惯、偏好运动休闲穿搭（Athleisure）、追求修身塑形效果的年轻女性"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "健康养生"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "动作钩子（暴力拆包） + 评价钩子（开局直接给满分）"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "有健身习惯、偏好运动休闲穿搭（Athleisure）、追求修身塑形效果的年轻女性"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（暴力拆包） + 评价钩子（开局直接给满分）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：一款紫红色/梅子色女士紧身运动拉链外套。品类：健康养生。人群：有健身习惯、偏好运动休闲穿搭（Athleisure）、追求修身塑形效果的年轻女性。钩子：动作钩子（暴力拆包） + 评价钩子（开局直接给满分）。评分：8.1"
+}

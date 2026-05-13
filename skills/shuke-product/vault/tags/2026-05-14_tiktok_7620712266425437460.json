@@ -1,0 +1,72 @@
+{
+  "video_id": "2026-05-14_tiktok_7620712266425437460",
+  "source": {
+    "video_path": "/Users/chaiyapeng/Downloads/tabcut_videos/123_mxxq_101611_7620712266425437460.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620712266425437460/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "男士基础款纯色T恤（主打黑/白两色，且为3件装组合）",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "追求性价比、舒适度和耐穿性的男性消费者，或为伴侣/家人代购基础款服装的女性（泛大众人群）"
+    ],
+    "confidence": 0.6
+  },
+  "tags": {
+    "product_tags": [
+      "男士护理"
+    ],
+    "video_type_tags": [
+      "其他"
+    ],
+    "hook_tags": [
+      "视觉动效钩子 + 利益前置钩子"
+    ],
+    "proof_tags": [],
+    "audience_tags": [
+      "追求性价比、舒适度和耐穿性的男性消费者，或为伴侣/家人代购基础款服装的女性（泛大众人群）"
+    ],
+    "risk_tags": [
+      "无CTA",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "tiktok"
+    ]
+  },
+  "hook": {
+    "type": "视觉动效钩子 + 利益前置钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0,
+    "clarity": 0,
+    "trust": 0,
+    "product_display": 0,
+    "purchase_impulse": 0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：男士基础款纯色T恤（主打黑/白两色，且为3件装组合）。品类：男士护理。人群：追求性价比、舒适度和耐穿性的男性消费者，或为伴侣/家人代购基础款服装的女性（泛大。钩子：视觉动效钩子 + 利益前置钩子。评分：8.6"
+}
