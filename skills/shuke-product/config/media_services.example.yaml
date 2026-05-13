@@ -28,7 +28,9 @@ cloudy_veo:
 chaowenai:
   # 超稳AI (ChaowenAI) 服务地址：支持图片生成和视频生成，统一 /v1/videos 端点。
   base_url: "https://api.chaowenai.com"
-  api_key: "your-chaowenai-api-key"
+  # 图片和视频使用不同的 API Key（不同模型分组）
+  api_key_image: "your-chaowenai-image-key"
+  api_key_video: "your-chaowenai-video-key"
   concurrency_limit: 3
   models:
     # 默认图片模型：文生图/图生图

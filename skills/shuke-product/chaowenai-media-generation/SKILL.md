@@ -18,7 +18,8 @@ Read workspace defaults from:
 Use these config keys unless the user explicitly chooses otherwise:
 
 - Base URL: `chaowenai.base_url`
-- API key: `chaowenai.api_key`
+- Image API key: `chaowenai.api_key_image`
+- Video API key: `chaowenai.api_key_video`
 - Concurrency limit: `chaowenai.concurrency_limit`
 - Text-to-image / image-to-image default model: `chaowenai.models.image_default`
 - Text-to-video default model: `chaowenai.models.text_to_video_default`
@@ -26,6 +27,8 @@ Use these config keys unless the user explicitly chooses otherwise:
 - Reference-to-video default model: `chaowenai.models.multi_reference_video_default`
 
 Do not paste real API keys into prompts, generated files, logs, or user-facing examples.
+
+> **Dual-Key Setup**: Use `chaowenai.api_key_image` for image generation tasks and `chaowenai.api_key_video` for video generation tasks. They belong to different model groups.
 
 ## API Shape
 
@@ -36,13 +39,17 @@ POST /v1/videos       (submit generation task)
 GET  /v1/videos/{id}  (poll task status, with ?model=...)
 ```
 
-Authentication:
+Authentication (two keys):
 
 ```text
-Authorization: Bearer <api_key>
+# Image generation
+Authorization: Bearer <api_key_image>
+
+# Video generation  
+Authorization: Bearer <api_key_video>
 ```
 
-Images and videos share the same task queue. The submit endpoint returns a `task_id` immediately. Poll until status reaches `completed` or `failed`.
+Images and videos share the same task queue but use different API keys. The submit endpoint returns a `task_id` immediately. Poll until status reaches `completed` or `failed`.
 
 ### Supported Parameters
 
@@ -87,7 +94,7 @@ Submit a text-to-image generation task:
 
 ```bash
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_IMG_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "nano-banana-2",
@@ -115,7 +122,7 @@ IMG_B64="$(base64 -i ./product1.jpg | tr -d '\\n')"
 DATA_URL="data:image/jpeg;base64,$IMG_B64"
 
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_IMG_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "nano-banana-2",
@@ -130,7 +137,7 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
 
 ```bash
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "veo3.1-fast",
@@ -146,7 +153,7 @@ Provide a single starting frame via URL or base64:
 ```bash
 # Using URL
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "veo3.1-fast",
@@ -158,7 +165,7 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
 # Using local file (base64)
 IMG_B64="$(base64 -i ./first_frame.png | tr -d '\\n')"
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_IMG_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "veo3.1-fast",
@@ -174,7 +181,7 @@ Provide both a start frame and an end frame:
 
 ```bash
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "veo3.1-fast",
@@ -191,7 +198,7 @@ Use reference images to guide style, product appearance, and scene:
 
 ```bash
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
   -d '{
     "model": "veo3.1-lite",
@@ -207,7 +214,7 @@ After submit, poll every 10-15 seconds:
 
 ```bash
 curl -X GET "$CHAOWENAI_BASE_URL/v1/videos/$TASK_ID?model=veo3.1-fast" \\
-  -H "Authorization: Bearer $CHAOWENAI_KEY"
+  -H "Authorization: Bearer $CHAOWENAI_IMG_KEY"
 ```
 
 Status response:
