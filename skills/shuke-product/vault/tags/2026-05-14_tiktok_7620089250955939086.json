@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7620089250955939086",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/bvbyhalo_7620089250955939086.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620089250955939086/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖 **DIY手工贴钻套装（水钻收纳盒及水钻）**，或提供代贴钻服务。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢Y2K千禧风",
+      "BlingBling闪亮元素",
+      "追求个性化定制的年轻女性及学生群体",
+      "手工",
+      "DIY爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（视觉暴击）+ 审美认同 + 场景反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "耳机）上",
+    "比单纯展示水钻本身更有说服力",
+    "证明了产品的可落地性"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "(针对电商带货改造)\n*   **复刻脚本大纲（痛点+过程+展示+促单）：**\n    *   **0-2s (黄金钩子)：** 展现日常单品（如素颜香水瓶）-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖 **DIY手工贴钻套装（水钻收纳盒及水钻）**，或提供代贴钻服务。。品类：美妆护肤。人群：** 喜欢Y2K千禧风、BlingBling闪亮元素、追求个性化定制的年轻女性及学生群体。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、限时稀缺、结果前置。证明：耳机）上、比单纯展示水钻本身更有说服力、证明了产品的可落地性。风险：信任不足、无CTA。评分：5.6"
+}

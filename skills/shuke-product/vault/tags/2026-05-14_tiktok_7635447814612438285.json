@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7635447814612438285",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/vrfl_7635447814612438285.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635447814612438285/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 4.0,
+    "purchase_impulse": 8.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "（去侵权合规化改造）\n*   **复刻脚本大纲（适合自然流/投放）**：\n    1.  **痛点/钩子 (0-3s)**：直接展示侧脸捏不出下颌线的肉，或者早",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、痛点解决、效果前后对比。钩子：别划走、结果前置、场景冲突。风险：字幕不清、信任不足、无CTA。评分：6.6"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7628900996814540063",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/bxksjqdpvlm_7628900996814540063.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628900996814540063/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带一键录音、声控侦测、超长待机功能的迷你隐蔽录音设备（俗称微型录音笔/防身取证器）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有感情防备心",
+      "需要商务",
+      "生活取证",
+      "或对他人评价有强烈好奇心的泛人群（特别是女性或弱势群体）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "反常识",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心拉扯 + 痛点直击 + 场景假设。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（本地化拍摄指南）\n*   **复刻脚本大纲：**\n    *   0-3s 制造痛点与悬念（一键开机动作）\n    *   3-6s 展示超小体积（放入各种隐",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带一键录音、声控侦测、超长待机功能的迷你隐蔽录音设备（俗称微型录音笔/防身取证器）。。品类：数码配件。人群：** 有感情防备心、需要商务、生活取证。视频类型：场景种草、痛点解决、质地实测。钩子：反常识、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

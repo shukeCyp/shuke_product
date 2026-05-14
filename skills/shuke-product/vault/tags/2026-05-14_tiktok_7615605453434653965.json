@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7615605453434653965",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/mindfulgenesis_7615605453434653965.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615605453434653965/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带竹木质感边框、内含三个分类网袋（浅色、内衣/轻柔、深色）的极简风带盖洗衣篮。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求居家美学（Clean Fit",
+      "极简风）",
+      "注重生活品质",
+      "对衣物收纳和洗涤分类有痛点的人群（以女性",
+      "宝妈",
+      "独居青年为主）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 颜值/氛围感吸引 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "** 盖上盖子，放回角落展示唯美外观，跟上购买引导。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带竹木质感边框、内含三个分类网袋（浅色、内衣/轻柔、深色）的极简风带盖洗衣篮。。品类：服饰穿搭。人群：** 追求居家美学（Clean Fit、极简风）、注重生活品质。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、功效宣称风险。评分：7.6"
+}

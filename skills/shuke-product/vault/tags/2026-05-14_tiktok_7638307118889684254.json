@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7638307118889684254",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/sogoodkids199_7638307118889684254.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638307118889684254/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有幽默英文标语（“奶奶+我=破产的爷爷”）的婴儿连体衣（包屁衣）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 祖父母（特别是奶奶）",
+      "孕期",
+      "新生儿父母",
+      "寻找趣味新生儿伴手礼的亲友。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心驱动 + 情绪反差 + 身份代入。衣服上的算式排版让人忍不住去读，配合魔性笑声，形成强烈的反差感。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "高清的黑色印花细节（证明洗后不易掉色）",
+    "底部的五金/塑料按扣特写"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 5.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（适合短视频带货/自然流）\n- **复刻脚本大纲：**\n  - 0-2s：手持带幽默标语的连体衣怼脸，手指划过标语，配合笑声（吸引注意）。\n  - 2-5s：双",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有幽默英文标语（“奶奶+我=破产的爷爷”）的婴儿连体衣（包屁衣）。。品类：数码配件。人群：** 祖父母（特别是奶奶）、孕期、新生儿父母。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：高清的黑色印花细节（证明洗后不易掉色）、底部的五金/塑料按扣特写。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

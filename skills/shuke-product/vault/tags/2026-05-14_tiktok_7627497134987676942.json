@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7627497134987676942",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/joella_edit_7627497134987676942.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627497134987676942/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.84,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** ARIAT 品牌的男士高弹力修身基础款短袖T恤（视频展示了白、灰、黑、红、藏青五种颜色）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有健身习惯",
+      "身材较好或追求穿衣显壮的男性群体",
+      "以及希望伴侣穿衣显身材的女性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "成分展示"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击（肌肉身材） + 多SKU结果展示（一摞多色衣服） + 氛围感（硬汉/车库背景）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "下摆",
+    "袖口且瞬间复原",
+    "是最强有力的信任背书）",
+    "**细节**（微距镜头展示了面料纹理和Logo印花的牢固度）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲：**\n    *   0-2s 痛点钩子 + 夸张测试（拉扯领口）\n    *   2-5s 变装走秀 + 展",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** ARIAT 品牌的男士高弹力修身基础款短袖T恤（视频展示了白、灰、黑、红、藏青五种颜色）。。品类：男士护理。人群：** 有健身习惯、身材较好或追求穿衣显壮的男性群体、以及希望伴侣穿衣显身材的女性群体。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：下摆、袖口且瞬间复原、是最强有力的信任背书）。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

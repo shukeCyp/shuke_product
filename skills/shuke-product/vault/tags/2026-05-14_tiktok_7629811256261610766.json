@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7629811256261610766",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/megansue100_7629811256261610766.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629811256261610766/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“I'll drop it down below. It does constantly sell out though, so that's just som",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.5,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（15-20秒短平快版本）**：\n    *   **0-3s**：特写手深按被子（必须有极强的深陷感），字幕“为什么网图里的床铺那么显",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：UGC口播、痛点解决、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足。评分：8.7"
+}

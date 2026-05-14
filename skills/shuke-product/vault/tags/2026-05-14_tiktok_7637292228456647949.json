@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7637292228456647949",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/thatguyknowssballl_7637292228456647949.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637292228456647949/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 结合 OOTD（日常穿搭）展示与“add to cart”文案，疑似售卖该男子穿着的**带有白色骨骼图案的黑色半拖鞋/洞洞鞋**，或**迷彩工装短裤**（",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢街头潮流文化",
+      "Hip-hop 风格的年轻男性",
+      "或容易被肌肉型男吸引从而产生冲动消费（买给伴侣",
+      "自己穿）的女性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示钩子 + 好奇心钩子（他在展示什么？）+ 审美/氛围钩子（阳光型男）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "无过度修图",
+    "衣服甚至穿得有些随意",
+    "这种“不刻意”反而增加了街头信徒的信任感）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 5.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（如果是卖那双鞋/裤子）\n*   **复刻脚本大纲：**\n    1.  0-2s：鞋子特写走动入场（解决原视频缺乏重点的问题）。\n    2.  2-6s：镜",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 结合 OOTD（日常穿搭）展示与“add to cart”文案，疑似售卖该男子穿着的**带有白色骨骼图案的黑色半拖。品类：男士护理。人群：** 喜欢街头潮流文化、Hip-hop 风格的年轻男性、或容易被肌肉型男吸引从而产生冲动消费（买给伴侣。视频类型：UGC口播、痛点解决、测评对比。钩子：好奇悬念、结果前置、场景冲突。证明：无过度修图、衣服甚至穿得有些随意、这种“不刻意”反而增加了街头信徒的信任感）。风险：信任不足、无CTA。评分：5.2"
+}

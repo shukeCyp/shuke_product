@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7637786453245742350",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/rianna_nna_7637786453245742350.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637786453245742350/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款黑白波点图案、带有红色樱桃挂件的通勤/上课托特包（Tote Bag）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求颜值与实用性兼顾的年轻女性",
+      "女大学生",
+      "职场新人（偏好“OOTD穿搭”和“What's in my bag”内容的用户）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "场景种草",
+      "UGC口播",
+      "质地实测",
+      "清仓福利"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "结果前置",
+      "场景冲突",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入（第一视角日常感） + 审美吸引（强烈的黑白视觉对比）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是直接给你看里面装了电脑",
+    "耳机",
+    "化妆品",
+    "且没有变形得很难看",
+    "真实感爆棚"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "（适用于短视频带货/投流改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款黑白波点图案、带有红色樱桃挂件的通勤/上课托特包（Tote Bag）。。品类：美妆护肤。人群：** 追求颜值与实用性兼顾的年轻女性、女大学生、职场新人（偏好“OOTD穿搭”和“What's in my bag”内容的用户）。。视频类型：价格刺激、效果前后对比、痛点解决。钩子：低价占便宜、结果前置、场景冲突。证明：而是直接给你看里面装了电脑、耳机、化妆品。风险：口播缺失、信任不足、无CTA。评分：8.0"
+}

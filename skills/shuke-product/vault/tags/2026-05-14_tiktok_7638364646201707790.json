@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7638364646201707790",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/bridge2527_7638364646201707790.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638364646201707790/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 硅胶吸磁可重复使用水气球（水弹）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 宝妈宝爸",
+      "儿童",
+      "策划夏季户外",
+      "玩水活动的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "悬念/好奇钩子（结合文字 \"when...\" 的未完待续） + 动作解压钩子（水下闭合的爽感）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（补全闭环版 - 15秒）：**\n    *   0-3s：痛点文案 + 水下秒速注水特写（吸睛）。\n    *   3-6s：第一视角",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 硅胶吸磁可重复使用水气球（水弹）。。品类：家居清洁。人群：** 宝妈宝爸、儿童、策划夏季户外。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、价格跳水、结果前置。风险：信任不足、无CTA。评分：8.0"
+}

@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7634725512463535390",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/tts10663_7634725512463535390.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634725512463535390/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有可旋转定制图案（或搞笑meme图）的嘻哈风“水钻”飞翼吊坠项链。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性与猎奇的Z世代",
+      "嘻哈文化爱好者",
+      "Meme（热梗）爱好者",
+      "或寻找恶搞",
+      "趣味礼物的年轻人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差（极度浮夸的镶钻项链 vs 中间随意的搞笑照片）、好奇/动作钩子（手指拨动旋转）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "信任感偏向“新奇特小商品”而非高价值珠宝"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 8.0,
+    "purchase_impulse": 4.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（如果我们要拿这个品去跑量）\n*   **复刻脚本大纲（痛点+种草+转化）：**\n    *   *0-2s 钩子：* 真人佩戴特写，手指快速拨动项链（与原视频",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有可旋转定制图案（或搞笑meme图）的嘻哈风“水钻”飞翼吊坠项链。。品类：数码配件。人群：** 追求个性与猎奇的Z世代、嘻哈文化爱好者、Meme（热梗）爱好者。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：信任感偏向“新奇特小商品”而非高价值珠宝。风险：字幕不清、口播缺失、信任不足。评分：6.2"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7612693997844172045",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/keluoxin1602_7612693997844172045.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612693997844172045/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.45,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖带有仿 Coach 经典老花图案及镶钻镜头保护圈的粉色 iPhone 手机壳（主打平替/白牌爆款）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "偏好粉色系",
+      "BlingBling 闪亮元素",
+      "追求时尚大牌感但注重性价比的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（拆包装） + 场景暗示（堆积如山的商品，暗示源头工厂/爆款发货）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "* 手指敲击屏幕下方（指示购物车位置）。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 5.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "(升级改造版)\n*   **改造方向：** 适合作为自然流或短视频投流素材，需补充文案和真机展示。\n*   **复刻脚本大纲（10秒极速转化）：**\n    *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖带有仿 Coach 经典老花图案及镶钻镜头保护圈的粉色 iPhone 手机壳（主打平替/白牌爆款）。。品类：数码配件。人群：** 年轻女性、偏好粉色系、BlingBling 闪亮元素。视频类型：UGC口播、痛点解决、库存背书。钩子：好奇悬念、结果前置、库存震撼。证明：**。风险：口播缺失、信任不足。评分：6.2"
+}

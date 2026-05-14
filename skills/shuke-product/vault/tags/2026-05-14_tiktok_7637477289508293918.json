@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7637477289508293918",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/dande.deals_7637477289508293918.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637477289508293918/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 碧梨（Billie Eilish）《Hit Me Hard and Soft》3D巡演电影票的**独家折扣链接**（TikTok与Fandango票务平台",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 碧梨（Billie Eilish）的粉丝",
+      "年轻一代（Z世代）",
+      "寻找周末消遣活动的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 激将法挑战（\"Can you even call yourself a Billie Eilish fan...\"）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "人物口播的自信状态"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.5,
+    "total": 7.1
+  },
+  "remake": {
+    "angle": "（以国内卖某明星演唱会/电影票为例）\n*   **复刻脚本大纲：**\n    1. 挑衅式粉籍认证（带出活动时间）。\n    2. 抛出重磅优惠（带出平台背书）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 碧梨（Billie Eilish）《Hit Me Hard and Soft》3D巡演电影票的**独家折扣链接**。品类：数码配件。人群：** 碧梨（Billie Eilish）的粉丝、年轻一代（Z世代）、寻找周末消遣活动的人群。。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、价格跳水。证明：人物口播的自信状态。风险：信任不足、无CTA。评分：7.1"
+}

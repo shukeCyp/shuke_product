@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7632593476781133087",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/emkm555_7632593476781133087.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632593476781133087/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.22,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "开箱展示",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    *   0-2s：展示带保护套的产品，配合催泪/回忆向文案，引发好奇。\n    *   2-4s：慢动作抽出钥匙扣/项链",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：场景种草、痛点解决、开箱展示。钩子：好奇悬念、场景冲突、身份点名。风险：口播缺失、信任不足、无CTA。评分：8.6"
+}

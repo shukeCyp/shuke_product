@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7637833781239401741",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/ambere35_7637833781239401741.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637833781239401741/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一条主打“防掉色、防水防汗”的日常款金色扁平粗型项链（疑似钛钢镀金或特殊保色材质的平价饰品）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求性价比",
+      "喜欢佩戴首饰但懒得频繁摘取",
+      "担心平价首饰掉色过敏的女性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "身份点名",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "真实开箱（包装反差） + 极速承诺。用极其简陋的塑料袋倒出产品的动作，打破了传统珠宝广告的高大上感，拉近距离；配合第一句话“我真的可以每天都戴着它”，直接给出使",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货/直播切片)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一条主打“防掉色、防水防汗”的日常款金色扁平粗型项链（疑似钛钢镀金或特殊保色材质的平价饰品）。。品类：数码配件。人群：** 追求性价比、喜欢佩戴首饰但懒得频繁摘取、担心平价首饰掉色过敏的女性群体。。视频类型：开箱展示、效果前后对比、场景种草。钩子：结果前置、场景冲突、身份点名。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7629032891518930207",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/literallylys_7629032891518930207.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629032891518930207/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比",
+      "手背实测",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 7.5,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "(针对本品类)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、价格跳水。风险：信任不足、无CTA。评分：7.4"
+}

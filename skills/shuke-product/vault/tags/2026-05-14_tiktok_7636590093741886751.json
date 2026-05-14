@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7636590093741886751",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/kyjewelry_7636590093741886751.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636590093741886751/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "低价占便宜",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 4.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "(针对礼赠节点的爆款改造)\n若要提高这条视频的ROI，建议改为**【情感痛点+真人实测】**结构：\n- **复刻脚本大纲**：礼赠痛点引入 -> 真人佩戴效果展",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、低价占便宜、结果前置。风险：口播缺失、信任不足、无CTA。评分：6.2"
+}

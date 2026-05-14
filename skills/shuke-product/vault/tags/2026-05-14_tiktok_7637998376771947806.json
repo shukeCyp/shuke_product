@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7637998376771947806",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/puremxliguestore_7637998376771947806.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637998376771947806/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 3.0,
+    "trust": 4.0,
+    "product_display": 5.0,
+    "purchase_impulse": 7.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "（针对泛娱乐引流带货）\n*   **复刻脚本大纲**：\n    *   **0-3s（产品特写+悬念）**：在极具生活气息的场景（车内/阳台）手持你的产品，配文",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：场景种草、痛点解决、库存背书。钩子：限时稀缺、低价占便宜、好奇悬念。风险：字幕不清、信任不足、无CTA。评分：5.6"
+}

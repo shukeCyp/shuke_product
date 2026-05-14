@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7638480986648497422",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/superbhealth_7638480986648497422.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638480986648497422/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.92,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "#### 拍摄镜头清单 (国内本土化翻拍)：\n1. **达人绿幕口播**：夸张指点背景（3-4段名人穿错裤子和穿对裤子的对比图）。\n2. **大牌官网录屏/截图",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、低价占便宜、好奇悬念。风险：信任不足、无CTA"
+}

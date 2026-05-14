@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633844268427119902",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/bensbuyss_7633844268427119902.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633844268427119902/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 4D云感/穴位按摩运动鞋垫（4D Cloud Technology Insoles）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 每天长时间站立",
+      "行走或工作的上班族（尤其是9早5晚",
+      "零售",
+      "餐饮等行业）",
+      "以及受足部疼痛困扰的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差 + 场景冲突 + 身份代入（9-5人群）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  1. **0-3s 钩子：** 视觉对比（单脚垫极厚海绵，单脚踩地）。\n  2. **3-8s 制造痛点：** 抽出普通帆布鞋/",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 4D云感/穴位按摩运动鞋垫（4D Cloud Technology Insoles）。。品类：家居清洁。人群：** 每天长时间站立、行走或工作的上班族（尤其是9早5晚、零售。视频类型：UGC口播、痛点解决、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.4"
+}

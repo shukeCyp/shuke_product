@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638014565590076702",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/gn55806_7638014565590076702.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638014565590076702/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似主推**孔雀蓝流苏单肩包（Teal fringe bag）**，同时可能在带货整套夏日穿搭（白色短袖、白色牛仔包臀裙、粉色墨镜）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚",
+      "喜欢Boho（波西米亚）",
+      "辣妹风",
+      "夏日音乐节穿搭的年轻女性（18-30岁）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（氛围感种草）+ 视觉审美刺激。没有激烈的冲突，全靠高颜值、好身材以及极具夏日感的色彩搭配（蓝天、绿树、白衣、蓝包）来留人。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "包包和衣服的颜色依然鲜艳纯正",
+    "没有见光死）",
+    "拉链顺滑度",
+    "内部容量等硬核证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 6.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "(低成本改造爆款建议)\n如果要把这个视频改造成高转化的投流广告，建议如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似主推**孔雀蓝流苏单肩包（Teal fringe bag）**，同时可能在带货整套夏日穿搭（白色短袖、白色牛仔。品类：美妆护肤。人群：** 追求时尚、喜欢Boho（波西米亚）、辣妹风。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：包包和衣服的颜色依然鲜艳纯正、没有见光死）、拉链顺滑度。风险：口播缺失、信任不足、无CTA。评分：5.2"
+}

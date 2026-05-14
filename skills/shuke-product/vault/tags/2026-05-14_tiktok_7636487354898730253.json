@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7636487354898730253",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/anniefernn_7636487354898730253.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636487354898730253/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "运动户外",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "成分展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（适用于带货账号）\n- **复刻脚本大纲**：成品吸睛(3s) -> 痛点/低成本引入(2s) -> 容器准备(3s) -> 放入水泵见证奇迹(5s) -> 行",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：运动户外。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

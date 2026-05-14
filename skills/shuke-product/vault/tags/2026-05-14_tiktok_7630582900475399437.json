@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7630582900475399437",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/heyyitsliz_7630582900475399437.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630582900475399437/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款纯欲/浪漫风格的白色春季修身连衣裙（由文案“Oys spring dress”得知）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁",
+      "追求浪漫氛围感",
+      "注重身材曲线展示（S型）",
+      "喜欢“Coquette（纯欲",
+      "法式甜美）”美学的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接展示穿搭完成后的极佳效果）与 氛围美学（高颜值的场景与穿搭统一）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "门",
+    "地毯）",
+    "不是棚拍",
+    "这种“闺蜜分享式”的对镜自拍极大地降低了消费者的防御心理",
+    "增加了“所见即所得”的信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 6.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "这是一个非常适合**小成本、个人IP、服饰类目**复刻的模板。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款纯欲/浪漫风格的白色春季修身连衣裙（由文案“Oys spring dress”得知）。。品类：数码配件。人群：** 18-35岁、追求浪漫氛围感、注重身材曲线展示（S型）。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：门、地毯）、不是棚拍。风险：口播缺失、信任不足、无CTA。评分：6.4"
+}

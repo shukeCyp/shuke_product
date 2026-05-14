@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7631598398931537165",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/modernmamaera_7631598398931537165.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631598398931537165/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 婴儿硅胶牙胶棒（Razbaby Chompy teething wand）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有3个月以上",
+      "正处于长牙期",
+      "喜欢吃手",
+      "牙龈酸痛哭闹的婴儿父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极端痛点展示 + 场景共鸣。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "是最好的效果背书",
+    "增加了“真实买家秀”的信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（20秒黄金版）\n1. **痛点前置 (0-2s)：** 婴儿哭闹、烦躁吃手特写。\n2. **破局植入 (2-4s)：** 商品包装或特写",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 婴儿硅胶牙胶棒（Razbaby Chompy teething wand）。。品类：服饰穿搭。人群：** 家有3个月以上、正处于长牙期、喜欢吃手。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：是最好的效果背书、增加了“真实买家秀”的信任感。风险：口播缺失、信任不足、无CTA。评分：8.8"
+}

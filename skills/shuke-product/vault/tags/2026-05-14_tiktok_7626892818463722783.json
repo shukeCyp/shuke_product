@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7626892818463722783",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/shop.lex.finds_7626892818463722783.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626892818463722783/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款复古法式波波柱（Bobbin/Spool）实木/仿木质感圆底边几。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重生活仪式感",
+      "喜欢温馨",
+      "复古",
+      "法式居家风格的女性",
+      "租房党或预算有限但追求高级感的家居爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（唯美家居角落） + 价格刺激/反差诱惑（字幕：High end on a budget 平价享高级）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（针对短视频带货改造）\n*   **复刻脚本大纲（15秒内）：**\n    1.  0-3s 黄金前三秒：展示边几放在沙发旁的绝美全景（桌上需放一杯热咖啡和一本",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款复古法式波波柱（Bobbin/Spool）实木/仿木质感圆底边几。。品类：食品饮料。人群：** 注重生活仪式感、喜欢温馨、复古。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

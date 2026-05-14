@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7621710234112904461",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/ms_assty_7621710234112904461.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621710234112904461/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.56,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频销售一款粉色异形人体工学靠枕（从造型和BGM暗示来看，疑似为伴侣互动辅助/腰部支撑专用枕，视频字面包装为“助眠礼物”）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 女性用户",
+      "情侣",
+      "寻找特殊节日礼物的消费者",
+      "有腰部支撑需求的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景带入 + 悬念好奇 + 听觉刺激。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "换一个姿势使用靠枕，屏幕弹出指向购物车的箭头。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 6.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（适合短视频团队借鉴）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频销售一款粉色异形人体工学靠枕（从造型和BGM暗示来看，疑似为伴侣互动辅助/腰部支撑专用枕，视频字面包装为“助眠。品类：数码配件。人群：** 女性用户、情侣、寻找特殊节日礼物的消费者。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、限时稀缺、结果前置。证明：**。风险：信任不足。评分：7.4"
+}

@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7625357728935890189",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/americas.sneaker_7625357728935890189.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625357728935890189/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "库存展示",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（针对国内抖音/视频号/小红书改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。风险：字幕不清、信任不足、无CTA"
+}

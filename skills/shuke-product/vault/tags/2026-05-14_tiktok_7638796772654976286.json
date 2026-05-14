@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638796772654976286",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/commontrafficmafia_7638796772654976286.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638796772654976286/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁男性",
+      "JDM爱好者",
+      "汽车改装玩家（特别是“姿态",
+      "Hellaflush”玩家）",
+      "以及喜欢看汽车热闹的泛泛之交。"
+    ],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "剧情反转",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（破坏感） + 观点争议（引战吐槽）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 真实路人围观（证明回头率高）；多辆不同品牌的高端改装案例（证明圈子实力）。"
+  ],
+  "cta": {
+    "text": "** 师傅几秒钟贴好防刮条的快进画面，展示材质韧性。口播引导下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 4.0
+  },
+  "remake": {
+    "angle": "（爆款框架改造为电商带货版）\n假设客户是一家售卖**“汽车前铲防刮胶条”**的商家，如何复刻此爆款模型？",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。人群：** 18-35岁男性、JDM爱好者、汽车改装玩家（特别是“姿态。视频类型：效果前后对比、场景种草、痛点解决。钩子：好奇悬念、场景冲突、身份点名。证明：** 真实路人围观（证明回头率高）；多辆不同品牌的高端改装案例（证明圈子实力）。。风险：口播缺失、信任不足。评分：4.0"
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7624660016846425374",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/jaidatiktokshop_7624660016846425374.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624660016846425374/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.55,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有蕾丝花边的淡黄色连体紧身衣（主打知名品牌 Skims 的平替款）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚穿搭",
+      "喜欢欧美辣妹风",
+      "纯欲风",
+      "注重身材展现",
+      "且具有一定性价比追求的年轻女性（Z世代为主）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 热门标签（大牌平替刺激）+ 颜值/身材吸引。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "无材质展示"
+  ],
+  "cta": {
+    "text": "** 模特指向上方/下方购物车，配合明确价格刺激。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 5.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 6.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "（适合短视频带货改造）\n为了将这个原生感视频转化为高转化率的带货视频，建议进行以下改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有蕾丝花边的淡黄色连体紧身衣（主打知名品牌 Skims 的平替款）。。品类：服饰穿搭。人群：** 追求时尚穿搭、喜欢欧美辣妹风、纯欲风。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：无材质展示。风险：字幕不清、口播缺失、信任不足。评分：6.0"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638742303451958542",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/blissbling_us6_7638742303451958542.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638742303451958542/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.98,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 18K金材质、带阳光放射纹理的方形定制字母吊坠项链（品牌呈现为 KISSYAN）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求平价百搭首饰的年轻女性",
+      "以及寻找高性价比",
+      "具专属感礼物（如送闺蜜",
+      "伴侣）的送礼人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党",
+      "手残党",
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（高颜值光泽） + 身份背书（“最火爆的18K金”言语刺激）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "(针对国内电商平台/短视频优化)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 18K金材质、带阳光放射纹理的方形定制字母吊坠项链（品牌呈现为 KISSYAN）。。品类：服饰穿搭。人群：** 追求平价百搭首饰的年轻女性、以及寻找高性价比、具专属感礼物（如送闺蜜。视频类型：UGC口播、痛点解决、开箱展示。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：7.4"
+}

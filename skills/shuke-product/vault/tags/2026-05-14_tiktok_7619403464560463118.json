@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7619403464560463118",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/ugc_miranda_7619403464560463118.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619403464560463118/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 3.0,
+    "purchase_impulse": 5.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（强转化改造版）\n如果要将此视频改造成适合投流的高转化视频，建议如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：6.2"
+}

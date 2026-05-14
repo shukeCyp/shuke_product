@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7629194402065435935",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/megalookhairstore_7629194402065435935.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629194402065435935/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 细节/视觉证明。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**实测**（手指梳理头发不卡顿）",
+    "**场景光线**（自然阳光照射",
+    "劣质化纤假发在强光下会呈现贼光",
+    "而该产品呈现高级柔光",
+    "证明材质优良）"
+  ],
+  "cta": {
+    "text": "* \"Click the link! 50% OFF today only.\" (点击链接，今日尊享50%折扣)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 6.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（升级为高转化带货版）：**\n*   **0-2s 痛点抓取：** 极近景特写拨开发缝，配合字幕提出痛点。\n*   **3-6s 材质证明：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：**实测**（手指梳理头发不卡顿）、**场景光线**（自然阳光照射、劣质化纤假发在强光下会呈现贼光。风险：口播缺失、信任不足。评分：8.0"
+}

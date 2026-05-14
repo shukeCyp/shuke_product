@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7637043439992982798",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/boyi_shop_7637043439992982798.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637043439992982798/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "左下角限时清仓，好刀不等人！",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 6.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. **黄金3秒**：一击即断粗绳（高燃视觉）+ 清脆收刀声。\n  2. **颜值展示（3-8s）**：微距展示雕花细节，搭配",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、直播切片、清仓福利。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足。评分：8.0"
+}

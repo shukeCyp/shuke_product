@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7633438109954329869",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/romeoremo08_7633438109954329869.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633438109954329869/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 婴幼儿定制/趣味标语T恤（印有“POP POP'S LITTLE Guy”字样）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 爷爷",
+      "外公群体（Pop Pop 是英语中对祖父辈的昵称）",
+      "或是想买礼物送给孩子",
+      "并借此讨长辈欢心的父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（针对“Pop Pop”） + 萌娃展示（视觉吸引） + 情感投射。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "典型的UGC原生感",
+    "这种粗糙感反而极大增强了“这是一位真实买家秀”的信任度",
+    "细节和第三方背书等硬核电商证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（提升ROI改造版）\n*该类情感类服饰，需要加强“送礼场景”的引导。*",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 婴幼儿定制/趣味标语T恤（印有“POP POP'S LITTLE Guy”字样）。。品类：服饰穿搭。人群：** 爷爷、外公群体（Pop Pop 是英语中对祖父辈的昵称）、或是想买礼物送给孩子。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：典型的UGC原生感、这种粗糙感反而极大增强了“这是一位真实买家秀”的信任度、细节和第三方背书等硬核电商证据。风险：口播缺失、信任不足、无CTA。评分：6.4"
+}

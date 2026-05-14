@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7636571933240249613",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/funnytruckerhats_7636571933240249613.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636571933240249613/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.49,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "如果我们要重拍这条视频以提升转化，可以采用以下方案：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：字幕不清、口播缺失、信任不足。评分：6.8"
+}

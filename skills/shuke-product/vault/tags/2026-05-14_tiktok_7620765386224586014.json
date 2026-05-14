@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7620765386224586014",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/giftofconnection_7620765386224586014.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620765386224586014/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.16,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖带有情感寄托属性的**定制字母+爱心吊坠项链**（视频展示为字母“J”）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "特别是处于情感波折期（失恋",
+      "异地恋",
+      "暗恋）",
+      "容易被“伤感",
+      "emo文学”打动",
+      "或寻求具有特殊纪念意义首饰的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念 + 情感共鸣（场景冲突）。美丽的项链与“Unfortunately（不幸的是）”形成反差，激发用户探究欲：“谁留下了印记？”“什么印记？”。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.5,
+    "total": 6.5
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲：**\n    *   前3s：对镜自拍，展示一条定制项链，配Emo文案。\n    *   中3s：手指抚摸项链",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖带有情感寄托属性的**定制字母+爱心吊坠项链**（视频展示为字母“J”）。。品类：数码配件。人群：** 年轻女性、特别是处于情感波折期（失恋、异地恋。视频类型：价格刺激、质地实测、UGC口播。钩子：结果前置、好奇悬念、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.5"
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7614522455192898829",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/brandifaith4_7614522455192898829.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614522455192898829/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 5.0,
+    "product_display": 3.0,
+    "purchase_impulse": 7.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲**：\n1. **0-3s 痛点+价格钩子**：展示乱七八糟的庭院或被淋湿的包裹，瞬间切到崭新的储物箱，打出$20低价。\n2. **4-10s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、场景冲突、反常识。风险：信任不足、无CTA。评分：6.0"
+}

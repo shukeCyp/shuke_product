@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7636095349802667277",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/abrarahh_7636095349802667277.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636095349802667277/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖具有中东/阿拉伯风情的黑色镶金边刺绣罩袍（Abaya）或长款连衣裙。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求端庄优雅穿搭的女性",
+      "穆斯林女性",
+      "有参加晚宴",
+      "节庆（如开斋节）需求且喜欢异域风情的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（视觉冲击） + 局部特写。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "多角度（正面",
+    "侧面",
+    "局部）拍摄",
+    "第三方背书等强力证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 7.0,
+    "purchase_impulse": 4.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **0-2s 细节暴击：** 特写对准服装最贵的部分（刺绣/排扣），配合悬念文案。\n    2.  **2-5s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖具有中东/阿拉伯风情的黑色镶金边刺绣罩袍（Abaya）或长款连衣裙。。品类：服饰穿搭。人群：** 追求端庄优雅穿搭的女性、穆斯林女性、有参加晚宴。视频类型：UGC口播、直播切片、清仓福利。钩子：结果前置、场景冲突、低价占便宜。证明：多角度（正面、侧面、局部）拍摄。风险：口播缺失、信任不足、无CTA。评分：5.8"
+}

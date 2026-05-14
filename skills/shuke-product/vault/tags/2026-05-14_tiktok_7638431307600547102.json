@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7638431307600547102",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/lifewithdaiisyy_7638431307600547102.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638431307600547102/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.06,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 3.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 6.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（如果将其改造为高转化带货视频）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：场景种草、痛点解决、UGC口播。钩子：好奇悬念、结果前置、场景冲突。风险：口播缺失、信任不足、无CTA。评分：6.2"
+}

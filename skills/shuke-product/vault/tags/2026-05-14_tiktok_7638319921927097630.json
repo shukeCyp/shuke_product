@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638319921927097630",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/trustmebroreviews_7638319921927097630.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638319921927097630/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.78,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款带有LED发光指示灯、编织线材质的**电竞级千兆/万兆网线（Ethernet Cable）**。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 主机玩家（视频中出现了PS5）",
+      "PC游戏玩家",
+      "尤其是受够了Wi-Fi延迟",
+      "追求极致网络稳定性的硬核玩家。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（POV） + 结果展示（0 Ping） + 视觉刺激（发光接头）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是在一个光线昏暗",
+    "略显杂乱的真实玩家桌面拍摄",
+    "这种UGC（用户生成内容）风格天然具有极高的真实度和信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（扩充至10-15秒完整带货版）：**\n    *   **0-3s (痛点/钩子)：** 屏幕显示游戏“Connection Lost",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款带有LED发光指示灯、编织线材质的**电竞级千兆/万兆网线（Ethernet Cable）**。。品类：数码配件。人群：** 主机玩家（视频中出现了PS5）、PC游戏玩家、尤其是受够了Wi-Fi延迟。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：而是在一个光线昏暗、略显杂乱的真实玩家桌面拍摄、这种UGC（用户生成内容）风格天然具有极高的真实度和信任感。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

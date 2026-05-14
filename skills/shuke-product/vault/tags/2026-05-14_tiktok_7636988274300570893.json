@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7636988274300570893",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/elyssasfoodjournal_7636988274300570893.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636988274300570893/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** TWOFOURSIX品牌的芒果味软糖（包含经典原味和酸味两款）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱零食的Z世代",
+      "年轻群体",
+      "软糖爱好者",
+      "追求真实果汁口感的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "直播切片",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "别划走"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "用户评价",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入（真实拆快递/样品）+ 快速切入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（适合短视频达人带货食品类目）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** TWOFOURSIX品牌的芒果味软糖（包含经典原味和酸味两款）。。品类：厨房用品。人群：** 喜爱零食的Z世代、年轻群体、软糖爱好者。视频类型：UGC口播、测评对比、直播切片。钩子：好奇悬念、别划走。风险：信任不足、无CTA"
+}

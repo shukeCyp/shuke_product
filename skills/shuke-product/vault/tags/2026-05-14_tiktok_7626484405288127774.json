@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7626484405288127774",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/greengrapes03_7626484405288127774.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626484405288127774/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** G-BOX 冻干冰淇淋块（Freeze-Dried Ice Cream Cubes）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢咀嚼音（ASMR）的受众",
+      "异食癖",
+      "特殊口感偏好者（特别是喜欢生吃玉米淀粉的人群）",
+      "猎奇零食爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "听觉刺激（极其突出的 ASMR） + 身份代入/场景冲突（定向喊话吃玉米淀粉的人） + 结果展示（this is better）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "无需赘述",
+    "听觉直接证明了产品的质地"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版）：**\n    *   *0-3s 黄金开头：* 画面高亮。双手戴透明手套，将几块冻干冰淇淋掰断，收音麦克风贴近，录下极其清脆",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** G-BOX 冻干冰淇淋块（Freeze-Dried Ice Cream Cubes）。。品类：厨房用品。人群：** 喜欢咀嚼音（ASMR）的受众、异食癖、特殊口感偏好者（特别是喜欢生吃玉米淀粉的人群）。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：无需赘述、听觉直接证明了产品的质地。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

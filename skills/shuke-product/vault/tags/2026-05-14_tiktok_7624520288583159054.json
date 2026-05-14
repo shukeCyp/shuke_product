@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7624520288583159054",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/trinitylg_7624520288583159054.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624520288583159054/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.91,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 高品质（颜色鲜绿、粉质细腻）的抹茶粉，以及可能包含的周边茶具（富士山国风茶罐、茶筅）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 抹茶爱好者",
+      "经常在咖啡店消费奶茶",
+      "抹茶拿铁的年轻女性群体",
+      "追求生活仪式感和高颜值饮品的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉反差（极致的翠绿色与浓稠度）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 真实制作实测全过程（从粉到成品一镜到底不换场）。"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "（针对短视频带货团队）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 高品质（颜色鲜绿、粉质细腻）的抹茶粉，以及可能包含的周边茶具（富士山国风茶罐、茶筅）。。品类：厨房用品。人群：** 抹茶爱好者、经常在咖啡店消费奶茶、抹茶拿铁的年轻女性群体。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、价格跳水。证明：** 真实制作实测全过程（从粉到成品一镜到底不换场）。。风险：信任不足、无CTA。评分：8.6"
+}

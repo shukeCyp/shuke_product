@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7629723833624202526",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/calebshopfinds_7629723833624202526.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629723833624202526/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "送礼党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 5.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.5,
+    "total": 7.1
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - **0-2s 痛点钩子**：抛掷质感极佳的床品入镜，配合大胆直白的痛点文案。\n  - **2-6s 质感证明**：手部入画，",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：效果前后对比、场景种草、痛点解决。钩子：好奇悬念、结果前置。风险：口播缺失、信任不足、无CTA。评分：7.1"
+}

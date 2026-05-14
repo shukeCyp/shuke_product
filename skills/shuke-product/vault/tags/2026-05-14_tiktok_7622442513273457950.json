@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7622442513273457950",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/mags_korelly_7622442513273457950.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622442513273457950/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "口播引导下单（如“挂在电竞房绝了，左下角抢”）。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. [0-2s] 痛点/价格钩子 + 动作：手持未点亮商品，说出低价或痛点，按下开关。\n  2. [2-5s] 视觉爆发 + ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足。评分：8.8"
+}

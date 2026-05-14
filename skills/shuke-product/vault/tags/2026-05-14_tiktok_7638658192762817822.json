@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7638658192762817822",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/sarahsibbyyy_7638658192762817822.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638658192762817822/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.02,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 辣妹风休闲穿搭（黑色拉链紧身长袖打底衫 + 灰色抽绳运动裤），或浅金大波浪假发/接发。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-25岁",
+      "喜欢Hip-Hop文化",
+      "追求个性表达",
+      "喜欢欧美辣妹风穿搭的年轻女性（Z世代）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "疑问互动（\"What you like?\"） + 听觉刺激（极具反差感的露骨音乐） + 情绪代入（自信热舞）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "但长达14秒的剧烈舞蹈动作就是最好的“弹性和舒适度”实测证明"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 4.0,
+    "product_display": 6.0,
+    "purchase_impulse": 3.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "（服装带货改造版）\n- **复刻脚本大纲（场景-种草-证明模型）：**\n  - **0-2s：** 女主穿着睡衣，字幕：“不想出门的一天...”。\n  - **",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 辣妹风休闲穿搭（黑色拉链紧身长袖打底衫 + 灰色抽绳运动裤），或浅金大波浪假发/接发。。品类：服饰穿搭。人群：** 18-25岁、喜欢Hip-Hop文化、追求个性表达。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：但长达14秒的剧烈舞蹈动作就是最好的“弹性和舒适度”实测证明。风险：口播缺失、信任不足、无CTA。评分：4.6"
+}

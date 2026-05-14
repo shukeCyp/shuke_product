@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7622410047397596430",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/verified.sneaker_7622410047397596430.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622410047397596430/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用国内抖音/视频号/小红书平台）：**\n- **0-3s 黄金展示**：手握爆款球鞋外侧面，背景在货架前。抛出痛点/价格钩子。\n- **3-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：剧情反转、UGC口播、清仓福利。钩子：好奇悬念、限时稀缺、结果前置。风险：信任不足、无CTA。评分：8.2"
+}

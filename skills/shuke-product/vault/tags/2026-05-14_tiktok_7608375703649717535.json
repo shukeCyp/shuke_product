@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7608375703649717535",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/nicolesbeautyscene_7608375703649717535.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7608375703649717535/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "用户评价",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.5,
+    "trust": 9.0,
+    "product_display": 9.5,
+    "purchase_impulse": 8.5,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "(针对国内抖音/小红书/视频号带货)\n*   **复刻脚本大纲**：\n    1.  0-3s：抓痛点（抛出“带娃下馆子像打仗”的话题）+ 展示开盒。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：场景种草、痛点解决、质地实测。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：9.0"
+}

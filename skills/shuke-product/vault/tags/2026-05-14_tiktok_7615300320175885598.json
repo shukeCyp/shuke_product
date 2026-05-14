@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7615300320175885598",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/itslivvickers_7615300320175885598.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615300320175885598/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 儿童推车款仿真医生过家家玩具套装。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 1-5岁幼童的家长（特别是追求解放双手",
+      "希望培养孩子认知能力的宝妈）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景展示 + 结果展示（萌娃自然玩耍的场景）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "宝宝真实的衣着",
+    "家里的餐椅和地毯",
+    "加上宝宝不熟练但专注的佩戴动作",
+    "提供了100%的信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "(针对投流优化的改造建议)\n如果要把这个视频改造成高转化带货素材，建议保留原画面，进行如下“原生感+强转化”的改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 儿童推车款仿真医生过家家玩具套装。。品类：厨房用品。人群：** 1-5岁幼童的家长（特别是追求解放双手、希望培养孩子认知能力的宝妈）。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：宝宝真实的衣着、家里的餐椅和地毯、加上宝宝不熟练但专注的佩戴动作。风险：口播缺失、信任不足、无CTA。评分：7.0"
+}

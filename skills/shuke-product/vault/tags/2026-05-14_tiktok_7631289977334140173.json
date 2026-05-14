@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7631289977334140173",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/klhallene_7631289977334140173.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631289977334140173/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - 0-3s 黄金开头：叠加粉丝提问贴纸，展示把巨型字母滑入项圈的解压过程。\n  - 3-8s 卖点口播+动作：扣上卡扣，用一杯",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：开箱展示、效果前后对比、场景种草。钩子：好奇悬念、结果前置。风险：信任不足、无CTA。评分：8.6"
+}

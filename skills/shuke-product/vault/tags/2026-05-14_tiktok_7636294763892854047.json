@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7636294763892854047",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/niftysj_7636294763892854047.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636294763892854047/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 美式街头风（高街/Rick Owens平替风格）黑色阔腿抽绳短裤（Baggy Shorts）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Gen Z（Z世代）年轻男性",
+      "街头潮流爱好者",
+      "喜欢OOTD穿搭分享的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入。没有废话，开局直接上身，给出一个最直观的“穿搭结果”。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有专业棚拍",
+    "就在普通的室内走廊/宿舍拍摄",
+    "这种“粗糙感”反而构成了极强的真实背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "如果您要复刻这种模式，建议分为自然流和付费投放两个版本：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 美式街头风（高街/Rick Owens平替风格）黑色阔腿抽绳短裤（Baggy Shorts）。。品类：男士护理。人群：** Gen Z（Z世代）年轻男性、街头潮流爱好者、喜欢OOTD穿搭分享的用户。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：没有专业棚拍、就在普通的室内走廊/宿舍拍摄、这种“粗糙感”反而构成了极强的真实背书。风险：信任不足、无CTA。评分：7.8"
+}

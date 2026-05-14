@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638798258864753950",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/ashlynsharp1_7638798258864753950.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638798258864753950/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 纯色基础款 Oversize 红色连帽卫衣（占比最大），或夸张款假睫毛/美妆产品。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 15-25岁",
+      "追求美式街头风",
+      "慵懒舒适穿搭或喜欢 TikTok 流行审美的 Z世代年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "颜值/身材吸引、色彩视觉冲击（大面积鲜红色）、热门BGM跟拍趋势。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 2.0,
+    "trust": 5.0,
+    "product_display": 6.0,
+    "purchase_impulse": 2.0,
+    "total": 4.4
+  },
+  "remake": {
+    "angle": "（爆改带货视频方案）\n如果要用这个素材跑信息流广告或带货，必须进行**二次剪辑包装**：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 纯色基础款 Oversize 红色连帽卫衣（占比最大），或夸张款假睫毛/美妆产品。。品类：美妆护肤。人群：** 15-25岁、追求美式街头风、慵懒舒适穿搭或喜欢 TikTok 流行审美的 Z世代年轻女性。。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：**。风险：信任不足、无CTA。评分：4.4"
+}

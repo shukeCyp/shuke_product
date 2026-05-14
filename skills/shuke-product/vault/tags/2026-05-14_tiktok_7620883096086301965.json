@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7620883096086301965",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/betonyourself12_7620883096086301965.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620883096086301965/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.15,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 4.0,
+    "trust": 7.0,
+    "product_display": 5.0,
+    "purchase_impulse": 3.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "（带货向爆款改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、直播切片、清仓福利。钩子：结果前置、好奇悬念、限时稀缺。风险：字幕不清、口播缺失、信任不足。评分：4.8"
+}

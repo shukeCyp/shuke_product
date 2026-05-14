@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7626571380582092046",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/kikiii_life_7626571380582092046.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626571380582092046/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 西班牙语儿童启蒙纸板书（绘本），品牌可见为 Teeny Baby。",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 身处英语国家（主要是美国）的拉美裔父母",
+      "或希望让宝宝从小进行西班牙语双语启蒙的家庭。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 痛点共鸣 + 文化梗。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "若要复刻并加强带货转化，可采用以下方案：\n*   **复刻脚本大纲（15秒以内）：**\n    1.  **0-3s 情绪钩子：** 俯拍桌上散落的西语书，字幕",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 西班牙语儿童启蒙纸板书（绘本），品牌可见为 Teeny Baby。。品类：母婴宠物。人群：** 身处英语国家（主要是美国）的拉美裔父母、或希望让宝宝从小进行西班牙语双语启蒙的家庭。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、场景冲突、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

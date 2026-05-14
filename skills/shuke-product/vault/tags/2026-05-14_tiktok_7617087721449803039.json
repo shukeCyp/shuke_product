@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7617087721449803039",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/blackcherry.noir_7617087721449803039.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617087721449803039/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 男士高弹力修身短袖衬衫（主打肌肉男/健美体型适用）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 健身爱好者",
+      "肌肉量较大的男性",
+      "想要穿衣显瘦脱衣有肉的男性",
+      "以及想给伴侣购买质感男装的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "低价占便宜",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "成分展示",
+      "手背实测",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心（假人还是真人？） + 荷尔蒙吸引/身份代入（异性视角的触摸）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "假人与真人的无缝替换（暗示衣服能完美贴合真实的肌肉轮廓）",
+    "透气性测试"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "（转化为高ROI带货版本）\n如果我要优化并翻拍这条视频用于短视频带货：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 男士高弹力修身短袖衬衫（主打肌肉男/健美体型适用）。。品类：男士护理。人群：** 健身爱好者、肌肉量较大的男性、想要穿衣显瘦脱衣有肉的男性。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、低价占便宜、结果前置。证明：假人与真人的无缝替换（暗示衣服能完美贴合真实的肌肉轮廓）、透气性测试。风险：口播缺失、信任不足、无CTA。评分：7.2"
+}

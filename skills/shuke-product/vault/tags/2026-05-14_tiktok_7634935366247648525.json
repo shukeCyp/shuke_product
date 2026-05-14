@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634935366247648525",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/user9287177666662_7634935366247648525.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634935366247648525/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款木柄不锈钢多功能削皮/刨丝器（最后以套装形式出现）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家庭主妇",
+      "煮夫",
+      "经常做饭的备菜人群",
+      "解压视频受众",
+      "厨房小工具爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "价格跳水"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直给产品效果） + 感官刺激（ASMR音效） + 解压爽感。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "能清晰看到刨丝瞬间蔬菜纹理的变化和掉落的均匀细丝",
+    "这是最强的视觉证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适合国区抖音/快手/视频号）：**\n*   **0-3s（黄金三秒）：** 特写。切黄瓜丝，极速沙沙声。（字幕：别再切菜切到手抽筋了！）\n* ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款木柄不锈钢多功能削皮/刨丝器（最后以套装形式出现）。。品类：男士护理。人群：** 家庭主妇、煮夫、经常做饭的备菜人群。视频类型：场景种草、价格刺激、清仓福利。钩子：结果前置、好奇悬念、价格跳水。证明：能清晰看到刨丝瞬间蔬菜纹理的变化和掉落的均匀细丝、这是最强的视觉证据。风险：信任不足、无CTA。评分：8.2"
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7632715181872680205",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/xiaoxinxin688_7632715181872680205.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632715181872680205/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.28,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有极强聚光/泛光能力、带数字电量显示的强光手电筒（售价仅10美元）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 户外爱好者（露营",
+      "夜钓",
+      "徒步）",
+      "安保",
+      "夜班人员",
+      "有应急防身需求的人群",
+      "以及追求极致性价比的下沉",
+      "冲动消费群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 悬念对比（30美元 VS 10美元）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 10.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  （0-3s）悬念抛出：手持两把外观差异不大的手电，黑夜口播拉踩（价格对比）。\n    2.  （3-10s）竞品",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有极强聚光/泛光能力、带数字电量显示的强光手电筒（售价仅10美元）。。品类：男士护理。人群：** 户外爱好者（露营、夜钓、徒步）。视频类型：UGC口播、痛点解决、测评对比。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：8.6"
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7634954265982782751",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/user7480136568818_7634954265982782751.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634954265982782751/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "👇左下角抢同款，多机型可选！",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（优化版）**：\n  - 0-2s：撕开包装（动作钩子）+ 痛点口播（受众定向）。\n  - 3-6s：展示背面全貌（视觉种草）+ 卖点口播（",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、痛点解决。钩子：别划走、结果前置、场景冲突。风险：口播缺失、信任不足。评分：6.4"
+}

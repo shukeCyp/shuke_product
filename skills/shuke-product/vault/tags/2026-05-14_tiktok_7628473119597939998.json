@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7628473119597939998",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/shotgunroulette_7628473119597939998.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628473119597939998/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖“易拉罐保冷套（Koozie）”或包装为“成年人聚会破冰游戏道具”。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁年轻群体",
+      "大学生",
+      "喜欢社交聚会",
+      "户外BBQ的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 场景冲突 + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "素人真实反应（不可预知的喷洒和由衷的大笑）",
+    "这种UGC质感比精美的棚拍广告更能建立信任"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 1.0,
+    "trust": 9.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "(以售卖“派对保冷套/盲盒玩具”为例)\n*   **复刻脚本大纲：**\n    *   前3s：高燃开场。文案配合悬念，展示传递动作。\n    *   3-8s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖“易拉罐保冷套（Koozie）”或包装为“成年人聚会破冰游戏道具”。。品类：数码配件。人群：** 18-35岁年轻群体、大学生、喜欢社交聚会。视频类型：场景种草、痛点解决、质地实测。钩子：结果前置、场景冲突、好奇悬念。证明：素人真实反应（不可预知的喷洒和由衷的大笑）、这种UGC质感比精美的棚拍广告更能建立信任。风险：字幕不清、信任不足、无CTA。评分：5.2"
+}

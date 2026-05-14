@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7638814077271248159",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/bekahfunhehehe_7638814077271248159.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638814077271248159/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.59,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似主要售卖带有水钻蝴蝶结的透明高跟鞋（同时展示了脚链作为搭配/副推商品）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚",
+      "喜欢夜店",
+      "派对风",
+      "注重腿部线条展示的年轻女性（辣妹风",
+      "纯欲风受众）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（上脚绝美效果）、氛围感/视觉冲击（粉紫灯光+美腿）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "前后对比",
+    "材质特写和第三方背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 4.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "如果保留原视频的氛围，将其改造成高转化的带货视频，建议如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似主要售卖带有水钻蝴蝶结的透明高跟鞋（同时展示了脚链作为搭配/副推商品）。。品类：美妆护肤。人群：** 追求时尚、喜欢夜店、派对风。视频类型：剧情反转、UGC口播、清仓福利。钩子：好奇悬念、结果前置、场景冲突。证明：前后对比、材质特写和第三方背书。风险：信任不足、无CTA。评分：5.2"
+}

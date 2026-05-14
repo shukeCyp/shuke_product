@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638335248975072526",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/bibibodypiercing_7638335248975072526.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638335248975072526/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Base Laboratories 品牌的“Keloid Bump Gel”（祛疤/增生/穿孔修护凝胶）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有穿孔留疤",
+      "疤痕疙瘩（Keloid）",
+      "皮肤增生或日常疤痕困扰的年轻人群（尤其是身体穿孔爱好者）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "别划走",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 猎奇心理 + 动作反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（改造建议）\n**适用场景：** 投放短视频广告（信息流/千川等）\n*   **复刻脚本大纲：**\n    1.  0-2s: 痛点展示（展示真实的疤痕/痘印/",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Base Laboratories 品牌的“Keloid Bump Gel”（祛疤/增生/穿孔修护凝胶）。。品类：服饰穿搭。人群：** 有穿孔留疤、疤痕疙瘩（Keloid）、皮肤增生或日常疤痕困扰的年轻人群（尤其是身体穿孔爱好者）。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、别划走、结果前置。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

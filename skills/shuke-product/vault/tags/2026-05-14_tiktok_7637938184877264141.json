@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637938184877264141",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/hitmehardandsoftmovie_7637938184877264141.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637938184877264141/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "UGC口播",
+      "清仓福利",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "低价占便宜",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 2.0,
+    "purchase_impulse": 7.0,
+    "total": 6.5
+  },
+  "remake": {
+    "angle": "（适用于电商实体商品/品牌活动）\n**如果你想复用这种“低保真日常 + 高级感宣发”的结构：**\n*   **复刻脚本大纲**：主理人/明星代言人真实随性的幕后",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：直播切片、UGC口播、清仓福利。钩子：场景冲突、结果前置、低价占便宜。风险：字幕不清、口播缺失、信任不足。评分：6.5"
+}

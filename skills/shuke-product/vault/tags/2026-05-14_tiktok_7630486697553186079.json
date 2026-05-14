@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7630486697553186079",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/dealsbypablo_7630486697553186079.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630486697553186079/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一面印有“Busch Light Apple”（雪山苹果轻啤）标志的超大号夏季派对挂旗/披风。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 大学生",
+      "年轻男性",
+      "兄弟会成员",
+      "喜欢夏季派对",
+      "音乐节的人群",
+      "以及该啤酒品牌的粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入/情绪共鸣（\"We are so back this summer\" 唤醒目标人群对夏日派对的期待）+ 结果展示（直接展开巨大的旗帜带来视觉冲击）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而非刻意布置的影棚）",
+    "增强了原生信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "此类“情绪价值单品”（如搞笑挂毯、标语旗帜、明星周边）非常适合复刻此套路。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一面印有“Busch Light Apple”（雪山苹果轻啤）标志的超大号夏季派对挂旗/披风。。品类：男士护理。人群：** 大学生、年轻男性、兄弟会成员。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：而非刻意布置的影棚）、增强了原生信任感。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

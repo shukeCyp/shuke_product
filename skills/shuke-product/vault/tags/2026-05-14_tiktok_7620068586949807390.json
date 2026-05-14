@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7620068586949807390",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/hhhgyyzs_7620068586949807390.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620068586949807390/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.98,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：主驾原装小镜子找痛点 -> 镜头平移到副驾 -> 翻下遮阳板展示大镜子点亮 -> 连续触控展示三色光 -> 手指指向购买链接。\n- *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、开箱展示、痛点解决。钩子：低价占便宜、好奇悬念、场景冲突。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

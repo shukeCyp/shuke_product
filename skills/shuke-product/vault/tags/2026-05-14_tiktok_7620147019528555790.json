@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7620147019528555790",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/caseythegardenmama_7620147019528555790.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620147019528555790/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似为女装/美发品牌的达人种草带货（Affiliate Marketing），视频中明确提及了多个品牌（Garage上衣、Zara短裤、Forever 2",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 20-35岁年轻女性",
+      "特别是寻求自信心重建的女性（如单亲妈妈）",
+      "喜欢欧美辣妹风",
+      "有周末",
+      "夜店",
+      "派对穿搭需求的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（28岁单亲妈妈）+ 情感反差（找回自己）+ 场景期待（生日周末战袍）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "“材质特写”",
+    "完全依赖**“真人上身效果”**和**“闺蜜式真诚分享（甚至忘了包包出处）”**来建立信任"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.3
+  },
+  "remake": {
+    "angle": "（适合短视频矩阵/直播切片）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似为女装/美发品牌的达人种草带货（Affiliate Marketing），视频中明确提及了多个品牌（Garag。品类：美妆护肤。人群：** 20-35岁年轻女性、特别是寻求自信心重建的女性（如单亲妈妈）、喜欢欧美辣妹风。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：“材质特写”、完全依赖**“真人上身效果”**和**“闺蜜式真诚分享（甚至忘了包包出处）”**来建立信任。风险：信任不足、无CTA。评分：7.3"
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7621308335064698125",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/americas.sneaker_7621308335064698125.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621308335064698125/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "低价占便宜",
+      "库存震撼",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "(针对商业带货改造)\n如果不改变原始画面，建议通过剪辑加上**字幕和口播（或AI配音）**，并补拍上脚镜头。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、低价占便宜、库存震撼。风险：信任不足、无CTA。评分：7.0"
+}

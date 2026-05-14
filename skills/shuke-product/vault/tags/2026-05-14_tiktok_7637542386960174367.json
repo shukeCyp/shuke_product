@@ -1,0 +1,79 @@
+{
+  "video_id": "2026-05-14_tiktok_7637542386960174367",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/cassianaiken_7637542386960174367.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637542386960174367/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 4.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "（投流改造版）\n针对带货属性进行升级，保留原视觉优势，加入文案营销力。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、无CTA。评分：6.8"
+}

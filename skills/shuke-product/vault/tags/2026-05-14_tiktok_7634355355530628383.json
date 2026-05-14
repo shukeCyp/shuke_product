@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7634355355530628383",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/teachingwithtiff_7634355355530628383.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634355355530628383/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.62,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带滚轮的可移动升降办公桌/教学小推车（视频中展示为带有流苏和蝴蝶结装饰的客制化状态）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 教师群体（核心）",
+      "需要移动办公",
+      "讲课的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "提问互动（“今年最常用的教室物品是什么？”） + 身份代入（明显的教室背景和教师装扮） + 热门BGM视觉卡点。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "工牌佩戴）+ **个性化改造**（加上了自己喜欢的流苏",
+    "证明是深度自用好物",
+    "而非单纯念广告词）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用于办公/教学类收纳、辅助用具）：**\n1. **0-3s 黄金钩子：** 抛出职业痛点/最高频使用痛点（抛出悬念）。\n2. **3-8s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带滚轮的可移动升降办公桌/教学小推车（视频中展示为带有流苏和蝴蝶结装饰的客制化状态）。。品类：数码配件。人群：** 教师群体（核心）、需要移动办公、讲课的人群。。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、好奇悬念、限时稀缺。证明：工牌佩戴）+ **个性化改造**（加上了自己喜欢的流苏、证明是深度自用好物、而非单纯念广告词）。风险：信任不足、无CTA。评分：7.8"
+}

@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7633294472469613854",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/jaidatiktokshop_7633294472469613854.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633294472469613854/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似推销一款带有蕾丝拼接领口的亮粉色修身罗纹吊带背心。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁",
+      "追求Y2K辣妹风",
+      "注重身材展示",
+      "喜欢舒适休闲穿搭的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉冲击。没有铺垫，直接展示产品穿在身上的完美效果，依靠亮粉色（色彩锚点）和辣妹身材（注意力抓手）留人。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 退后展示整体穿搭效果，手指下方引导点击。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 5.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 4.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "（适合短视频带货改造）\n- **复刻脚本大纲：**\n  - **0-1s 黄金三秒：** 整理衣服入画，配合痛点/好奇字幕。\n  - **1-3s 核心卖点实测",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似推销一款带有蕾丝拼接领口的亮粉色修身罗纹吊带背心。。品类：服饰穿搭。人群：** 18-35岁、追求Y2K辣妹风、注重身材展示。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：**。风险：口播缺失、信任不足。评分：6.8"
+}

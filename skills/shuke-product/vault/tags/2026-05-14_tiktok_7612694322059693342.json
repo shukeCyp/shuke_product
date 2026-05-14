@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7612694322059693342",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/avaelizbeth_7612694322059693342.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612694322059693342/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "成分展示",
+      "产品特写",
+      "库存展示",
+      "质地展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  0-3s：痛点图片/视频引入 + 人群呼叫。\n    2.  3-10s：诉说出汗带来的社交尴尬，引发共鸣。\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：身体护理。视频类型：场景种草、直播切片、痛点解决。钩子：限时稀缺、好奇悬念、身份点名。风险：信任不足、无CTA。评分：7.6"
+}

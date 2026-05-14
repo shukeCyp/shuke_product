@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7621302032640642334",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/marleebrandon_7621302032640642334.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621302032640642334/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 糖分检测测试纸（测糖纸）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重健康的宝妈",
+      "家长",
+      "控糖人群",
+      "糖尿病患者",
+      "生酮饮食者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "质地展示",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入（夏日冰沙、母子） + 好奇心悬念（手里拿的小管子是什么？） + 价值承诺（字幕：生活妙招）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "户外非实验室的真实场景",
+    "宝宝毫不做作的馋嘴反应",
+    "这三点构成了极强的第三方（UGC）背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（本土化改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 糖分检测测试纸（测糖纸）。。品类：健康养生。人群：** 注重健康的宝妈、家长、控糖人群。视频类型：场景种草、直播切片、痛点解决。钩子：好奇悬念、场景冲突、身份点名。证明：户外非实验室的真实场景、宝宝毫不做作的馋嘴反应、这三点构成了极强的第三方（UGC）背书。风险：信任不足、无CTA。评分：8.2"
+}

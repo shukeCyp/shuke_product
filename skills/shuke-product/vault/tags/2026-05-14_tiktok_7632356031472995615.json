@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7632356031472995615",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/sapphiredelight2.0_7632356031472995615.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632356031472995615/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 0-3s：主观视角将洗涤产品倒入满是衣物的洗衣机，抛出核心矛盾（如：安全去污）。\n  2. 3-8s：镜头直接怼近产品包装",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、价格跳水。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

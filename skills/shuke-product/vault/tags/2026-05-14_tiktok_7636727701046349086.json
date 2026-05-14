@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7636727701046349086",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/ewjw091_7636727701046349086.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636727701046349086/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.84,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "点明限时折扣，引导点击小黄车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "此类视频非常适合**低客单价、强IP属性的商品**进行信息流广告投放（尤其是TikTok/海外Reels或国内抖音千川直接跑量）。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：UGC口播、清仓福利、痛点解决。钩子：别划走、结果前置、场景冲突。风险：信任不足。评分：7.6"
+}

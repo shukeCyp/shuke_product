@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7638553674515549471",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/yummmmmmi5_7638553674515549471.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638553674515549471/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《One Minute WITH GOD FOR MEN》（男人与上帝的一分钟）的男士专属365天每日灵修/祈祷书籍（皮革质感小册子）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 信仰基督教",
+      "生活忙碌",
+      "压力大",
+      "渴望内心平静但缺乏时间进行长时间祈祷或阅读的男性（或想买礼物送给这类男性的女性配偶",
+      "亲友）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪共鸣 + 身份代入 + 场景氛围。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "Shield",
+    "Holy Spirit等页面的清晰展示）",
+    "让用户真切看到了买到手里的东西是什么样",
+    "排版是否真的符合“一分钟阅读”的承诺"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（适用于任何“情绪安抚/时间管理”类实物书籍或手帐）：\n1. **0-5s 环境情绪切入**：找一个符合产品调性的风景空镜，配上打动人心的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《One Minute WITH GOD FOR MEN》（男人与上帝的一分钟）的男士专属365天每日灵修。品类：男士护理。人群：** 信仰基督教、生活忙碌、压力大。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：Shield、Holy Spirit等页面的清晰展示）、让用户真切看到了买到手里的东西是什么样。风险：信任不足、无CTA。评分：8.4"
+}

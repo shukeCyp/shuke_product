@@ -1,0 +1,102 @@
+{
+  "video_id": "2026-05-14_tiktok_7637888849997237535",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/mira.yy86_7637888849997237535.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637888849997237535/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖“LeeFar Cutting Mix”冲饮粉（主要成分为小檗碱+马黛茶），并赠送同品牌电动搅拌棒。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有身材管理需求",
+      "代谢焦虑",
+      "寻求能量补充或需要戒除吃夜宵",
+      "零食习惯的女性群体（尤其是追求高性价比的冲动型消费者）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "第三方背书",
+      "用户评价",
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉满足感（动态搅拌）+ 猎奇（特殊形状的杯子）+ 价格刺激（开局即喊出买三送一的破价机制）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（20秒带货模板）：**\n    *   0-4s：**视觉奇观+破价钩子**（展示产品最诱人的使用状态/冲泡过程，口播直接报出超低机制",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖“LeeFar Cutting Mix”冲饮粉（主要成分为小檗碱+马黛茶），并赠送同品牌电动搅拌棒。。品类：美妆护肤。人群：** 有身材管理需求、代谢焦虑、寻求能量补充或需要戒除吃夜宵。视频类型：UGC口播、直播切片、清仓福利。钩子：别划走、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

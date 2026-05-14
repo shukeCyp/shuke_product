@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7617176902188535053",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/gemma_reviews_7617176902188535053.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617176902188535053/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 婴幼儿多功能磁吸钓鱼与色彩分类收纳玩具套装（包含布艺小鱼、磁性鱼竿、带数字颜色的塑料桶、可变身收纳袋的游戏垫）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 1岁及以上婴幼儿的父母",
+      "祖父母",
+      "尤其关注早教启蒙和儿童成长的家庭。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份背书（儿童发展学专业朋友）+ 悬念好奇（为什么专门挑这款？） + 动态展示（磁吸瞬间）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "多角度展示商品细节（桶上的数字）",
+    "一镜到底的收纳展示"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用于国内抖音/小红书/快手平台）：**\n    *   **0-3s（黄金前置）：** 视觉上直接展示“一秒收纳”或“清脆吸鱼”的动",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 婴幼儿多功能磁吸钓鱼与色彩分类收纳玩具套装（包含布艺小鱼、磁性鱼竿、带数字颜色的塑料桶、可变身收纳袋的游戏垫）。。品类：厨房用品。人群：** 1岁及以上婴幼儿的父母、祖父母、尤其关注早教启蒙和儿童成长的家庭。。视频类型：痛点解决、场景种草、价格刺激。钩子：身份点名、结果前置、好奇悬念。证明：多角度展示商品细节（桶上的数字）、一镜到底的收纳展示。风险：信任不足、无CTA。评分：8.8"
+}

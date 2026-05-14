@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7629898664684686606",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/cosycornerchris_7629898664684686606.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629898664684686606/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（15秒紧凑版）**：\n    *   0-3s (情绪钩子)：POV视角拉下遮阳板，展示合照相框。配文案：“男朋友副驾的终极归属权”。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、无CTA。评分：7.8"
+}

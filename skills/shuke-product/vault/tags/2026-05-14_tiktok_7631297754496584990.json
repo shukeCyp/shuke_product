@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7631297754496584990",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/nicolem2327_7631297754496584990.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631297754496584990/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 字母定制项链（具体为代表伴侣名字首字母的18K金/镀金细链）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于热恋期",
+      "有伴侣的年轻至中青年女性",
+      "喜欢日常休闲穿搭且注重情感仪式感的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（恋爱中的女性） + 情感暗示（爱意表达） + 流行热梗（Your sign to...）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实的休闲穿着",
+    "随意扒拉项链的动作",
+    "都在证明这确实是一条“每天都能戴",
+    "不怕磨损",
+    "不挑衣服”的真实饰品"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对国内抖音/小红书/视频号带货改造)\n*   **复刻脚本大纲：**\n    *   0-2s：车内/咖啡厅自然光自拍，低头整理衣服，字幕抛出情感钩子。\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 字母定制项链（具体为代表伴侣名字首字母的18K金/镀金细链）。。品类：服饰穿搭。人群：** 处于热恋期、有伴侣的年轻至中青年女性、喜欢日常休闲穿搭且注重情感仪式感的人群。。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、限时稀缺、结果前置。证明：真实的休闲穿着、随意扒拉项链的动作、都在证明这确实是一条“每天都能戴。风险：字幕不清、口播缺失、信任不足。评分：6.8"
+}

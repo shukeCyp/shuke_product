@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7627138611653217566",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/cleaningwithemma02_7627138611653217566.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627138611653217566/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 39.15,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "*   **适合投流/自然流的改造建议**：这种视频非常适合做直接投流（Direct Response），因为产品极具视觉表现力且客单价低。建议在国内复刻时，替",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：9.0"
+}

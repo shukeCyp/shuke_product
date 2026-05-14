@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7638308363427663134",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/dinakxoxo_7638308363427663134.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638308363427663134/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 3件套复古椭圆形女士墨镜（含黑色、深褐色、玳瑁色）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 圆脸女性",
+      "追求高性价比",
+      "平替的消费者",
+      "有度假防丢需求的购物者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（点名圆脸） + 好奇心（“感谢那个女孩，她是对的”引发观众想知道“什么是对的”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "UGC生活化场景",
+    "口播提到“TikTok Shop多次售罄”（第三方背书/从众心理）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用国内抖音/小红书/视频号）：**\n- **0-3s 身份唤醒+痛点反常识：** 圆脸别戴大框了！（动作：戴错眼镜的夸张表情 -> 换上产品",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 3件套复古椭圆形女士墨镜（含黑色、深褐色、玳瑁色）。。品类：美妆护肤。人群：** 圆脸女性、追求高性价比、平替的消费者。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。证明：UGC生活化场景、口播提到“TikTok Shop多次售罄”（第三方背书/从众心理）。风险：信任不足、无CTA。评分：8.6"
+}

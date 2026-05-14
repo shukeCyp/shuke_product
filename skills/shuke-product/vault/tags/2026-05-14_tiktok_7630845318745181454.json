@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7630845318745181454",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/courtstyles_7630845318745181454.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630845318745181454/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** New Balance 9060 系列运动鞋（Black Cement 黑水泥配色）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求潮流穿搭",
+      "看重鞋子质感与百搭性",
+      "以及球鞋爱好者（Sneakerheads）的年轻男女。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉冲击。直接展示上脚效果（结果），同时地上散落多双同款鞋营造一种“狠货很多/爆款扫货”的视觉氛围。搭配口播的极高评价（悬念与情绪）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**细节展示**（推镜头特写鞋侧标志与材质）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（针对国内抖音/视频号生态改造）\n如果复刻此视频，建议升级为**“沉浸式开箱+上脚+穿搭实测”**。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** New Balance 9060 系列运动鞋（Black Cement 黑水泥配色）。。品类：服饰穿搭。人群：** 追求潮流穿搭、看重鞋子质感与百搭性、以及球鞋爱好者（Sneakerheads）的年轻男女。。视频类型：UGC口播、痛点解决、库存背书。钩子：好奇悬念、限时稀缺、结果前置。证明：**细节展示**（推镜头特写鞋侧标志与材质）。风险：信任不足、无CTA。评分：7.4"
+}

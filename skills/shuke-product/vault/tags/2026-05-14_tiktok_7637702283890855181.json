@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637702283890855181",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/hitmehardandsoftmovie_7637702283890855181.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637702283890855181/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 推广 Billie Eilish 的《Hit Me Hard and Soft》3D 演唱会大电影，并引导用户参与社交平台上的“创作者挑战”活动以解锁虚拟",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Billie Eilish 的粉丝（受众极度精准）",
+      "Gen Z 音乐爱好者",
+      "喜欢参与社群打卡互动的年轻网民。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（粉丝向） + 终极权威背书（明星本人出镜）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "社交媒体真实的活动页面录屏",
+    "粉丝观看大屏幕的反应镜头（第三方背书）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "（适用于常规品牌推新品+私域/社群裂变）\n如果一个美妆或快消品牌要复刻这个玩法做“留资/加群/任务裂变”：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 推广 Billie Eilish 的《Hit Me Hard and Soft》3D 演唱会大电影，并引导用户参与。品类：美妆护肤。人群：** Billie Eilish 的粉丝（受众极度精准）、Gen Z 音乐爱好者、喜欢参与社群打卡互动的年轻网民。。视频类型：清仓福利、痛点解决、效果前后对比。钩子：结果前置、场景冲突、低价占便宜。证明：社交媒体真实的活动页面录屏、粉丝观看大屏幕的反应镜头（第三方背书）。风险：信任不足、无CTA。评分：8.6"
+}

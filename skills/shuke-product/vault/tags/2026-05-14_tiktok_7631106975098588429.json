@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7631106975098588429",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/crimcgee_7631106975098588429.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631106975098588429/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（针对短视频带货/投放）\n- **复刻脚本大纲（加入转化元素）**：\n  1. **黄金3秒**：指尖滑过碳纤维键帽（特写），伴随清脆敲击声。字幕：“终于拿到了",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、场景冲突、身份点名。风险：信任不足、无CTA。评分：7.0"
+}

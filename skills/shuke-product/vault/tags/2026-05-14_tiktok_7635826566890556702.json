@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7635826566890556702",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/hopee.miranda_7635826566890556702.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635826566890556702/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 女装——暗红色明线缝边两件套（无袖伞状上衣+短裤），或黑色高筒牛仔靴。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁追求美式复古",
+      "辣妹风或慵懒松弛感的年轻女性",
+      "以及对视频中文案（基督教信仰",
+      "情感共鸣）有认同感的特定圈层用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差/身材展示 + 价值观代入。视觉上利用辣妹穿搭和局部特写吸引眼球，文案上却使用宗教/情感语录，形成一种奇妙的冲突感。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有任何刻意的打光和商品陈列",
+    "这种 UGC（用户生成内容）风格最具真实感和种草力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "(针对服装商家的改造建议)\n*   **复刻脚本大纲：**\n    *   **0-2s 痛点/场景引入：** 局部特写拉远，配合痛点文案（如“不知道周末穿什么",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 女装——暗红色明线缝边两件套（无袖伞状上衣+短裤），或黑色高筒牛仔靴。。品类：厨房用品。人群：** 18-35岁追求美式复古、辣妹风或慵懒松弛感的年轻女性、以及对视频中文案（基督教信仰。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、好奇悬念。证明：没有任何刻意的打光和商品陈列、这种 UGC（用户生成内容）风格最具真实感和种草力。风险：信任不足、无CTA。评分：6.0"
+}

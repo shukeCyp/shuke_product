@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638336185256971550",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/createwhitchris_7638336185256971550.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638336185256971550/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 适用于洞洞鞋（Crocs）的3D搞怪脚趾形状鞋花（Shoe Charms）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 洞洞鞋用户",
+      "喜欢猎奇",
+      "搞笑事物的年轻人",
+      "寻找趣味恶搞礼物的消费者（如送闺蜜",
+      "朋友）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "手背实测"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差/猎奇冲击 + 结果展示。常规的洞洞鞋花都是可爱风，这里直接放上了逼真的“脚趾”，打破了用户的视觉认知。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **实测展示 + 细节特写 + UGC真实情绪背书**（自然的笑声和第一人称“我给我妹妹买了”"
+  ],
+  "cta": {
+    "text": "** 展示实际使用效果，提供消费理由（送礼），并明确引导下单（指路链接）。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（20秒）：**\n    1.  **0-4s 视觉暴击：** 直接把怼满脚趾鞋花的洞洞鞋怼到镜头前，手指着其中一个脚趾吐槽。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 适用于洞洞鞋（Crocs）的3D搞怪脚趾形状鞋花（Shoe Charms）。。品类：数码配件。人群：** 洞洞鞋用户、喜欢猎奇、搞笑事物的年轻人。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、好奇悬念、场景冲突。证明：** **实测展示 + 细节特写 + UGC真实情绪背书**（自然的笑声和第一人称“我给我妹妹买了”。风险：信任不足。评分：8.6"
+}

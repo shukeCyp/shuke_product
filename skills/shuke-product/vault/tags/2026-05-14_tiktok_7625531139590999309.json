@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7625531139590999309",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/smrns.shop_7625531139590999309.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625531139590999309/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖“ESSENTIALS”品牌的灰色运动短裤（或同款平替版）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求街头潮流穿搭的年轻男性（Z世代",
+      "学生党",
+      "潮人）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（高颜值OOTD） + 痛点共鸣（拯救穿搭）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "多国语言的标签也提升了产品的品质感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（总长 12-15 秒）：**\n    1.  （0-3s）OOTD平铺展示，搭配当前热门鞋款，打出痛点字幕。\n    2.  （3-8",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖“ESSENTIALS”品牌的灰色运动短裤（或同款平替版）。。品类：男士护理。人群：** 追求街头潮流穿搭的年轻男性（Z世代、学生党、潮人）。。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、结果前置、场景冲突。证明：多国语言的标签也提升了产品的品质感。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

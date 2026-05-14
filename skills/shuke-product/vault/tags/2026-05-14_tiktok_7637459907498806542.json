@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7637459907498806542",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/outfitshare2_7637459907498806542.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637459907498806542/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖**灰色宽松运动短裤**（或黄色厚底拖鞋），通过整体的穿搭氛围感进行种草。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求街头潮流",
+      "热爱健身",
+      "运动风",
+      "喜欢慵懒舒适且具有肌肉线条美感的年轻男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **0-3s 氛围定调：** 找一面大镜子（可以是健身房、衣帽间或有质感的背景），模特穿着主推产品，手持亮色道具",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖**灰色宽松运动短裤**（或黄色厚底拖鞋），通过整体的穿搭氛围感进行种草。。品类：男士护理。人群：** 追求街头潮流、热爱健身、运动风。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.2"
+}

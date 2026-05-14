@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7610360356069739790",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/bagsmart_official_7610360356069739790.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610360356069739790/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.5,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "#### 8.1 复刻脚本大纲（强化转化版）\n- **0-3s 痛点+反差展示**：快速对比“凌乱桌面/行李箱”与“神奇收纳包”，或展示一堆化妆品瞬间被吃掉。\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、场景冲突。风险：口播缺失、信任不足、无CTA。评分：8.7"
+}

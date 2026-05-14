@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7636422894410599693",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/deranchobrand_7636422894410599693.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636422894410599693/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有墨西哥国旗拼接图案的卡其色男士短袖衬衫（以及配套的棒球帽）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 墨西哥裔男性",
+      "对墨西哥文化有强烈认同感的人群",
+      "喜爱美洲乡村",
+      "牛仔风格穿搭的男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（Identity） + 视觉冲击（Visual Impact）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "相比专业精瘦模特",
+    "更能给目标购买人群带来真实的参考价值"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 3.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对带货投放优化)\n*   **复刻脚本大纲：** 强视觉图案开局 -> 真人360度上身展示 -> 动作耍酷 -> 指示购买路径。\n*   **需要拍摄的镜",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有墨西哥国旗拼接图案的卡其色男士短袖衬衫（以及配套的棒球帽）。。品类：男士护理。人群：** 墨西哥裔男性、对墨西哥文化有强烈认同感的人群、喜爱美洲乡村。视频类型：剧情反转、UGC口播、清仓福利。钩子：结果前置、低价占便宜、好奇悬念。证明：相比专业精瘦模特、更能给目标购买人群带来真实的参考价值。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

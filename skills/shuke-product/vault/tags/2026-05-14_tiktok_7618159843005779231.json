@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7618159843005779231",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/davidyui2_7618159843005779231.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618159843005779231/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.48,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    *   *0-2s 情绪铺垫*：情侣双手紧握，BGM起。\n    *   *3-5s 核心展示*：手腕翻转/松开，展示互",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：质地实测、UGC口播、场景种草。钩子：结果前置、好奇悬念、身份点名。风险：信任不足、无CTA。评分：6.8"
+}

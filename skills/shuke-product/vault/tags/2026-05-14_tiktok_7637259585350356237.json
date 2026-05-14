@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7637259585350356237",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/katkamp5_7637259585350356237.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637259585350356237/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖由儿童语言病理学家（SLP）编写的幼儿语言启蒙互动书（重点展示了《Action Book 动作书》，片尾展示了三本套装）。",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 1-3岁（尤其是接近或处于2岁左右）幼儿的家长",
+      "特别是关注孩子语言发育",
+      "担心孩子只会“蹦单字”的焦虑父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（量化指标：2岁40个动词）+ 痛点隐含（孩子只会说名词怎么办）+ 身份代入（直接喊话2岁左右孩子的家长）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "（适用于国内母婴/图书赛道）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖由儿童语言病理学家（SLP）编写的幼儿语言启蒙互动书（重点展示了《Action Book 动作书》，片尾展示了。品类：母婴宠物。人群：** 1-3岁（尤其是接近或处于2岁左右）幼儿的家长、特别是关注孩子语言发育、担心孩子只会“蹦单字”的焦虑父母。。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、结果前置、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：8.8"
+}

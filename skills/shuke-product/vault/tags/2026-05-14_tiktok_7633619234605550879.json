@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7633619234605550879",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/meos_shop_7633619234605550879.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633619234605550879/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "用户评价"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对短板改造)\n*   **复刻脚本大纲（场景-种草-促单）**：\n    *   0-2s：痛点/悬念引入（展示精美骰子无处安放）。\n    *   2-4",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

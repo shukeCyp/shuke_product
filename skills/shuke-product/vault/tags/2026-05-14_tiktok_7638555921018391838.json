@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7638555921018391838",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/zhang48740_7638555921018391838.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638555921018391838/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "剧情反转"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "尴尬痛点",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.5,
+    "clarity": 4.0,
+    "trust": 3.0,
+    "product_display": 2.0,
+    "purchase_impulse": 5.0,
+    "total": 4.7
+  },
+  "remake": {
+    "angle": "（如果我们要拍同款）\n这个爆款逻辑可以无缝复刻到任何语言学习、技能培训（如吉他教程、编程速成）甚至零食带货中。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：效果前后对比、场景种草、痛点解决。钩子：好奇悬念、尴尬痛点、场景冲突。风险：信任不足、无CTA。评分：4.7"
+}

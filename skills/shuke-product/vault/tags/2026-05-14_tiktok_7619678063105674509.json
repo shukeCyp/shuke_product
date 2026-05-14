@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7619678063105674509",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/614lyfe_7619678063105674509.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619678063105674509/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 10
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 10.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  **展示（0-2s）**：撕开免缝贴包装（配清脆音效）。\n    2.  **模拟（2-4s）**：拿一个带深切",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺。风险：口播缺失、信任不足、无CTA。评分：9.2"
+}

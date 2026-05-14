@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7638699849688419615",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/victorgar19_7638699849688419615.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638699849688419615/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.52,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 安德玛（Under Armour）白色运动拖鞋。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求舒适度与松弛感的年轻群体",
+      "潮流生活方式爱好者",
+      "品牌粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（第一人称视角） + 音乐情绪钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实的阳光和环境",
+    "极具质感的城市背景",
+    "共同为品牌调性背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 安德玛（Under Armour）白色运动拖鞋。。品类：服饰穿搭。人群：** 追求舒适度与松弛感的年轻群体、潮流生活方式爱好者、品牌粉丝。。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：真实的阳光和环境、极具质感的城市背景、共同为品牌调性背书。风险：口播缺失、信任不足、无CTA。评分：5.8"
+}

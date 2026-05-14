@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7628370181126999327",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/adavia_7628370181126999327.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628370181126999327/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 恶搞/搞怪卡通人物造型的廉价塑料玩具手表。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性",
+      "喜欢“整活”的年轻男性（Gen Z）",
+      "跑车爱好者",
+      "带有猎奇心理的泛娱乐人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极端反差（地摊塑料玩具与顶级奢华跑车的同框）+ 身份代入（模仿富豪的怪癖）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 1.0,
+    "trust": 6.0,
+    "product_display": 3.0,
+    "purchase_impulse": 4.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "（如果是商家想卖这个玩具表）\n*   **复刻脚本大纲（改良版反差营销）：**\n    *   *0-3s（黄金反差）：* 模仿原视频视角，手腕戴着搞笑玩具表，",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 恶搞/搞怪卡通人物造型的廉价塑料玩具手表。。品类：男士护理。人群：** 追求个性、喜欢“整活”的年轻男性（Gen Z）、跑车爱好者。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、限时稀缺、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：4.6"
+}

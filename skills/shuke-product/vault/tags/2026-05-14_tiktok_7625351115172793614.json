@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7625351115172793614",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/cliplagoon_7625351115172793614.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625351115172793614/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 5.0,
+    "product_display": 3.0,
+    "purchase_impulse": 5.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - 0-2s：痛点状态（穿着邋遢，捏自己的双下巴/肚子，沮丧）。\n  - 2-4s：转场/卡点，展现现在的完美状态（展示最自信的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、功效宣称风险、无CTA。评分：5.6"
+}

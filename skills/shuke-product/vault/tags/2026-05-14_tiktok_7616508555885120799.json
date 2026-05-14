@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7616508555885120799",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/trackingcomedy_7616508555885120799.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616508555885120799/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.35,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 2.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "（转化为更高ROI的带货视频）\n如果我们要卖这款挂布，在保留这种“真实感”的前提下，需要加入带货逻辑。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、场景冲突、尴尬痛点。风险：字幕不清、信任不足、无CTA。评分：5.0"
+}

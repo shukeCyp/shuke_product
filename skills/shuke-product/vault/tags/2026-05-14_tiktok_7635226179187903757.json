@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7635226179187903757",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/amen.for_7635226179187903757.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635226179187903757/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "价格刺激",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：找一个真实汽修厂或废旧车库 -> 找一个带有明显底漆打磨痕迹的旧保险杠 -> 模特手上抹点机油灰尘 -> 以第一视角举起带手柄的喷",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：汽车用品。视频类型：价格刺激、质地实测、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.4"
+}

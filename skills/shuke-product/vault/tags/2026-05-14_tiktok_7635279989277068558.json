@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7635279989277068558",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/spazzthevisionary_7635279989277068558.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635279989277068558/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "手背实测",
+      "产品特写",
+      "质地展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 0.0,
+    "trust": 1.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 2.0
+  },
+  "remake": {
+    "angle": "",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：字幕不清、信任不足、无CTA。评分：2.0"
+}

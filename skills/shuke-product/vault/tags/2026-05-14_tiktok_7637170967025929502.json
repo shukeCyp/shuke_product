@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7637170967025929502",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/regulardudereview2_7637170967025929502.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637170967025929502/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "测评对比",
+      "UGC口播",
+      "场景种草",
+      "剧情反转",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党",
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（投流/带货改造建议）\n如果要用相同的素材或逻辑重拍，建议采用 **“痛点->对比->展示->行动”** 的高转化结构。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：测评对比、UGC口播、场景种草。钩子：结果前置、好奇悬念、限时稀缺。风险：口播缺失、信任不足、无CTA。评分：6.4"
+}

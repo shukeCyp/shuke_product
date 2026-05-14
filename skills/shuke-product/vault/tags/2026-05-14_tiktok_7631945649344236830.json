@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7631945649344236830",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/dolldropofficial_7631945649344236830.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631945649344236830/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频在售卖 Fuggler 品牌的“丑萌”系列毛绒斜挎包及配套的毛绒挂件盲盒/玩偶。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻群体",
+      "喜欢亚文化",
+      "猎奇审美的消费者",
+      "Kidcore（童趣风）穿搭爱好者",
+      "寻找个性化礼物的学生党。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差/猎奇钩子。用长着“人类真实牙齿”的粉色毛绒玩具直接怼脸。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "这是最强的正品背书和信任状"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "（高转化改造版）\n*   **复刻脚本大纲（痛点+展示+测评证明）：**\n    1.  **0-3s 猎奇钩子：** 真人背着最夸张的粉色款走在街上，回头率极",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频在售卖 Fuggler 品牌的“丑萌”系列毛绒斜挎包及配套的毛绒挂件盲盒/玩偶。。品类：美妆护肤。人群：** Z世代年轻群体、喜欢亚文化、猎奇审美的消费者。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：这是最强的正品背书和信任状。风险：口播缺失、信任不足、无CTA。评分：6.6"
+}

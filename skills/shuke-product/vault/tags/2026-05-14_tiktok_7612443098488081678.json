@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7612443098488081678",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/hightech_redneck359_7612443098488081678.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612443098488081678/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有指尖陀螺功能的趣味打火机保护壳（侧面隐约可见品牌字样 FLKR LYTR）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 吸烟人群",
+      "指尖玩具爱好者",
+      "喜欢新奇特EDC（日常携带）装备的年轻男性群体",
+      "潮流文化受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示类 + 动作/视觉刺激。开局没有任何废话，直接展示陀螺高速旋转的画面。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "穿着牛仔裤的大腿",
+    "随意的单手拍摄",
+    "甚至中途没转好略显笨拙的动作",
+    "都极大地增强了“这是一个真实买家在炫耀他的新玩具”的信任感",
+    "而非生硬的棚拍广告"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.5,
+    "product_display": 8.5,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有指尖陀螺功能的趣味打火机保护壳（侧面隐约可见品牌字样 FLKR LYTR）。。品类：男士护理。人群：** 吸烟人群、指尖玩具爱好者、喜欢新奇特EDC（日常携带）装备的年轻男性群体。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、结果前置、场景冲突。证明：穿着牛仔裤的大腿、随意的单手拍摄、甚至中途没转好略显笨拙的动作。风险：信任不足、无CTA。评分：7.8"
+}

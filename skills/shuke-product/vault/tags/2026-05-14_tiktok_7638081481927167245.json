@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7638081481927167245",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/johnnybiggio_7638081481927167245.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638081481927167245/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Young LA 与 Gold's Gym 联名款复古做旧连帽卫衣（视频中展示了黑色穿着款和蓝色手持款，口播提及了红色）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻男性",
+      "健身爱好者",
+      "潮牌追随者",
+      "喜欢美式复古",
+      "Oversize穿搭的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（“抢到的人”） + 好奇心（“抢到会怎样？”） + 稀缺性预警。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 缺乏硬核的材质/细节证明。信任感完全建立在“主播真实随性的推荐状态”和“TikTok Shop"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 8.0,
+    "product_display": 4.0,
+    "purchase_impulse": 8.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "此类视频非常适合作为**直播切片（二次剪辑）**或**热卖爆款的追投素材**。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Young LA 与 Gold's Gym 联名款复古做旧连帽卫衣（视频中展示了黑色穿着款和蓝色手持款，口播提及了。品类：男士护理。人群：** 年轻男性、健身爱好者、潮牌追随者。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：** 缺乏硬核的材质/细节证明。信任感完全建立在“主播真实随性的推荐状态”和“TikTok Shop。风险：信任不足、无CTA。评分：6.4"
+}

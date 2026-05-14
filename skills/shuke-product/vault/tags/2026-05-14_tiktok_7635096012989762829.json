@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7635096012989762829",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/laareina16_7635096012989762829.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635096012989762829/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 3.46,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 4.0,
+    "trust": 4.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "(针对“周边带门票/实体引流”玩法)\n*   **复刻脚本大纲**：\n    *   0-2s 情绪释放 + 强视觉符号（穿梭特定圈层文化服饰，表现出震惊）。\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：5.6"
+}

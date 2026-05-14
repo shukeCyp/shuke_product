@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7614315697421815070",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/finds.with.melissa_7614315697421815070.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614315697421815070/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. **黄金3秒**：画外音发出惊叹，出镜人骄傲展示桌子并报出平价属性。\n  2. **痛点切入**：展示桌子全貌，强调包裹体",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：UGC口播、痛点解决、开箱展示。钩子：别划走、结果前置、场景冲突。风险：信任不足、无CTA。评分：7.2"
+}

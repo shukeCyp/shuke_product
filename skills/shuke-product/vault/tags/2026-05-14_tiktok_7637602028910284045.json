@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7637602028910284045",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/avagriner_7637602028910284045.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637602028910284045/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 核心商品为模特身上穿着的**单肩透视动物纹（虎斑/豹纹）连衣短裙/罩衫**；次核心商品可能为黑色高筒靴或豹纹手机壳。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-30岁",
+      "喜欢“Y2K”",
+      "“辣妹风”",
+      "“欧美风”",
+      "关注穿搭（OOTD）及夜店",
+      "聚会场景的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（上身效果）+ 颜值身材刺激 + 氛围感代入。没有任何文字和语言，纯靠视觉冲击力抓人。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "对镜自拍能真实展现衣服的垂坠感",
+    "长度（刚好盖住臀部的短裙长度）以及日常穿着状态"
+  ],
+  "cta": {
+    "text": "*“左下角同款”、“橱窗已上架，百搭不出错”*",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 3.0,
+    "trust": 6.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（如果是商家想复刻这种低成本高转化的模式）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 核心商品为模特身上穿着的**单肩透视动物纹（虎斑/豹纹）连衣短裙/罩衫**；次核心商品可能为黑色高筒靴或豹纹手机壳。品类：数码配件。人群：** 18-30岁、喜欢“Y2K”、“辣妹风”。视频类型：场景种草、痛点解决、UGC口播。钩子：好奇悬念、结果前置。证明：对镜自拍能真实展现衣服的垂坠感、长度（刚好盖住臀部的短裙长度）以及日常穿着状态。风险：口播缺失、信任不足。评分：5.2"
+}

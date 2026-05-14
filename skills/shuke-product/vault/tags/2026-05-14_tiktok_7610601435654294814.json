@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7610601435654294814",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/mommy.nilly_7610601435654294814.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610601435654294814/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.5,
+    "total": 7.5
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 钩子：呼叫特定人群 + 展示惊艳成品。\n  2. 痛点：提出特定时间节点（节日/旺季）的备货焦虑。\n  3. 引入：亮出核",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、好奇悬念、限时稀缺。风险：信任不足、无CTA。评分：7.5"
+}

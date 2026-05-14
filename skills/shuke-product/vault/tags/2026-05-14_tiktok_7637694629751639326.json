@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637694629751639326",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/ssps134000i_7637694629751639326.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637694629751639326/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.32,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（适合国内抖音/视频号/Tk投放）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、价格跳水、结果前置。风险：信任不足、无CTA。评分：7.8"
+}

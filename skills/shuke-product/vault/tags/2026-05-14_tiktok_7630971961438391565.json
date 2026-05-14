@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7630971961438391565",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/maryantquintero_7630971961438391565.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630971961438391565/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**（时长控制在15秒内）：\n    1. **0-3s 黄金钩子**：捏响玩具，制造惊喜。“宝宝的第一座有声农场来啦！”\n    2.",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。风险：信任不足、无CTA。评分：8.0"
+}

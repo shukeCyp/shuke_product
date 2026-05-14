@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637701196869864734",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/esthelagonzalez288_7637701196869864734.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637701196869864734/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 3.0,
+    "purchase_impulse": 5.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（优化后）\n- **复刻脚本大纲**：开箱悬念 -> 触感夸张表达 -> **补充核心动作：展开铺床/细节展示** -> 痛点结合卖点 -> CTA。\n- **",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、测评对比、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：6.4"
+}

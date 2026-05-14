@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7618658257162226958",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/charlotte_lucky7_7618658257162226958.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618658257162226958/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有LED发光枪口特效、弹鼓造型的电动连发水枪（一黑一蓝两款）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢潮玩玩具的青少年",
+      "年轻男性",
+      "以及夏天为孩子购买戏水玩具的家长。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（视觉奇观）+ 身份代入（POV视角）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "场景**",
+    "没有棚拍的过度包装",
+    "所见即所得",
+    "信任感较强"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（带货改造版）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有LED发光枪口特效、弹鼓造型的电动连发水枪（一黑一蓝两款）。。品类：男士护理。人群：** 喜欢潮玩玩具的青少年、年轻男性、以及夏天为孩子购买戏水玩具的家长。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：场景**、没有棚拍的过度包装、所见即所得。风险：口播缺失、信任不足、无CTA。评分：7.0"
+}

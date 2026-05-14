@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7610209108393839903",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/healthwithmell_7610209108393839903.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610209108393839903/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.52,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款包装为白色软管的祛痘印/祛疤修护霜。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 长期受痘印",
+      "痘坑困扰",
+      "且尝试过医美或皮肤科治疗但效果不佳的烂脸",
+      "痘肌人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "手背实测",
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "权威反差（我 vs 医生） + 结果展示（当前完美肌肤） + 痛点共鸣（长达5年的烂脸）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "实测细节和第三方背书",
+    "而非“逻辑说服型”"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 2.0,
+    "purchase_impulse": 7.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "（适合直接带货/投流的改造建议）\n原视频太过于“悬念”，如果要用这个素材进行直接带货（投流），需要加入具体的商品信息。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款包装为白色软管的祛痘印/祛疤修护霜。。品类：美妆护肤。人群：** 长期受痘印、痘坑困扰、且尝试过医美或皮肤科治疗但效果不佳的烂脸。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：实测细节和第三方背书、而非“逻辑说服型”。风险：信任不足、无CTA。评分：5.8"
+}

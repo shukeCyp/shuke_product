@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7625452839287999758",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/aanaizlop3z_7625452839287999758.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625452839287999758/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频无明确文字或口播，根据画面展示重点，**疑似售卖女性修身抹胸开叉上衣**（或作为整体OOTD穿搭展示，包括牛仔短裤、腋下包）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-28岁",
+      "关注欧美风",
+      "辣妹风（Baddie aesthetic）",
+      "Y2K穿搭",
+      "追求显身材",
+      "有自信的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 / 颜值氛围感型。没有使用常规的痛点或悬念，完全依靠博主的外貌、身材和穿搭风格来硬控停留。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 2.0,
+    "trust": 6.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "（如果要把这个视频改造成高转化带货视频）\n*   **复刻脚本大纲（10-15秒黄金时长）：**\n    *   **0-3s 吸睛+抛出痛点：** 对镜自拍正",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频无明确文字或口播，根据画面展示重点，**疑似售卖女性修身抹胸开叉上衣**（或作为整体OOTD穿搭展示，包括牛仔。品类：男士护理。人群：** 18-28岁、关注欧美风、辣妹风（Baddie aesthetic）。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、身份点名。证明：**。风险：信任不足、无CTA。评分：4.8"
+}

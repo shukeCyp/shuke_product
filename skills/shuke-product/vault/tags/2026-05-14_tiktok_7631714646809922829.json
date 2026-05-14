@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7631714646809922829",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/big.diz_7631714646809922829.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631714646809922829/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 核心售卖标的是品牌为“SKETOE”的白色方头夹趾凉鞋（人字拖）。视频中的脚趾环和脚链属于搭配道具，但主要视觉落脚点和最后定帧都在鞋子上。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求夏季极简穿搭",
+      "注重足部美甲",
+      "配饰细节",
+      "喜欢慵懒高级感（Chill Vibe）的年轻至熟龄女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景代入 + 审美吸引。 前3秒直接给出了穿上这双鞋后的“最美状态”（搭配精美的法式美甲、金饰，在高级沙发场景下）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "增加了“所见即所得”的真实感；最后的单手拿鞋证明了这是实物售卖",
+    "而非纯网图搬运"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "如果拿这个视频去投放或跑自然流，必须进行**营销化改造**。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 核心售卖标的是品牌为“SKETOE”的白色方头夹趾凉鞋（人字拖）。视频中的脚趾环和脚链属于搭配道具，但主要视觉落脚。品类：健康养生。人群：** 追求夏季极简穿搭、注重足部美甲、配饰细节。视频类型：剧情反转、UGC口播、清仓福利。钩子：好奇悬念、结果前置、身份点名。证明：增加了“所见即所得”的真实感；最后的单手拿鞋证明了这是实物售卖、而非纯网图搬运。风险：信任不足、无CTA。评分：6.4"
+}

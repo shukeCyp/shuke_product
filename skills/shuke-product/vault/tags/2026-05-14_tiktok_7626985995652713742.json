@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7626985995652713742",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/blessedsevenfold_7626985995652713742.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626985995652713742/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "身份点名",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "前后对比",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（适用图书、手帐、卡牌等文化属性商品）\n- **复刻脚本大纲**：\n  1. **悬念展示 (0-3s)**：双手持实物，特写惊悚/猎奇/直击痛点的书名。\n  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：痛点解决、场景种草、价格刺激。钩子：限时稀缺、身份点名、结果前置。风险：口播缺失、信任不足、无CTA"
+}

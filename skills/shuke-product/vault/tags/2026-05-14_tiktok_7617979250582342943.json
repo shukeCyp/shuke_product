@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7617979250582342943",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/chasingdealz_7617979250582342943.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617979250582342943/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 磁吸式、可充电、带遥控和感应功能的LED吸顶灯/小夜灯。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 租房党",
+      "不想改动电线",
+      "打孔的屋主",
+      "需要局部补充光源的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动作悬念（直接往屋顶拍灯） + 身份代入（租客群体） + 制造对立（别告诉房东）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  - 0-3s：动作（快速把灯拍上屋顶）+ 钩子文案。\n  - 3-8s：特写展示背胶铁片和磁吸过程，强调免打孔。\n  - 8-1",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 磁吸式、可充电、带遥控和感应功能的LED吸顶灯/小夜灯。。品类：数码配件。人群：** 租房党、不想改动电线、打孔的屋主。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、低价占便宜、好奇悬念。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

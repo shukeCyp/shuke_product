@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638500582432492814",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/uuu.ggg44_7638500582432492814.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638500582432492814/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 纯铜磁疗手链（包含3500高斯磁石）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 长期受手腕剧痛困扰",
+      "睡眠质量差",
+      "易做噩梦及心神不宁的中老年人或过度用腕人群（如鼠标手）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点提问（手腕痛/睡眠差） + 结果承诺（画面固定字幕“立刻感受舒适”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "细节展示（内侧磁石特写）",
+    "具体数据背书（3500高斯）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 4.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（优化版）\n1.  **0-3s 痛点抓取（视觉+听觉）：** 揉搓手腕的痛苦特写。\n2.  **3-6s 抛出解法：** 直接将手链拍在",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 纯铜磁疗手链（包含3500高斯磁石）。。品类：数码配件。人群：** 长期受手腕剧痛困扰、睡眠质量差、易做噩梦及心神不宁的中老年人或过度用腕人群（如鼠标手）。。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、场景冲突。证明：细节展示（内侧磁石特写）、具体数据背书（3500高斯）。风险：信任不足、无CTA。评分：6.6"
+}

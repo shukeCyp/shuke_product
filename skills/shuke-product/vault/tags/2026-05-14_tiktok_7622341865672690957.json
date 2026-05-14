@@ -1,0 +1,79 @@
+{
+  "video_id": "2026-05-14_tiktok_7622341865672690957",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/accardcollectibles_7622341865672690957.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622341865672690957/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "直播切片",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（适用于盲盒/拆卡/潮玩手办引流）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：痛点解决、直播切片、效果前后对比。钩子：别划走、结果前置、好奇悬念。风险：信任不足、无CTA。评分：7.6"
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7637853698521140493",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/yussouy4_7637853698521140493.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637853698521140493/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 豹纹外观、自带触控LED化妆镜且带有可调节分区隔板的旅行化妆箱。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 精致女性",
+      "美妆爱好者",
+      "经常出差",
+      "旅行的女性",
+      "强迫症",
+      "收纳控。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 视觉ASMR（反差与满足感）。没有从杂乱开始，而是直接给出了一个极其舒适、整洁、昂贵、发光的最终状态。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 利益点释放（比如限时包邮），引导点击小黄车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对带货实操改造)\n- **复刻脚本大纲（痛点+种草混合型）：**\n  - **0-2s 抓眼球：** 直接放产品高光（打开箱子点亮灯）。\n  - **2-5",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 豹纹外观、自带触控LED化妆镜且带有可调节分区隔板的旅行化妆箱。。品类：美妆护肤。人群：** 精致女性、美妆爱好者、经常出差。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、限时稀缺、结果前置。证明：**。风险：口播缺失、信任不足。评分：7.8"
+}

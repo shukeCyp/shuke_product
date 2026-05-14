@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7624975864786193678",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/kaylee_mertens__7624975864786193678.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624975864786193678/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对商业投放改造)\n如果拥有此视频的版权，建议进行如下“二创”改造用于带货：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：效果前后对比、场景种草、痛点解决。钩子：好奇悬念、身份点名、结果前置。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

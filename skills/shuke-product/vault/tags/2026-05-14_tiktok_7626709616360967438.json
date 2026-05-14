@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7626709616360967438",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/cathysleepway_7626709616360967438.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626709616360967438/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.32,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Bedlore 品牌的防水绗缝床笠/床垫保护罩。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 购买了昂贵床垫的家庭",
+      "有孩童或宠物的家庭",
+      "习惯在床上饮食的年轻人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点警告（文案） + 动作代入（画面）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（约15-20秒）：**\n  1. (0-3s) **痛点+安装：** 画面展示把咖啡杯放在床上摇摇欲坠，随后立刻切到双手拉扯床罩套上床垫的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Bedlore 品牌的防水绗缝床笠/床垫保护罩。。品类：家居清洁。人群：** 购买了昂贵床垫的家庭、有孩童或宠物的家庭、习惯在床上饮食的年轻人。。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

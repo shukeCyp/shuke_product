@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7637259436544871711",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/trent.project.man_7637259436544871711.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637259436544871711/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 大功率户外喷火枪/庭院点火器（连接气罐的硬核工具）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 核心人群是为丈夫",
+      "男友挑选礼物的女性（如父亲节",
+      "生日礼物）",
+      "次核心人群是喜欢硬核户外工具",
+      "喜欢玩火的男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（巨大的火焰 vs 普通的火盆） + 痛点精准打击（送礼焦虑） + 视觉/听觉刺激（暴力喷火）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 9.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    *   画面1（0-3s）：直接切入高潮。展示一个硬核产品极其夸张或高效的使用瞬间（如高压水枪秒去污、强力风机吹飞落叶）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 大功率户外喷火枪/庭院点火器（连接气罐的硬核工具）。。品类：男士护理。人群：** 核心人群是为丈夫、男友挑选礼物的女性（如父亲节、生日礼物）。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：字幕不清、口播缺失、信任不足。评分：8.0"
+}

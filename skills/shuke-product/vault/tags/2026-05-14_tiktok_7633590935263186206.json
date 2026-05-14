@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633590935263186206",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/kennyshopsalot_7633590935263186206.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633590935263186206/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款主打蓬松、柔软、厚实且具有高级低饱和色调（灰绿色）的床品套件（核心展示为被子和抱枕）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求居家美学",
+      "注重睡眠体验",
+      "容易受“情绪价值”打动的年轻女性（尤其是喜欢“沉浸式独处”和“氛围感”的人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉满足感（解压/ASMR视觉） + 情绪场景代入（Thunderstorm edit）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真人实际操作整理",
+    "让产品的呈现非常自然",
+    "可信"
+  ],
+  "cta": {
+    "text": "** 关掉大灯，只留床头暖光，人躺进被窝。口播/字幕引导下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 4.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（强化转化版）：**\n*   **0-3s 情绪钩子：** 慢动作抛床品入镜（保留原片精髓）+ 痛点字幕。\n*   **3-6s 视觉证明：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款主打蓬松、柔软、厚实且具有高级低饱和色调（灰绿色）的床品套件（核心展示为被子和抱枕）。。品类：数码配件。人群：** 追求居家美学、注重睡眠体验、容易受“情绪价值”打动的年轻女性（尤其是喜欢“沉浸式独处”和“氛围感”的人群）。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置。证明：真人实际操作整理、让产品的呈现非常自然、可信。风险：信任不足。评分：7.0"
+}

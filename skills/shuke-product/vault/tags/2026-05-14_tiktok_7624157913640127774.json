@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7624157913640127774",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/miranda_winn_7624157913640127774.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624157913640127774/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "反常识",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.5,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.5,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（10秒版）：**\n1.  **前3秒（对比破坏）**：左腿穿竞品透肉丝袜，右腿穿自家不透肉打底裤。拿圆珠笔/剪刀/钢刷先破坏左侧，瞬间破大洞。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：办公学习。视频类型：剧情反转、UGC口播、痛点解决。钩子：反常识、结果前置、场景冲突。风险：口播缺失、信任不足、无CTA。评分：8.6"
+}

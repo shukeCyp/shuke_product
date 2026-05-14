@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7610519164297481503",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/bennettfinds_7610519164297481503.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610519164297481503/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲：**\n1. **[0-3s] 痛点+直接拉踩（钩子）**：手里拿着一条便宜的毯子扔掉，直接抖开新凉感毯。“别再买那种像废纸一样的假凉感毯了！”",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：UGC口播、测评对比、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。风险：信任不足、无CTA。评分：8.4"
+}

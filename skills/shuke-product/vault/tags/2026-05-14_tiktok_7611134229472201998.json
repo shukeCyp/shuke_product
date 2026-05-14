@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7611134229472201998",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/litsteps2_7611134229472201998.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611134229472201998/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有卡通大眼设计、鞋底边缘带有彩色LED跑马灯的发光凉拖鞋。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "学生党",
+      "Z世代",
+      "喜欢新奇特",
+      "可爱搞怪好物的人群",
+      "派对",
+      "音乐节爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（0-1s发光效果） + 好奇悬念（1-3s开箱期盼） + 视觉反差（暗环境与亮灯）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版，15秒内）：**\n    1.  **0-2s 黄金视觉：** 黑暗环境下，双脚穿鞋亮灯特写。（配音：“天呐，我终于买到了！”",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有卡通大眼设计、鞋底边缘带有彩色LED跑马灯的发光凉拖鞋。。品类：数码配件。人群：** 年轻女性、学生党、Z世代。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、价格跳水。证明：**。风险：信任不足、无CTA。评分：8.5"
+}

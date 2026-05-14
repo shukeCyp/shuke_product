@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7632403141719248158",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/mina.ledean_7632403141719248158.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632403141719248158/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（hot girls/hot sleeper）+ 痛点刺激（怕热）+ 视觉动效（大面积亮色物品抛空）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "信任感未拉满）*"
+  ],
+  "cta": {
+    "text": "下方链接购买。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "(国内短视频环境改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：场景种草、痛点解决、质地实测。钩子：结果前置、场景冲突、好奇悬念。证明：信任感未拉满）*。风险：信任不足。评分：7.6"
+}

@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7633940763310656781",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/madisonicola_7633940763310656781.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633940763310656781/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 艺术家的原创画作（原画、版画、海报、贴纸等周边），或作为个人IP吸粉的引流视频。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱黑色幽默的年轻人",
+      "猫奴",
+      "宠物主",
+      "艺术爱好者",
+      "同频的画师",
+      "创作者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子（吸了10小时废气会怎样？）+ 反差/场景冲突钩子（正经的油画质感 vs 荒诞的抽烟黑猫）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "证明这是100%原创手绘",
+    "而非AI生成或低劣印刷品",
+    "建立了极强的原创信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 3.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "(将其改造为高转化的带货视频)\n*   **复刻脚本大纲（场景-种草模型）：**\n    *   0-3s：展示夸张画作+抛出悬念（吸废气的后果）。\n    *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 艺术家的原创画作（原画、版画、海报、贴纸等周边），或作为个人IP吸粉的引流视频。。品类：数码配件。人群：** 喜爱黑色幽默的年轻人、猫奴、宠物主。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：证明这是100%原创手绘、而非AI生成或低劣印刷品、建立了极强的原创信任感。风险：信任不足、无CTA。评分：5.8"
+}

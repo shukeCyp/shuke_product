@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7639051428014640397",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/jrichbk_7639051428014640397.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639051428014640397/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.08,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 户外大型活动/派对帐篷（带侧边透明窗帘）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有庭院的家庭",
+      "需要举办派对（毕业典礼",
+      "烧烤",
+      "家庭聚会）的人群",
+      "对租赁设备价格敏感的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激（“已经回本了”） + 痛点共鸣（派对太贵） + 结果展示（漂亮的帐篷布景）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实的派对场景",
+    "真实的食物和人群",
+    "物理拉链特写（核心信任状）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "(针对商家/带货达人)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 户外大型活动/派对帐篷（带侧边透明窗帘）。。品类：数码配件。人群：** 有庭院的家庭、需要举办派对（毕业典礼、烧烤。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、价格跳水、结果前置。证明：真实的派对场景、真实的食物和人群、物理拉链特写（核心信任状）。风险：信任不足、无CTA。评分：8.8"
+}

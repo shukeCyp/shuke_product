@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7628708069458906398",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/baowinn_7628708069458906398.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628708069458906398/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "价格跳水",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "今日半价，点左下角抢。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：成品展示诱惑(2s) -> 倒料展现制冷(5s) -> 碾压平铺(5s) -> 解压推卷(5s) -> 装盘+行动呼吁(3s)。\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：效果前后对比、场景种草、痛点解决。钩子：结果前置、限时稀缺、价格跳水。风险：口播缺失、信任不足。评分：8.2"
+}

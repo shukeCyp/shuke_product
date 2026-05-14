@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7624345912063659277",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/americas.sneaker_7624345912063659277.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624345912063659277/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "库存震撼",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - 0-2s：手持爆款商品怼脸展示 + 核心优惠字幕打出。\n  - 2-6s：翻转展示核心细节（底/背/内衬）+ 痛点文案（现货",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、库存震撼、好奇悬念。风险：信任不足、无CTA。评分：8.0"
+}

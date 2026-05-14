@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7607274010824412446",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/secureselfpublishing_7607274010824412446.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7607274010824412446/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.45,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本面向情侣/夫妻的情感引导日记本（《The things I love about you》）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于恋爱或婚姻关系中",
+      "可能不善言辞（\"aren't great with words\"）",
+      "或者渴望向伴侣表达爱意",
+      "制造浪漫惊喜的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情感悬念 + 痛点暴击（遗憾/失去的恐惧）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "全靠手指指着具体的题目（如\"One of the best days...\" 和 形容词列表）",
+    "这种“所见即所得”的视觉证明是最好的背书"
+  ],
+  "cta": {
+    "text": "* 合上书本，敲击封面。文案：“左下角小黄车还有少量现货，给她个惊喜吧。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "*   **适合投流/自然流：** 非常适合自然流跑爆后转投流（原生感强，不硬销）。\n*   **复刻脚本大纲（中文语境改造）：**\n    *   *0-3s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本面向情侣/夫妻的情感引导日记本（《The things I love about you》）。。品类：男士护理。人群：** 处于恋爱或婚姻关系中、可能不善言辞（\"aren't great with words\"）、或者渴望向伴侣表达爱意。视频类型：UGC口播、痛点解决、库存背书。钩子：结果前置、场景冲突、好奇悬念。证明：全靠手指指着具体的题目（如\"One of the best days...\" 和 形容词列表）、这种“所见即所得”的视觉证明是最好的背书。风险：口播缺失、信任不足。评分：8.8"
+}

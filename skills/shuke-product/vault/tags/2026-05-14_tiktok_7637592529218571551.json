@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7637592529218571551",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/wynterswrld_7637592529218571551.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637592529218571551/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 透明带平底凉鞋（因全透明设计，视觉上类似“光脚”或“隐形鞋”）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求夏季百搭穿搭的女性",
+      "对透明凉鞋感兴趣但仍在观望的人群",
+      "非扁平足的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "测评对比",
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片",
+      "质地实测",
+      "剧情反转"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点反问 + 视觉好奇 + 争议引入。视觉上，透明带让脚看起来像“光脚在走”，引发视觉好奇；听觉上，直接反问大众对该产品的负面评价。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  0-3s：POV视角快步走。口播抛出该品类的常见差评。\n    2.  3-8s：继续走。口播承认一个无伤大雅的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 透明带平底凉鞋（因全透明设计，视觉上类似“光脚”或“隐形鞋”）。。品类：服饰穿搭。人群：** 追求夏季百搭穿搭的女性、对透明凉鞋感兴趣但仍在观望的人群、非扁平足的女性。。视频类型：测评对比、效果前后对比、场景种草。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：字幕不清、信任不足、无CTA。评分：7.4"
+}

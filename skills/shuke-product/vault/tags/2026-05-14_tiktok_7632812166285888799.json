@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7632812166285888799",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/afnan_fashion_usa_7632812166285888799.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632812166285888799/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有精致蕾丝亮片刺绣边缘的多色系穆斯林女装长袍（Abaya/开衫）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求端庄时尚（Modest Fashion）的女性",
+      "有出席节庆",
+      "聚会",
+      "正式场合着装需求的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "低价占便宜",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉冲击 + 好奇心/上新刺激。直接把产品最美的细节怼在镜头前，配合“更多颜色”的文案，刺激老客复购和新客停留。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "（带货改造版）\n*   **复刻脚本大纲：**\n    1.  0-2s：爆款细节特写+吸睛文案（钩子）\n    2.  2-5s：卡点展示 5 种不同颜色（假",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有精致蕾丝亮片刺绣边缘的多色系穆斯林女装长袍（Abaya/开衫）。。品类：服饰穿搭。人群：** 追求端庄时尚（Modest Fashion）的女性、有出席节庆、聚会。视频类型：剧情反转、UGC口播、清仓福利。钩子：好奇悬念、低价占便宜、结果前置。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

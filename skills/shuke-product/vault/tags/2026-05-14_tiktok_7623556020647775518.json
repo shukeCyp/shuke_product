@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7623556020647775518",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/nataliesszz_7623556020647775518.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623556020647775518/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一件橄榄绿色、挂脖、露背、带有褶皱设计的紧身包臀长裙。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求性感穿搭",
+      "有身材展示需求",
+      "寻找派对",
+      "约会战袍的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（直接展示穿上后的绝佳效果）、颜值/身材吸引（荷尔蒙钩子）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "所见即所得",
+    "提供了极强的“真实上身效果”背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    *   0-3s：模特正面惊艳亮相（配钩子花字）。\n    *   3-6s：手拉扯一下裙摆或腰部（展示面料弹力），配说",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一件橄榄绿色、挂脖、露背、带有褶皱设计的紧身包臀长裙。。品类：男士护理。人群：** 追求性感穿搭、有身材展示需求、寻找派对。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：所见即所得、提供了极强的“真实上身效果”背书。风险：信任不足、无CTA。评分：7.0"
+}

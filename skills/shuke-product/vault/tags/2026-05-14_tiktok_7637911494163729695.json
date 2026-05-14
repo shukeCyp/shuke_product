@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637911494163729695",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/meredithmmccann_7637911494163729695.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637911494163729695/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有氛围灯、触控面板和遥控器的现代极简风落地循环落地扇。",
+    "category": "运动户外",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 准备迎接夏天的家庭用户",
+      "追求家居颜值的年轻群体",
+      "以及容易被“买一送一",
+      "超低折扣”吸引的价格敏感型消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激（买一送一） + 好奇心（真的这么便宜吗？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 9.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（15秒）：**\n  - **0-3s (钩子)：** 给出难以拒绝的价格/机制。画面展示风扇高颜值外观及自动摇头。\n  - **3-8s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有氛围灯、触控面板和遥控器的现代极简风落地循环落地扇。。品类：运动户外。人群：** 准备迎接夏天的家庭用户、追求家居颜值的年轻群体、以及容易被“买一送一。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、价格跳水。证明：**。风险：信任不足、无CTA。评分：7.6"
+}

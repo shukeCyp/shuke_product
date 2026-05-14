@@ -1,0 +1,79 @@
+{
+  "video_id": "2026-05-14_tiktok_7614999626495577374",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/luluyousefff_7614999626495577374.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614999626495577374/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "剧情反转",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "一句话总结穿上后的改变，并指明购买路径（5s）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 7.5,
+    "purchase_impulse": 6.5,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  近景：抛出受众长期的容貌/穿搭焦虑，并给出反常识结论（3s）\n    2.  切全身：直接展示主推款，点出解决痛",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足。评分：8.0"
+}

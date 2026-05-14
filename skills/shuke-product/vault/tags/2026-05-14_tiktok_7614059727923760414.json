@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7614059727923760414",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/tyutelighting_7614059727923760414.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614059727923760414/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有屏幕拾色摄像头（同步画面色彩）的电视背景氛围灯带（RGB TV Backlight）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 电影",
+      "追剧爱好者",
+      "主机游戏玩家",
+      "数码极客",
+      "追求居家氛围感的年轻人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇驱动 + 动作展示。开篇通过展示一个“隐藏”在电视背面的操作，配合“升级”的字眼，引发观众好奇：“他贴的是什么？升级后长什么样？”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "全程是真实的居家环境（能看到电视柜",
+    "绿植",
+    "墙面反光）",
+    "这种“野生感”极大地增强了产品实际效果的可信度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "这是一条非常适合批量矩阵起号和信息流投放的模板。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有屏幕拾色摄像头（同步画面色彩）的电视背景氛围灯带（RGB TV Backlight）。。品类：数码配件。人群：** 电影、追剧爱好者、主机游戏玩家。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：全程是真实的居家环境（能看到电视柜、绿植、墙面反光）。风险：字幕不清、信任不足、无CTA。评分：8.8"
+}

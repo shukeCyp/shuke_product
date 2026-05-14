@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7627439871551868190",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/ashpick__7627439871551868190.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627439871551868190/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指出购买路径（促转化）。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对信息流投放/带货短视频改造)\n*   **复刻脚本大纲**：\n    1.  0-2s 黄金开头：IP喊话 + 真人上身转圈展示（吸睛）。\n    2. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、痛点解决、剧情反转。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足。评分：6.8"
+}

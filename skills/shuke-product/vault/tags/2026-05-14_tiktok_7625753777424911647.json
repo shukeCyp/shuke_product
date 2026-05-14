@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7625753777424911647",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/kennyshopsalot_7625753777424911647.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625753777424911647/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款拥有极致蓬松度、“云朵感”的超大号加厚羽绒被/冬被。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求生活品质的年轻女性",
+      "宅家人群",
+      "睡眠质量差或对卧室颜值有高要求的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 身份代入（情绪钩子）。视觉上，极其夸张的超大厚被子形成视觉冲击（冲突）；文案上，“no plans（没有安排）”直击当代打工人/学生党周末只想躺平",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "纯靠物理动作展现商品本质",
+    "真实感强"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：** 情绪引入（躺平） -> 质感自证（按压/揉搓） -> 铺展全貌（抖被子） -> 钩子收尾（引导购买）。\n*   **需要拍摄的镜",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款拥有极致蓬松度、“云朵感”的超大号加厚羽绒被/冬被。。品类：数码配件。人群：** 追求生活品质的年轻女性、宅家人群、睡眠质量差或对卧室颜值有高要求的消费者。。视频类型：UGC口播、直播切片、清仓福利。钩子：好奇悬念、结果前置、场景冲突。证明：纯靠物理动作展现商品本质、真实感强。风险：口播缺失、信任不足、无CTA。评分：8.0"
+}

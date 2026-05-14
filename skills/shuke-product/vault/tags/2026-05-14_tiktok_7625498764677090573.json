@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7625498764677090573",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/pcfinds7_7625498764677090573.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625498764677090573/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.22,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 情侣互动填空手账本/恋爱纪念册（类似“关于你的100件事”或“我爱你的理由”填空书）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于恋爱关系中",
+      "正在寻找具有纪念意义",
+      "情绪价值礼物的年轻男性或女性（即将过纪念日或生日）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入（深夜用心准备礼物的深情男友） + 情绪感染（极度深情的BGM） + 悬念好奇（他在写什么礼物这么用心？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 9.0,
+    "product_display": 3.0,
+    "purchase_impulse": 8.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "此类视频非常适合自然流和短视频带货（尤其是TikTok/视频号），制作成本极低，核心在于“情绪+氛围”。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 情侣互动填空手账本/恋爱纪念册（类似“关于你的100件事”或“我爱你的理由”填空书）。。品类：男士护理。人群：** 处于恋爱关系中、正在寻找具有纪念意义、情绪价值礼物的年轻男性或女性（即将过纪念日或生日）。。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、好奇悬念。证明：**。风险：字幕不清、信任不足、无CTA。评分：6.4"
+}

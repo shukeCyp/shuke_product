@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7633187669635337503",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/soy.rosi02_7633187669635337503.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633187669635337503/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 淋浴净水器/花洒过滤芯（解决硬水/自来水杂质问题）。",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 备受掉发",
+      "发质干枯毛躁",
+      "皮肤干燥问题困扰的女性（尤其是刚搬新家或水质较差地区的人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "反常识",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景带入 + 痛点陈述。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.5,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 7.7
+  },
+  "remake": {
+    "angle": "**针对自然流/信息流投放的优化改造脚本：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 淋浴净水器/花洒过滤芯（解决硬水/自来水杂质问题）。。品类：身体护理。人群：** 备受掉发、发质干枯毛躁、皮肤干燥问题困扰的女性（尤其是刚搬新家或水质较差地区的人群）。。视频类型：场景种草、开箱展示、痛点解决。钩子：结果前置、好奇悬念、场景冲突。证明：**。风险：信任不足、无CTA。评分：7.7"
+}

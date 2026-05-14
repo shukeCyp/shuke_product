@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7615022361632443678",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/avacarpenter_7615022361632443678.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615022361632443678/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 紫红色（深酒红）抹胸高开叉修身连衣长裙。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求性感",
+      "修身穿搭",
+      "有约会",
+      "晚宴",
+      "舞会或派对着装需求的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 颜值/身材刺激型。直接抛出穿上该产品的最终绝美效果。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "材质说明或背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 3.0,
+    "trust": 5.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "(针对商业化带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 紫红色（深酒红）抹胸高开叉修身连衣长裙。。品类：男士护理。人群：** 追求性感、修身穿搭、有约会。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：材质说明或背书。风险：信任不足、无CTA。评分：5.2"
+}

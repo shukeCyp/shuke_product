@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7636078646343634207",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/pureshop266_7636078646343634207.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636078646343634207/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.14,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** “开学最后一天”（Last day of school）主题的签名纪念T恤（或其对应的热转印贴膜/定制服务）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有学龄儿童的家长",
+      "即将迎来学期末的学生或相关教师。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子（膜下面是什么图案？）、结果展示钩子（揭膜的爽感）、情绪/身份代入钩子（梦寐以求的衣服）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 6.5,
+    "total": 7.7
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版，15秒时长）：**\n    *   0-3s：爽感揭膜（同原视频），配音抛出痛点/场景。\n    *   4-8s：特写抚平印",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** “开学最后一天”（Last day of school）主题的签名纪念T恤（或其对应的热转印贴膜/定制服务）。。品类：服饰穿搭。人群：** 家有学龄儿童的家长、即将迎来学期末的学生或相关教师。。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.7"
+}

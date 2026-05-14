@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7636158042534399246",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/rickowenscoat_7636158042534399246.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636158042534399246/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 黑色白边运动长裤（Track pants）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱篮球运动的年轻男性",
+      "街头运动风穿搭爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入与身份认同。没有强烈的视觉冲击，而是依靠篮球场背景、运动后的喝水动作以及街头穿搭（拖鞋配白袜、粉色肩带背包），精准吸引目标人群（Ballers）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "地上的篮球",
+    "带汗水的真实感）是唯一也是最强的信任背书",
+    "材质细节等硬核证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（适合短视频带货改造）\n*   **复刻脚本大纲（痛点+场景+证明+转化）：**\n    1.  **0-2s（吸引）：** 模特快速运球/跳投的动感镜头（展示",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 黑色白边运动长裤（Track pants）。。品类：男士护理。人群：** 喜爱篮球运动的年轻男性、街头运动风穿搭爱好者。。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：地上的篮球、带汗水的真实感）是唯一也是最强的信任背书、材质细节等硬核证据。风险：字幕不清、信任不足、无CTA。评分：5.2"
+}

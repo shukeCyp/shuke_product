@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7636840901872078094",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/hitmehardandsoftmovie_7636840901872078094.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636840901872078094/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 明星同款/周边电影院零食套餐（印有 \"HIT ME HARD AND SOFT\" 的爆米花桶和饮料杯）及特定品牌的巧克力排块。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 明星粉丝（核心）",
+      "Z世代年轻人",
+      "喜欢追求潮流生活方式及院线体验的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（明星效应） + 场景沉浸。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "吃爆米花",
+    "表现得很享受）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 1.0,
+    "trust": 8.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "（适用于素人/达人自然流或投放）\n如果我们要复刻这种“高级观影零食”的氛围感来带货，建议如下改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 明星同款/周边电影院零食套餐（印有 \"HIT ME HARD AND SOFT\" 的爆米花桶和饮料杯）及特定品牌的。品类：食品饮料。人群：** 明星粉丝（核心）、Z世代年轻人、喜欢追求潮流生活方式及院线体验的人群。。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、场景冲突、身份点名。证明：吃爆米花、表现得很享受）。风险：口播缺失、信任不足、无CTA。评分：5.0"
+}

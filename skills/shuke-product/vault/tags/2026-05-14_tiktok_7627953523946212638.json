@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7627953523946212638",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/emptysparks20_7627953523946212638.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627953523946212638/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "手背实测",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（如果我们要拍一个卖这个产品的短视频）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、无CTA。评分：8.2"
+}

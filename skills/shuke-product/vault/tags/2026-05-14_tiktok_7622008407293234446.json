@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7622008407293234446",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/lorixasiaa_7622008407293234446.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622008407293234446/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.02,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 豹纹宽松罩衫/连衣裙（视觉占比最大），或手持的黑色小方包，亦或背景展示的香水/收纳柜（通过评论区或主页链接带货）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱欧美风",
+      "追求穿搭个性与舒适度的年轻女性（Gen Z",
+      "千禧一代）",
+      "或对“酷阿姨",
+      "酷姐”人设有共鸣的泛娱乐人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突钩子（瞒着亲妈去派对） + 身份代入钩子（靠谱的酷阿姨） + 音乐情绪钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "裙子没有紧绷感",
+    "证明舒适度）",
+    "真实的卧室生活场景（增加博主的真实生活气息",
+    "降低广告防备心）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "（针对中小商家的“微调带货版”）\n若想保留其高流量属性，同时增强带货能力，建议如下改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 豹纹宽松罩衫/连衣裙（视觉占比最大），或手持的黑色小方包，亦或背景展示的香水/收纳柜（通过评论区或主页链接带货）。。品类：美妆护肤。人群：** 喜爱欧美风、追求穿搭个性与舒适度的年轻女性（Gen Z、千禧一代）。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：裙子没有紧绷感、证明舒适度）、真实的卧室生活场景（增加博主的真实生活气息。风险：口播缺失、信任不足、无CTA。评分：5.8"
+}

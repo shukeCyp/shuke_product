@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7636506085888642317",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/liljen680_7636506085888642317.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636506085888642317/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "价格跳水",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 4.0,
+    "product_display": 0.0,
+    "purchase_impulse": 6.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "（以国内推演唱会/电影票折扣为例）\n*   **复刻脚本大纲**：\n    1.  0-3s：点名受众 + 抛出限时大动作（用截图做背景）。\n    2.  3",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、直播切片、清仓福利。钩子：场景冲突、价格跳水、低价占便宜。风险：信任不足、无CTA。评分：4.8"
+}

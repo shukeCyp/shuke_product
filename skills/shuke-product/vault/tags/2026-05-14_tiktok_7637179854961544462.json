@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7637179854961544462",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/nelie_98_7637179854961544462.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637179854961544462/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频在售卖一款印有海地文化特色图案（带海地国旗配色头巾和墨镜的黑人女性卡通形象）的黑色短袖T恤。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 海地裔人群",
+      "海地侨民",
+      "或对海地文化有强烈认同感和自豪感的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（强烈的民族色彩印花瞬间抓住特定人群）与 氛围感染（高颜值模特+欢快音乐）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "弹性拉扯测试",
+    "水洗不掉色证明等电商硬核证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n    *   0-3s：随音乐起舞，亮出衣服正面，带出引导购买字幕。\n    *   3-6s：手势指引，强力聚焦衣服上的核心设计",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频在售卖一款印有海地文化特色图案（带海地国旗配色头巾和墨镜的黑人女性卡通形象）的黑色短袖T恤。。品类：美妆护肤。人群：** 海地裔人群、海地侨民、或对海地文化有强烈认同感和自豪感的人群。。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、低价占便宜。证明：弹性拉扯测试、水洗不掉色证明等电商硬核证据。风险：口播缺失、信任不足、无CTA。评分：7.0"
+}

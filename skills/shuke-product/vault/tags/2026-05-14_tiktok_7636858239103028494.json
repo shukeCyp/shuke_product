@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7636858239103028494",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/manentail_7636858239103028494.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636858239103028494/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似某品牌的瓶装/罐装饮料（人物手中持有白底蓝橙包装的饮品）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻群体（Z世代）",
+      "喜爱搞笑幽默内容的泛娱乐受众",
+      "上班族。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇（荒诞的名字是什么意思？）、反差（正常的办公室背景 vs 荒诞的动作）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有特写",
+    "没有任何背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 2.6
+  },
+  "remake": {
+    "angle": "(针对带货商家的改造建议)\n如果商家想利用这种“爆款互动形式”去推销自己的饮品/零食，建议**保留形式，注入商业信息**：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似某品牌的瓶装/罐装饮料（人物手中持有白底蓝橙包装的饮品）。。品类：男士护理。人群：** 年轻群体（Z世代）、喜爱搞笑幽默内容的泛娱乐受众、上班族。。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：没有特写、没有任何背书。风险：字幕不清、信任不足、无CTA。评分：2.6"
+}

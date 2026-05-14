@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637561462898068750",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/e2i8b5aes7_7637561462898068750.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637561462898068750/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "尺寸容量",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（中文语境适用）**：\n  - 0-3s：展示炫酷星空顶（钩子）\n  - 3-8s：揭秘神器，展示车充并证明非改装（建立信任）\n  - 8-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、痛点解决、库存背书。钩子：好奇悬念、限时稀缺、结果前置。风险：字幕不清、信任不足、无CTA。评分：8.3"
+}

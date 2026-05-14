@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7630462900955630878",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/thecozymama22_7630462900955630878.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630462900955630878/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有美国国旗刺绣元素、红白格子相间的女婴/女童罩衫连衣裙（Smocked dress），极大概率是针对美国独立日（4th of July）或阵亡将士纪",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 女宝妈妈（Baby girl moms）",
+      "特别是喜欢传统",
+      "复古可爱风格且有节庆穿搭需求的年轻母亲。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（直接@女宝妈妈） + 情绪/好奇（车内捂嘴惊讶的夸张反应） + 视觉符号（红白蓝三色爱心暗示爱国主题）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而非影棚打光拍摄",
+    "极大增强了“自来水”推荐的可信度）"
+  ],
+  "cta": {
+    "text": "** 眼神坚定，手指指向屏幕下方链接处。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **0-2s 强情绪抓手：** 车内/沙发上，手捂嘴/瞪大眼睛，字幕精准框定人群。\n    2.  **2-5s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有美国国旗刺绣元素、红白格子相间的女婴/女童罩衫连衣裙（Smocked dress），极大概率是针对美国独立。品类：数码配件。人群：** 女宝妈妈（Baby girl moms）、特别是喜欢传统、复古可爱风格且有节庆穿搭需求的年轻母亲。。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、限时稀缺、结果前置。证明：而非影棚打光拍摄、极大增强了“自来水”推荐的可信度）。风险：口播缺失、信任不足。评分：8.6"
+}

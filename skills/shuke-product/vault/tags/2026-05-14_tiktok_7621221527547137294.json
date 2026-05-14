@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7621221527547137294",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/mydlvz1_7621221527547137294.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621221527547137294/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有内置吸尘器和丰富储物空间的**美甲师专用工作台**。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 新手美甲师",
+      "专业美甲师",
+      "准备开设居家美甲工作室的人群",
+      "以及为美甲师购买礼物的家属。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "低价占便宜",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（妈妈转行做美甲师）+ 痛点陈述（抱怨工作不舒服）+ 结果前置（直接展示漂亮的成品桌子）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（优化版）：**\n  1. **0-3s 痛点钩子：** 抱怨旧桌子乱/粉尘大，直接切入新桌子吸走粉尘的实测特写。\n  2. **3-10s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有内置吸尘器和丰富储物空间的**美甲师专用工作台**。。品类：家居清洁。人群：** 新手美甲师、专业美甲师、准备开设居家美甲工作室的人群。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、低价占便宜、结果前置。风险：信任不足、无CTA。评分：7.4"
+}

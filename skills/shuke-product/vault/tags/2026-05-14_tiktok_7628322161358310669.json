@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7628322161358310669",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/melissa.pedrick_7628322161358310669.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628322161358310669/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  **开场 (0-3s)**：抛出厨房美观或水渍痛点，扔出第一块主地垫。\n    2.  **展示 (3-15s)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。风险：字幕不清、信任不足、无CTA。评分：7.0"
+}

@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7629836015334657294",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/leyy6706_7629836015334657294.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629836015334657294/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 3.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 4.2
+  },
+  "remake": {
+    "angle": "(将其改造为高转化带货视频)\n如果商家想利用这个“美女+猎奇+鞋海”的设定进行正规带货，改造方案如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、场景冲突、身份点名。风险：口播缺失、信任不足、无CTA。评分：4.2"
+}

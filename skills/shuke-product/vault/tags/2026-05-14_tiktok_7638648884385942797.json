@@ -1,0 +1,79 @@
+{
+  "video_id": "2026-05-14_tiktok_7638648884385942797",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/goodtools79_7638648884385942797.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638648884385942797/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“干活效率翻倍，一套才几十块，左下角小黄车，水电师傅赶紧备一套！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 黄金3秒：电钻直接怼进水管打丝，碎屑横飞（视觉刺激）。\n  2. 痛点口播：“水管改道还在烧热熔机？又烫手又容易堵！”\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足。评分：9.2"
+}

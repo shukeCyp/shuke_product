@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7621262741164084493",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/out0fstorage_7621262741164084493.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621262741164084493/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款复古便携式数码摄像机（DVC/Camcorder），主打Y2K千禧风和Vlog记录。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性与复古审美的Z世代",
+      "学生党",
+      "热爱记录生活的Vlogger及夏日出行人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入（Vibe/Aesthetic）、身份暗示（Identity）、期待感（Anticipation）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 镜子里的屏幕实时反光是最大的可信度证明（证明机器真的在运行）。机身上的参数贴纸增加了数码产品的"
+  ],
+  "cta": {
+    "text": "指向屏幕下方或评论区。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版）：**\n    1.  起幅：精致潮人桌面，主角拿起DV。\n    2.  动作：单手开屏，对镜自拍。\n    3.  **新",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款复古便携式数码摄像机（DVC/Camcorder），主打Y2K千禧风和Vlog记录。。品类：家居清洁。人群：** 追求个性与复古审美的Z世代、学生党、热爱记录生活的Vlogger及夏日出行人群。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、身份点名。证明：** 镜子里的屏幕实时反光是最大的可信度证明（证明机器真的在运行）。机身上的参数贴纸增加了数码产品的。风险：口播缺失、信任不足。评分：7.0"
+}

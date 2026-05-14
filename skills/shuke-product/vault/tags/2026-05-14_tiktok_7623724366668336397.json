@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7623724366668336397",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/shopbypat_7623724366668336397.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623724366668336397/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "反常识",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 远景推镜头（3s）：展示氛围感拉满的卧室，商品开启，字幕打出“平替xx”的超预期文案，保留强劲产品原声。\n  2. 细节/",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：直播切片、质地实测、UGC口播。钩子：结果前置、好奇悬念、反常识。风险：字幕不清、口播缺失、信任不足。评分：8.2"
+}

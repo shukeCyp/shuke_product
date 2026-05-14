@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7636971394038877471",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/jacinjwhccj_7636971394038877471.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636971394038877471/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "场景冲突",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.5,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 痛点场景录屏（画不好人体被擦掉）。\n  2. 实物入画，砸在桌面上。\n  3. 翻开最精华的一页（肌肉/透视拆解），用笔尖",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：效果前后对比、场景种草、痛点解决。钩子：结果前置、限时稀缺、场景冲突。风险：信任不足、无CTA。评分：8.7"
+}

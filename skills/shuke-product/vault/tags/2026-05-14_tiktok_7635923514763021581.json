@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7635923514763021581",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/mollymoonvine_7635923514763021581.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635923514763021581/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 高颜值便携式自动弹出牙线盒（含替换牙线棒）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "精致白领",
+      "经常外出就餐",
+      "约会的人群",
+      "对生活细节和高颜值好物有追求的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心驱动 + 结果/功能前置展示 + 场景代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 轻松放进小包，手指引向左下角购物车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（痛点解决+场景种草型）：**\n    1.  **0-2s 痛点/场景引入：** 传统牙线乱糟糟 vs. 掏出高颜值牙线盒。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 高颜值便携式自动弹出牙线盒（含替换牙线棒）。。品类：美妆护肤。人群：** 年轻女性、精致白领、经常外出就餐。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、低价占便宜。证明：**。风险：口播缺失、信任不足。评分：7.2"
+}

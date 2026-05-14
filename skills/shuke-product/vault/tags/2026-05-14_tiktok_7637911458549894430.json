@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7637911458549894430",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/thecozymama22_7637911458549894430.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637911458549894430/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - [0-2s] 身份呼唤字幕 + 真人夸张反应（震惊/捂嘴/尖叫）。\n  - [2-5s] 突然掏出高颜值商品，怼近镜头展示最",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：场景种草、直播切片、价格刺激。钩子：好奇悬念、场景冲突、身份点名。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

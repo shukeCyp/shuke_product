@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7626555588306013453",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/song_lyrics365_7626555588306013453.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626555588306013453/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 背面印有特定英文标语（\"Trust me, i got nothin' for you other than love\"）的黑色连帽卫衣。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻人",
+      "喜爱街头风",
+      "氛围感穿搭的人群",
+      "容易被特定情绪文案和音乐打动的感性消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "音画同步（视听卡点） + 情绪/身份代入 + 审美吸引。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**实测**（真人走动时的面料褶皱和垂坠感展示了衣服的动态效果）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 4.0,
+    "purchase_impulse": 6.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "如果你要复刻这种高赞的“氛围感”服饰种草视频，方案如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 背面印有特定英文标语（\"Trust me, i got nothin' for you other than lo。品类：服饰穿搭。人群：** Z世代年轻人、喜爱街头风、氛围感穿搭的人群。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、身份点名。证明：**实测**（真人走动时的面料褶皱和垂坠感展示了衣服的动态效果）。风险：口播缺失、信任不足、无CTA。评分：5.8"
+}

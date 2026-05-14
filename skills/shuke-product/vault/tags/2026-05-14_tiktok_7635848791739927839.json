@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7635848791739927839",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/spaceshipsllc_7635848791739927839.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635848791739927839/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 海贼王（One Piece）集换式卡牌盲包（Booster Packs），核心是推广“代客开卡/直播开卡（Live Rips）”服务。",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 海贼王IP粉丝",
+      "二次元爱好者",
+      "TCG（集换式卡牌）玩家与收藏家。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "开箱展示",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "反常识",
+      "限时稀缺",
+      "身份点名",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动作钩子（撕卡包） + 场景暗示（满桌的卡包与手办）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（如果是商家想要提升带货转化）\n*   **复刻脚本大纲：**\n    *   0-3s（钩子）：展示昨天开出的价值XXXX元的极品卡，抛出悬念。\n    * ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 海贼王（One Piece）集换式卡牌盲包（Booster Packs），核心是推广“代客开卡/直播开卡（Live。品类：母婴宠物。人群：** 海贼王IP粉丝、二次元爱好者、TCG（集换式卡牌）玩家与收藏家。。视频类型：直播切片、场景种草、价格刺激。钩子：反常识、限时稀缺、身份点名。风险：信任不足、无CTA。评分：7.4"
+}

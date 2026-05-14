@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7631843092336774413",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/jc_has.my.heart_7631843092336774413.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631843092336774413/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 丙烯马克笔（Acrylic markers）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 手账党",
+      "绘画爱好者",
+      "美术生",
+      "DIY手工艺者以及喜欢观看解压（ASMR）视频的年轻群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "UGC口播",
+      "场景种草",
+      "剧情反转",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（极致丝滑的涂抹过程）+ 解压/感官刺激（颜料流出的治愈感）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "细节（纸张的肌理对比）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 5.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（以15秒标准带货视频为例）\n*   **复刻脚本大纲：**\n    *   0-3s（黄金视觉钩子）：复原原视频的微距画圆，配合高质感ASMR音效。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 丙烯马克笔（Acrylic markers）。。品类：数码配件。人群：** 手账党、绘画爱好者、美术生。视频类型：直播切片、UGC口播、场景种草。钩子：结果前置、好奇悬念、场景冲突。证明：细节（纸张的肌理对比）。风险：信任不足、无CTA。评分：7.4"
+}

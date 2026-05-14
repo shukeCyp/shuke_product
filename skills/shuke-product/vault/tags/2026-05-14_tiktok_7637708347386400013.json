@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7637708347386400013",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/alexandraelenaa___7637708347386400013.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637708347386400013/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带遮阳棚的儿童户外双人秋千椅。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有幼童",
+      "且拥有庭院",
+      "阳台",
+      "露台空间的宝妈群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "悬念/反差 + 场景代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  0-3s 钩子：假装抱怨/退货 + 展示绝美使用场景。\n    2.  3-10s 卖点：连续用“不是因为…”排",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带遮阳棚的儿童户外双人秋千椅。。品类：美妆护肤。人群：** 家有幼童、且拥有庭院、阳台。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

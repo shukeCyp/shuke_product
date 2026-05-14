@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7607586980058172702",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/enzo.plusone_7607586980058172702.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7607586980058172702/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖某沉浸式亲子互动体验展/室内游乐园门票（如TeamLab、Bubble Planet等同类光影互动展）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 25-40岁的一线",
+      "新一线城市年轻父母（主要为宝妈）",
+      "有周末遛娃",
+      "拍照打卡需求。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲击（视觉奇观）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "证明这是真实运营的场馆",
+    "非棚拍效果图"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 1.0,
+    "trust": 5.0,
+    "product_display": 8.0,
+    "purchase_impulse": 3.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "(将其改造为高转化带货视频)\n*   **复刻脚本大纲 (场景-种草模型)：**\n    *   **黄金3秒：** 提出痛点（周末去哪）+ 核心利益（沉浸式/",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖某沉浸式亲子互动体验展/室内游乐园门票（如TeamLab、Bubble Planet等同类光影互动展）。。品类：服饰穿搭。人群：** 25-40岁的一线、新一线城市年轻父母（主要为宝妈）、有周末遛娃。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：证明这是真实运营的场馆、非棚拍效果图。风险：口播缺失、信任不足、无CTA。评分：4.8"
+}

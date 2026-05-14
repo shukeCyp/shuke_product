@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7624175656045137166",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/ubwgnvvlq1_7624175656045137166.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624175656045137166/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 2.0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "（如果要爆改此视频来卖成品裤链）\n*   **复刻脚本大纲**：\n    *   0-3s：炫酷光影下展示戴着链条的下半身（视觉抓手）。\n    *   3-6",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：5.4"
+}

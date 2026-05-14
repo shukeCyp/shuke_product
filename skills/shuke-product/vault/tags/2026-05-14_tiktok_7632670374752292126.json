@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7632670374752292126",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/desireebaca__7632670374752292126.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632670374752292126/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 双层大容量美甲工具/甲油胶收纳包（带海绵分格区和光疗机专属层）。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢在家自己做美甲",
+      "但工具杂乱无章",
+      "缺乏收纳空间的“美甲女孩（Nail Girly）”。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点场景直击 + 身份标签代入（Identity Hook） + 结果反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 拉上拉链拎走，手指左下角。（口播：一包搞定，提着就走。左下角给你们申请了特价，手残党赶紧冲！）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "（针对国内短视频平台改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 双层大容量美甲工具/甲油胶收纳包（带海绵分格区和光疗机专属层）。。品类：其他。人群：** 喜欢在家自己做美甲、但工具杂乱无章、缺乏收纳空间的“美甲女孩（Nail Girly）”。。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足。评分：8.6"
+}

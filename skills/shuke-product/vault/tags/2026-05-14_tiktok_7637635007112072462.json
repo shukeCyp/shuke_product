@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7637635007112072462",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/chibbyaffil_7637635007112072462.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637635007112072462/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 伪装成普通中性笔的“喷水恶作剧笔”（Squirt Pen）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Gen Z（Z世代）",
+      "在校初高中生",
+      "大学生",
+      "喜欢整蛊和恶作剧的年轻男性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（恶作剧） + 好奇心（他会有什么反应） + 黑话代入（\"huzz\" 针对特定年轻圈层）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "被整同学惊愕",
+    "四处寻找作案者的真实反应",
+    "比任何口播测评都更有说服力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 5.0,
+    "trust": 10.0,
+    "product_display": 2.0,
+    "purchase_impulse": 7.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "(针对商业投放改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 伪装成普通中性笔的“喷水恶作剧笔”（Squirt Pen）。。品类：男士护理。人群：** Gen Z（Z世代）、在校初高中生、大学生。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：被整同学惊愕、四处寻找作案者的真实反应、比任何口播测评都更有说服力。风险：信任不足、无CTA。评分：6.6"
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7625337407914790175",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/phillipdeals_winnrs_7625337407914790175.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625337407914790175/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "(针对图书/知识付费类目)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：字幕不清、信任不足、无CTA。评分：8.1"
+}

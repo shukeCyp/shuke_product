@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637718350633749774",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/durv080_7637718350633749774.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637718350633749774/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款大容量、轻便的红色尼龙/布面单肩托特包（Tote Bag）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求颜值与实用并重",
+      "有日常通勤或上课装载需求的女大学生及年轻职场女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（girls tote）、好奇/趋势挑战（What's in...）、反差/结果展示（这么小的屏幕塞满这么多东西，包能装得下吗？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "* 切换视角，模特单肩背着装满的红包在街头/室内走动，展示不上重、不勒肩。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（适合短视频带货改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款大容量、轻便的红色尼龙/布面单肩托特包（Tote Bag）。。品类：美妆护肤。人群：** 追求颜值与实用并重、有日常通勤或上课装载需求的女大学生及年轻职场女性。。视频类型：场景种草、开箱展示、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：口播缺失、信任不足。评分：7.6"
+}

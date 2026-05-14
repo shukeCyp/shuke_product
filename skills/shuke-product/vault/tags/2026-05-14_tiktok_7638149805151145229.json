@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7638149805151145229",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/thepsychologydropout_7638149805151145229.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638149805151145229/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 55.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖行为心理学培训课程、书籍（画面中出现的《THE BEHAVIOR OPS MANUAL》）、或咨询服务（片尾露出 CHASE HUGHES 品牌及",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 对心理学",
+      "人际交往技巧",
+      "职场生存",
+      "销售谈判感兴趣",
+      "或渴望提升“识人",
+      "控场”能力的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极强的好奇心诱导 + 社交痛点直击 + 技能承诺（“Quickly spot”快速看穿）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "** “这句话一出，他立刻把你当知己。想学更多控场话术，左下角这本手册，今天只要XX元。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 4.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（知识付费/心理学书籍带货）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖行为心理学培训课程、书籍（画面中出现的《THE BEHAVIOR OPS MANUAL》）、或咨询服务（片。品类：其他。人群：** 对心理学、人际交往技巧、职场生存。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足。评分：7.0"
+}

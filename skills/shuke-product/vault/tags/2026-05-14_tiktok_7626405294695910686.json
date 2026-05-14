@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7626405294695910686",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/itsguitardecian_7626405294695910686.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626405294695910686/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.15,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 纯白外观的新型材质木吉他（视觉绝对C位） / 吉他教学曲谱或课程（内容核心）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 吉他爱好者",
+      "初中级进阶玩家",
+      "乡村",
+      "蓝草音乐（Bluegrass）粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "借势/结果展示 + 视觉反差。借用圈内知名的高难度弹奏视频作为流量密码；同时“静止的非裔博主+奇特白吉他”与“狂热的白人大神”形成反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "这琴一定不错/谱子一定准”"
+  ],
+  "cta": {
+    "text": "** 总结为什么好弹，引导左下角下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（带货改造）\n此视频框架极其适合**乐器类、工具类、技能教学类**产品的转化。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 纯白外观的新型材质木吉他（视觉绝对C位） / 吉他教学曲谱或课程（内容核心）。。品类：服饰穿搭。人群：** 吉他爱好者、初中级进阶玩家、乡村。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、低价占便宜。证明：这琴一定不错/谱子一定准”。风险：口播缺失、信任不足。评分：7.0"
+}

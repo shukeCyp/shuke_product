@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633268631639543053",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/rileybakes28_7633268631639543053.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633268631639543053/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.75,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖一本名为《The Good and Beautiful Bible Study》（由Alabaster出版）的现代高颜值圣经学习/故事书。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 基督教信徒",
+      "对信仰感兴趣的年轻人",
+      "喜欢高颜值纸质书",
+      "手账的女性群体",
+      "寻求精神慰藉的抑郁",
+      "焦虑人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "直播切片",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "ASMR声音增强了物体的真实物理存在感"
+  ],
+  "cta": {
+    "text": "** （书放在床头柜，手抚摸封面）“不仅治愈心灵，更是绝佳的礼物。左下角，带它回家。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化为强带货向）：**\n    *   **0-2s 痛点钩子：** （展示厚重枯燥的纯文字书）“想读经却总是半途而废？”\n    *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖一本名为《The Good and Beautiful Bible Study》（由Alabaster出版）的。品类：食品饮料。人群：** 基督教信徒、对信仰感兴趣的年轻人、喜欢高颜值纸质书。视频类型：场景种草、痛点解决、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：ASMR声音增强了物体的真实物理存在感。风险：字幕不清、口播缺失、信任不足。评分：7.0"
+}

@@ -1,0 +1,79 @@
+{
+  "video_id": "2026-05-14_tiktok_7636707646954867982",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/aaliyah_wears_7636707646954867982.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636707646954867982/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "价格跳水",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  **0-2s 唤醒**：目标人群呼叫 + 大步向镜头走来（大场景全景）。\n    2.  **2-4s 痛点/利",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、价格跳水、好奇悬念。风险：信任不足、无CTA。评分：8.5"
+}

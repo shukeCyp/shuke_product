@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7635044998894849310",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/fiestaprinting_7635044998894849310.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635044998894849310/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 吐槽市面上的同类产品太夸张（0-3s）\n  2. 话锋一转，引出手中/耳上的极简款（3-5s）\n  3. 怼脸/特写展示佩",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、身份点名。风险：信任不足、无CTA。评分：7.8"
+}

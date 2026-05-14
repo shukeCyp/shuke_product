@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7618958920312245517",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/silv_rlv_7618958920312245517.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618958920312245517/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.91,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似带货核心商品为**触控式婴儿伴睡夜灯**（视频中床头柜上的蛋形发光体），辅以“新生儿夜间喂养必备”的打包种草（可能还包含睡篮、奶瓶等，但夜灯有明确的交",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 新手妈妈",
+      "孕后期的准妈妈",
+      "有夜间起夜喂奶",
+      "换尿布需求的新生儿父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（孕产妇） + 场景冲突（深夜黑暗起夜） + 好奇/清单（must have 必备好物）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**细节操作**（真实展现拍打动作）",
+    "主打沉浸式原生感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 9.5,
+    "product_display": 5.0,
+    "purchase_impulse": 5.0,
+    "total": 6.5
+  },
+  "remake": {
+    "angle": "（以带货优化为目的）\n*   **复刻脚本大纲（30秒紧凑版）：**\n    *   *0-3s（痛点抓人）：* 宝妈半夜痛苦揉眼，摸黑抱娃，配文“起夜喂奶怕开",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似带货核心商品为**触控式婴儿伴睡夜灯**（视频中床头柜上的蛋形发光体），辅以“新生儿夜间喂养必备”的打包种草（。品类：数码配件。人群：** 新手妈妈、孕后期的准妈妈、有夜间起夜喂奶。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：**细节操作**（真实展现拍打动作）、主打沉浸式原生感。风险：字幕不清、口播缺失、信任不足。评分：6.5"
+}

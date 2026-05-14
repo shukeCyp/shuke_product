@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7616443573407321357",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/516kicks__7616443573407321357.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616443573407321357/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.94,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Nike Air Jordan 1 Low \"Infrared\"（低帮红外线配色）运动鞋。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 男性球鞋爱好者",
+      "学生群体",
+      "追求高性价比品牌球鞋的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "库存背书",
+      "开箱展示",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "库存震撼",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心驱动 + 身份代入（第一人称开箱）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 抛出最核心的价格杀手锏“低于发售价”，并给出明确的行动指令（Go get your pair）。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "(适合信息流投放/商品卡引流)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Nike Air Jordan 1 Low \"Infrared\"（低帮红外线配色）运动鞋。。品类：男士护理。人群：** 男性球鞋爱好者、学生群体、追求高性价比品牌球鞋的消费者。。视频类型：UGC口播、直播切片、清仓福利。钩子：结果前置、场景冲突、低价占便宜。证明：**。风险：信任不足。评分：7.2"
+}

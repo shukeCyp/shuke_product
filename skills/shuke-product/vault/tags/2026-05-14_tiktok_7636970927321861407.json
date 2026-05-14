@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7636970927321861407",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/thecozymama22_7636970927321861407.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636970927321861407/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有美国国旗元素（红白蓝配色、星星条纹）及樱桃刺绣图案的女婴连体衣/包屁衣（极可能是针对美国独立日等节日的节庆服装）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻的宝妈群体（特别是有女宝的母亲）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 (\"moms\") + 直接指令 (\"stop scrolling\") + 情绪/好奇心制造 (捂嘴震惊表情)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲：\n1. **0-2s 痛点拦截**：车内场景，夸张表情+定向字幕。\n2. **3-7s 颜值暴击**：拿出商品，怼镜头展示最吸睛的设计（",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有美国国旗元素（红白蓝配色、星星条纹）及樱桃刺绣图案的女婴连体衣/包屁衣（极可能是针对美国独立日等节日的节庆。品类：服饰穿搭。人群：** 年轻的宝妈群体（特别是有女宝的母亲）。。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、身份点名。风险：信任不足、无CTA。评分：8.0"
+}

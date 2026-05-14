@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7625978835569282318",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/614lyfe_7625978835569282318.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625978835569282318/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.5,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.5,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（转化为高转化带货视频）\n*   **复刻脚本大纲**：\n    *   *0-2s 悬念/痛点*：展示要粉碎的硬物（肉桂/八角/冰糖），塞进料理棒。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、无CTA。评分：7.6"
+}

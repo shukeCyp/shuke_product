@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638431877531045151",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/brbvicky_7638431877531045151.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638431877531045151/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.95,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似为**哺乳期友好型服装（如弹性吊带/哺乳内衣）**或**婴儿多功能襁褓包巾**进行种草，亦或是在为母婴育儿账号/品牌做精准的人群蓄水。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 哺乳期的新手妈妈（特别是面临户外哺乳尴尬",
+      "有容貌",
+      "体面焦虑的年轻妈妈）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "质地实测",
+      "痛点解决",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "尴尬痛点",
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（Identity） + 场景痛点（Pain Point）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实刺眼的阳光下",
+    "真实的单手抱娃状态中完成操作",
+    "这种“野生粗糙感”带来了极高的真实度（Trust Builder）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 10.0,
+    "product_display": 2.0,
+    "purchase_impulse": 3.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（以带货“高弹力哺乳吊带”为例）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似为**哺乳期友好型服装（如弹性吊带/哺乳内衣）**或**婴儿多功能襁褓包巾**进行种草，亦或是在为母婴育儿账号。品类：数码配件。人群：** 哺乳期的新手妈妈（特别是面临户外哺乳尴尬、有容貌、体面焦虑的年轻妈妈）。。视频类型：UGC口播、质地实测、痛点解决。钩子：尴尬痛点、场景冲突、结果前置。证明：真实刺眼的阳光下、真实的单手抱娃状态中完成操作、这种“野生粗糙感”带来了极高的真实度（Trust Builder）。风险：口播缺失、信任不足、无CTA。评分：5.2"
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7621891731868355870",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/rupaghimire93_7621891731868355870.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621891731868355870/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.71,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "（带货向改造）\n若要将此素材重新剪辑或翻拍为高转化带货视频，建议如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、无CTA。评分：6.0"
+}

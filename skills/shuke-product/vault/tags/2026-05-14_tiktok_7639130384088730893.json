@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7639130384088730893",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/crocsshop_us_7639130384088730893.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639130384088730893/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Crocs（卡骆驰）水钻多带凉拖鞋。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性",
+      "喜欢千禧风",
+      "辣妹风（Y2K",
+      "Baddie aesthetic）",
+      "注重穿搭视觉冲击力且兼顾舒适度的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（极度美化的视觉效果） + 认知反差（Crocs通常以“洞洞鞋”闻名，这款水钻凉鞋打破了刻板印象）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "以及真实的物理反光细节"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 5.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（针对带货优化版）：**\n    *   0-3s：【原片视觉】暗光+闪烁滤镜上脚展示，配合勾人字幕。\n    *   3-6s：【增加",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Crocs（卡骆驰）水钻多带凉拖鞋。。品类：服饰穿搭。人群：** 追求个性、喜欢千禧风、辣妹风（Y2K。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：以及真实的物理反光细节。风险：口播缺失、信任不足、无CTA。评分：6.6"
+}

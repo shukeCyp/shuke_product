@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7609724230476778766",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/corazonromantico02_7609724230476778766.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7609724230476778766/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频纯展示了一条带有宗教元素（圣母画像、十字架）的镶钻金色连指手链（戒指手链一体链）。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱精美手部饰品",
+      "有特定宗教信仰文化认同（如拉美裔或天主教",
+      "基督教受众）",
+      "或偏好复古浪漫风格饰品的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 颜值/氛围感刺激。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 4.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频纯展示了一条带有宗教元素（圣母画像、十字架）的镶钻金色连指手链（戒指手链一体链）。。品类：食品饮料。人群：** 喜爱精美手部饰品、有特定宗教信仰文化认同（如拉美裔或天主教、基督教受众）。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

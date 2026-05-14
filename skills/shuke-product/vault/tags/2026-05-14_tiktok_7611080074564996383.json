@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7611080074564996383",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/forion07_7611080074564996383.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611080074564996383/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 日月造型磁吸情侣/闺蜜手链（首饰）。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "学生党",
+      "正在为闺蜜或伴侣寻找礼物的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党",
+      "手残党",
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（磁力吸合的爽感） + 身份代入（字幕直接@bestfriend）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "反而增加了“实物就是这么好看”的真实感（UGC背书）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    *   **0-3s (痛点/抓手)：** 抛出送礼/闺蜜话题，展示磁吸核心动作。\n    *   **3-8s (信任",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 日月造型磁吸情侣/闺蜜手链（首饰）。。品类：食品饮料。人群：** 年轻女性、学生党、正在为闺蜜或伴侣寻找礼物的受众。。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：反而增加了“实物就是这么好看”的真实感（UGC背书）。风险：信任不足、无CTA。评分：8.0"
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7638829216808717598",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/delzzadstore_7638829216808717598.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638829216808717598/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频向受众推销一款“莫桑石交织马眼形戒指”（Moissanite Intertwined Marquise Ring）。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求平价奢华",
+      "高性价比珠宝的女性",
+      "以及寻找节日礼物的送礼人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "第三方背书",
+      "手背实测",
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（绝美的闪耀外观） + 场景代入型（打开心形礼盒的送礼场景）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.5,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "*   **拍摄镜头清单：**\n    1.  深色丝绒盒开盒特写（需高光直射主石）。\n    2.  双指捏住戒指，镜头前左右轻微翻转展示侧面镂空与主石厚度。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频向受众推销一款“莫桑石交织马眼形戒指”（Moissanite Intertwined Marquise Rin。品类：其他。人群：** 追求平价奢华、高性价比珠宝的女性、以及寻找节日礼物的送礼人群。。视频类型：UGC口播、痛点解决、库存背书。钩子：结果前置、场景冲突、价格跳水。证明：**。风险：信任不足、无CTA。评分：8.3"
+}

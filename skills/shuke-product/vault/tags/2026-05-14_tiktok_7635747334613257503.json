@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7635747334613257503",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/milenamatosvazquez_7635747334613257503.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635747334613257503/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.52,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带LED触控补光镜的粉色大容量旅行化妆箱（含隔板、刷具袋、背带、放大镜等配件）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有出行",
+      "旅游需求",
+      "化妆品较多",
+      "对化妆环境光线有要求",
+      "且具有一定少女心（粉色偏好）的女性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "测评对比",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 社交背书（评论贴纸）。视频没有制造焦虑，而是直接用高颜值的实物和一条“我忘了我点过它，这太棒了”的评论贴纸开场。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "（适合国内抖音/快手/小红书）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带LED触控补光镜的粉色大容量旅行化妆箱（含隔板、刷具袋、背带、放大镜等配件）。。品类：美妆护肤。人群：** 有出行、旅游需求、化妆品较多。视频类型：UGC口播、测评对比、痛点解决。钩子：别划走、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7621860162831256846",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/tyuiertvgfd_7621860162831256846.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621860162831256846/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.06,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 高弹力大码破洞牛仔背带短裤。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 微胖",
+      "大码女性",
+      "或者是追求穿着舒适度",
+      "对大腿和腰腹包容度要求高的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（大码模特） + 结果展示（暴力拉扯秀弹力）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "是最有力的无声证明）；**细节特写**（近距离拍摄面料和破洞边缘",
+    "展示做工）"
+  ],
+  "cta": {
+    "text": "** **无。** 这是该视频最大的硬伤。作为原生带货视频，缺少了小黄车引导（CTA）、价格刺激和核心卖点的文字提炼。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "（如果我们要翻拍并优化）\n- **复刻脚本大纲（扩充至10-15秒）：**\n  - **0-3s（黄金钩子）：** 模特穿戴整齐，面对镜头直接拉扯腰部和胸前面料",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 高弹力大码破洞牛仔背带短裤。。品类：服饰穿搭。人群：** 微胖、大码女性、或者是追求穿着舒适度。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：是最有力的无声证明）；**细节特写**（近距离拍摄面料和破洞边缘、展示做工）。风险：口播缺失、信任不足。评分：7.2"
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7637189649814818079",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/paytonrainnnn_7637189649814818079.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637189649814818079/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款大容量、带手柄、带吸管的复古西部/甜酷风印花保温杯（从杯子底部标识隐约可见为 Hydro Jug 品牌）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性化审美",
+      "喜欢复古",
+      "Coquette风格（蝴蝶结",
+      "樱桃",
+      "牛仔元素）的年轻女性",
+      "水杯收集控（如 Stanley 杯的受众）",
+      "以及有日常大量饮水需求的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（直接怼脸展示高颜值单品）、场景代入型（第一视角手持，仿佛观众自己拿着）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 4.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "基于原视频的高级氛围感，加入带货转化逻辑，打造一条适合投放或带货挂车的视频。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款大容量、带手柄、带吸管的复古西部/甜酷风印花保温杯（从杯子底部标识隐约可见为 Hydro Jug 品牌）。。品类：厨房用品。人群：** 追求个性化审美、喜欢复古、Coquette风格（蝴蝶结。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

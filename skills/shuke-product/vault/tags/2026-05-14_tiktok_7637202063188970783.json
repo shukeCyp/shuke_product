@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7637202063188970783",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/reealblessing_7637202063188970783.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637202063188970783/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.04,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 《One Minute WITH GOD FOR MEN》（男士一分钟神之伴读）每日灵修/心理慰藉日历书。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 默默承受生活与工作压力",
+      "需要心理与精神寄托的男性（以及想要送礼物给这些男性的女性伴侣",
+      "家属）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（直接呼叫目标人群） + 痛点共鸣（默默承受重压）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "God's Challenge）",
+    "让用户明确知道自己买到的是什么样的内容",
+    "极大地增加了产品的真实可信度"
+  ],
+  "cta": {
+    "text": "这个微小的改变能带来什么结果，引导购买。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "（适用于任何带“心理治愈/情绪价值”属性的产品）\n- **复刻脚本大纲：**\n  1. (0-10s) 黑白画面定海神针：说出受众不敢说出口的痛楚，表达理解。\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 《One Minute WITH GOD FOR MEN》（男士一分钟神之伴读）每日灵修/心理慰藉日历书。。品类：男士护理。人群：** 默默承受生活与工作压力、需要心理与精神寄托的男性（以及想要送礼物给这些男性的女性伴侣、家属）。。视频类型：场景种草、效果前后对比、痛点解决。钩子：场景冲突、好奇悬念、身份点名。证明：God's Challenge）、让用户明确知道自己买到的是什么样的内容、极大地增加了产品的真实可信度。风险：信任不足。评分：8.5"
+}

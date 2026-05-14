@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7634998728713080077",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/jackiesbooktally_7634998728713080077.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634998728713080077/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Billie Eilish（碧梨）“Hit Me Hard and Soft” 3D IMAX 演唱会电影的 TikTok 独家购票优惠券（代金券）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Billie Eilish 的粉丝",
+      "喜欢看演唱会",
+      "电影的年轻人",
+      "TikTok 重度活跃用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（粉丝向）、资讯播报（新电影上映）、价格刺激（字幕直接打出 exclusive coupon）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "降低了广告感",
+    "增强了“朋友间分享好物/好消息”的真实感与信任度",
+    "信任度会打折扣"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "此类“虚拟福利/票务/代金券”分发视频非常适合复刻。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Billie Eilish（碧梨）“Hit Me Hard and Soft” 3D IMAX 演唱会电影的 Ti。品类：数码配件。人群：** Billie Eilish 的粉丝、喜欢看演唱会、电影的年轻人。视频类型：UGC口播、清仓福利、痛点解决。钩子：别划走、场景冲突、低价占便宜。证明：降低了广告感、增强了“朋友间分享好物/好消息”的真实感与信任度、信任度会打折扣。风险：信任不足、无CTA。评分：6.8"
+}

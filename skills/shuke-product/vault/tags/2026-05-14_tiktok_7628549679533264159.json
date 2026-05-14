@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7628549679533264159",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/alicejjo281_7628549679533264159.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628549679533264159/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款专为大粗腿/宽腿围设计的红色刺绣长筒牛仔靴。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 小腿或大腿较粗",
+      "平时难以买到合适长筒靴",
+      "且追求个性穿搭的女性（微胖女孩",
+      "梨形身材）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 结果前置展示 + 视觉反差（极其亮眼的红色与夸张的宽筒）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "在真实的户外柏油路上试穿",
+    "腿部甚至有一点真实的肉感",
+    "这种“粗糙感”反而增加了“这鞋真的适合普通粗腿女孩”的真实信任度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（适用于国内抖音/快手等平台带货改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款专为大粗腿/宽腿围设计的红色刺绣长筒牛仔靴。。品类：服饰穿搭。人群：** 小腿或大腿较粗、平时难以买到合适长筒靴、且追求个性穿搭的女性（微胖女孩。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：在真实的户外柏油路上试穿、腿部甚至有一点真实的肉感、这种“粗糙感”反而增加了“这鞋真的适合普通粗腿女孩”的真实信任度。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7633471067855637791",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/ailinaiv9gm_7633471067855637791.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633471067855637791/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.01,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 4.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n- **复刻脚本大纲（痛点+证明+细节模型）**：\n  1. **0-2s 痛点钩子**：妈妈抱娃/提重物，手机没地方放。\n  2. *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、反常识。风险：口播缺失、信任不足、无CTA。评分：6.0"
+}

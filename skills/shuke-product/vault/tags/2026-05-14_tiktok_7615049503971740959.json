@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7615049503971740959",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/mrhotpicks_7615049503971740959.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615049503971740959/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（以国内抖音/视频号投放为例）\n- **复刻脚本大纲**：\n  1. 场景痛点（侧睡挤压颈纹/仰睡挤出双下巴）\n  2. 引入神器（这款蝶形护颈枕）\n  3. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、低价占便宜。风险：口播缺失、信任不足、卖点单一。评分：7.6"
+}

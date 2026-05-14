@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7635702780296039710",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/gingerblooms_7635702780296039710.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635702780296039710/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "送礼党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（高转化改造建议）\n若要拿到信息流广告或带货矩阵中投放，需做如下改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。风险：口播缺失、信任不足、无CTA。评分：6.4"
+}

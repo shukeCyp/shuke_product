@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7635739772488568077",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/luvveverly_7635739772488568077.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635739772488568077/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.62,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套主打女性/颜值受众的“粉色系全能车载清洁套装”（包含手持吸尘器、清洁软胶、除尘掸、缝隙刷、玻璃刮、毛巾等）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有车一族",
+      "特别是女性车主",
+      "喜欢车内保持整洁但又追求工具颜值和便捷性的年轻群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点展示（极度脏乱的脚垫） + 即时解压结果（吸尘器迅速吸走垃圾）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "(针对国内抖音/快手/视频号等环境)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套主打女性/颜值受众的“粉色系全能车载清洁套装”（包含手持吸尘器、清洁软胶、除尘掸、缝隙刷、玻璃刮、毛巾等）。。品类：家居清洁。人群：** 有车一族、特别是女性车主、喜欢车内保持整洁但又追求工具颜值和便捷性的年轻群体。。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：口播缺失、信任不足、无CTA。评分：8.0"
+}

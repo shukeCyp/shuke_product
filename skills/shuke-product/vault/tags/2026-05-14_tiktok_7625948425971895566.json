@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7625948425971895566",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/uwant_usa_7625948425971895566.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625948425971895566/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.74,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 10
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 10.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（15秒）**\n1.  **0-2s 痛点/猎奇**：特写展示一块极其糟糕的污渍（如大面积咖啡渍、宠物尿渍、泥巴糊住的地毯），用手摸一下，展示其",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、价格跳水、结果前置。风险：信任不足、无CTA。评分：9.0"
+}

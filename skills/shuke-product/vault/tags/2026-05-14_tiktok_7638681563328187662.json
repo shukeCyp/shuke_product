@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7638681563328187662",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/tonfinds_7638681563328187662.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638681563328187662/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.34,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 5.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 6.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - 0-3s：对镜自拍全身正面，抛出文字钩子（强调爆款补货）。\n  - 3-5s：侧身、走动、手插兜，展示版型和垂感。\n  - ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、好奇悬念、限时稀缺。风险：口播缺失、信任不足、无CTA。评分：6.2"
+}

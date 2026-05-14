@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7634527072563629343",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/user5337885112827_7634527072563629343.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634527072563629343/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识"
+    ],
+    "proof_tags": [
+      "质地展示"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "（适合国内抖音/快手/视频号投放）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7632268279813246221",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/kayou_card_play_7632268279813246221.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632268279813246221/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 9.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "（针对自然流推流/带货改造）\n*   **复刻脚本大纲（带货改良版）**：\n    *   *0-3s（反差留人）*：第一视角推开门，两个男生在桌前激烈争论（声",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：字幕不清、信任不足、无CTA。评分：5.4"
+}

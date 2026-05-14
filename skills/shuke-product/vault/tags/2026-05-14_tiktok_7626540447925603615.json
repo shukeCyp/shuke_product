@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7626540447925603615",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/rileystine_7626540447925603615.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626540447925603615/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“睡出好体态，左下角同款”。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "（适用于国内抖音/小红书）\n*   **复刻脚本大纲（总时长 10-12秒）**：\n    1.  [0-3s] 女生躺在普通枕头上，脖子挤出多层肉。头顶飘出气",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足。评分：8.1"
+}

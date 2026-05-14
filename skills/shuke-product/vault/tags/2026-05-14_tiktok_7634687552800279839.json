@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7634687552800279839",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/bryan.tmt_7634687552800279839.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634687552800279839/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "尴尬痛点",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "产品特写",
+      "前后对比",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（25秒优化版）**：\n  - **0-3s (痛点引爆)**：特写黑脖颈/黑手肘，喷雾快速入画喷涂，字幕“洗澡洗不掉的死皮黑沉怎么办？”\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：痛点解决、效果前后对比、测评对比。钩子：场景冲突、结果前置、尴尬痛点。风险：字幕不清、口播缺失、信任不足。评分：6.8"
+}

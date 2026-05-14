@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638243487367941406",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/tekard0_7638243487367941406.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638243487367941406/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款汽车内饰及外部塑料/皮革件翻新上光清洁喷剂（瓶身显示“INTERIOR DETAILER”）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有爱车清洁",
+      "翻新保养需求的汽车车主（特别是越野车",
+      "老旧车型车主）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "别划走",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "成分展示",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉反差 + 解压爽感。 没有废话，第一帧直接开喷，灰白塑料瞬间变黑。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "就是最原始的“喷涂=变亮”物理过程",
+    "做了隐性的“高价值第三方背书”（豪车都在用",
+    "安全性有保障）"
+  ],
+  "cta": {
+    "text": "** 豪车全车焕新后全景展示。指引左下角。（字幕：汽车美容店同款镀膜剂，今天厂家直发，左下角带两瓶回家！）",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "(针对国内抖音/视频号/快手)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款汽车内饰及外部塑料/皮革件翻新上光清洁喷剂（瓶身显示“INTERIOR DETAILER”）。。品类：美妆护肤。人群：** 有爱车清洁、翻新保养需求的汽车车主（特别是越野车、老旧车型车主）。。视频类型：UGC口播、痛点解决、测评对比。钩子：好奇悬念、别划走、结果前置。证明：就是最原始的“喷涂=变亮”物理过程、做了隐性的“高价值第三方背书”（豪车都在用、安全性有保障）。风险：信任不足。评分：8.2"
+}

@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7635992292259646733",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/casualshirtguy_7635992292259646733.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635992292259646733/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "此类“悬念揭晓流”非常适合印花T恤、特色手机壳、变色马克杯等**“强视觉驱动”**的商品。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置。风险：信任不足、无CTA。评分：7.2"
+}

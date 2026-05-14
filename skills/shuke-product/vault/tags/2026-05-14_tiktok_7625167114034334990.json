@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7625167114034334990",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/junojiuliano_7625167114034334990.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625167114034334990/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "库存展示",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接上脸看效果） + 情绪/审美共鸣（自信果断的开场白）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "主要依靠博主的个人表现力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（中文语境）：**\n    1.  **0-5s (抓眼球)：** 把眼镜怼在镜头前，迅速戴上。“家人们谁懂啊，这副镜框戴上绝了！”\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：痛点解决、场景种草、质地实测。钩子：结果前置、好奇悬念、限时稀缺。证明：主要依靠博主的个人表现力。风险：信任不足、无CTA。评分：8.2"
+}

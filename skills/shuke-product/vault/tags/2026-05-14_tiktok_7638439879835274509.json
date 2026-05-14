@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638439879835274509",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/cavalier.216_7638439879835274509.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638439879835274509/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 沙包/花式沙包（Hacky Sacks）（仅在字幕中提及，视频中未展示实物）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Gen Z（Z世代）",
+      "喜爱meme梗图的年轻男性",
+      "篮球",
+      "体育爱好者",
+      "寻找夏日解压",
+      "户外小玩具的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（POV） + 情绪反差 + 名人效应。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有材质展示",
+    "本质上属于“盲盒式”冲动消费引导"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 2.0,
+    "product_display": 0.0,
+    "purchase_impulse": 3.0,
+    "total": 2.8
+  },
+  "remake": {
+    "angle": "（在保留“梗”的同时提高转化）\n- **复刻脚本大纲：**\n  - **0-3s 钩子段：** 沿用詹姆斯举杯或夸张庆祝的画面（或AI生成的类似情绪画面），字幕",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 沙包/花式沙包（Hacky Sacks）（仅在字幕中提及，视频中未展示实物）。。品类：男士护理。人群：** Gen Z（Z世代）、喜爱meme梗图的年轻男性、篮球。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、低价占便宜。证明：没有材质展示、本质上属于“盲盒式”冲动消费引导。风险：信任不足、无CTA。评分：2.8"
+}

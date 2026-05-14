@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7639034943389093133",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/yneedm_us_fashion_7639034943389093133.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639034943389093133/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.82,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套墨绿色的微褶皱肌理感休闲两件套（长袖上衣+阔腿长裤）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求舒适",
+      "极简穿搭",
+      "不想费心搭配",
+      "注重日常通勤或休闲舒适度的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（直接上身看效果） + 身份代入型（POV视角标签）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 7.5,
+    "product_display": 8.5,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "这种素材非常适合作为**信息流广告（千川/Meta Ads）的跑量素材**，制作成本极低，适合矩阵化产出。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套墨绿色的微褶皱肌理感休闲两件套（长袖上衣+阔腿长裤）。。品类：美妆护肤。人群：** 追求舒适、极简穿搭、不想费心搭配。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

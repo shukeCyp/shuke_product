@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637434411486694686",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/williamveach_7637434411486694686.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637434411486694686/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 磁吸拼接款“日月星”三人组闺蜜/死党手链（包含黑、白、黄三色编织绳及对应金属吊坠）。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有紧密三人社交圈的年轻群体（如三人闺蜜组",
+      "兄弟团",
+      "寝室室友）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 结果展示。通过一句极具情感指向性的文案（“The three of us...”），直接锁定特定关系人群。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是真实录制了吊坠被磁力吸附过去的瞬间（画面中能看到吊坠轻微的碰撞反弹）",
+    "这种未经修饰的物理反馈是极强的信任证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化带货版）：**\n    *   **0-3s 抓手：** 抛出三人情感痛点 + 桌面展示分离的三根手链。\n    *   **3-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 磁吸拼接款“日月星”三人组闺蜜/死党手链（包含黑、白、黄三色编织绳及对应金属吊坠）。。品类：其他。人群：** 拥有紧密三人社交圈的年轻群体（如三人闺蜜组、兄弟团、寝室室友）。。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、好奇悬念、身份点名。证明：而是真实录制了吊坠被磁力吸附过去的瞬间（画面中能看到吊坠轻微的碰撞反弹）、这种未经修饰的物理反馈是极强的信任证据。风险：口播缺失、信任不足、无CTA。评分：8.0"
+}

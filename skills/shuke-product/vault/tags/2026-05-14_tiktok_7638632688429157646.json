@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7638632688429157646",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/funny.dailyclips7_7638632688429157646.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638632688429157646/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "(针对投流/带货改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：办公学习。视频类型：场景种草、痛点解决、质地实测。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：8.4"
+}

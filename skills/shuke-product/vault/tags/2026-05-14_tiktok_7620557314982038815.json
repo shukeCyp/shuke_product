@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7620557314982038815",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/kennahime_7620557314982038815.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620557314982038815/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一条橘色夏季蕾丝半身长裙（Summer lace maxi skirt）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求夏季穿搭质感",
+      "注重舒适度（微胖或对腰围有要求也适用）",
+      "喜欢随性法式",
+      "度假风的年轻及轻熟女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入（身材数据前置）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.5,
+    "clarity": 9.0,
+    "trust": 9.5,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（20秒黄金结构）：**\n    1.  **0-3s 身份与痛点：** 画面打全身，标明身高体重。口播直击夏日穿搭痛点。\n    2.",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一条橘色夏季蕾丝半身长裙（Summer lace maxi skirt）。。品类：厨房用品。人群：** 追求夏季穿搭质感、注重舒适度（微胖或对腰围有要求也适用）、喜欢随性法式。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

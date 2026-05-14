@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7635696154465914126",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/bluemadeit_7635696154465914126.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635696154465914126/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念钩（到底是什么东西值得打架抢？）+ 情绪共鸣钩（极度夸张的Meme式表达）+ 视觉冲击钩（高燃打斗）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "细节",
+    "第三方背书等信任状",
+    "粉丝已经知道他要发新品）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 2.0,
+    "product_display": 0.0,
+    "purchase_impulse": 4.0,
+    "total": 3.0
+  },
+  "remake": {
+    "angle": "（转化为标准带货视频）\n若要利用这种“高燃打斗梗”进行**有实质转化的带货**，需做如下改造：\n*   **复刻脚本大纲（痛点前置+极速种草）：**\n    *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：细节、第三方背书等信任状、粉丝已经知道他要发新品）。风险：口播缺失、信任不足、无CTA。评分：3.0"
+}

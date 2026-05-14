@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7623185412508388621",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/aignerxo_7623185412508388621.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623185412508388621/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 表面上“卖”的是一个健身动作（臀推），实际上在推销一种**“身材蜕变的结果”**，疑似为个人健身指导服务或家用健身器械（哑铃）做引流。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 渴望改善身材",
+      "追求“蜜桃臀”",
+      "想要居家健身但不愿去健身房的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 视觉反差型 + 场景代入型。直接用画中画展示过去的真实身材，同时主画面正在进行强有力的健身动作。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "地毯",
+    "宠物）",
+    "极大地增加了“真实素人逆袭”的信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（如果要将此视频改造为卖“家用哑铃”的带货视频）\n- **复刻脚本大纲：**\n    1.  **0-3s 痛点钩子：** 抛出扁平身材痛点+逆袭结果，吸引停留",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 表面上“卖”的是一个健身动作（臀推），实际上在推销一种**“身材蜕变的结果”**，疑似为个人健身指导服务或家用健身。品类：服饰穿搭。人群：** 渴望改善身材、追求“蜜桃臀”、想要居家健身但不愿去健身房的年轻女性。。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、限时稀缺、结果前置。证明：地毯、宠物）、极大地增加了“真实素人逆袭”的信任感。风险：信任不足、无CTA。评分：6.4"
+}

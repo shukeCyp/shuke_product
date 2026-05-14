@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7616668876822056222",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/gentle.tike__7616668876822056222.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616668876822056222/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "用户评价",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 画面：特写展示产品最吸引人的物理特性（厚度/拉伸/倒水等）。口播：抛出超级优惠钩子。\n  2. 画面：手势引导点击。口播：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：UGC口播、痛点解决、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：7.0"
+}

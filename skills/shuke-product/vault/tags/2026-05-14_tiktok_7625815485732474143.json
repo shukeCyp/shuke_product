@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7625815485732474143",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/annagrace1261_7625815485732474143.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625815485732474143/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** TAESI.K 品牌的面部护肤套装（主推海藻补水片状面膜，带出精华、面霜和护肤膏）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求高效精简护肤的年轻女性",
+      "“懒人”群体",
+      "以及对市面上夸大宣传的护肤品感到疲劳的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "手背实测",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（“懒人版”）+ 场景转换（秒换睡衣）+ 情绪反差（“拒绝过度炒作”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲 (适合美妆个护类目)：**\n1. **反直觉引入 (0-3s)：** 睡前换装 + 吐槽某类过度营销的产品。\n2. **成分揭秘 (3-8s)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** TAESI.K 品牌的面部护肤套装（主推海藻补水片状面膜，带出精华、面霜和护肤膏）。。品类：美妆护肤。人群：** 追求高效精简护肤的年轻女性、“懒人”群体、以及对市面上夸大宣传的护肤品感到疲劳的用户。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足、功效宣称风险、无CTA。评分：7.8"
+}

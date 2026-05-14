@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7635093927980240159",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/elducho.thrift_7635093927980240159.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635093927980240159/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "配合手指动作引导点击。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "(针对虚拟票务/折扣券带货)\n- **复刻脚本大纲**：\n  1. 定向人群 + 抛出官方主视觉图（黄金3秒）。\n  2. 价格锚定：实体店/原价 vs 橱窗专",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、清仓福利。钩子：低价占便宜、身份点名、好奇悬念。风险：字幕不清、信任不足。评分：7.4"
+}

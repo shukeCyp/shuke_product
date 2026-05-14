@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7636694011444612366",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/ruiziapparel_7636694011444612366.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636694011444612366/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款粉色亮片层叠薄纱女童公主裙/派对礼服。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求品质",
+      "有给女儿打扮需求",
+      "准备举办派对或参加特殊活动（如生日",
+      "花童）的年轻妈妈。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示/视觉冲击 + 场景暗示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "(适合重新拍摄或二创)\n*   **复刻脚本大纲：** 黄金3秒结果展示 -> 痛点/场景引入 -> 面料细节特写 -> 上身转圈展示 -> 明确CTA。\n* ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款粉色亮片层叠薄纱女童公主裙/派对礼服。。品类：服饰穿搭。人群：** 追求品质、有给女儿打扮需求、准备举办派对或参加特殊活动（如生日。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置。证明：**。风险：信任不足、无CTA。评分：6.4"
+}

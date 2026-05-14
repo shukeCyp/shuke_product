@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634182478470630670",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/myriamyourbff_7634182478470630670.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634182478470630670/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有口袋的白底蓝紫碎花一字肩大摆大码连衣裙。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求穿着舒适",
+      "显瘦",
+      "且看重情绪价值和实用性（如口袋设计）的女性（尤其是微胖",
+      "大码女性）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "反常识",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪共鸣钩子 + 结果展示钩子 + POV代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "极大地增加了大码/微胖人群的信任感）",
+    "动态展示（无滤镜失真的自然光线拍摄）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（15秒优化版）：**\n    *   **0-3s：** 模特穿着裙子，做出极其惊讶/开心的表情，原地转半圈。（上字幕：终于找到微胖女",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有口袋的白底蓝紫碎花一字肩大摆大码连衣裙。。品类：服饰穿搭。人群：** 追求穿着舒适、显瘦、且看重情绪价值和实用性（如口袋设计）的女性（尤其是微胖。视频类型：UGC口播、直播切片、痛点解决。钩子：反常识、结果前置、场景冲突。证明：极大地增加了大码/微胖人群的信任感）、动态展示（无滤镜失真的自然光线拍摄）。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

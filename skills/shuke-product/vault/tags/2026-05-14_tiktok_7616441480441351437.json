@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7616441480441351437",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/516kicks__7616441480441351437.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616441480441351437/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "库存震撼",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 9.5,
+    "purchase_impulse": 8.0,
+    "total": 7.9
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n    - 0-3s：怼脸展示商品最美角度 + 抛出极高评价/痛点（钩子）。\n    - 3-6s：翻转展示核心细节（材质、Logo",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：UGC口播、直播切片、痛点解决。钩子：场景冲突、低价占便宜、库存震撼。风险：信任不足、无CTA。评分：7.9"
+}

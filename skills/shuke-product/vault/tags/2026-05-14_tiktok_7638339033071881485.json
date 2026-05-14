@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638339033071881485",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/emacshops_7638339033071881485.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638339033071881485/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "手背实测",
+      "成分展示",
+      "尺寸容量",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“除非你想在椅子上留下这种印子……赶紧在售罄前买它。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "(针对国内市场)\n- **复刻脚本大纲**：\n  1. **0-3s 痛点暴击**：展示夏天男生大腿根部/臀部出汗湿透裤子的尴尬画面（或者直接展示被汗水浸透的电",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、直播切片、痛点解决。钩子：别划走、结果前置、好奇悬念。风险：信任不足。评分：8.2"
+}

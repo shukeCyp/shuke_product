@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7620777922982415630",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/chrisalinmoo_7620777922982415630.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620777922982415630/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖 **LED氛围灯/星空投影仪**（通过房间光线变幻展现），或 **Phoebe Bridgers（小众歌手）周边挂毯**。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻女性",
+      "喜欢“Sad Girl Indie（忧郁独立音乐）”美学的人群",
+      "有“长女综合征（Eldest daughter syndrome）”情感共鸣的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（\"my eldest daughters\"） + 情绪共鸣/痛点（\"never gotten over anything ever\"）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "略显杂乱（边缘可见床铺）的卧室实拍",
+    "比棚拍更有说服力",
+    "证明“买回家就是这个效果”"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 5.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（适合投放/直播切片的爆款改造版）\n**如果我们要保留这种“高级情绪感”，同时大幅提升带货转化，建议如下改造：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖 **LED氛围灯/星空投影仪**（通过房间光线变幻展现），或 **Phoebe Bridgers（小众歌。品类：其他。人群：** Z世代年轻女性、喜欢“Sad Girl Indie（忧郁独立音乐）”美学的人群、有“长女综合征（Eldest daughter syndrome）”情感共鸣的用户。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：略显杂乱（边缘可见床铺）的卧室实拍、比棚拍更有说服力、证明“买回家就是这个效果”。风险：口播缺失、信任不足、无CTA。评分：5.2"
+}

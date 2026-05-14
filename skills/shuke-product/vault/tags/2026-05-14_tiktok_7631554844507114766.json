@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7631554844507114766",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/linh.cao763_7631554844507114766.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631554844507114766/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 20.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 厨房用加厚尼龙过滤网袋/挤水袋（主要用于蔬菜脱水、豆浆/咖啡过滤）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常下厨的人群",
+      "特别是喜欢包饺子",
+      "包子（需要给蔬菜馅料挤水）",
+      "自制豆浆",
+      "果蔬汁的家庭主妇或烹饪爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点展示 + 场景冲突 + 解决方案前置。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 拿出大中小三件套，报出惊喜价，引导下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（20秒带货版）：**\n1. **0-3s 痛点切入：** 徒手挤水流一桌子，满手菜汁。切入神器一兜搞定。\n2. **3-8s 核心卖点（暴力测",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 厨房用加厚尼龙过滤网袋/挤水袋（主要用于蔬菜脱水、豆浆/咖啡过滤）。。品类：家居清洁。人群：** 经常下厨的人群、特别是喜欢包饺子、包子（需要给蔬菜馅料挤水）。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足。评分：8.4"
+}

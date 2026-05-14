@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637748956444904717",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/anhquycapca_7637748956444904717.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637748956444904717/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一顶带有金属飞鸟徽标和墨西哥国旗细节的军绿色限量版网眼棒球帽（品牌标示为 HERITAGE COLLECTIVE）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求街头潮流文化的年轻人",
+      "帽子收集控",
+      "注重质感的男性群体",
+      "以及（因国旗元素）对墨西哥裔文化有认同感的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 场景高级感营造（无言语的纯视觉钩子）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指引点击左下角，强调限量发售。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 4.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "(如果要实拍重制这支视频)\n*   **复刻脚本大纲（痛点种草流）：**\n    1.  0-3s 钩子：扔掉普通帽子，展示高级包装盒打开的瞬间。\n    2.",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一顶带有金属飞鸟徽标和墨西哥国旗细节的军绿色限量版网眼棒球帽（品牌标示为 HERITAGE COLLECTIVE）。品类：男士护理。人群：** 追求街头潮流文化的年轻人、帽子收集控、注重质感的男性群体。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足。评分：6.2"
+}

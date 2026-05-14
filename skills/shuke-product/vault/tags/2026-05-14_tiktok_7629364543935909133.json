@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7629364543935909133",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/authenticallyalivia_7629364543935909133.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629364543935909133/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款名为“Cullina”的冲剂/保健饮品（表现为粉色液体）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有身材焦虑",
+      "追求“比基尼身材”",
+      "正在为夏季做身材准备的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（平坦的腹部） + 场景代入（夏日准备/Summer prep） + 情绪/向往刺激。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "机制或真实的打卡记录"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 4.0,
+    "product_display": 4.0,
+    "purchase_impulse": 5.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "此类视频非常适合作为**前端引流素材**或**自然流种草**，但不适合作为硬广直投。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款名为“Cullina”的冲剂/保健饮品（表现为粉色液体）。。品类：健康养生。人群：** 有身材焦虑、追求“比基尼身材”、正在为夏季做身材准备的年轻女性。。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、结果前置、尴尬痛点。证明：机制或真实的打卡记录。风险：口播缺失、信任不足、无CTA。评分：4.8"
+}

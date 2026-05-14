@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7630876491089235230",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/michaelg_.23_7630876491089235230.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630876491089235230/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 3.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "（如何利用此模式带货潮牌服饰）\n- **复刻脚本大纲**：选择一个当前TikTok/抖音上最火的对口型搞笑音频 -> 设计一个契合目标受众（如学生、电竞玩家、健",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：5.6"
+}

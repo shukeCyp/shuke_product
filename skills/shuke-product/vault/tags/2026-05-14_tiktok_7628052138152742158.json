@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7628052138152742158",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/elitetee2.0_7628052138152742158.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628052138152742158/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.48,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一件带有强情绪表达标语（\"I SUPPORT A MAN'S RIGHT TO SHUT THE FUCK UP\"）的水洗做旧风Oversized",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代",
+      "千禧一代年轻女性",
+      "具有独立",
+      "女权意识",
+      "偏好街头亚文化风格",
+      "喜欢用穿搭表达态度的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（情绪标签） + 好奇（衣服上写的什么？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "自然光拍摄（无过度滤镜",
+    "展示了面料真实的水洗质感和颜色）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（升级为带货向）：**\n    *   0-2s（钩子）：模特戴墨镜，迎着镜头冷酷走来，身上穿着该T恤。字幕：“今年夏天最有态度的T恤”",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一件带有强情绪表达标语（\"I SUPPORT A MAN'S RIGHT TO SHUT THE FUCK。品类：服饰穿搭。人群：** Z世代、千禧一代年轻女性、具有独立。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：自然光拍摄（无过度滤镜、展示了面料真实的水洗质感和颜色）。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

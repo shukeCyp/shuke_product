@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7636570187910761742",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/beautyiskei__7636570187910761742.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636570187910761742/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "开箱展示",
+      "效果前后对比",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "反常识",
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "为您进行全面剖析。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：痛点解决、场景种草、质地实测。钩子：场景冲突、反常识、好奇悬念。风险：信任不足、功效宣称风险、无CTA。评分：9.2"
+}

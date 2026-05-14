@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7621355657026931981",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/graceonbusiness_7621355657026931981.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621355657026931981/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "测评对比",
+      "痛点解决",
+      "开箱展示",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "成分展示",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“如果你的狗也是领养的（指出明确人群），你不知道它的血统（指出痛点），强烈推荐你买Embark（给出解决方案）。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 4.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**（优化了产品展示环节）：\n    1.  **0-3s 钩子+悬念**：展示一只可爱的混血狗，抛出疑问。\n    2.  **3-6",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：剧情反转、UGC口播、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足。评分：7.6"
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7631304314148982047",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/tomasaajualip_7631304314148982047.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631304314148982047/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 手摇式碎冰机/刨冰机（品牌标识疑似为 KEDNKE）。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有小孩的家庭",
+      "喜欢DIY夏季冷饮",
+      "甜品的人群",
+      "追求性价比和实用家居好物的人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉反差 + 评论背书。巨大的粗糙冰块与产出的细腻雪花冰形成强烈反差；开局即高潮，直接看机器工作状态。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（20-25秒）：**\n  - **0-3s 暴力吸睛：** 拿着超大一块不规则冰块怼入机器，直接开摇，冰雪狂喷（挂带货评论截图）。\n  -",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 手摇式碎冰机/刨冰机（品牌标识疑似为 KEDNKE）。。品类：食品饮料。人群：** 有小孩的家庭、喜欢DIY夏季冷饮、甜品的人群。视频类型：场景种草、痛点解决、UGC口播。钩子：好奇悬念、场景冲突、结果前置。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7636831173586521357",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/maliaajai_7636831173586521357.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636831173586521357/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.02,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似带货Y2K复古风（类似Juicy Couture风格）红色大红白条纹天鹅绒/运动套装（上衣+微喇裤）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-25岁",
+      "喜欢Y2K复古辣妹风",
+      "关注穿搭分享（OOTD）",
+      "具有一定闺蜜社交属性的年轻女性（Z世代）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击 + 身份代入 + 结果展示。 没有语言，纯靠高饱和度色彩（大红）、对称构图和辣妹自信的Vibe（氛围感）抓人。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "证明其日常出街的可穿性）+ **实测证明**（大幅度舞蹈动作证明衣服不走光",
+    "弹性好）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（针对短视频带货改造）\n*   **复刻脚本大纲（闺蜜OOTD流）：**\n    *   0-3s：两人穿着同款异色或同色套装从镜头两侧走入，摆出自信Pose（",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似带货Y2K复古风（类似Juicy Couture风格）红色大红白条纹天鹅绒/运动套装（上衣+微喇裤）。。品类：服饰穿搭。人群：** 18-25岁、喜欢Y2K复古辣妹风、关注穿搭分享（OOTD）。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、结果前置、尴尬痛点。证明：证明其日常出街的可穿性）+ **实测证明**（大幅度舞蹈动作证明衣服不走光、弹性好）。风险：口播缺失、信任不足、无CTA。评分：7.0"
+}

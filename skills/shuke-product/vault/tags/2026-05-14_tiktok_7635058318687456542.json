@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7635058318687456542",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/dappzkicks_7635058318687456542.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635058318687456542/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频并非直接带货单品，而是通过搞笑段子**疑似给线下潮鞋店（背景霓虹灯 PZ KICKS）或潮鞋博主账号引流**，展示其拥有大量热门鞋款库存。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 球鞋爱好者（Sneakerheads）",
+      "潮流青年",
+      "喜欢看开箱",
+      "搞怪视频的年轻男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "开箱展示",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "库存震撼",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 身份代入 + 幕后揭秘。通过“完美的成片”与“狼狈的拍摄过程”形成反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "杂乱的桌面",
+    "随意的打包盒",
+    "反而比精装修的影棚更能让潮鞋玩家产生“这是一家真实运转的实体店/大黄牛”的信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 1.0,
+    "total": 4.4
+  },
+  "remake": {
+    "angle": "（针对短视频带货改造）\n**改造思路：** 保留“拍摄崩溃”的搞笑人设，但把结局反转到“因为鞋子太好/太多，不用拍也能卖爆”，并加上明确的 CTA。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频并非直接带货单品，而是通过搞笑段子**疑似给线下潮鞋店（背景霓虹灯 PZ KICKS）或潮鞋博主账号引流**，。品类：男士护理。人群：** 球鞋爱好者（Sneakerheads）、潮流青年、喜欢看开箱。视频类型：剧情反转、UGC口播、清仓福利。钩子：结果前置、场景冲突、低价占便宜。证明：杂乱的桌面、随意的打包盒、反而比精装修的影棚更能让潮鞋玩家产生“这是一家真实运转的实体店/大黄牛”的信任感。风险：口播缺失、信任不足、无CTA。评分：4.4"
+}

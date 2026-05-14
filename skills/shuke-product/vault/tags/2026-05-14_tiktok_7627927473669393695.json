@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7627927473669393695",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/dr.heim_7627927473669393695.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627927473669393695/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 54.75,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Melo 品牌人体工学侧睡全身抱枕（U/S型长条抱枕）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 习惯侧睡",
+      "经常落枕",
+      "醒来感到腰背",
+      "髋关节",
+      "肩膀酸痛",
+      "或关注睡眠健康的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "反常识",
+      "别划走",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动作冲击（扔抱枕）+ 强指令命令（Stop sleeping without this）+ 人群精准定向（Side sleeper）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "(国内电商/TikTok通用)\n- **复刻脚本大纲：**\n  - 0-3s：穿白大褂/瑜伽服，把抱枕扔床上，抛出侧睡痛点。\n  - 3-10s：拿起抱枕，展示",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Melo 品牌人体工学侧睡全身抱枕（U/S型长条抱枕）。。品类：健康养生。人群：** 习惯侧睡、经常落枕、醒来感到腰背。视频类型：痛点解决、场景种草、质地实测。钩子：反常识、别划走、限时稀缺。风险：信任不足、无CTA。评分：9.0"
+}

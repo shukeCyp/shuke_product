@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7637575609081728270",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/dessiixcakes_7637575609081728270.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637575609081728270/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 钩子：呼唤圈层人群 + 抛出夏日需求 + 极度闪亮的单品展示。\n  2. 信任：强调在哪买的，打破便宜没好货的偏见。\n  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、身份点名。风险：信任不足、无CTA。评分：8.4"
+}

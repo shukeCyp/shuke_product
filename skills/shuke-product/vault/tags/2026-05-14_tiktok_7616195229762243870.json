@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7616195229762243870",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/bagsmart_us.life_7616195229762243870.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616195229762243870/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有超大容量、多功能分区且主打“高颜值/氛围感”的棕色双肩背包（学生包/通勤包）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求颜值与实用并重的高中生",
+      "大学生及年轻职场女性（从美甲款式",
+      "LV钱包",
+      "精致便当盒等道具特征可精准推断）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "低价占便宜",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇+结果展示+身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "长宽多少厘米）",
+    "而是用真实的生活道具（木质便当盒",
+    "长款钱包",
+    "头戴式耳机这种有明确体积感的东西）作为**视觉参照物**",
+    "说服力极强"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（针对信息流投放改造）\n*   **复刻脚本大纲（痛点+ASMR沉浸装包+上身效果+CTA）：**\n    *   0-3s：原声收音！清脆的拉链声，侧袋隐藏大",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有超大容量、多功能分区且主打“高颜值/氛围感”的棕色双肩背包（学生包/通勤包）。。品类：美妆护肤。人群：** 追求颜值与实用并重的高中生、大学生及年轻职场女性（从美甲款式、LV钱包。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、低价占便宜、结果前置。证明：长宽多少厘米）、而是用真实的生活道具（木质便当盒、长款钱包。风险：口播缺失、信任不足、无CTA。评分：8.2"
+}

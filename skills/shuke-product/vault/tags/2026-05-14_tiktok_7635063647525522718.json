@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7635063647525522718",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/lupita_sin_7635063647525522718.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635063647525522718/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（针对带货优化版）**：\n    1.  **0-3s 痛点+展示**：真人模特穿着该粉色球衣，手里拿着手机假装在看Target缺货页面",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、场景冲突。风险：口播缺失、信任不足、无CTA。评分：7.2"
+}

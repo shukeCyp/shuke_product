@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7633451144659979551",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/hani.waits.for.no.one_7633451144659979551.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633451144659979551/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一双卡其色/棕色、带有三个金属搭扣的绒面堆堆靴（中筒靴）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求Y2K",
+      "复古穿搭风格",
+      "注重时尚感同时有社交",
+      "夜生活需求（如蹦迪",
+      "聚会）的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差（90度横置镜头、腿举在空中） + 场景冲突（狂欢一晚 vs. 依然舒适） + 结果展示（直接展示上脚效果）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "鞋柜",
+    "以及博主腿上的纹身",
+    "构建了一个极其真实的“Z世代酷女孩”的卧室场景",
+    "让这支视频看起来像是一条真实的用户分享（UGC）",
+    "而非精美的棚拍广告"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（适合短视频带货/投放）\n*   **复刻脚本大纲（扩充至12秒）：**\n    *   **0-4s 氛围抓手：** 采用类似本视频的慵懒躺姿，双腿举起展示靴",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一双卡其色/棕色、带有三个金属搭扣的绒面堆堆靴（中筒靴）。。品类：服饰穿搭。人群：** 追求Y2K、复古穿搭风格、注重时尚感同时有社交。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：鞋柜、以及博主腿上的纹身、构建了一个极其真实的“Z世代酷女孩”的卧室场景。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

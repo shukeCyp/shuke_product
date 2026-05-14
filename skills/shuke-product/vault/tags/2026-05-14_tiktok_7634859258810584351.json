@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7634859258810584351",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/kevsaw89764_7634859258810584351.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634859258810584351/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "价格刺激",
+      "痛点解决",
+      "场景种草",
+      "库存背书"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念",
+      "尴尬痛点",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（适合投流/自然流带货）\n**复刻脚本大纲（以带货“时间管理/搞钱类”书籍为例）**：\n1. **画面（0-5s）**：俯拍桌面，翻开书本第一页，用红笔重重圈出",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：汽车用品。视频类型：UGC口播、价格刺激、痛点解决。钩子：结果前置、限时稀缺、身份点名。风险：信任不足、无CTA"
+}

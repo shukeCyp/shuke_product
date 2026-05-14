@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7619240629549239583",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/hzpuretech.studio_7619240629549239583.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619240629549239583/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 懒人手机/平板万向悬臂支架（带螺旋底座和预留充电孔）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 重度手机",
+      "短视频用户",
+      "喜欢躺在床上",
+      "沙发上追剧的人群",
+      "手臂容易酸痛的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景代入。直接跳过产品介绍，展示使用产品后的“极致爽感”（双手完全解放，葛优瘫看手机）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "全是真实手部操作（拧螺丝",
+    "插线",
+    "旋转）",
+    "让用户对产品的物理结构一目了然",
+    "信任感极强"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.5,
+    "trust": 8.5,
+    "product_display": 9.5,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲：**\n1.  **0-2s 爽点暴击**：真人瘫在床上/沙发上，双手吃零食，眼前悬空看剧。\n2.  **2-5s 痛点+细节**：“手举酸了？",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 懒人手机/平板万向悬臂支架（带螺旋底座和预留充电孔）。。品类：厨房用品。人群：** 重度手机、短视频用户、喜欢躺在床上。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、尴尬痛点。证明：全是真实手部操作（拧螺丝、插线、旋转）。风险：信任不足、无CTA。评分：8.8"
+}

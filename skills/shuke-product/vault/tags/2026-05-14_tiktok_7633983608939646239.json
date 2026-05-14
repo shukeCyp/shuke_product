@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7633983608939646239",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/wrybluestore_7633983608939646239.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633983608939646239/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.32,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 主推印有迷彩“WIFEY”（人妻/妻子）字母的复古水洗做旧款短袖T恤（品牌标签显示为Comfort Colors），并以整套穿搭（搭配牛仔外套、白靴）打包",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻女性",
+      "特别是备婚新娘",
+      "新婚妻子",
+      "追求美式乡村",
+      "波西米亚（Boho）休闲风格的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（Wifey） + 场景氛围/情绪价值（no drama allowed）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 4
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 4.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "(针对带货转化的升级改造)\n如果要复刻这种美学，但提高带货转化率，建议采用**“平铺种草 + 真人上身 + 细节证明”**的组合拳。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 主推印有迷彩“WIFEY”（人妻/妻子）字母的复古水洗做旧款短袖T恤（品牌标签显示为Comfort Colors）。品类：服饰穿搭。人群：** 年轻女性、特别是备婚新娘、新婚妻子。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.2"
+}

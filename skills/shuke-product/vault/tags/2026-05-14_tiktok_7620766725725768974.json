@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7620766725725768974",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/kullrrl_7620766725725768974.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620766725725768974/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频推销一款DIY迷你信封情话礼盒（包含微型牛皮纸信封、空白纸条、爱心封口贴及精美红色外包装盒）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于恋爱中的情侣",
+      "准备纪念日",
+      "情人节",
+      "生日礼物的年轻男女",
+      "追求仪式感和高情绪价值的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（情侣） + 情感共鸣（接地气的情话） + 视觉新奇（微缩物品）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.5,
+    "purchase_impulse": 6.5,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  1. **引流画面 (0-3s)：** 手写暖心/搞笑语录特写。\n  2. **组装演示 (3-8s)：** 折叠纸条，塞入迷你",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频推销一款DIY迷你信封情话礼盒（包含微型牛皮纸信封、空白纸条、爱心封口贴及精美红色外包装盒）。。品类：家居清洁。人群：** 处于恋爱中的情侣、准备纪念日、情人节。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、限时稀缺、结果前置。风险：口播缺失、信任不足、无CTA。评分：8.3"
+}

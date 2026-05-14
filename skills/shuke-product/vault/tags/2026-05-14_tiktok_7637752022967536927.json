@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637752022967536927",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/byoaklyn_7637752022967536927.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637752022967536927/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款伪装成香烟/烟盒造型的**搞怪吹泡泡玩具**（整蛊玩具/解压神器）。",
+    "category": "运动户外",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢新奇特玩具的年轻人",
+      "聚会搞气氛的人群",
+      "寻找搞怪礼物的受众（甚至可作为“戒烟期”的解压平替玩具）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "送礼党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（抽烟姿势 vs 吹泡泡字幕） + 强烈反差音效 + 好奇心驱动。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **实测展示**与**真实反应**。一镜到底的吹泡泡过程打消了特效疑虑；最后的笑场是最佳的“情"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（适用于自然流带货/视频号/TikTok）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款伪装成香烟/烟盒造型的**搞怪吹泡泡玩具**（整蛊玩具/解压神器）。。品类：运动户外。人群：** 喜欢新奇特玩具的年轻人、聚会搞气氛的人群、寻找搞怪礼物的受众（甚至可作为“戒烟期”的解压平替玩具）。。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：** **实测展示**与**真实反应**。一镜到底的吹泡泡过程打消了特效疑虑；最后的笑场是最佳的“情。风险：字幕不清、信任不足、无CTA。评分：7.8"
+}

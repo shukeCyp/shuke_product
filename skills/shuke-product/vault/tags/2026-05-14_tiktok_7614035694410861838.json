@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7614035694410861838",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/ivonne.rojas25_7614035694410861838.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614035694410861838/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "直播切片",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（加入带货元素）\n1. **0-3s 惊艳开箱**：主观视角拉开拉链，开盖瞬间亮灯。（配字幕：出行带这一个就够了！）\n2. **3-8s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：开箱展示、场景种草、痛点解决。钩子：好奇悬念、场景冲突、结果前置。风险：口播缺失、信任不足、无CTA。评分：8.6"
+}

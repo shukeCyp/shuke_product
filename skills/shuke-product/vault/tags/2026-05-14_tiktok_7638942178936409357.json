@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638942178936409357",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/aaliyah_wears_7638942178936409357.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638942178936409357/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 黑色穆斯林罩袍套装（Khimar/Abaya套裙），主打一体式/便捷穿脱的保守穿搭（Modest Fashion）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求穿脱便捷",
+      "日常舒适",
+      "同时又希望保持时尚感和优雅气质的穆斯林女性或保守穿搭爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪感染 + 结果展示。女主一上来就表达强烈的喜爱（literally obsessed），并直接展示穿好后的完美状态。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 主要是**达人背书（领夹麦克风暗示其评测博主身份）**和**高审美场景（提升商品溢价感）**。"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（扩充至15秒最佳）：\n1. **0-3s 痛点钩子**：展示快速穿脱的过程（证明Easy）。\n2. **3-8s 视觉展示**：张开双臂",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 黑色穆斯林罩袍套装（Khimar/Abaya套裙），主打一体式/便捷穿脱的保守穿搭（Modest Fashion）。品类：服饰穿搭。人群：** 追求穿脱便捷、日常舒适、同时又希望保持时尚感和优雅气质的穆斯林女性或保守穿搭爱好者。。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：** 主要是**达人背书（领夹麦克风暗示其评测博主身份）**和**高审美场景（提升商品溢价感）**。。风险：信任不足、无CTA。评分：7.0"
+}

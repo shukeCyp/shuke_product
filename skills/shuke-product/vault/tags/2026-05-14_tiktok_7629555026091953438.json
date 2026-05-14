@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7629555026091953438",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/belindaaashops_7629555026091953438.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629555026091953438/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 4.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似推销一款能产生极其丰富泡沫的洗护发产品（如洗发水、头皮海盐磨砂膏或起泡慕斯），视频全程未露出商品本体，仅展示了使用过程中的泡沫。",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重洗浴体验",
+      "追求情绪价值",
+      "喜欢丰富泡沫质感的年轻女性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇悬念 + 行为反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "满头真实的泡沫（实测证据）"
+  ],
+  "cta": {
+    "text": "** 指向屏幕下方，“左下角体验同款云朵泡泡”。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 7.0,
+    "product_display": 0.0,
+    "purchase_impulse": 2.0,
+    "total": 4.0
+  },
+  "remake": {
+    "angle": "（转化为强带货视频）\n如果要把这条高赞引流视频改造成能投流的**高转化带货视频**，建议采用以下复刻大纲：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似推销一款能产生极其丰富泡沫的洗护发产品（如洗发水、头皮海盐磨砂膏或起泡慕斯），视频全程未露出商品本体，仅展示了。品类：身体护理。人群：** 注重洗浴体验、追求情绪价值、喜欢丰富泡沫质感的年轻女性群体。。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：满头真实的泡沫（实测证据）。风险：口播缺失、信任不足。评分：4.0"
+}

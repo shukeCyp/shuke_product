@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7632122482329160973",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/americas.sneaker_7632122482329160973.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632122482329160973/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "库存震撼",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "产品特写",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.5,
+    "product_display": 8.5,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用所有热门球鞋/潮品带货）：**\n- **0-2s 爆款亮眼**：手持单品怼脸，高饱和度商品占据视觉中心。\n- **2-5s 翻转细节+破价",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、清仓福利。钩子：好奇悬念、结果前置、库存震撼。风险：信任不足、无CTA。评分：7.6"
+}

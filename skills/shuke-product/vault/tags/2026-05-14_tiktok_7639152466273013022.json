@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7639152466273013022",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/kenelmagood_7639152466273013022.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639152466273013022/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "UGC口播",
+      "测评对比",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "用户评价",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（带口播版，适合增加转化率）：**\n1. **0-3s 制造悬念**：展示未拆封盲盒，点明身份/场景。（镜头：手持盲盒在好看的背景下晃动）\n2.",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：开箱展示、UGC口播、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：9.0"
+}

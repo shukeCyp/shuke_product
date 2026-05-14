@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7624519532375264526",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/ashleyjazmine_7624519532375264526.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624519532375264526/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似带货/种草 Crocs（卡骆驰）黑色芭蕾风洞洞鞋（带有蝴蝶结和玛丽珍鞋带设计）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求潮流的年轻女性",
+      "Z世代",
+      "喜欢“Balletcore（芭蕾风）”或“甜酷风”穿搭的受众",
+      "Crocs品牌粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接展示高颜值单品）、反差/好奇（传统的笨重洞洞鞋变成了秀气的芭蕾鞋，引发好奇）、场景代入（车内随手拍的慵懒高级感）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "清晰的细节特写"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.5,
+    "total": 7.1
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化带货版，时长扩展至15-20秒）：**\n    *   0-3s：车内同款拿捏展示（吸引注意）。\n    *   3-8s：手持翻",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似带货/种草 Crocs（卡骆驰）黑色芭蕾风洞洞鞋（带有蝴蝶结和玛丽珍鞋带设计）。。品类：服饰穿搭。人群：** 追求潮流的年轻女性、Z世代、喜欢“Balletcore（芭蕾风）”或“甜酷风”穿搭的受众。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：清晰的细节特写。风险：口播缺失、信任不足、无CTA。评分：7.1"
+}

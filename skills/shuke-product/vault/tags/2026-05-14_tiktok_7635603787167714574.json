@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7635603787167714574",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/yourdream422731997_7635603787167714574.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635603787167714574/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 迈克尔·杰克逊（Michael Jackson）MV同款复古钢琴音符印花T恤。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 迈克尔·杰克逊粉丝",
+      "80年代复古风爱好者",
+      "音乐爱好者及追求个性的年轻群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（粉丝定向） + 名人背书 + 视觉强引导（红圈）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实展示了衣服的垂坠感和纯白度",
+    "面料厚薄等）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用任何“影视/明星同款”服饰）：**\n    1.  0-3s：高燃/经典原片展示 + 视觉记号（红圈/箭头） + 勾起回忆的BGM",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 迈克尔·杰克逊（Michael Jackson）MV同款复古钢琴音符印花T恤。。品类：服饰穿搭。人群：** 迈克尔·杰克逊粉丝、80年代复古风爱好者、音乐爱好者及追求个性的年轻群体。。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：真实展示了衣服的垂坠感和纯白度、面料厚薄等）。风险：字幕不清、口播缺失、信任不足。评分：7.0"
+}

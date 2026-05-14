@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7638345899080518926",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/homewithhaley__7638345899080518926.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638345899080518926/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Physician's Choice 品牌的消化酶胶囊（Digestive Enzymes）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常吃重油重肉",
+      "加工食品",
+      "有肠胃负担",
+      "容易胀气（bloating）或消化不良的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "手背实测",
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "猎奇实验 + 物品破坏 + 场景冲突（胶囊粉末直接倒在生肉上）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "前后对比（好肉变烂肉）",
+    "第三方背书（瓶身上的 Developed with Doctors）"
+  ],
+  "cta": {
+    "text": "引导下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    *   0-3s 痛点钩子：展示难消化的食物（如一大块牛排或一碗黏腻的糯米饭），直接撒入胶囊粉末。\n    *   3-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Physician's Choice 品牌的消化酶胶囊（Digestive Enzymes）。。品类：健康养生。人群：** 经常吃重油重肉、加工食品、有肠胃负担。视频类型：UGC口播、痛点解决、测评对比。钩子：好奇悬念、结果前置、场景冲突。证明：前后对比（好肉变烂肉）、第三方背书（瓶身上的 Developed with Doctors）。风险：信任不足。评分：7.8"
+}

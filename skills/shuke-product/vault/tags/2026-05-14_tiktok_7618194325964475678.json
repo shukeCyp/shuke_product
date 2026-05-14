@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7618194325964475678",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/amdrew424_7618194325964475678.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618194325964475678/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 汽车电瓶断电开关（防跑电保护器/电池隔离器）。",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 汽车使用频率低",
+      "经常长时间停放",
+      "备受“电瓶跑电",
+      "亏电导致无法启动”困扰的车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "手持产品指引下方。“几十块钱解决大麻烦，左下角给爱车安排一个。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（25秒）：**\n  1. (0-3s) 痛点+展示：引擎舱内，特写手拧红色旋钮。大字报：“车子久停，电瓶总亏电？”\n  2. (3-8s)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 汽车电瓶断电开关（防跑电保护器/电池隔离器）。。品类：汽车用品。人群：** 汽车使用频率低、经常长时间停放、备受“电瓶跑电。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足。评分：8.8"
+}

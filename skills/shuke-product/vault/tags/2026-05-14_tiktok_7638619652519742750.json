@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638619652519742750",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/bijina92_7638619652519742750.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638619652519742750/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 女童夏季红色波点吊带蛋糕裙（带隐藏口袋设计）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 3-12岁女童的家长（主要是追求款式可爱且兼顾实用性的宝妈）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 小惊喜（发现口袋）。这属于比较弱的自然流钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 4
+  },
+  "selling_points": [],
+  "proof_points": [
+    "地毯",
+    "背景墙）让视频看起来像真实的买家秀",
+    "加上360度转身和跑跳",
+    "提供了极高的“上身真实度”证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 4.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 2.0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲：** 痛点引入（无处安放的小手） -> 亮点展示（口袋+版型） -> 细节证明（面料特写+后背） -> 动态种",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 女童夏季红色波点吊带蛋糕裙（带隐藏口袋设计）。。品类：服饰穿搭。人群：** 3-12岁女童的家长（主要是追求款式可爱且兼顾实用性的宝妈）。。视频类型：剧情反转、UGC口播、清仓福利。钩子：结果前置、场景冲突、低价占便宜。证明：地毯、背景墙）让视频看起来像真实的买家秀、加上360度转身和跑跳。风险：口播缺失、信任不足、无CTA。评分：5.4"
+}

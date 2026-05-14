@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7636123631780695327",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/daniebfits_7636123631780695327.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636123631780695327/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.92,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "质地展示",
+      "产品特写",
+      "使用场景",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 5.0,
+    "product_display": 2.0,
+    "purchase_impulse": 1.0,
+    "total": 3.8
+  },
+  "remake": {
+    "angle": "（爆款带货改造建议）\n**如果要用这个原生感极强的创意去投流带货，必须进行改造：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：质地实测、UGC口播、场景种草。钩子：场景冲突、好奇悬念、身份点名。风险：信任不足、无CTA。评分：3.8"
+}

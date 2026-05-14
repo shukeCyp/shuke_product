@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7633610872501325069",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/heymoesha_7633610872501325069.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633610872501325069/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 39.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "前后对比",
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "抛出限时价格，手指左下角购物车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.5,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "（适合短视频带货/投流）\n- **复刻脚本大纲**：\n  1. 【0-3s】痛点+展示：展示干瘪身材照（秒过）+ 猛地拉伸/展示厚垫内衣。\n  2. 【3-8s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足。评分：8.3"
+}

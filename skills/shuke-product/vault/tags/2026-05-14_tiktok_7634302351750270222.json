@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7634302351750270222",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/themiayadanielle_7634302351750270222.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634302351750270222/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 假发套、接发产品（Boho Braids/法式卷发）或美发沙龙的烫染接发服务。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚",
+      "注重外表",
+      "喜欢欧美辣妹风或度假风的年轻女性（特别是对夏季发型有换新需求的人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 情绪代入型。没有废话，直接把最美的状态怼到镜头前，配合自信的BGM。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "扎头发）”**和**“细节（近距离高清展示发丝反光和卷度）”**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "（适用于假发/接发电商带货）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 假发套、接发产品（Boho Braids/法式卷发）或美发沙龙的烫染接发服务。。品类：服饰穿搭。人群：** 追求时尚、注重外表、喜欢欧美辣妹风或度假风的年轻女性（特别是对夏季发型有换新需求的人群）。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、身份点名。证明：扎头发）”**和**“细节（近距离高清展示发丝反光和卷度）”**。风险：信任不足、无CTA。评分：6.8"
+}

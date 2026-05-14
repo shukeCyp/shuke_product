@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7636460593356082462",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/sendcapsusa_7636460593356082462.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636460593356082462/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 结合开头0:00的开瓶“啵”音效、多次放入玻璃饮料/啤酒瓶的动作，以及账号水印“@SendCapsUSA”（Send Caps意为发射瓶盖），**疑似售卖",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢户外活动（沙滩",
+      "游艇）",
+      "聚会（Tailgate party",
+      "后备箱派对）",
+      "追求新奇特玩具的年轻人及欧美男性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "剧情反转",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差（休闲沙滩美女与硬核军事造型物品的冲突） + 场景代入（夏日派对氛围） + 好奇心（这是个什么东西？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**这是最致命的缺陷——全片没有一次展示产品是如何工作的（How it works）**",
+    "没有瓶盖弹射的画面"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 5.0,
+    "product_display": 4.0,
+    "purchase_impulse": 4.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "（针对原版缺陷进行转化率改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 结合开头0:00的开瓶“啵”音效、多次放入玻璃饮料/啤酒瓶的动作，以及账号水印“@SendCapsUSA”（Sen。品类：男士护理。人群：** 喜欢户外活动（沙滩、游艇）、聚会（Tailgate party。视频类型：质地实测、UGC口播、场景种草。钩子：结果前置、好奇悬念、场景冲突。证明：**这是最致命的缺陷——全片没有一次展示产品是如何工作的（How it works）**、没有瓶盖弹射的画面。风险：字幕不清、信任不足、无CTA。评分：4.6"
+}

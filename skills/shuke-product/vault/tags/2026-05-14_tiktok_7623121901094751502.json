@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7623121901094751502",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/zzzuulll_7623121901094751502.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623121901094751502/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.96,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲**：\n    1.  0-2s：视觉冲击（特写印花）+ 痛点文案。\n    2.  2-6s：后退全景，展示上",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。风险：信任不足、无CTA。评分：6.0"
+}

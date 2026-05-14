@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634212459817094431",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/theamandacannon_7634212459817094431.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634212459817094431/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** GAP 灰色大Logo复古宽松版型卫衣（通过TikTok Shop售卖）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求舒适慵懒风的年轻女性",
+      "年轻妈妈（喜爱“Clean Girl”或日常休闲穿搭）",
+      "对身材包容度有要求的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "成分展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（OOTD上身效果）+ 数据锚点（身高/尺码/材质字幕）+ 痛点共鸣（淘古着很难）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.5,
+    "trust": 9.5,
+    "product_display": 8.5,
+    "purchase_impulse": 7.5,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版）：**\n    *   *0-3s (钩子+展示)：* 直击痛点+上身展示，展示尺码参数。\n    *   *3-8s (场景",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** GAP 灰色大Logo复古宽松版型卫衣（通过TikTok Shop售卖）。。品类：服饰穿搭。人群：** 追求舒适慵懒风的年轻女性、年轻妈妈（喜爱“Clean Girl”或日常休闲穿搭）、对身材包容度有要求的女性。。视频类型：场景种草、直播切片、痛点解决。钩子：结果前置、好奇悬念、限时稀缺。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

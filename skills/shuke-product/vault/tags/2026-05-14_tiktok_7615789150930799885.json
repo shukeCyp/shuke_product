@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7615789150930799885",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/beautyiskei__7615789150930799885.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615789150930799885/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 31.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 核心展示深棕色托特包（主推款），以及包内附带的十余件高颜值、小巧实用的女性日常随身好物（美妆、数码、个护周边等，疑似带货引流矩阵）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁关注时尚穿搭",
+      "美妆护理",
+      "注重生活仪式感和精致审美的年轻女性（Z世代",
+      "千禧一代）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测",
+      "产品特写",
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心驱动 + 身份代入（IP人设）。经典且经久不衰的“翻包”套路，利用人们窥探他人私人物品的好奇心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（针对短视频带货改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 核心展示深棕色托特包（主推款），以及包内附带的十余件高颜值、小巧实用的女性日常随身好物（美妆、数码、个护周边等，疑。品类：美妆护肤。人群：** 18-35岁关注时尚穿搭、美妆护理、注重生活仪式感和精致审美的年轻女性（Z世代。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：7.0"
+}

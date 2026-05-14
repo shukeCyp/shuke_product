@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7609044987526925599",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/aaamgrr_7609044987526925599.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7609044987526925599/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一双酒红色（樱桃红）漆皮尖头猫跟凉鞋（品牌明确露出为 DREAM PAIRS）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求法式优雅",
+      "复古风",
+      "注重氛围感与穿搭审美的年轻至中年女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "直播切片",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（视觉暴击）+ 场景反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "肉眼可见的高级光泽度",
+    "无法判断是否磨脚",
+    "偏码）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 4.0,
+    "trust": 5.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（如何把它爆改为高转化带货视频）\n如果您的目标是带货，需要对这个绝美的静态素材进行“结构化扩充”：\n*   **复刻脚本大纲：**\n    *   *0-2s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一双酒红色（樱桃红）漆皮尖头猫跟凉鞋（品牌明确露出为 DREAM PAIRS）。。品类：美妆护肤。人群：** 追求法式优雅、复古风、注重氛围感与穿搭审美的年轻至中年女性。。视频类型：价格刺激、直播切片、质地实测。钩子：结果前置、好奇悬念、场景冲突。证明：肉眼可见的高级光泽度、无法判断是否磨脚、偏码）。风险：口播缺失、信任不足、无CTA。评分：5.2"
+}

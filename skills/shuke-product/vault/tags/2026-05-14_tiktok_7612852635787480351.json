@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7612852635787480351",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/tay..15_7612852635787480351.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612852635787480351/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖**美黑舱专用的唇部防晒/隔离贴**（用于防止紫外线照射加速唇部玻尿酸流失）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有**丰唇经历**（打过唇部玻尿酸）且有**美黑",
+      "日晒需求**的年轻女性（“lip filler girlies”）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（极强） + 场景冲突。 直接点名“lip filler girlies”，精准抓取特定人群；幽蓝色的美黑舱光线与日常场景形成视觉反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "属于极具说服力的原生态UGC展示"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "(针对美黑护具/医美后修复产品)\n*   **复刻脚本大纲（优化升级版，15秒）：**\n    *   0-3s：痛点+身份（在美黑舱内展示产品，提出痛点）\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖**美黑舱专用的唇部防晒/隔离贴**（用于防止紫外线照射加速唇部玻尿酸流失）。。品类：美妆护肤。人群：** 有**丰唇经历**（打过唇部玻尿酸）且有**美黑、日晒需求**的年轻女性（“lip filler girlies”）。。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。证明：属于极具说服力的原生态UGC展示。风险：字幕不清、口播缺失、信任不足。评分：7.4"
+}

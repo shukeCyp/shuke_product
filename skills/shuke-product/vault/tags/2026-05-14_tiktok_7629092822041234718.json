@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7629092822041234718",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/gavin.somerss_7629092822041234718.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629092822041234718/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.74,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（适合投流改造版）**：\n  - **0-2s 痛点/钩子**：高速行驶画面，“还在低头看仪表盘？危险就在一瞬间！”\n  - **2-5s ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、尴尬痛点。风险：字幕不清、口播缺失、信任不足。评分：7.2"
+}

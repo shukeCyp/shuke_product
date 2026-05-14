@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7639069728752799007",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/marilachichi1_7639069728752799007.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639069728752799007/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "(适合厨具小家电类目)\n- **复刻脚本大纲（30秒标准版）**：\n  - 0-3s：贴热门评论，手持旧工具痛苦挣扎 vs 新工具轻松解决（钩子）。\n  - 3",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：UGC口播、直播切片、清仓福利。钩子：结果前置、场景冲突、低价占便宜。风险：信任不足、无CTA。评分：8.4"
+}

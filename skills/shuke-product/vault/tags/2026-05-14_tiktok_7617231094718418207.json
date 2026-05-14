@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7617231094718418207",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/mya.jyna_7617231094718418207.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617231094718418207/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.84,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一件亮黄色、挂脖、露背设计的夏日度假风连衣长裙。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚",
+      "自信展现身材",
+      "有度假",
+      "派对",
+      "旅拍穿搭需求的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉冲击（高饱和度色彩）、身材展示、动态反差（背影到正面的惊艳感）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "转圈",
+    "转身",
+    "无死角证明了裙子的版型和上身效果",
+    "比静态图片更有说服力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 6.0,
+    "trust": 6.5,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "(针对带货团队改造)\n如果我们要复刻这个爆款结构并强化带货属性：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一件亮黄色、挂脖、露背设计的夏日度假风连衣长裙。。品类：服饰穿搭。人群：** 追求时尚、自信展现身材、有度假。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：转圈、转身、无死角证明了裙子的版型和上身效果。风险：口播缺失、信任不足、无CTA。评分：7.2"
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7629031833732189454",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/notamaraa_7629031833732189454.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629031833732189454/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖 **Y2K风格女装**（重点为：黑色心机露背短T恤、低腰复古牛仔裤、或毛绒雪地靴）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱Y2K千禧风",
+      "辣妹风穿搭的年轻女性（Z世代为主）",
+      "追求个性",
+      "性感与复古潮流的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "价格刺激",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（你想成为这样酷飒的辣妹吗？） + 视觉氛围感（美女+复古滤镜+带感音乐）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **实测展示（上身效果）**。视频完全依赖模特的上身美感来证明商品价值。"
+  ],
+  "cta": {
+    "text": "明确指向左下角。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 3.0,
+    "product_display": 6.0,
+    "purchase_impulse": 3.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "（改造为高转化带货视频）\n如果保留该模特的视觉素材，建议进行以下二创或重拍：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖 **Y2K风格女装**（重点为：黑色心机露背短T恤、低腰复古牛仔裤、或毛绒雪地靴）。。品类：服饰穿搭。人群：** 喜爱Y2K千禧风、辣妹风穿搭的年轻女性（Z世代为主）、追求个性。视频类型：价格刺激、质地实测、UGC口播。钩子：结果前置、场景冲突、好奇悬念。证明：** **实测展示（上身效果）**。视频完全依赖模特的上身美感来证明商品价值。。风险：字幕不清、口播缺失、信任不足。评分：4.6"
+}

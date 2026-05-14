@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7635116778300919070",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/momneedswhine_7635116778300919070.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635116778300919070/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖 Chomps 品牌的独立包装肉条/高蛋白零食（基于包装颜色和形态判断）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 该账号的现有粉丝",
+      "关注健康",
+      "高蛋白零食的人群",
+      "以及此前看过相关产品视频但没买到的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "直播切片",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "库存背书",
+      "开箱展示",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "社交证明（评论贴纸） + 场景冲突（暴力抛掷物品） + 制造好奇（到底是什么卖光了？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "也是最强的信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 1.0,
+    "trust": 6.0,
+    "product_display": 3.0,
+    "purchase_impulse": 5.0,
+    "total": 4.4
+  },
+  "remake": {
+    "angle": "（适合投放/自然流改造）\n这种“回复评论”的形式极佳，但为了提高**电商转化率**，必须增加产品展示。\n*   **复刻脚本大纲：** 抛掷商品回应评论（前2秒",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖 Chomps 品牌的独立包装肉条/高蛋白零食（基于包装颜色和形态判断）。。品类：健康养生。人群：** 该账号的现有粉丝、关注健康、高蛋白零食的人群。视频类型：价格刺激、直播切片、质地实测。钩子：结果前置、好奇悬念、限时稀缺。证明：也是最强的信任背书。风险：字幕不清、口播缺失、信任不足。评分：4.4"
+}

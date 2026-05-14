@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7626229509624270093",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/tinuola101_7626229509624270093.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626229509624270093/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 7.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  姐妹聚会拍照 -> 迫不及待要看照片 -> 掏出读卡器一秒连接 -> 手机相册立刻弹出高清原图 -> 姐妹惊呼好爽 -> 挂车提",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、痛点解决、UGC口播。钩子：好奇悬念、结果前置。风险：字幕不清、口播缺失、信任不足。评分：7.2"
+}

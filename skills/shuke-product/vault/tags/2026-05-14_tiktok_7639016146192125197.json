@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7639016146192125197",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/vm287223wh4_7639016146192125197.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639016146192125197/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 宝可梦卡牌盲盒/礼盒（视频中展示为带有喷火龙图案的“Phantasmal Flames” Elite Trainer Box，一款针对收藏者和玩家的卡牌周",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 宝可梦IP粉丝",
+      "卡牌游戏（TCG）玩家",
+      "盲盒爱好者及卡牌收藏家。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 情绪感染。开篇没有废话，直接展示用户最想要的“结果”（买到了难买的盒子），并用“终于拿到了”的如释重负感作为情绪钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（适用于盲盒/潮玩/卡牌类商品）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 宝可梦卡牌盲盒/礼盒（视频中展示为带有喷火龙图案的“Phantasmal Flames” Elite Traine。品类：厨房用品。人群：** 宝可梦IP粉丝、卡牌游戏（TCG）玩家、盲盒爱好者及卡牌收藏家。。视频类型：UGC口播、直播切片、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

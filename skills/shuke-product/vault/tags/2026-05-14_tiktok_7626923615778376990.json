@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7626923615778376990",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/xnqsaynup87_7626923615778376990.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626923615778376990/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖派对激光舞台灯/氛围投影灯（主打红绿双色、多图样、带频闪功能）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢居家聚会",
+      "蹦迪的年轻人",
+      "KTV",
+      "酒吧",
+      "餐饮店老板",
+      "节日派对布置者",
+      "有车内蹦迪需求的车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（所见即所得）、视觉冲击型。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 采用了“实机光效直拍”。"
+  ],
+  "cta": {
+    "text": "* “别去外面花冤枉钱包厢了，左下角几十块钱，让你嗨翻一整年！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 4.0,
+    "trust": 3.0,
+    "product_display": 2.0,
+    "purchase_impulse": 5.0,
+    "total": 4.2
+  },
+  "remake": {
+    "angle": "（高转化改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖派对激光舞台灯/氛围投影灯（主打红绿双色、多图样、带频闪功能）。。品类：数码配件。人群：** 喜欢居家聚会、蹦迪的年轻人、KTV。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：** 采用了“实机光效直拍”。。风险：口播缺失、信任不足。评分：4.2"
+}

@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7616303547860192525",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/vivi85704_7616303547860192525.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616303547860192525/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.04,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "运动户外",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n    1. 前3秒：单人手持特写，慢速按压1-2次，展示发光发声，配走心字幕。\n    2. 中间5秒：朋友的手入镜，两人交替按压",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：运动户外。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、场景冲突。风险：口播缺失、信任不足、无CTA。评分：8.8"
+}

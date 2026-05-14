@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7627705735849233678",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/roseinmotion3_7627705735849233678.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627705735849233678/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款超大型、带床头柜与氛围灯的一体式轻奢软包双人床。",
+    "category": "办公学习",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求卧室奢华感",
+      "大空间舒适度",
+      "喜欢现代法式或轻奢装修风格的家庭用户（由于口播语言",
+      "受众明确指向海地克里奥尔语使用区）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景展示型钩子（结果展示）+ 人物情绪钩子。用极具视觉冲击力的奢华床铺直接抓眼球，配合模特夸张的“大”手势引发好奇。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **极低。**"
+  ],
+  "cta": {
+    "text": "* 模特靠在床头看书，氛围温馨。口播：“就像把五星级酒店的总统套房搬回家，左下角一键送到家！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 7.0,
+    "trust": 1.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 4.0
+  },
+  "remake": {
+    "angle": "(针对实体商家的实拍改造建议)\n如果商家有类似款式的实体床，建议采用以下方案重新拍摄，适合投放信息流广告：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款超大型、带床头柜与氛围灯的一体式轻奢软包双人床。。品类：办公学习。人群：** 追求卧室奢华感、大空间舒适度、喜欢现代法式或轻奢装修风格的家庭用户（由于口播语言。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：** **极低。**。风险：信任不足。评分：4.0"
+}

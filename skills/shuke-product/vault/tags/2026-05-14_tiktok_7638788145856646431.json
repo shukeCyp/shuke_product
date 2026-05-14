@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7638788145856646431",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/pastnposh2_7638788145856646431.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638788145856646431/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频疑似在销售二手奢侈品女包（LV经典老花Alma贝壳包），或展示某个奢侈品电商平台/代购服务。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱奢侈品的年轻女性",
+      "二手奢侈品买家",
+      "追求个性化包包配件（如绑丝巾）的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "UGC口播",
+      "场景种草",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉奇观、好奇心驱动、空间反差（虚拟与现实的交互）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "走线",
+    "内衬）",
+    "也没有任何背书",
+    "纯靠视觉效果撑场"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 1.0,
+    "trust": 4.0,
+    "product_display": 6.0,
+    "purchase_impulse": 3.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "该视频的核心机制极好，如果加上营销元素，转化效果会呈指数级增长。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频疑似在销售二手奢侈品女包（LV经典老花Alma贝壳包），或展示某个奢侈品电商平台/代购服务。。品类：数码配件。人群：** 喜爱奢侈品的年轻女性、二手奢侈品买家、追求个性化包包配件（如绑丝巾）的用户。。视频类型：价格刺激、UGC口播、场景种草。钩子：结果前置、场景冲突、好奇悬念。证明：走线、内衬）、也没有任何背书。风险：字幕不清、信任不足、无CTA。评分：4.6"
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638309113822252319",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/sydneyyallisonn_7638309113822252319.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638309113822252319/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 19.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** FrostBuddy 品牌的大学联名款（视频展示为田纳西大学）多功能保冷/保温杯（核心卖点是“杯中杯”设计及多功能拓展）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 大学生",
+      "校友球迷（田纳西大学粉丝群体为主）",
+      "重度冰咖啡",
+      "冷饮爱好者",
+      "喜欢个性化杯子配件的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "结果前置",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪感染（夸张惊喜） + 好奇心制造（开箱） + 身份代入（Collegiate/球迷圈层）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **实测展示**（直接塞进真正的咖啡杯是毫无争议的铁证）；**细节特写**（浮雕材质的高清画面"
+  ],
+  "cta": {
+    "text": "** 捧杯喝水。“多种联名款可选，点击左下角看看有没有你的主队！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "（适合短视频带货/投放）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** FrostBuddy 品牌的大学联名款（视频展示为田纳西大学）多功能保冷/保温杯（核心卖点是“杯中杯”设计及多功能。品类：美妆护肤。人群：** 大学生、校友球迷（田纳西大学粉丝群体为主）、重度冰咖啡。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、价格跳水、结果前置。证明：** **实测展示**（直接塞进真正的咖啡杯是毫无争议的铁证）；**细节特写**（浮雕材质的高清画面。风险：口播缺失、信任不足。评分：9.2"
+}

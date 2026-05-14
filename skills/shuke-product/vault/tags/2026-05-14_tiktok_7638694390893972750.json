@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7638694390893972750",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/stellar.scribbles5_7638694390893972750.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638694390893972750/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "库存背书",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 8.5,
+    "purchase_impulse": 7.0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "（以增加口播为例进行改造）\n- **复刻脚本大纲**：\n  1. **0-5s 黄金前奏**：微距画画过程 + 痛点悬念口播。\n  2. **5-15s 产品大",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：UGC口播、痛点解决、库存背书。钩子：好奇悬念、结果前置、反常识。风险：口播缺失、信任不足、无CTA。评分：8.3"
+}

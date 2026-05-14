@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7608139640121330958",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/tnm.yes_7608139640121330958.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7608139640121330958/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "测评对比",
+      "开箱展示",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适合盲盒类商品）**：\n1. **0-3s 亮明身份**：展示盲盒+指明图鉴中最想要的一款（立Flag）。\n2. **4-10s 快速拆盒**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：剧情反转、UGC口播、测评对比。钩子：别划走、结果前置、场景冲突。风险：信任不足、无CTA。评分：8.6"
+}

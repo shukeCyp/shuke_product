@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7607892990614457630",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/mayafindss777_7607892990614457630.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7607892990614457630/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 女士白色细带猫跟凉鞋（Strappy Kitten Heel Sandals）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚感且对穿着舒适度有要求的年轻",
+      "轻熟女性（看重百搭与通勤",
+      "日常穿搭）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（上脚颜值） + 情绪种草（字幕）。这属于典型的“视觉流”起手。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** （口播）“今天橱窗有限时折扣，姐妹们快去冲！”画面出现箭头指向左下角。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 4.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "若要将此素材改造为高转化带货视频，建议采用以下方案：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 女士白色细带猫跟凉鞋（Strappy Kitten Heel Sandals）。。品类：服饰穿搭。人群：** 追求时尚感且对穿着舒适度有要求的年轻、轻熟女性（看重百搭与通勤、日常穿搭）。。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、限时稀缺、结果前置。证明：**。风险：口播缺失、信任不足。评分：6.0"
+}

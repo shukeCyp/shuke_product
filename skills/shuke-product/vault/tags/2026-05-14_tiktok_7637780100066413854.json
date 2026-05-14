@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7637780100066413854",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/unicornqueenmaria_7637780100066413854.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637780100066413854/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** GODVENUS 品牌的自带仙子毛尖尖（built-in spikes）的沙龙级DIY分段假睫毛。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢欧美妆容",
+      "亚裔妆容",
+      "有接睫毛需求但想省钱",
+      "省时间",
+      "追求在家DIY沙龙级睫毛效果的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 教程干货（睫毛公式） + 视觉冲击（极度特写）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 6.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  展示贴睫毛手法（特写）+ 给出数字公式。\n    2.  用刷子梳理证明牢固和自然。\n    3.  展示产品实",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** GODVENUS 品牌的自带仙子毛尖尖（built-in spikes）的沙龙级DIY分段假睫毛。。品类：美妆护肤。人群：** 喜欢欧美妆容、亚裔妆容、有接睫毛需求但想省钱。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

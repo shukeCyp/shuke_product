@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7614531464784334110",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/gavrcyai_7614531464784334110.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614531464784334110/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 便携式多功能挂腰/挂脖迷你风扇。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 饱受“潮热（hot flashes）”困扰的女性",
+      "易出汗体质者",
+      "户外运动人群及夏季怕热人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点痛击（潮热/Hot flashes） + 夸张结果展示（头发飞舞）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适合15-20秒）：**\n    *   0-3s：痛点+爽感（衣服鼓起特写，文案：夏天一出门就汗流浃背？）\n    *   3-6s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 便携式多功能挂腰/挂脖迷你风扇。。品类：服饰穿搭。人群：** 饱受“潮热（hot flashes）”困扰的女性、易出汗体质者、户外运动人群及夏季怕热人群。。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、场景冲突、价格跳水。证明：**。风险：信任不足、功效宣称风险、无CTA。评分：8.8"
+}

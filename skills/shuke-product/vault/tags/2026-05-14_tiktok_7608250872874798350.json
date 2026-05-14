@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7608250872874798350",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/brendansfinds_7608250872874798350.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7608250872874798350/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款小型水波纹氛围投影灯/极光投影仪（画面置物架上发光的蓝色方块）。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求生活仪式感",
+      "喜欢沉浸式放松体验",
+      "容易被高颜值视觉效果种草的年轻群体（尤其是女性和独居人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "反常识",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接展现惊艳的光影效果） + 好奇/悬念（字幕提到“this gadget”，引导用户寻找画面里的产品）+ 绝对化表达（“refuse to... e",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "亮度和动态效果",
+    "这是最强有力的信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化了安全性证明与CTA）：**\n    1.  **0-2s：** 惊艳开场（同原片）。展示蓝光浴室，字幕打出悬念。\n    2. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款小型水波纹氛围投影灯/极光投影仪（画面置物架上发光的蓝色方块）。。品类：其他。人群：** 追求生活仪式感、喜欢沉浸式放松体验、容易被高颜值视觉效果种草的年轻群体（尤其是女性和独居人群）。。视频类型：UGC口播、痛点解决、场景种草。钩子：反常识、结果前置、场景冲突。证明：亮度和动态效果、这是最强有力的信任背书。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

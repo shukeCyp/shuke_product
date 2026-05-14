@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638647018163866910",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/coutgo_official_7638647018163866910.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638647018163866910/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 11.52,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 女士夏季细带猫跟（异形低跟）凉鞋（展示了黑、酒红、玫瑰金、棕四种颜色）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求夏日穿搭质感",
+      "喜欢简约优雅风格",
+      "有日常通勤或约会需求的年轻至中年女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（上脚颜值诱惑）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有过度使用磨皮滤镜",
+    "保留了真实的皮肤纹理和穿着褶皱",
+    "增加了“所见即所得”的真实感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  - 0-3s：主推色正面展示+痛点抛出（吸引停留）。\n  - 3-6s：第二色侧面展示+卖点提炼（如：修饰脚型）。\n  - 6-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 女士夏季细带猫跟（异形低跟）凉鞋（展示了黑、酒红、玫瑰金、棕四种颜色）。。品类：服饰穿搭。人群：** 追求夏日穿搭质感、喜欢简约优雅风格、有日常通勤或约会需求的年轻至中年女性。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、限时稀缺、结果前置。证明：没有过度使用磨皮滤镜、保留了真实的皮肤纹理和穿着褶皱、增加了“所见即所得”的真实感。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

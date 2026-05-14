@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7622799224396205326",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/516kicksdeals_7622799224396205326.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622799224396205326/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Air Jordan 1 Mid Infrared（白黑红配色）运动鞋。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 球鞋爱好者",
+      "追求街头穿搭的年轻人",
+      "以及对价格敏感的“捡漏”买家。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "库存震撼",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直给爆款商品） + 价格刺激（Crazy deal）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "这是一条极度适合**店群/铺货/个人卖家**快速批量制作的带货视频。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Air Jordan 1 Mid Infrared（白黑红配色）运动鞋。。品类：家居清洁。人群：** 球鞋爱好者、追求街头穿搭的年轻人、以及对价格敏感的“捡漏”买家。。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、价格跳水。证明：**。风险：信任不足、无CTA。评分：7.0"
+}

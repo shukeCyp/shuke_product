@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7637450540212964639",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/aspoven.usa_7637450540212964639.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637450540212964639/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有社交属性的实体互动玩具（外观类似扫码枪/对讲机，黄紫等多色，需多人联机或互动）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 为孩子“手机成瘾”而头疼的家长（通过文案定向）",
+      "或追求新鲜感",
+      "喜欢群体游戏的学生",
+      "年轻人（通过画面人物穿着和鞋子推测）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣（防沉迷） + 强烈好奇（未明示玩法） + 场景代入（第一人称聚会视角）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "草地+休闲鞋+第一人称聚会视角的真实感",
+    "比在影棚里干讲更有说服力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 3.0,
+    "trust": 4.0,
+    "product_display": 4.0,
+    "purchase_impulse": 5.0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "(针对投放/挂车的优化改造)\n原视频只适合做预热，若要复刻成真正高转化的带货短视频，需延长至10-15秒。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有社交属性的实体互动玩具（外观类似扫码枪/对讲机，黄紫等多色，需多人联机或互动）。。品类：数码配件。人群：** 为孩子“手机成瘾”而头疼的家长（通过文案定向）、或追求新鲜感、喜欢群体游戏的学生。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、场景冲突、尴尬痛点。证明：草地+休闲鞋+第一人称聚会视角的真实感、比在影棚里干讲更有说服力。风险：信任不足、无CTA。评分：5.0"
+}

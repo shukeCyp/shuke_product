@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7625169107851169037",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/1lovehotmoms2.0_7625169107851169037.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625169107851169037/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似展示并种草一款修身显身材的黑色女式连体紧身衣（Jumpsuit/Bodysuit）或瑜伽服。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求身材曲线",
+      "喜欢欧美辣妹风穿搭",
+      "有塑身",
+      "修身需求的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "价格刺激",
+      "质地实测",
+      "UGC口播",
+      "场景种草",
+      "测评对比",
+      "痛点解决",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接展示穿上后的身材效果）、视觉吸引（荷尔蒙刺激）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 仅有“真人试穿上身效果”。"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 1.0,
+    "trust": 2.0,
+    "product_display": 3.0,
+    "purchase_impulse": 3.0,
+    "total": 3.0
+  },
+  "remake": {
+    "angle": "（带货改造建议）\n如果要用这个产品跑信息流投放或挂车，必须重拍，建议采用**“痛点+视觉冲击+测评”**的模型。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似展示并种草一款修身显身材的黑色女式连体紧身衣（Jumpsuit/Bodysuit）或瑜伽服。。品类：美妆护肤。人群：** 追求身材曲线、喜欢欧美辣妹风穿搭、有塑身。视频类型：价格刺激、质地实测、UGC口播。钩子：结果前置、好奇悬念、场景冲突。证明：** 仅有“真人试穿上身效果”。。风险：字幕不清、口播缺失、信任不足。评分：3.0"
+}

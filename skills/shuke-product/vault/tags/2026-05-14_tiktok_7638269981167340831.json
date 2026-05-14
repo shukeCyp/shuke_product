@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638269981167340831",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/amarahshoptok_7638269981167340831.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638269981167340831/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.41,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖女装——黑色竖条纹无袖不对称设计上衣与阔腿裤两件套（套装）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚感",
+      "显瘦穿搭",
+      "注重身材曲线展示的年轻女性（适合日常通勤",
+      "聚会或约会场景）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型（纯视觉） + 身份代入（OOTD穿搭打卡）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "让人觉得衣服在日常生活中就是这样的效果",
+    "信任感较强"
+  ],
+  "cta": {
+    "text": "** 明确引导下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 3.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "（适合短视频带货改造）\n若要将此素材或此风格转化为高转化带货视频，建议按以下方案拍摄制作：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖女装——黑色竖条纹无袖不对称设计上衣与阔腿裤两件套（套装）。。品类：数码配件。人群：** 追求时尚感、显瘦穿搭、注重身材曲线展示的年轻女性（适合日常通勤。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、结果前置、场景冲突。证明：让人觉得衣服在日常生活中就是这样的效果、信任感较强。风险：信任不足。评分：5.4"
+}

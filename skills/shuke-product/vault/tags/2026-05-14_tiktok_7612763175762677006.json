@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7612763175762677006",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/soleplier_7612763175762677006.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612763175762677006/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似为球鞋买手店（服装上有“SOLEPLIER”字样）引流，核心推销商品为 **ASICS（亚瑟士）复古千禧风跑鞋**。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 球鞋爱好者",
+      "潮流穿搭人群",
+      "Z世代及千禧一代跟风潮人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 话题反差。利用“时间跨度对比”（2016 vs 2026）制造悬念。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是通过买手从“让你去当铺”到“求着要试穿”的态度大反转",
+    "来证明商品的市场价值"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 4.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 6.5
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用服饰/美妆/潮流数码）：**\n    1.  **0-3s 设定：** 主角拿着某款曾经过气/平价，现在爆火的商品进店。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似为球鞋买手店（服装上有“SOLEPLIER”字样）引流，核心推销商品为 **ASICS（亚瑟士）复古千禧风跑鞋。品类：美妆护肤。人群：** 球鞋爱好者、潮流穿搭人群、Z世代及千禧一代跟风潮人。。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：而是通过买手从“让你去当铺”到“求着要试穿”的态度大反转、来证明商品的市场价值。风险：信任不足、无CTA。评分：6.5"
+}

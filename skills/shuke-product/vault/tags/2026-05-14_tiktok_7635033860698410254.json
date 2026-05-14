@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7635033860698410254",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/courtstyles_7635033860698410254.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635033860698410254/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 21.76,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖一双全黑配色的潮鞋——New Balance 9060X（口播称为“Black Cement 黑水泥”配色）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜爱复古老爹鞋",
+      "潮鞋的年轻受众",
+      "New Balance 品牌粉丝",
+      "追求日常穿搭“百搭”且“极度舒适”的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "库存展示",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉阵列列阵 + 爆款确认（结果展示）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "这种粗糙感反而增加了“真实卖家/主理人实拍”的信任感（第三方/买手背书感）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "（优化改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖一双全黑配色的潮鞋——New Balance 9060X（口播称为“Black Cement 黑水泥”配色）。。品类：服饰穿搭。人群：** 喜爱复古老爹鞋、潮鞋的年轻受众、New Balance 品牌粉丝。视频类型：场景种草、痛点解决、库存背书。钩子：限时稀缺、好奇悬念、场景冲突。证明：这种粗糙感反而增加了“真实卖家/主理人实拍”的信任感（第三方/买手背书感）。风险：信任不足、无CTA。评分：6.6"
+}

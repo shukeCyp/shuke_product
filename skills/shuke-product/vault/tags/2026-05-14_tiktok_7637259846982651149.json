@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7637259846982651149",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/kenzi3.legg_7637259846982651149.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637259846982651149/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 汽车内饰配件——带有黑色蝴蝶结的蕾丝方向盘套。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求精致可爱（Coquette",
+      "甜妹）风格",
+      "注重情绪价值和生活仪式感的年轻女性车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接展示装好后的样子） + 情绪/身份代入（How I feel...）+ 颜值吸引。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "手部转动方向盘的动作侧面证明了其服帖度"
+  ],
+  "cta": {
+    "text": "* “几十块钱拥有千金快乐，左下角给自己的爱车安排！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "(针对国内抖音/小红书/视频号带货改造)\n*   **复刻脚本大纲（时长15秒）：**\n    *   *0-3s 钩子：* 满脸嫌弃地拍打原车黑色方向盘，一响",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 汽车内饰配件——带有黑色蝴蝶结的蕾丝方向盘套。。品类：食品饮料。人群：** 追求精致可爱（Coquette、甜妹）风格、注重情绪价值和生活仪式感的年轻女性车主。。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：手部转动方向盘的动作侧面证明了其服帖度。风险：信任不足。评分：7.4"
+}

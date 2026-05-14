@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7611136089738317086",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/kyle.lifetips_7611136089738317086.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611136089738317086/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 黑色无耳洞免打孔耳夹/磁吸耳骨钉（男士/中性潮流配饰）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 怕痛",
+      "不想打耳洞但追求潮流穿搭的年轻男性",
+      "中性风女生",
+      "以及喜欢多耳洞叠戴风格的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点解决展示（无耳洞如何戴耳环） + 好奇/视觉刺激（微距下清晰的金属质感和皮肤贴合度）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（优化升级版，时长约15秒）\n1.  **痛点钩子 (0-3s)：** 特写没有耳洞的耳朵，字幕直击痛点。展示第一只耳环轻松夹上。\n2. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 黑色无耳洞免打孔耳夹/磁吸耳骨钉（男士/中性潮流配饰）。。品类：男士护理。人群：** 怕痛、不想打耳洞但追求潮流穿搭的年轻男性、中性风女生。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.4"
+}

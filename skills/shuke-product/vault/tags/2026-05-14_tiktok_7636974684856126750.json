@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7636974684856126750",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/sx.edwin_7636974684856126750.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636974684856126750/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一件带有白色骨架/肋骨图案的黑色针织长袖毛衣。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻男性",
+      "街头潮牌爱好者",
+      "喜欢暗黑",
+      "高街穿搭风格的群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（潮流街头Boy） + 场景暗示（黑色跑车装X属性） + 视觉冲击（纯黑背景下的巨大白色骨架）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "(针对商家投放改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一件带有白色骨架/肋骨图案的黑色针织长袖毛衣。。品类：男士护理。人群：** Z世代年轻男性、街头潮牌爱好者、喜欢暗黑。视频类型：场景种草、痛点解决、UGC口播。钩子：好奇悬念、限时稀缺、身份点名。证明：**。风险：信任不足、无CTA。评分：7.0"
+}

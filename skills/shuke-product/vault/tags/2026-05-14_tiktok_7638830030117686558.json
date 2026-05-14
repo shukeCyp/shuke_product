@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7638830030117686558",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/sarahhaysfinds_7638830030117686558.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638830030117686558/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 7.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（15秒内）**：\n1.  **0-3s 上脚POV**：提问破冰，单手将鞋穿上。\n2.  **3-6s 侧面特写**：脱下鞋拿在手中，侧面展示",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。风险：信任不足、功效宣称风险、无CTA。评分：8.6"
+}

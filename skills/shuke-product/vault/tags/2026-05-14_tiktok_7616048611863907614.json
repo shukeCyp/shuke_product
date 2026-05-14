@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7616048611863907614",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/cidibougiefinds_7616048611863907614.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616048611863907614/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 5.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "（带货向改造）\n- **复刻脚本大纲**：\n  - 0-3s：爆闪视觉钩子 + 痛点/场景抛出。\n  - 3-7s：材质/工艺细节特写 + 价值塑造（对比或防过",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：剧情反转、UGC口播、直播切片。钩子：结果前置、场景冲突、价格跳水。风险：信任不足、无CTA。评分：6.8"
+}

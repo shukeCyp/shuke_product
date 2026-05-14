@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7639074818968587534",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/laura88lee_7639074818968587534.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639074818968587534/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.32,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖“防蹭妆/防弄乱发型的换衣头罩”（也可能是在带货她穿的“WHITE FOX”白色卫衣，但核心视觉锚点是头罩）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 精致化过全妆",
+      "做好发型",
+      "但又需要中途换衣服的年轻女性（尤其是常穿浅色紧身领口衣服的人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "强烈的好奇/悬念钩子 + 隐性痛点展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 10
+  },
+  "selling_points": [],
+  "proof_points": [
+    "观众亲眼看到衣服套下去",
+    "罩子抽出来",
+    "妆容完好无损",
+    "白色卫衣领口干净"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 10.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 5.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "（如果是商家带货这款防蹭妆头罩）\n*   **复刻脚本大纲：** 痛点抛出（字幕） -> 神奇过程演示（一镜到底穿衣） -> 完美结果展示（展示白领口和完整妆容",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖“防蹭妆/防弄乱发型的换衣头罩”（也可能是在带货她穿的“WHITE FOX”白色卫衣，但核心视觉锚点是头罩。品类：美妆护肤。人群：** 精致化过全妆、做好发型、但又需要中途换衣服的年轻女性（尤其是常穿浅色紧身领口衣服的人群）。。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：观众亲眼看到衣服套下去、罩子抽出来、妆容完好无损。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

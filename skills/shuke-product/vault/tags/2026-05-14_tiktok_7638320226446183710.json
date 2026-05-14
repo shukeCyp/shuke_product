@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638320226446183710",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/savannah_ely27_7638320226446183710.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638320226446183710/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.19,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本极为袖珍、可捧在手心的微型英文版圣经（My Little Bible）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 基督教信徒",
+      "寻找宗教类随手礼",
+      "受洗礼物的群体",
+      "喜欢微缩文创产品的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差（成年人的手与极小的书） + 价格刺激（首句提到 super cheap） + 好奇心（这么小的书里面有什么）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "（以国内/出海短视频为例）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本极为袖珍、可捧在手心的微型英文版圣经（My Little Bible）。。品类：服饰穿搭。人群：** 基督教信徒、寻找宗教类随手礼、受洗礼物的群体。视频类型：UGC口播、痛点解决、开箱展示。钩子：好奇悬念、场景冲突、反常识。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

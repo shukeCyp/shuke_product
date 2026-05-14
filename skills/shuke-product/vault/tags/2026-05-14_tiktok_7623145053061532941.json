@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7623145053061532941",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/toriyaki..chicken_7623145053061532941.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623145053061532941/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 9.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一张带有浪漫承诺文案的创意情感贺卡（或明信片）。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于恋爱阶段的情侣",
+      "寻找纪念日",
+      "情人节",
+      "日常惊喜礼物的受众（偏女性及感性人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "直播切片",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情感共鸣 / 好奇心驱动。利用一段戳心的文案直接作为视觉中心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 引导送给心爱的人。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "*(针对带货转化进行优化)*",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一张带有浪漫承诺文案的创意情感贺卡（或明信片）。。品类：厨房用品。人群：** 处于恋爱阶段的情侣、寻找纪念日、情人节。视频类型：场景种草、痛点解决、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足。评分：6.6"
+}

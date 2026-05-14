@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7635813710187072782",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/leveluplala_7635813710187072782.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635813710187072782/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 32.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "测评对比",
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（25-30秒）\n1. **0-3s 痛点+引出**：手指在屏幕上画得歪歪扭扭，烦躁地叹气，随后换上目标商品一笔画好。\n2. **3-8s",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：测评对比、效果前后对比、场景种草。钩子：好奇悬念、场景冲突、身份点名。风险：信任不足、无CTA。评分：8.5"
+}

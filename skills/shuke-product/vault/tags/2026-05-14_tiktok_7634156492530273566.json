@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7634156492530273566",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/homeessential11_7634156492530273566.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634156492530273566/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "价格跳水",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "前后对比",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.9
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（中文语境适用）：**\n1.  **0-3s 痛点拉满**：展示提着笨重油桶倒油，油顺着瓶身流到手上、流到台面，拿厨房纸狂擦的狼狈场景。\n2. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：场景种草、价格刺激、清仓福利。钩子：场景冲突、好奇悬念、价格跳水。风险：信任不足、无CTA。评分：8.9"
+}

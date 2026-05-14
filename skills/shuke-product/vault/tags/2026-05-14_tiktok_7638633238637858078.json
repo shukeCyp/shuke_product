@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638633238637858078",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/madrigal_1013_7638633238637858078.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638633238637858078/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一套红黑豹纹镶钻（BlingBling）汽车内饰配件（包含车牌框、方向盘套、遮阳板化妆镜套、车门把手/安全带护肩套等）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性化",
+      "喜欢奢华闪耀美学（Bling",
+      "Glam风格）的年轻女性车主",
+      "寻找精美汽车配饰礼物的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（极致的视觉冲击） + 情绪价值引导（文案认同）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "（针对带货投放改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一套红黑豹纹镶钻（BlingBling）汽车内饰配件（包含车牌框、方向盘套、遮阳板化妆镜套、车门把手/安全。品类：美妆护肤。人群：** 追求个性化、喜欢奢华闪耀美学（Bling、Glam风格）的年轻女性车主。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、场景冲突、好奇悬念。风险：口播缺失、信任不足、功效宣称风险。评分：8.0"
+}

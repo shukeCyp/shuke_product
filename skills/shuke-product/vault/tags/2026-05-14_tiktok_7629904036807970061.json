@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7629904036807970061",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/melnoseua_7629904036807970061.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629904036807970061/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 专为戴森（Dyson Airwrap）多功能造型器及全套配件设计的**定制收纳包/旅行包**。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有戴森造型器",
+      "具有收纳痛点",
+      "有差旅需求",
+      "追求生活品质与高颜值（Aesthetic）的女性消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "别划走",
+      "结果前置",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（视觉满足感） + 好奇惊喜（文案引导） + 痛点精准打击。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（升级版 15 秒）：**\n    *   *0-3s：* 结果震撼。博主拉开拉链，像翻开百宝箱一样展示装满的内部。（字幕：等一下，居然",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 专为戴森（Dyson Airwrap）多功能造型器及全套配件设计的**定制收纳包/旅行包**。。品类：服饰穿搭。人群：** 拥有戴森造型器、具有收纳痛点、有差旅需求。视频类型：UGC口播、痛点解决、开箱展示。钩子：别划走、结果前置、好奇悬念。风险：信任不足、无CTA。评分：8.6"
+}

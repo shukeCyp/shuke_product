@@ -1,0 +1,77 @@
+{
+  "video_id": "2026-05-14_tiktok_7611842385710026014",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/sarahmajzdi_7611842385710026014.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611842385710026014/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（以带货为目的改造）\n- **复刻脚本大纲**：痛点抛出（手捏不住） -> 神器引入（四爪工具） -> 实操演示（穿入+固定） -> 绝美展示+CTA。\n- *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：其他。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置。风险：信任不足、无CTA。评分：7.6"
+}

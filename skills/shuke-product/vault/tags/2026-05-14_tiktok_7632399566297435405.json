@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7632399566297435405",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/rickowenscoat_7632399566297435405.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632399566297435405/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 8.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 6.0,
+    "product_display": 1.0,
+    "purchase_impulse": 5.0,
+    "total": 4.8
+  },
+  "remake": {
+    "angle": "（针对性优化改造）\n如果想卖同款“多功能俯卧撑板”，建议保留其“情绪+计划”的内核，但必须强化视觉：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。风险：字幕不清、信任不足、无CTA。评分：4.8"
+}

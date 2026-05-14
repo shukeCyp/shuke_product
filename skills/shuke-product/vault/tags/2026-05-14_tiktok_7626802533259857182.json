@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7626802533259857182",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/not9727_7626802533259857182.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626802533259857182/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.38,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一件印有带有叛逆/讽刺意味标语（“IM NOT A BIG FAN OF THE GOVERNMENT”）的白色印花T恤。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代",
+      "喜欢Meme（热梗）文化",
+      "具有反叛精神",
+      "喜欢街头亚文化或表达独特自我政治",
+      "社会态度的年轻群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "测评对比",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入/情绪冲突/反差。视频没有多余铺垫，直接利用T恤上极具争议性和态度的文字作为视觉钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "克重",
+    "版型（如正肩/落肩）",
+    "领口细节（防变形）的展示",
+    "虽然有街头感",
+    "但极大削弱了商品作为“全新服饰”的品质信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 10.0,
+    "trust": 3.0,
+    "product_display": 5.0,
+    "purchase_impulse": 7.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "如果你要卖类似的“情绪标语T恤”，可以这样复刻和升级：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一件印有带有叛逆/讽刺意味标语（“IM NOT A BIG FAN OF THE GOVERNMENT”）的白色印。品类：服饰穿搭。人群：** Z世代、喜欢Meme（热梗）文化、具有反叛精神。视频类型：剧情反转、UGC口播、测评对比。钩子：好奇悬念、结果前置、场景冲突。证明：克重、版型（如正肩/落肩）、领口细节（防变形）的展示。风险：信任不足、无CTA。评分：6.4"
+}

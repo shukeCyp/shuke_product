@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7637907729654238495",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/uforu.decor_7637907729654238495.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637907729654238495/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带抽屉和笔筒的 UFORU 品牌可伸缩桌面收纳架。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 学生群体",
+      "职场办公人士（需要整理书桌",
+      "有收纳痛点的人）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动态结果展示 + 极速时间承诺（30秒）+ 痛点发问。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "（中文本土化改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带抽屉和笔筒的 UFORU 品牌可伸缩桌面收纳架。。品类：食品饮料。人群：** 学生群体、职场办公人士（需要整理书桌、有收纳痛点的人）。。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：9.4"
+}

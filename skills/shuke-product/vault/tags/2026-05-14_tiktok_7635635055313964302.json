@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7635635055313964302",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/lancebeard8002mr0f_7635635055313964302.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635635055313964302/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 26.01,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "效果前后对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播",
+      "质地实测",
+      "剧情反转",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "场景冲突",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "产品特写",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "(国内电商/TK出海版)\n*   **复刻脚本大纲**：\n    *   前3秒：展示用手指/纸壳抹胶，弄得满手都是且坑坑洼洼的惨状。\n    *   4-8秒",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：效果前后对比、场景种草、痛点解决。钩子：结果前置、限时稀缺、场景冲突。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7638770617231232287",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/genesissamantha__7638770617231232287.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638770617231232287/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 24.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "场景种草",
+      "开箱展示",
+      "效果前后对比",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "好奇悬念",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党",
+      "颜值党",
+      "宝妈党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.5,
+    "clarity": 8.5,
+    "trust": 9.0,
+    "product_display": 9.5,
+    "purchase_impulse": 6.0,
+    "total": 7.9
+  },
+  "remake": {
+    "angle": "（带货改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：痛点解决、场景种草、开箱展示。钩子：身份点名、好奇悬念、场景冲突。风险：口播缺失、信任不足、无CTA。评分：7.9"
+}

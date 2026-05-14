@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7635754882862976286",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/themalebuy_7635754882862976286.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635754882862976286/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 10.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "尺寸容量",
+      "手背实测",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 5.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲（总长15秒）**：\n    *   **0-3s 黄金开头**：博主对镜自拍秀肌肉，展示粉色马甲上身反差感。配",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、低价占便宜。风险：字幕不清、口播缺失、信任不足。评分：6.4"
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634031417046863135",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/dijanadolic_7634031417046863135.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634031417046863135/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一条带有夸张银色金属流苏露背设计的黑色连衣裙。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性穿搭",
+      "有派对",
+      "度假",
+      "夜店场景需求",
+      "喜欢欧美辣妹风的年轻至中青年女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪感染（震惊脸） + 动作悬念（拆盲盒/撕快递）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "无美颜滤镜干扰的自然光展示",
+    "近距离的材质特写"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "(针对商家投放或带货达人)\n*   **复刻脚本大纲：**\n    1.  **0-2s 情绪开箱：** 夸张表情撕快递，抛出情绪钩子。\n    2.  **3",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一条带有夸张银色金属流苏露背设计的黑色连衣裙。。品类：服饰穿搭。人群：** 追求个性穿搭、有派对、度假。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：无美颜滤镜干扰的自然光展示、近距离的材质特写。风险：信任不足、无CTA。评分：7.8"
+}

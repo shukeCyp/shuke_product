@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7637916362593062158",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/etchedandelegant_7637916362593062158.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637916362593062158/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖美容院级粉色硬蜡（无纸脱毛蜡）或修眉工具（刮棒），也可能是美容院的修眉服务引流。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有修眉",
+      "脱毛需求的爱美女性",
+      "受苦于传统蜜蜡",
+      "镊子拔毛痛感的人群",
+      "以及美容院",
+      "工作室从业者（B端）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "手背实测",
+      "产品特写",
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "沉浸式过程展示（解压/ASMR感）+ 视觉反差（黑手套 vs 粉色蜡 vs 真实皮肤肌肤纹理）+ 邀请式代入（字幕“with me”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实的肌肤纹理（毛孔可见）提供了极强的真实感和信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 5.0,
+    "trust": 9.0,
+    "product_display": 3.0,
+    "purchase_impulse": 6.0,
+    "total": 6.4
+  },
+  "remake": {
+    "angle": "（以带货脱毛蜡为目标改造）\n*   **复刻脚本大纲（30秒）：**\n    *   0-3s：痛点勾引（对比）+ 涂蜡过程。\n    *   3-15s：连续",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖美容院级粉色硬蜡（无纸脱毛蜡）或修眉工具（刮棒），也可能是美容院的修眉服务引流。。品类：美妆护肤。人群：** 有修眉、脱毛需求的爱美女性、受苦于传统蜜蜡。视频类型：剧情反转、UGC口播、直播切片。钩子：好奇悬念、结果前置、场景冲突。证明：真实的肌肤纹理（毛孔可见）提供了极强的真实感和信任背书。风险：口播缺失、信任不足、无CTA。评分：6.4"
+}

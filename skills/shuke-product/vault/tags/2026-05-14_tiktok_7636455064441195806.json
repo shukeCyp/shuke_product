@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7636455064441195806",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/maximus.yohe_7636455064441195806.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636455064441195806/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.03,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 汽车内饰无线磁吸氛围灯（带遥控器）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性化",
+      "想要低成本升级爱车内饰的年轻车主或汽车爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "价格跳水",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "评论回应（互动感）+ 结果展示（爽感）+ 痛点解决（极简安装）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "遥控器按下后灯光无延迟变化（实测证明）",
+    "手在灯下挥舞（证明没有排线）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **0-3s (破防/种草):** 抛弃电线，一秒上车。展示强力磁吸安装。\n    2.  **3-8s (炫技",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 汽车内饰无线磁吸氛围灯（带遥控器）。。品类：数码配件。人群：** 追求个性化、想要低成本升级爱车内饰的年轻车主或汽车爱好者。。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、价格跳水。证明：遥控器按下后灯光无延迟变化（实测证明）、手在灯下挥舞（证明没有排线）。风险：信任不足、无CTA。评分：8.0"
+}

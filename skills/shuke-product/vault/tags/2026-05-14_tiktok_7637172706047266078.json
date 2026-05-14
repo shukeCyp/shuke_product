@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7637172706047266078",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/demitkshop_fyp_7637172706047266078.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637172706047266078/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 3.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（真人实拍改造建议）\n为了解决原视频缺乏信任感的问题，建议按以下方案用**真人实拍**复刻：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、低价占便宜。风险：信任不足、无CTA。评分：6.2"
+}

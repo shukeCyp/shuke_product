@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637254248304069902",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/lijcontent.__7637254248304069902.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637254248304069902/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 13.44,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似带货/种草产品为**带有LED发光鞋底的粉色人字拖/凉拖**。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性与潮流的Z世代",
+      "阿尔法世代青少年",
+      "寻找趣味穿搭的年轻人群",
+      "以及想给孩子买趣味玩具鞋的家长。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "直播切片",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "动态冲击 + 好奇心（视觉奇观） + 场景代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是真实的生活实拍",
+    "用户对产品的发光效果深信不疑"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 5.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "如果你要翻拍这条视频用于带货：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似带货/种草产品为**带有LED发光鞋底的粉色人字拖/凉拖**。。品类：家居清洁。人群：** 追求个性与潮流的Z世代、阿尔法世代青少年、寻找趣味穿搭的年轻人群。视频类型：UGC口播、直播切片、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：而是真实的生活实拍、用户对产品的发光效果深信不疑。风险：字幕不清、口播缺失、信任不足。评分：7.4"
+}

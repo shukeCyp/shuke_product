@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7606887315889196318",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/everlymoon_7606887315889196318.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7606887315889196318/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 15.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款粉色家用超薄走步机/小型跑步机。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有减脂瘦身需求",
+      "对身材不自信",
+      "希望居家轻松运动的女性（特别是受到过情感挫折",
+      "希望通过变美来“复仇",
+      "证明自己”的人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点展示 + 好奇悬念。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 5.0,
+    "purchase_impulse": 8.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对短视频带货改造)\n*   **复刻脚本大纲 (压缩至 15 秒内，加快节奏)：**\n    *   *0-2s (痛点)：* 展示真实赘肉（动作要快，配合",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款粉色家用超薄走步机/小型跑步机。。品类：健康养生。人群：** 有减脂瘦身需求、对身材不自信、希望居家轻松运动的女性（特别是受到过情感挫折。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：**。风险：口播缺失、信任不足、无CTA。评分：6.8"
+}

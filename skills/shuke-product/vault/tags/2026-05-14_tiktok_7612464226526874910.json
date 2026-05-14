@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7612464226526874910",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/tote.by.becky_7612464226526874910.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612464226526874910/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 4.64,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖女包（展示了4款不同包型），或整套初冬/秋季复古穿搭（毛衣+微喇牛仔裤）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-35岁",
+      "追求复古",
+      "文艺",
+      "松弛感穿搭的女性用户",
+      "喜欢秋冬自然氛围感的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "颜值/氛围感吸引、场景代入（通过唯美的秋冬野外光影和四宫格排版吸引眼球）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "材质",
+    "内部容量实测"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 3.0,
+    "trust": 5.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.5,
+    "total": 4.5
+  },
+  "remake": {
+    "angle": "（转化为高投产比的带货视频）\n如果保留现有的高级氛围感，又要提高电商转化率，建议进行以下改造：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖女包（展示了4款不同包型），或整套初冬/秋季复古穿搭（毛衣+微喇牛仔裤）。。品类：美妆护肤。人群：** 18-35岁、追求复古、文艺。视频类型：UGC口播、痛点解决、场景种草。钩子：好奇悬念、结果前置。证明：材质、内部容量实测。风险：字幕不清、口播缺失、信任不足。评分：4.5"
+}

@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7627970245226925343",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/ebsjoo_7627970245226925343.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627970245226925343/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 6.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "价格刺激",
+      "UGC口播",
+      "清仓福利",
+      "场景种草",
+      "痛点解决"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "低价占便宜"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 4.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 4.4
+  },
+  "remake": {
+    "angle": "（爆款改造建议）\n如果要把这类高停留素材改造为高转化素材，保留原有的视觉优势，补充商业元素。\n*   **适合渠道**：TikTok自然流带货（挂车）、短视频挂",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：价格刺激、UGC口播、清仓福利。钩子：结果前置、好奇悬念、低价占便宜。风险：口播缺失、信任不足、无CTA。评分：4.4"
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637274479806123278",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/tangobirdpublishing_7637274479806123278.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637274479806123278/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 12.42,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本情侣填空式情话手账本/礼物书（书名：\"THIS IS WHY YOU'RE MINE\"）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 处于恋爱关系中",
+      "正在为男友寻找纪念日",
+      "情人节或生日礼物的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 好奇心驱动 + POV身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "如果有几页展示了真实的女性手写字体甚至贴上了拍立得照片",
+    "转化率会翻倍"
+  ],
+  "cta": {
+    "text": "* “纪念日礼物抄作业，左下角直接拿走👇”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  (0-2s) 女生看着镜头窃喜/感动，引出送礼悬念。\n    2.  (2-5s) 展示填空书精美的封面和厚度。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本情侣填空式情话手账本/礼物书（书名：\"THIS IS WHY YOU'RE MINE\"）。。品类：服饰穿搭。人群：** 处于恋爱关系中、正在为男友寻找纪念日、情人节或生日礼物的年轻女性。。视频类型：场景种草、痛点解决、效果前后对比。钩子：结果前置、场景冲突、好奇悬念。证明：如果有几页展示了真实的女性手写字体甚至贴上了拍立得照片、转化率会翻倍。风险：口播缺失、信任不足。评分：7.8"
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638842689387072798",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/savagejohnny_7638842689387072798.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638842689387072798/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 免挂钩、自带可拆卸内衬的防水浴帘。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 租房党",
+      "家庭主妇",
+      "夫",
+      "以及厌倦了繁琐安装浴帘挂钩和清理发霉浴帘的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "结果前置",
+      "场景冲突"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣（老式挂钩难用） + 场景冲突/夸张动作（把内衬扔进马桶） + 文本悬念（We've all done it wrong）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有任何特效",
+    "仅通过纯手工“掰弯圆环卡入”和“解开按扣”的真实物理动作",
+    "就完成了最强有力的视觉证明"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.5,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  1. 暴力扯下发霉的旧浴帘/旧挂钩（制造痛点）。\n  2. 拿出新品，特写展示“按压上杆”的动作（解决安装痛点）。\n  3. 镜",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 免挂钩、自带可拆卸内衬的防水浴帘。。品类：家居清洁。人群：** 租房党、家庭主妇、夫。视频类型：UGC口播、清仓福利、痛点解决。钩子：好奇悬念、结果前置、场景冲突。证明：没有任何特效、仅通过纯手工“掰弯圆环卡入”和“解开按扣”的真实物理动作、就完成了最强有力的视觉证明。风险：信任不足、卖点单一、无CTA。评分：9.1"
+}

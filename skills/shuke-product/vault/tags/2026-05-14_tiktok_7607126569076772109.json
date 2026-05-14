@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7607126569076772109",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/shotbytizer_7607126569076772109.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7607126569076772109/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 5.48,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖**带有国家地图或国旗吊坠的项链**（画面仅展示了银色链条，未展示吊坠，但文案强烈暗示）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻人（尤其是男性）",
+      "街头潮人",
+      "留学生群体",
+      "对自己国家",
+      "家乡有强烈认同感的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "场景种草"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（\"rep your country\" 唤醒受众的群体归属感） + 好奇/悬念（他拉开拉链会展示什么？） + 颜值/氛围诱惑。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "尺寸",
+    "细节的展示",
+    "也没有防过敏",
+    "不掉色等质量背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 3.0,
+    "trust": 2.0,
+    "product_display": 1.0,
+    "purchase_impulse": 5.0,
+    "total": 3.8
+  },
+  "remake": {
+    "angle": "（转化为标准带货视频）\n若要保留原视频的氛围感，同时拉升带货转化，改造方案如下：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖**带有国家地图或国旗吊坠的项链**（画面仅展示了银色链条，未展示吊坠，但文案强烈暗示）。。品类：男士护理。人群：** Z世代年轻人（尤其是男性）、街头潮人、留学生群体。视频类型：UGC口播、痛点解决、场景种草。钩子：结果前置、好奇悬念、身份点名。证明：尺寸、细节的展示、也没有防过敏。风险：口播缺失、信任不足、无CTA。评分：3.8"
+}

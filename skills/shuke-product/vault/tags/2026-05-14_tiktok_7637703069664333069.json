@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7637703069664333069",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/coopergknee_7637703069664333069.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637703069664333069/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 推广 ThredUp 平台的二手衣物回收/寄卖服务（通过展示其专属的波点回收袋）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家里有大量闲置衣物",
+      "需要断舍离且希望顺便赚点零花钱的女性",
+      "家庭主妇。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（字幕：换现金） + 痛点解决方案直给。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "没有前后对比",
+    "没有往袋子里装衣服的实测",
+    "没有展示收到的现金或APP界面的截图",
+    "推荐的东西不掉价）"
+  ],
+  "cta": {
+    "text": "** 拿着打包好的袋子，引导点击。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 8.0,
+    "trust": 4.0,
+    "product_display": 3.0,
+    "purchase_impulse": 5.0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "(优化版改造)\n**复刻脚本大纲（适合自然流/信息流投放）：**\n1. **0-3s 痛点+钩子：** 站在乱糟糟的衣柜前，抛出带子。\n2. **3-8s 动作",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 推广 ThredUp 平台的二手衣物回收/寄卖服务（通过展示其专属的波点回收袋）。。品类：家居清洁。人群：** 家里有大量闲置衣物、需要断舍离且希望顺便赚点零花钱的女性、家庭主妇。。视频类型：UGC口播、痛点解决、测评对比。钩子：结果前置、场景冲突、低价占便宜。证明：没有前后对比、没有往袋子里装衣服的实测、没有展示收到的现金或APP界面的截图。风险：信任不足。评分：5.0"
+}

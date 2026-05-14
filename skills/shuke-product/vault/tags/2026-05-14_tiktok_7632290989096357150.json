@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7632290989096357150",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/lvy.henry0_7632290989096357150.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632290989096357150/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 车载座椅后背皮革挂钩/手机支架二合一产品。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 驾车通勤人群",
+      "尤其是经常在副驾放置手提包",
+      "包包的女性车主",
+      "以及有后排带娃",
+      "娱乐需求的车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点场景还原 + 视觉冲突 + 听觉刺激。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "#### 拍摄镜头清单 (只需一部手机+一辆车+若干包包)\n1. **痛点镜头：** 副驾放一个昂贵的包/容易散开的包，模拟急刹车掉落（注意安全，在封闭道路或静",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 车载座椅后背皮革挂钩/手机支架二合一产品。。品类：美妆护肤。人群：** 驾车通勤人群、尤其是经常在副驾放置手提包、包包的女性车主。视频类型：UGC口播、清仓福利、痛点解决。钩子：场景冲突、好奇悬念、限时稀缺。风险：信任不足、无CTA"
+}

@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7635799513382292766",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/donavins.last.brain.cell_7635799513382292766.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635799513382292766/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 7.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款高品质（编织线身、特制水晶头）的**千兆/万兆电竞游戏网线**。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 饱受Wi-Fi网络延迟困扰的主机玩家（视频中明确为PS5玩家）及硬核PC游戏玩家。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "质地实测",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "限时稀缺",
+      "场景冲突",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（Gamer/PS5玩家） + 痛点直击（游戏高Ping值） + 情绪期待（The feeling...）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "吃灰的设备支架）",
+    "这种UGC（用户生成内容）风格极大地降低了广告防备心理"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（升级版：增加转化闭环）：**\n    1.  0-2s：第一人称手拿电竞网线走向游戏主机（展现产品全貌及质感），抛出痛点字幕。\n   ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款高品质（编织线身、特制水晶头）的**千兆/万兆电竞游戏网线**。。品类：男士护理。人群：** 饱受Wi-Fi网络延迟困扰的主机玩家（视频中明确为PS5玩家）及硬核PC游戏玩家。。视频类型：剧情反转、UGC口播、痛点解决。钩子：好奇悬念、限时稀缺、场景冲突。证明：吃灰的设备支架）、这种UGC（用户生成内容）风格极大地降低了广告防备心理。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

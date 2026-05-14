@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7629563328678858015",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/corie_hoopz__7629563328678858015.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629563328678858015/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 14.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套金色的字母吊坠项链与十字架项链组合（2件套）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求性价比的年轻群体",
+      "情侣",
+      "闺蜜送礼人群",
+      "喜欢个性化字母配饰的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "UGC口播",
+      "清仓福利",
+      "痛点解决",
+      "开箱展示",
+      "场景种草",
+      "效果前后对比",
+      "价格刺激"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激（Price Hook）+ 商品直给（Product First）+ 悬念（Curiosity）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "但缺乏材质证明（会不会掉色？）",
+    "无尺寸参照物",
+    "无真人佩戴效果（是否显白/显脖子长？）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（高转化改造版）\n- **复刻脚本大纲：** 试戴展示（黄金3秒） -> 拔草细节（产品特写+材质说明） -> 价值拆解（买一得二+定制字母） -> 极速逼单。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套金色的字母吊坠项链与十字架项链组合（2件套）。。品类：数码配件。人群：** 追求性价比的年轻群体、情侣、闺蜜送礼人群。视频类型：UGC口播、清仓福利、痛点解决。钩子：结果前置、场景冲突、低价占便宜。证明：但缺乏材质证明（会不会掉色？）、无尺寸参照物、无真人佩戴效果（是否显白/显脖子长？）。风险：信任不足、无CTA。评分：6.2"
+}

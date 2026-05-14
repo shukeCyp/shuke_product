@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7638877728250367245",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/joyspot.story_7638877728250367245.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638877728250367245/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.54,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "剧情反转",
+      "UGC口播",
+      "痛点解决",
+      "场景种草",
+      "质地实测"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 7.0,
+    "trust": 6.5,
+    "product_display": 9.0,
+    "purchase_impulse": 7.5,
+    "total": 7.7
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（优化版，适合带货）**：\n  - 0-3s：暴力揉捏画面 + 引发共鸣的痛点钩子（代替废话故事）。\n  - 3-8s：展示积木拼装和拔开的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：剧情反转、UGC口播、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、卖点单一、无CTA。评分：7.7"
+}
