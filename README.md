@@ -2,19 +2,31 @@
 
 8 个 Hermes 技能 + 带货视频分析参考库，用于短视频带货脚本、商品图生成、视频生成和竞品分析。
 
-## 一键安装
+## 一键安装（小白通用）
 
-在任何一台装了 Hermes 的电脑上，启动后直接说：
+### 第一步：安装技能
+
+启动 Hermes 后，发送以下指令：
 
 > **「帮我从 git@github.com:shukeCyp/shuke_product.git 安装带货工作流」**
 
-Hermes 会自动：
+Hermes 会自动 clone 仓库、复制技能、检查配置，等待完成即可。
 
-1. `git clone` 这个仓库
-2. 将 `skills/shuke-product/` 复制到 `~/.hermes/skills/shuke-product/`
-3. 检查 `media_services.yaml` 密钥配置
-4. 检查 `~/.hermes/config.yaml` Vision 辅助模型
-5. 验证所有 8 个技能是否加载成功
+### 第二步：配置 API Key
+
+安装完成后，发送以下指令让 Hermes 帮你配置：
+
+> **「帮我配置 shuke-product：云雾 API Key 填 xxx，图片生成和视频生成的 provider 都设置成超稳 AI，图片 Key 填 xxx，视频 Key 填 xxx」**
+
+（把 `xxx` 分别替换成你自己的云雾 Key、超稳 AI 图片 Key、超稳 AI 视频 Key）
+
+### 第三步：开始使用
+
+直接发送：
+
+> **「product-image-video-storyboard + 你的产品图片」**
+
+然后等待 Hermes 生成结果即可。
 
 ### 手动安装（如果不想让 Hermes 自动处理）
 
@@ -69,29 +81,13 @@ shuke_product/
 
 ---
 
-## 更新
+## 更新（小白通用）
 
-### 本机拉取最新版本
-
-在本机项目目录下：
-
-```bash
-git pull
-```
-
-然后问 Hermes：
-
-> **「帮我更新 shuke-product 技能」**
-
-Hermes 会用最新的 `skills/shuke-product/` 覆盖 `~/.hermes/skills/shuke-product/`，并提醒你 vault/ 是否有变化。
-
-### 另一台电脑同步
-
-登录那台机器，启动 Hermes 后问：
+直接发送以下指令给 Hermes：
 
 > **「帮我从 git@github.com:shukeCyp/shuke_product.git 更新带货工作流」**
 
-Hermes 会自动 `git pull` 并复制最新的技能和参考库。
+Hermes 会自动拉取最新代码并覆盖技能文件，等待完成即可。
 
 ---
 
