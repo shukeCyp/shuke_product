@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7638688055901031694",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/biasshieldmargot_7638688055901031694.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638688055901031694/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 69.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套围绕韩国男团ATEEZ成员朴星化（SEONGHWA）定制的非官方粉丝周边大礼包（Bias Pack），包含多种尺寸和设计的照片卡、明信片等印刷品。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** K-Pop粉丝",
+      "特别是ATEEZ的粉丝（ATINY）",
+      "且主推",
+      "偏爱成员朴星化的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套围绕韩国男团ATEEZ成员朴星化（SEONGHWA）定制的非官方粉丝周边大礼包（Bias Pack），包含多种。品类：其他。人群：** K-Pop粉丝、特别是ATEEZ的粉丝（ATINY）、且主推。视频类型：开箱展示、直播切片、场景种草。钩子：结果前置、身份点名、好奇悬念。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

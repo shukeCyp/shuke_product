@@ -1,0 +1,102 @@
+{
+  "video_id": "2026-05-14_tiktok_7616319222678949150",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/vacbirdusa_7616319222678949150.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616319222678949150/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 80.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为 VCBIRD 的便携式、可充电的电驱真空泵，配合专用的真空压缩袋使用。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常出差",
+      "旅行的商旅人士",
+      "行李空间不足的留学生",
+      "喜欢轻装上阵的背包客",
+      "需要整理换季衣物的家庭主妇",
+      "收纳爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为 VCBIRD 的便携式、可充电的电驱真空泵，配合专用的真空压缩袋使用。。品类：美妆护肤。人群：** 经常出差、旅行的商旅人士、行李空间不足的留学生。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

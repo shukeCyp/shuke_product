@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7630897732256812319",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/asfn2911_7630897732256812319.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630897732256812319/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 36.48,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“TEKARD INTERIOR DETAILER”的汽车内饰清洁/养护喷雾。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重车辆内部清洁和质感的车主",
+      "特别是拥有皮卡",
+      "SUV等内饰塑料件较多车型的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 身份代入钩子。 “每个上我车的朋友都会问我一个问题...” 这种开头方式，让所有车主都能轻易代入，并对“问题”本身产生强烈的好奇。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** “super precio por el día de hoy...disponible aquí abajo en el link” (今日超级特价..",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“TEKARD INTERIOR DETAILER”的汽车内饰清洁/养护喷雾。。品类：家居清洁。人群：** 注重车辆内部清洁和质感的车主、特别是拥有皮卡、SUV等内饰塑料件较多车型的用户。。视频类型：直播切片、质地实测、剧情反转。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：信任不足。评分：8.2"
+}

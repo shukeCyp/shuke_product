@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7622245214073277726",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/bitpottus12_7622245214073277726.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622245214073277726/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（以中文市场为例）\n- **复刻脚本大纲**：\n  1. 痛点钩子（扔掉电线/电费账单，展示滑轨秒装）。\n  2. 颜值与功能（特写双色温切换，撕膜展示太阳能板",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、价格跳水。风险：信任不足、无CTA"
+}

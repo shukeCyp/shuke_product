@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7632353025738181919",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/dawnlsmith422_7632353025738181919.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632353025738181919/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 31.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“蓝覆盆子爆浆软糖”的、覆盖着厚厚蓝色酸粉的糖果零食。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求新奇特零食",
+      "热爱酸味和甜味",
+      "喜欢ASMR感官刺激的年轻消费者",
+      "尤其是TikTok Shop的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + ASMR吸引",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "分享自己的购买经验和品尝感受",
+    "这种UGC（用户生成内容）的形式比官方广告更具亲和力和说服力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“蓝覆盆子爆浆软糖”的、覆盖着厚厚蓝色酸粉的糖果零食。。品类：厨房用品。人群：** 追求新奇特零食、热爱酸味和甜味、喜欢ASMR感官刺激的年轻消费者。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：分享自己的购买经验和品尝感受、这种UGC（用户生成内容）的形式比官方广告更具亲和力和说服力。风险：信任不足、无CTA。评分：9.0"
+}

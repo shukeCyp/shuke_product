@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7634999176601914637",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/liljen680_7634999176601914637.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634999176601914637/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 39.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 抖音商城（TikTok Shop）上销售的，用于购买 Billie Eilish（碧梨）新电影票的 Fandango 折扣码。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Billie Eilish 的粉丝",
+      "以及对沉浸式音乐电影感兴趣的年轻观众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "别划走",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 利益预告。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 1.0,
+    "purchase_impulse": 6.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲:**\n    1.  **钩子 (3s):** (身份/痛点) “碧梨粉丝请注意！买新电影票前先看这个视频！”\n    2.  **亮",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 抖音商城（TikTok Shop）上销售的，用于购买 Billie Eilish（碧梨）新电影票的 Fandang。品类：厨房用品。人群：** Billie Eilish 的粉丝、以及对沉浸式音乐电影感兴趣的年轻观众。。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：5.8"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7626325369490017566",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/ostliqzxozv_7626325369490017566.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626325369490017566/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 54.15,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款多功能、多颜色、带磁吸扣的车用证件与保险单据收纳夹。",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 所有私家车主",
+      "特别是那些不擅长整理",
+      "希望在关键时刻（如被警察临检）保持体面和效率的人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "反常识",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "第三方背书",
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 反差钩子 + 场景冲突。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** “链接在下方，立即购买。”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款多功能、多颜色、带磁吸扣的车用证件与保险单据收纳夹。。品类：汽车用品。人群：** 所有私家车主、特别是那些不擅长整理、希望在关键时刻（如被警察临检）保持体面和效率的人。。视频类型：直播切片、剧情反转、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足。评分：8.6"
+}

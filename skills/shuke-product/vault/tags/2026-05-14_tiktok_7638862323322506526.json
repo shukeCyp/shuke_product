@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7638862323322506526",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/cody_finds_7638862323322506526.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638862323322506526/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 60.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款体积小巧、价格低廉的便携式电焊机。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** DIY爱好者",
+      "家庭车库用户",
+      "手工艺人",
+      "以及需要轻便焊接工具的入门级或辅助性专业人士。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "库存背书",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反差钩子 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲:**\n  1. **开场 (0-3s):** 朋友（质疑者）带着一个“小活儿”（如坏掉的椅子腿）上门，抱怨自己的工具不行。设置悬念：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款体积小巧、价格低廉的便携式电焊机。。品类：家居清洁。人群：** DIY爱好者、家庭车库用户、手工艺人。视频类型：直播切片、质地实测、库存背书。钩子：场景冲突、结果前置、限时稀缺。证明：**。风险：信任不足、无CTA"
+}

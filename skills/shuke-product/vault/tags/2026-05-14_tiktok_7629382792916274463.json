@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7629382792916274463",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/novakikiverse_7629382792916274463.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629382792916274463/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 25.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带裙边的加厚竹纤维凉感床褥（床垫保护垫/Topper）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 租房党",
+      "想低成本改善睡眠体验的人",
+      "现有床垫老化",
+      "过硬的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "行为动作 + 视觉反差 + 结果展示预告。两人费力抖开一个庞然大物（视觉冲击），配合“Bed Transformation”（结果预告）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.0,
+    "trust": 7.5,
+    "product_display": 9.5,
+    "purchase_impulse": 8.0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "(针对国内电商/TikTok)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带裙边的加厚竹纤维凉感床褥（床垫保护垫/Topper）。。品类：服饰穿搭。人群：** 租房党、想低成本改善睡眠体验的人、现有床垫老化。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.5"
+}

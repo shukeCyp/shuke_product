@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637640857281121550",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/theycallmesay_o_7637640857281121550.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637640857281121550/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 34.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有三层防护结构、支持MagSafe磁吸、带防尘塞设计的亮橙色高颜值防摔手机壳。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常手滑摔手机",
+      "同时追求手机壳颜值和实用性（如支持磁吸充电）的智能手机用户（从侧边拍摄按键细节推测为iPhone 15",
+      "16系列用户）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺",
+      "别划走"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 指令型语气（Stop using...）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** Get it in the cart below and it has free shipping.",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**改造建议（适合短视频投放/带货）：** 必须加入字幕，剪辑上加入跳剪和B-roll（实测镜头）。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有三层防护结构、支持MagSafe磁吸、带防尘塞设计的亮橙色高颜值防摔手机壳。。品类：数码配件。人群：** 经常手滑摔手机、同时追求手机壳颜值和实用性（如支持磁吸充电）的智能手机用户（从侧边拍摄按键细节推测为iPhone 15、16系列用户）。。视频类型：场景种草、痛点解决、效果前后对比。钩子：场景冲突、好奇悬念、限时稀缺。证明：**。风险：信任不足。评分：7.4"
+}

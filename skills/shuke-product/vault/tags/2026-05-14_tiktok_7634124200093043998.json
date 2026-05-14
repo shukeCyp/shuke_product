@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7634124200093043998",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/xmw310_7634124200093043998.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634124200093043998/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 35.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款集磁吸无线充电、有线充电、手机支架（横竖屏）功能于一体的多功能充电宝。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求高效",
+      "便捷",
+      "多功能性的苹果（MagSafe）手机用户",
+      "特别是重度手机使用者和追剧",
+      "刷视频爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 反差感 + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** “库存不多了，手慢无！赶紧点击左下角小黄车把它带回家！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款集磁吸无线充电、有线充电、手机支架（横竖屏）功能于一体的多功能充电宝。。品类：男士护理。人群：** 追求高效、便捷、多功能性的苹果（MagSafe）手机用户。视频类型：直播切片、质地实测、库存背书。钩子：场景冲突、身份点名、结果前置。证明：**。风险：字幕不清、信任不足。评分：8.4"
+}

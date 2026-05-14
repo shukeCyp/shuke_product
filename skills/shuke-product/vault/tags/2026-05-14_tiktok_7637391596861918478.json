@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7637391596861918478",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/iloveneedohsomg_7637391596861918478.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637391596861918478/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 52.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一系列名为“Smushers”的卡通造型解压捏捏球/软质玩具。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** ASMR爱好者",
+      "寻求感官满足和压力释放的年轻人（学生",
+      "白领）",
+      "以及喜爱新奇特玩具的收藏者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 结果展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 5.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 1.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一系列名为“Smushers”的卡通造型解压捏捏球/软质玩具。。品类：美妆护肤。人群：** ASMR爱好者、寻求感官满足和压力释放的年轻人（学生、白领）。视频类型：直播切片、质地实测、场景种草。钩子：结果前置、限时稀缺、好奇悬念。证明：**。风险：字幕不清、口播缺失、信任不足。评分：5.6"
+}

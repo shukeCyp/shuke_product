@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7627341395816189198",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/bravo.juliana_7627341395816189198.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627341395816189198/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 90.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带App智能监控、防卡猫开放式设计、主打除味和免手洗的全自动猫砂盆。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养猫家庭",
+      "厌倦每天手动铲屎的宠物主",
+      "因猫砂盆异味只能将其放在室外的室内养猫人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情感代入（萌宠） + 场景冲突（痛点）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实的App连线数据展示",
+    "女孩闻香块的微表情",
+    "**猫咪真实进入排泄的镜头**（最强背书）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "（适用于自然流/投流短视频）\n*   **复刻脚本大纲：**\n    1.  **痛点场景 (0-3s)**：下班回家满屋子屎臭味，或者蹲着艰难铲屎的画面。\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带App智能监控、防卡猫开放式设计、主打除味和免手洗的全自动猫砂盆。。品类：健康养生。人群：** 养猫家庭、厌倦每天手动铲屎的宠物主、因猫砂盆异味只能将其放在室外的室内养猫人群。。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、场景冲突、好奇悬念。证明：真实的App连线数据展示、女孩闻香块的微表情、**猫咪真实进入排泄的镜头**（最强背书）。风险：信任不足、无CTA"
+}

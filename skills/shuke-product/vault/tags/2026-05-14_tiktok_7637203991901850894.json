@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7637203991901850894",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/quanmillztv_7637203991901850894.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637203991901850894/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 53.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 制造悬念的大字标题，手持商品怼脸直拍。\n  2. 极高昂的情绪介绍商品和自己（我是谁，这是什么）。\n  3. 动作展示：翻",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：8.8"
+}

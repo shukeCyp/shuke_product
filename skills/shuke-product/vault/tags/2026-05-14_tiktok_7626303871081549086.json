@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7626303871081549086",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/lotus.whisperrr_7626303871081549086.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626303871081549086/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "反常识",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "此模式非常适合卖**食谱、字帖、学习笔记、冷知识大全、心理学书籍**。\n- **复刻脚本大纲**：\n    1. 前段（0-15s）：展示书中3个最反常识、最能",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、直播切片、痛点解决。钩子：反常识、场景冲突、好奇悬念。风险：口播缺失、信任不足、无CTA"
+}

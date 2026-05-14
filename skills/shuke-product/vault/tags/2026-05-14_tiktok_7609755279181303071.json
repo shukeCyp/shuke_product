@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7609755279181303071",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/paul.soles_7609755279181303071.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7609755279181303071/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "尺寸容量",
+      "产品特写",
+      "库存展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 0-3s 黄金开头：亮出盲盒包装+抛出悬念+展示博主硬核背景。\n  2. 3-8s 制造渴望：展示图鉴全家福，说出最想要的",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：7.6"
+}

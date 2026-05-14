@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7619732031743806751",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/stephaniegrahamtitswort0_7619732031743806751.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619732031743806751/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一副已经完成拼贴的 80x40cm 满钻钻石画（图案为带花卉和星云元素的唯美月亮/女性面庞）。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 钻石画",
+      "手工艺爱好者（核心）",
+      "以及寻找精美手工艺礼品的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 (\"If you are a diamond painter...\") + 结果展示 (直接铺开成品)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（适合短视频带货团队翻拍）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一副已经完成拼贴的 80x40cm 满钻钻石画（图案为带花卉和星云元素的唯美月亮/女性面庞）。。品类：食品饮料。人群：** 钻石画、手工艺爱好者（核心）、以及寻找精美手工艺礼品的人群。。视频类型：场景种草、痛点解决、价格刺激。钩子：限时稀缺、好奇悬念、场景冲突。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

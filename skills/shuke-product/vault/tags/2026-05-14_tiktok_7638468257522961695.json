@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7638468257522961695",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/meliigiselle_7638468257522961695.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638468257522961695/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 43.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "**一款专为搭配短裤设计的短款塑身衣（Faja/束腰提臀塑身连体衣）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**注重身材曲线",
+      "希望在夏季穿着短裤",
+      "短裙时也能获得塑形效果",
+      "但又担心传统塑身衣过长会露出来的年轻",
+      "中年女性",
+      "尤其是身材丰满的女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 解决方案钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "**[穿上外衣] 随便搭个T恤，小腹平平。 [报尺码] 我身高XX体重XX穿M码，给姐妹们参考。心动就赶紧去我的橱窗看看！",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：**一款专为搭配短裤设计的短款塑身衣（Faja/束腰提臀塑身连体衣）。。品类：服饰穿搭。人群：**注重身材曲线、希望在夏季穿着短裤、短裙时也能获得塑形效果。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足。评分：9.2"
+}

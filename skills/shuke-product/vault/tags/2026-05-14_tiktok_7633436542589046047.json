@@ -1,0 +1,101 @@
+{
+  "video_id": "2026-05-14_tiktok_7633436542589046047",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/fixltwithattitude_7633436542589046047.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633436542589046047/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 52.34,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“SEESE”的强力批头磁力环，用于增强电钻批头的磁性，牢牢吸住螺丝。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** DIY爱好者",
+      "木工",
+      "装修工人",
+      "以及所有需要频繁使用电钻进行安装维修的家庭用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "价格跳水",
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "别划走"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 反差钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "“抗击打测试”",
+    "“高速旋转测试”等一系列可视化",
+    "略带夸张的实测",
+    "让产品的核心卖点变得毋庸置疑"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **钩子 (0-3s)：** 展示一个 চরম端的痛点（如从梯子上掉落螺丝）或一个惊人的结果（电钻悬空）。\n  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“SEESE”的强力批头磁力环，用于增强电钻批头的磁性，牢牢吸住螺丝。。品类：美妆护肤。人群：** DIY爱好者、木工、装修工人。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、价格跳水。证明：“抗击打测试”、“高速旋转测试”等一系列可视化、略带夸张的实测。风险：信任不足、卖点单一、无CTA。评分：9.2"
+}

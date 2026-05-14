@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7631954880491506975",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/k9_unit_369_7631954880491506975.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631954880491506975/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 34.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "**一款男士多功能、多分区的差旅洗漱包/收纳包。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**有商务出差",
+      "旅行或健身习惯",
+      "需要规整收纳个人洗漱用品的男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "评论互动钩子 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "尺寸",
+    "第三方背书等硬性证据",
+    "信任度建立在直观的功能展示和亲切的沟通方式上"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**\n*   **复刻脚本大纲：**\n    1.  **钩子 (3s)：** 快速展示一个凌乱的洗漱台/行李箱角落，特写各种散落的洗漱用品。\n    2.  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：**一款男士多功能、多分区的差旅洗漱包/收纳包。。品类：男士护理。人群：**有商务出差、旅行或健身习惯、需要规整收纳个人洗漱用品的男性用户。。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、结果前置、限时稀缺。证明：尺寸、第三方背书等硬性证据、信任度建立在直观的功能展示和亲切的沟通方式上。风险：信任不足、无CTA。评分：7.8"
+}

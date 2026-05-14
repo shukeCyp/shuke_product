@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7616732817912794381",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/shoppingwithcharlstyn_7616732817912794381.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616732817912794381/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 62.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "产品特写",
+      "质地展示",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "(针对国内电商/抖音/小红书)\n- **复刻脚本大纲**：\n  1. **0-3s 痛点钩子**：左手一杯高糖奶茶/果茶（贴上热量炸弹标签），右手一杯自制0糖饮",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。风险：信任不足、无CTA"
+}

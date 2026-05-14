@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7626511687889194254",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/tessawagner20_7626511687889194254.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626511687889194254/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.95,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套从大到小渐变尺寸的不锈钢卡扣式圈型耳环（Clicker hoop earrings）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有多个耳洞",
+      "追求日常佩戴舒适度",
+      "手残党（不喜欢繁琐耳钉扣）或对价格敏感的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "产品直出展示（结果展示/开门见山）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "背景里的生活噪音（婴儿声）",
+    "营造了极强的 **UGC（用户生成内容）原生感**",
+    "让人觉得这是一条真实的买家分享",
+    "而非生硬的广告"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 7.5,
+    "purchase_impulse": 6.0,
+    "total": 7.3
+  },
+  "remake": {
+    "angle": "（优化改造版）\n*   **复刻脚本大纲：** 痛点引入（2s） -> 核心功能特写听声音（3s） -> 实际上耳光速佩戴演示（5s） -> 材质与价格总结（3",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套从大到小渐变尺寸的不锈钢卡扣式圈型耳环（Clicker hoop earrings）。。品类：数码配件。人群：** 拥有多个耳洞、追求日常佩戴舒适度、手残党（不喜欢繁琐耳钉扣）或对价格敏感的年轻女性。。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、好奇悬念、身份点名。证明：背景里的生活噪音（婴儿声）、营造了极强的 **UGC（用户生成内容）原生感**、让人觉得这是一条真实的买家分享。风险：信任不足、无CTA。评分：7.3"
+}

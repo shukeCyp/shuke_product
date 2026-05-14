@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7631487759311457549",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/onefish.vidrio_7631487759311457549.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631487759311457549/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 50.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为 \"ONEFISH 3D\" 的、具备自动除尘、易贴合、防尘、防水、防指纹、防爆和防窥功能的高端 iPhone 钢化膜。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重手机保护",
+      "追求高品质体验",
+      "但动手能力不强（手残党）的 iPhone 用户",
+      "以及有屏幕隐私保护需求的商务人士或日常用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 信息差钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 7.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为 \"ONEFISH 3D\" 的、具备自动除尘、易贴合、防尘、防水、防指纹、防爆和防窥功能的高端 iPhon。品类：数码配件。人群：** 注重手机保护、追求高品质体验、但动手能力不强（手残党）的 iPhone 用户。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、结果前置、身份点名。证明：**。风险：字幕不清、信任不足、无CTA。评分：8.8"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7630935226553781534",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/she_is_she_will_7630935226553781534.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630935226553781534/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 47.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款咖啡色的罗纹面料无袖上衣+阔腿裤两件套套装。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求舒适",
+      "时尚且注重实用性的30-50岁女性",
+      "她们有日常通勤",
+      "外出办事",
+      "旅行等多元化场景需求。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "紧迫感钩子 + 身份代入钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**\n*   **复刻脚本大纲:**\n    1.  **开头 (0-3s):** 【场景：家门口/衣帽间】特写衣服质感，快速转全景。“终于找到一套能从春天穿到",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款咖啡色的罗纹面料无袖上衣+阔腿裤两件套套装。。品类：服饰穿搭。人群：** 追求舒适、时尚且注重实用性的30-50岁女性、她们有日常通勤。视频类型：直播切片、剧情反转、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

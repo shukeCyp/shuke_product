@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638746068502482190",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/hey_itslacy_7638746068502482190.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638746068502482190/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（服饰清仓通用）**：\n    1.  **0-3s**：手抱多件衣服，打出【XX大促/最后清仓】字幕，口播抛出极低价格悬念。\n    ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、好奇悬念、身份点名。风险：信任不足、无CTA。评分：7.4"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7627325757408251166",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/type.one.derful_7627325757408251166.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627325757408251166/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 63.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有夹子的、色彩鲜艳的仿真蜻蜓装饰品，声称可以驱赶黄蜂、蚊子等害虫。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "价格跳水",
+      "结果前置",
+      "反常识",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点代入 + 好奇心悬念 的复合钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 总结产品的两大核心价值“可爱(装饰性)”和“驱虫(功能性)”，并反复强化点击链接的行动指令，完成最终转化闭环。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有夹子的、色彩鲜艳的仿真蜻蜓装饰品，声称可以驱赶黄蜂、蚊子等害虫。。品类：食品饮料。人群：**。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、价格跳水、结果前置。证明：**。风险：信任不足。评分：8.8"
+}

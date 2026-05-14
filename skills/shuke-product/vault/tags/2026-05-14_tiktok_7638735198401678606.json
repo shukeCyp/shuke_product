@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638735198401678606",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/hannahbentley_7638735198401678606.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638735198401678606/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 19.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款灰色的 Shark 品牌扫地机器人。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重生活品质和家居美学",
+      "追求便利",
+      "懒人经济下的年轻用户或养宠人士。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景种草。它没有直接展示问题（比如脏乱的地面），而是直接展示了使用产品后令人极度愉悦和满足的结果——“崭新的地毯线”，这种视觉上的秩序感和洁净感本",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款灰色的 Shark 品牌扫地机器人。。品类：家居清洁。人群：** 注重生活品质和家居美学、追求便利、懒人经济下的年轻用户或养宠人士。。视频类型：直播切片、质地实测、剧情反转。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：7.6"
+}

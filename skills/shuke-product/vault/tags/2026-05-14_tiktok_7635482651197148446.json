@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7635482651197148446",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/grisnabry_7635482651197148446.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635482651197148446/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 93.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款主打“单人轻松快速开合”的10x10英尺户外便携遮阳棚。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常进行户外活动（如露营",
+      "野餐",
+      "沙滩",
+      "后院派对）的家庭用户",
+      "女性用户",
+      "以及需要频繁搭建临时摊位的小商贩。他们是典型的“便利性”追求者",
+      "对复杂安装有畏难情绪。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 痛点解决。开篇即展示完美搭建好的成品，并用字幕“最容易打开和关闭的帐篷”直接击中传统遮阳棚“安装复杂、费时费力”的核心痛点。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款主打“单人轻松快速开合”的10x10英尺户外便携遮阳棚。。品类：数码配件。人群：** 经常进行户外活动（如露营、野餐、沙滩。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、结果前置、好奇悬念。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

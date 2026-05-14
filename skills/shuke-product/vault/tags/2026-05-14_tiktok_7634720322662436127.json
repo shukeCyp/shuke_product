@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7634720322662436127",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/sbowlofrice_7634720322662436127.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634720322662436127/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 96.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖两款不同包装的蜡瓶糖/蜡管糖（Wax Candy），一款是小熊造型，一款是宇航员造型。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 对TikTok热门零食",
+      "新奇特糖果",
+      "ASMR（咀嚼音）内容感兴趣的年轻用户",
+      "以及对价格敏感",
+      "寻求高性价比的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "库存展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入钩子 (“如果你一直想尝试...”)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n    1.  **钩子 (0-3s)：** 用ASMR咬糖特写开场，配音：“全网都在吃的爆汁蜡瓶糖，今天我只花$12就买到了",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖两款不同包装的蜡瓶糖/蜡管糖（Wax Candy），一款是小熊造型，一款是宇航员造型。。品类：食品饮料。人群：** 对TikTok热门零食、新奇特糖果、ASMR（咀嚼音）内容感兴趣的年轻用户。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

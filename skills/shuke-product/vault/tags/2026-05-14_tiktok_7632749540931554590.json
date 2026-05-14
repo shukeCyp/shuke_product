@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7632749540931554590",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/bucketgolfgame_7632749540931554590.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632749540931554590/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 73.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 结合高尔夫与啤酒乒乓（Beer Pong）的创意休闲游戏套装（包含推杆、草皮垫、加大版白球、印有Logo的大红桶）。",
+    "category": "运动户外",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 寻找室内外聚会游戏的人群",
+      "办公室解压需求的白领",
+      "团建组织者",
+      "高尔夫爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（办公室里打高尔夫） + 动作展示（直接上手挥杆） + 竞技悬念（Battle）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "两个真实的成年人在真实的办公环境下实打实地玩了1分多钟",
+    "每一次没投中或投中后的真实肢体反应（抱头",
+    "欢呼）",
+    "是最强的第三方信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**适合直播切片/投放的改造建议：**\n*   **复刻脚本大纲：**\n    *   **0-3s 黄金开头：** 展示最精彩的一个进球瞬间 + 痛点口播（“",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 结合高尔夫与啤酒乒乓（Beer Pong）的创意休闲游戏套装（包含推杆、草皮垫、加大版白球、印有Logo的大红桶）。品类：运动户外。人群：** 寻找室内外聚会游戏的人群、办公室解压需求的白领、团建组织者。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：两个真实的成年人在真实的办公环境下实打实地玩了1分多钟、每一次没投中或投中后的真实肢体反应（抱头、欢呼）。风险：信任不足、无CTA。评分：8.2"
+}

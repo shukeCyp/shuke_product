@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7625691542052719886",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/deals4_u_7625691542052719886.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625691542052719886/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款可调节尺寸、带静音锁止滚轮的电脑主机移动托架（PC Stand）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** PC电脑玩家",
+      "电竞爱好者",
+      "桌面空间不足或家里铺有地毯的台式机用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点刺激 + 场景冲突 + 悬念（错误示范）。昂贵的电子产品 vs 容易静电、吸灰、堵塞风扇的长毛地毯。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**细节展示**（拨动滚轮锁扣）",
+    "**场景证明**（原本无处安放的主机现在稳稳地停在地毯上方）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "(国内抖音/视频号/快手改造建议)\n- **复刻脚本大纲：**\n  - 第一幕（0-3s）：小剧场。老婆/老妈扫地，扫帚撞到了放在地上的几万块电脑主机，男生心疼",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款可调节尺寸、带静音锁止滚轮的电脑主机移动托架（PC Stand）。。品类：数码配件。人群：** PC电脑玩家、电竞爱好者、桌面空间不足或家里铺有地毯的台式机用户。。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。证明：**细节展示**（拨动滚轮锁扣）、**场景证明**（原本无处安放的主机现在稳稳地停在地毯上方）。风险：字幕不清、信任不足、无CTA。评分：8.2"
+}

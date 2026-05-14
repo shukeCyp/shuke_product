@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7637132593103637791",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/meathogbbq_7637132593103637791.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637132593103637791/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 30.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款由服装品牌 Dixxon 与硬核朋克乐队 Suicidal Tendencies 联名的法兰绒格子衬衫，颜色为荧光绿、宝蓝和黑色。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性化",
+      "热爱街头",
+      "摇滚",
+      "机车",
+      "朋克等亚文化的男性消费者",
+      "特别是中老年潮酷群体及对特定乐队有情怀的粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "手背实测",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反差钩子 + 好奇钩子 + 身份代入钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款由服装品牌 Dixxon 与硬核朋克乐队 Suicidal Tendencies 联名的法兰绒格子衬衫，颜色为。品类：男士护理。人群：** 追求个性化、热爱街头、摇滚。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7629116213037157645",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/foodparables_7629116213037157645.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629116213037157645/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 174.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 高品质且高性价比的马达加斯加香草荚（Grade A Madagascar Vanilla Beans），品牌指向 Slow Food Group（通过展示",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 烘焙爱好者",
+      "家庭主妇",
+      "煮夫",
+      "追求性价比的消费者",
+      "DIY爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "第三方背书",
+      "前后对比",
+      "成分展示",
+      "产品特写",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉满足感（微距切割） + 好奇悬念（“9年前我做了这个…”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "（适用于本地生活/农产品/原料带货）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 高品质且高性价比的马达加斯加香草荚（Grade A Madagascar Vanilla Beans），品牌指向 。品类：健康养生。人群：** 烘焙爱好者、家庭主妇、煮夫。视频类型：场景种草、价格刺激、痛点解决。钩子：场景冲突、好奇悬念、身份点名。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7624894982553357599",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/reealblessing_7624894982553357599.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624894982553357599/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 57.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "前后对比",
+      "手背实测",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.9
+  },
+  "remake": {
+    "angle": "*   **适合复刻的品类**：日历、字帖、冥想音频、养生茶包、男士极简护肤品（任何主打“改变习惯、碎片时间、操作极简”的商品）。\n*   **复刻脚本大纲（以",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、痛点解决、UGC口播。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.9"
+}

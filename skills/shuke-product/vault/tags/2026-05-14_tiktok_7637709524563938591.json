@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7637709524563938591",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/yomipet001_7637709524563938591.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637709524563938591/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 43.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** “YOMI PET”品牌的宠物毛发清洁手套/板刷。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有掉毛宠物的“铲屎官”（猫主人",
+      "狗主人）",
+      "对家居清洁有高要求",
+      "且可能尝试过多种清洁工具但效果不佳的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "手背实测",
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "测评-证明 (Test/Proof) + 好奇心 (Curiosity) + 痛点 (Pain Point)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 6.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** “YOMI PET”品牌的宠物毛发清洁手套/板刷。。品类：家居清洁。人群：** 家有掉毛宠物的“铲屎官”（猫主人、狗主人）、对家居清洁有高要求。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、结果前置、好奇悬念。证明：**。风险：字幕不清、信任不足、无CTA。评分：8.4"
+}

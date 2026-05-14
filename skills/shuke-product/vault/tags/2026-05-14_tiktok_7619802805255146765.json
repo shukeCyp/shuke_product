@@ -1,0 +1,102 @@
+{
+  "video_id": "2026-05-14_tiktok_7619802805255146765",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/jenny_claross_7619802805255146765.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619802805255146765/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 63.76,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Toplux Nutrition 品牌的复合镁（Magnesium Complex）和胶原蛋白（Collagen）膳食补充剂。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 讲西班牙语的女性",
+      "年龄30+",
+      "有睡眠质量差",
+      "压力大（皮质醇高）",
+      "面部和腹部浮肿",
+      "爱吃甜食等困扰",
+      "且对价格敏感。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "别划走",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写",
+      "成分展示",
+      "使用场景",
+      "库存展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 指令式开头。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n    1.  **开场 (3s):** （特写）“如果你经常失眠、水肿还特别馋，听我说完这30秒！”\n    2.  **痛",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Toplux Nutrition 品牌的复合镁（Magnesium Complex）和胶原蛋白（Collagen）。品类：健康养生。人群：** 讲西班牙语的女性、年龄30+、有睡眠质量差。视频类型：开箱展示、质地实测、直播切片。钩子：身份点名、结果前置、别划走。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

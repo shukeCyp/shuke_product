@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7619090320235564302",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/brianne_costa143_7619090320235564302.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619090320235564302/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 33.58,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 700件套高级一次性派对餐具套装（包含带金/银边的塑料盘子、塑料杯、以及用纸巾预先卷好的银色塑料刀叉勺）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 准备举办大型聚会",
+      "婚礼",
+      "宝宝宴（Baby Shower）等活动",
+      "追求省时省力（免洗）且需要一定仪式感的家庭主办人或活动策划者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "价格跳水"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（满满一桌子的货） + 价格刺激（50% OFF）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "杂物）",
+    "充满生活气息的UGC随手拍风格",
+    "极大增强了“真实购物分享”的信任感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 100.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "(针对短视频带货团队)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 700件套高级一次性派对餐具套装（包含带金/银边的塑料盘子、塑料杯、以及用纸巾预先卷好的银色塑料刀叉勺）。。品类：家居清洁。人群：** 准备举办大型聚会、婚礼、宝宝宴（Baby Shower）等活动。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、场景冲突、好奇悬念。证明：杂物）、充满生活气息的UGC随手拍风格、极大增强了“真实购物分享”的信任感。风险：信任不足、无CTA。评分：7.6"
+}

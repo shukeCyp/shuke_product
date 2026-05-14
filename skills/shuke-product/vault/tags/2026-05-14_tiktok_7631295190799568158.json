@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7631295190799568158",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/wilmerportillo30_7631295190799568158.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631295190799568158/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 21.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款白色丰田塔科马（Toyota Tacoma）Trailhunter越野皮卡的高仿真、多功能可动合金车模。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 汽车模型收藏家",
+      "丰田汽车及越野车爱好者",
+      "寻找高品质玩具给孩子的家长",
+      "拥有同款真车的车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "别划走",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 / 功能演示钩子。视频开场没有废话，直接通过按压车身的动作，展示了产品具备“可动悬挂”这一核心卖点，同时制造了好奇心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 2.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款白色丰田塔科马（Toyota Tacoma）Trailhunter越野皮卡的高仿真、多功能可动合金车模。。品类：数码配件。人群：** 汽车模型收藏家、丰田汽车及越野车爱好者、寻找高品质玩具给孩子的家长。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、结果前置、别划走。证明：**。风险：口播缺失、信任不足、卖点单一。评分：6.0"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7614644949379829005",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/elparientedemichoacan_7614644949379829005.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614644949379829005/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 116.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带全套配件（双电池、充电器、钻头、套筒等）的 36V 多功能无绳冲击钻/扳手套装。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 汽车车主",
+      "家庭维修爱好者（DIYer）",
+      "汽修学徒",
+      "以及追求极致性价比（平替）的下沉市场男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "需求确认（痛点） + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "** “带照明灯，动力杠杠的。平时修车、做手工、打家具一套搞定！左下角上车，库存不多！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 9.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（中文语境适用）：**\n    *   **0-3s 抛大招：** 达人拿着电钻，直接对着报废车或旧轮胎打一颗螺丝：“谁说便宜没好货？今",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带全套配件（双电池、充电器、钻头、套筒等）的 36V 多功能无绳冲击钻/扳手套装。。品类：男士护理。人群：** 汽车车主、家庭维修爱好者（DIYer）、汽修学徒。视频类型：场景种草、开箱展示、价格刺激。钩子：场景冲突、低价占便宜、身份点名。风险：字幕不清、信任不足。评分：8.4"
+}

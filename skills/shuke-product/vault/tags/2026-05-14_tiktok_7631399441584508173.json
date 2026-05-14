@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7631399441584508173",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/jparksburner_7631399441584508173.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631399441584508173/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 45.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款多功能、可调节阻力的液压臂力器/扩胸器。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 对自己胸部形态（如“男士胸”）",
+      "手臂赘肉不满",
+      "希望通过居家健身改善身材",
+      "但可能缺乏专业设备或时间的男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "第三方背书",
+      "使用场景",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点反差钩子 + 结果展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**\n*   **复刻脚本大纲：**\n    1.  **钩子 (0-3s):** 提出一个核心身材痛点（如“大肚腩”），并展示理想身材，形成强烈对比。\n   ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款多功能、可调节阻力的液压臂力器/扩胸器。。品类：男士护理。人群：** 对自己胸部形态（如“男士胸”）、手臂赘肉不满、希望通过居家健身改善身材。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、尴尬痛点、结果前置。证明：**。风险：字幕不清、信任不足、卖点单一。评分：8.8"
+}

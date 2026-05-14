@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7632880812748246303",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/reallyreallycoolstuff_7632880812748246303.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632880812748246303/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 56.59,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“1UP BLASTED SOUR BELTS”的新奇糖果，主打彩虹、蓝莓、草莓三种口味的组合装。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求新奇零食",
+      "喜欢酸甜和复合口感的年轻人",
+      "以及寻找有趣零食给孩子的家长。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "第三方背书",
+      "库存展示",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“1UP BLASTED SOUR BELTS”的新奇糖果，主打彩虹、蓝莓、草莓三种口味的组合装。。品类：厨房用品。人群：** 追求新奇零食、喜欢酸甜和复合口感的年轻人、以及寻找有趣零食给孩子的家长。。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

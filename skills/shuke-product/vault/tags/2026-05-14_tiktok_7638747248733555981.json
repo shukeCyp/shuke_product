@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7638747248733555981",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/themaggiehensley_7638747248733555981.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638747248733555981/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 45.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 这是一支“反向带货”视频，通过展示一次负面的购物体验（收到一双疑似二手的Cat & Jack童鞋），来引发用户对TikTok Shop上第三方卖家货源和品",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常为孩子购买高性价比商品的妈妈群体",
+      "特别是熟悉Target旗下“Cat & Jack”品牌的美国消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "价格跳水",
+      "结果前置",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 身份代入钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "UGC拍摄风格",
+    "自然光线",
+    "未经修饰的口播",
+    "都极大地增强了事件的真实性和可信度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "(正向转化版)**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 这是一支“反向带货”视频，通过展示一次负面的购物体验（收到一双疑似二手的Cat & Jack童鞋），来引发用户对T。品类：服饰穿搭。人群：** 经常为孩子购买高性价比商品的妈妈群体、特别是熟悉Target旗下“Cat & Jack”品牌的美国消费者。。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、价格跳水。证明：UGC拍摄风格、自然光线、未经修饰的口播。风险：信任不足、无CTA"
+}

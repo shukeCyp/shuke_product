@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7635797876865600798",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/jamiejems_7635797876865600798.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635797876865600798/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.5,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. **开场 (0-3s)**：手持一袋商品，抛出情绪痛点或悬念。\n  2. **特写 (4-8s)**：挑出最有共鸣的一张贴",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：场景种草、痛点解决、价格刺激。钩子：场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.1"
+}

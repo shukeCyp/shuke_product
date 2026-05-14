@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638297249130220813",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/ngsz5pdsne9khpr_7638297249130220813.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638297249130220813/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 50.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "前后对比",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "“点击左下角橙色购物车”，“限时抢购”，“发货极快”。 | 保持解压画面的同时，最后定格在洗车的震撼画面。 | **催促下单**：利用“解压感”延长停留，结合“",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.5,
+    "product_display": 9.0,
+    "purchase_impulse": 9.5,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 找一个满是顽固污渍的地方（院子/车）。用普通水管冲，表现出无奈（2秒）。\n  2. 掏出产品，特写拧紧（2秒）。\n  3.",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、价格跳水。风险：信任不足。评分：9.2"
+}

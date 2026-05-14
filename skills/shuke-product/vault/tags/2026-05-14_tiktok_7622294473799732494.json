@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7622294473799732494",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/hdu2952_7622294473799732494.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622294473799732494/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 379.81,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套名为《Raise Children Street-Smart》（培养孩子街头智慧/社会经验）的儿童财商与高情商教育绘本/漫画书。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有13岁以下儿童的普通家庭父母",
+      "特别是担心孩子在学校受欺负",
+      "希望孩子未来拥有阶层跃迁能力",
+      "具备社交和生存智慧的焦虑型家长。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "道歉钩子",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极度反差 + 猎奇 + 阶级冲突设定。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "（适用于国内视频号/抖音的图书带货）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套名为《Raise Children Street-Smart》（培养孩子街头智慧/社会经验）的儿童财商与高情商。品类：男士护理。人群：** 家有13岁以下儿童的普通家庭父母、特别是担心孩子在学校受欺负、希望孩子未来拥有阶层跃迁能力。视频类型：场景种草、痛点解决、效果前后对比。钩子：道歉钩子、好奇悬念、场景冲突。证明：**。风险：信任不足、功效宣称风险、无CTA。评分：7.4"
+}

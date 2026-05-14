@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638046788808723725",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/wankaegosworld_7638046788808723725.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638046788808723725/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 39.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款豹纹印花、V领、宽松长款的连衣裙式家居服（Muumuu/Kaftan）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 25-45岁追求居家舒适度与时尚感的女性",
+      "特别是那些希望在家也能保持精致",
+      "自信状态的现代女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入。视频开篇直接展示了产品上身后的惊艳效果（结果），同时模特自信、时髦的状态让目标用户产生“我也想这样”的代入感。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款豹纹印花、V领、宽松长款的连衣裙式家居服（Muumuu/Kaftan）。。品类：服饰穿搭。人群：** 25-45岁追求居家舒适度与时尚感的女性、特别是那些希望在家也能保持精致、自信状态的现代女性。。视频类型：直播切片、测评对比、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

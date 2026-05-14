@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7629184343260335391",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/eliceth.94_7629184343260335391.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629184343260335391/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 36.44,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有一键弹卡功能的便携智能钱包/卡包。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求高效",
+      "便携",
+      "有科技感",
+      "且注重卡片安全的年轻及中年用户（男女通用",
+      "也可作为礼品）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "送礼党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 痛点暗示。通过“不用打开就能拿卡”制造悬念，同时暗示了传统钱包取卡麻烦的痛点。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 将用户的视线引导至转化按钮，是临门一脚的关键画面。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n    1.  **开场 (3s):** 抛出悬念或痛点。“不用打开的钱包你见过吗？”\n    2.  **核心展示 (5s)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有一键弹卡功能的便携智能钱包/卡包。。品类：数码配件。人群：** 追求高效、便携、有科技感。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、限时稀缺、身份点名。证明：**。风险：信任不足。评分：8.6"
+}

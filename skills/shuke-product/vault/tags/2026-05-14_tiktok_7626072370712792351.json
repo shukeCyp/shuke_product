@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7626072370712792351",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/stephenmousesnap_7626072370712792351.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626072370712792351/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 36.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有立体纹理的男士纯色（主打白色）短袖V领上衣和抽绳长裤两件套。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 大码",
+      "微胖",
+      "壮硕体型的男士",
+      "他们追求夏季穿着的舒适度",
+      "宽松感和实用性",
+      "可能对自己的身材不够自信",
+      "需要显瘦或不显臃肿的服装。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有立体纹理的男士纯色（主打白色）短袖V领上衣和抽绳长裤两件套。。品类：男士护理。人群：** 大码、微胖、壮硕体型的男士。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、卖点单一、无CTA。评分：7.8"
+}

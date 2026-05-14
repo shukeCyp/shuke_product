@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7637610552293969183",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/kadfinds_7637610552293969183.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637610552293969183/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 21.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款面向男童的、印有怪兽卡车图案的竹纤维睡衣套装（短袖+短裤）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有小男孩的妈妈（视频开头直接点明 \"Boy moms\"）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入钩子 + 结果展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "宠儿必备！戳链接带走",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 8.0,
+    "trust": 4.0,
+    "product_display": 6.0,
+    "purchase_impulse": 5.0,
+    "total": 5.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款面向男童的、印有怪兽卡车图案的竹纤维睡衣套装（短袖+短裤）。。品类：服饰穿搭。人群：** 有小男孩的妈妈（视频开头直接点明 \"Boy moms\"）。。视频类型：直播切片、库存背书、场景种草。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：信任不足。评分：5.6"
+}

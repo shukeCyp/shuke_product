@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7637823377293462814",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/rvvtnv878761fzzd_7637823377293462814.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637823377293462814/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 42.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 8.0,
+    "trust": 3.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对国内抖音/快手/视频号优化)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、价格刺激、清仓福利。钩子：结果前置、低价占便宜、好奇悬念。风险：信任不足、功效宣称风险、无CTA。评分：6.8"
+}

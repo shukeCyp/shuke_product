@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7637495248205221150",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/zerofxun612_7637495248205221150.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637495248205221150/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.84,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** SNOFRID 品牌的无线手持真空抽气泵及配套真空收纳袋套装。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 换季收纳困难的家庭主妇",
+      "居住空间受限的租客",
+      "有出行",
+      "露营需求的差旅人士。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 悬念开箱。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 10.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用国内抖音/小红书/视频号）：**\n    *   **0-3s 痛点直击：** （画面）女生把冬被塞进衣柜，门关不上弹开。\n   ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** SNOFRID 品牌的无线手持真空抽气泵及配套真空收纳袋套装。。品类：数码配件。人群：** 换季收纳困难的家庭主妇、居住空间受限的租客、有出行。视频类型：场景种草、开箱展示、价格刺激。钩子：限时稀缺、低价占便宜、好奇悬念。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

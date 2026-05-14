@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7630914129523412237",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/devinhayes__7630914129523412237.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630914129523412237/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 41.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“YCZ”的男士古龙香水。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 渴望提升异性吸引力",
+      "关注潮流（如《亢奋》",
+      "Jacob Elordi）",
+      "追求性价比的年轻男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "库存展示",
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。视频开篇不讲产品，而是直接展示使用产品后能达到的巅峰效果——“几乎每个女孩都问我为什么这么香”，这直接命中了目标用户“提升魅力”的核心",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“YCZ”的男士古龙香水。。品类：男士护理。人群：** 渴望提升异性吸引力、关注潮流（如《亢奋》、Jacob Elordi）。视频类型：直播切片、库存背书、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

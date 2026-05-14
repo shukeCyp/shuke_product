@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7616132972856610062",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/averykatherinewood_7616132972856610062.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616132972856610062/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 40.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款白色亮片拼接薄纱、挂脖露背设计的性感吊带上衣。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-28岁的年轻女性",
+      "追求辣妹风",
+      "Y2K（千禧年）风格",
+      "有夜生活或派对穿搭需求",
+      "尤其是对自身身材（特别是胸部）不够自信",
+      "认为自己是“小胸”的垂直人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "别划走",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "人设/身份代入钩子。她没有直接展示商品，而是用一句网络俚语 \"source: trust me bro\" (来源：信我没错) 快速建立了一个幽默、真实、像朋友一",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款白色亮片拼接薄纱、挂脖露背设计的性感吊带上衣。。品类：服饰穿搭。人群：** 18-28岁的年轻女性、追求辣妹风、Y2K（千禧年）风格。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

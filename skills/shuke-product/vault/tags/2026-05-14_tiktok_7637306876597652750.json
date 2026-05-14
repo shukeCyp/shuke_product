@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7637306876597652750",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/mandythemomma_7637306876597652750.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637306876597652750/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 56.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有金属光泽/镭射效果的粉色波西米亚风长袍（Muumuu/卡夫坦袍）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性",
+      "舒适",
+      "独特风格",
+      "喜爱波西米亚风",
+      "度假风或夸张闪亮元素的时尚女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 结果展示钩子 (变体)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 5.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有金属光泽/镭射效果的粉色波西米亚风长袍（Muumuu/卡夫坦袍）。。品类：数码配件。人群：** 追求个性、舒适、独特风格。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

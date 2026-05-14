@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7637369225140653343",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/river_john6_7637369225140653343.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637369225140653343/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 28.91,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款集成了镜头保护盖、可折叠支架和 MagSafe 磁吸充电功能于一体的多功能 iPhone 手机壳。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求实用性和科技感的 iPhone 用户（尤其是 Pro",
+      "Pro Max 型号）",
+      "看重手机保护性",
+      "并有在桌面支架观看视频",
+      "视频通话或使用磁吸配件需求的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "第三方背书",
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款集成了镜头保护盖、可折叠支架和 MagSafe 磁吸充电功能于一体的多功能 iPhone 手机壳。。品类：数码配件。人群：** 追求实用性和科技感的 iPhone 用户（尤其是 Pro、Pro Max 型号）、看重手机保护性。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

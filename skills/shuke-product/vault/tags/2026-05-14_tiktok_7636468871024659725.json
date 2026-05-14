@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7636468871024659725",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/hannahbentley_7636468871024659725.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636468871024659725/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 28.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款主打高颜值（粉色）、强劲吸力（专攻宠物毛发）和便捷设计（可折叠、多功能）的Shark鲨客品牌无线吸尘器。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养宠物的年轻女性",
+      "注重家居美学和生活品质的“颜值党”消费者",
+      "对清洁效率有高要求的现代家庭主妇",
+      "主夫。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "剧情反转",
+      "场景种草",
+      "清仓福利",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景冲突（剧情钩子）",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款主打高颜值（粉色）、强劲吸力（专攻宠物毛发）和便捷设计（可折叠、多功能）的Shark鲨客品牌无线吸尘器。。品类：美妆护肤。人群：** 养宠物的年轻女性、注重家居美学和生活品质的“颜值党”消费者、对清洁效率有高要求的现代家庭主妇。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、低价占便宜、结果前置。证明：**。风险：信任不足、卖点单一、无CTA。评分：9.2"
+}

@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7629787335848168734",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/karlyjwoodling_7629787335848168734.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629787335848168734/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  **痛点 (0-3s)**：宝妈抱着沉重宝宝逛街/做家务，频频换手，揉肩膀。\n    2.  **转折与展示 (",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、痛点解决、质地实测。钩子：好奇悬念、场景冲突、身份点名。风险：信任不足、无CTA。评分：8.3"
+}

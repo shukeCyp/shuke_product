@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7626155442107927821",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/wanderedbeyond_7626155442107927821.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626155442107927821/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 33.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《The Everything Restaurant Copycat Recipes Cookbook》的食谱书，内含超过200个复刻知名连锁餐厅",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢外出就餐",
+      "钟爱特定连锁餐厅招牌菜",
+      "但又希望在家烹饪以节省开支或享受乐趣的“吃货”和家庭主厨。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "成分展示",
+      "第三方背书",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 好奇心钩子 + 身份代入钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** \"they sell out all the time... I left you guys a link below\"",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《The Everything Restaurant Copycat Recipes Cookbook》的。品类：厨房用品。人群：** 喜欢外出就餐、钟爱特定连锁餐厅招牌菜、但又希望在家烹饪以节省开支或享受乐趣的“吃货”和家庭主厨。。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、卖点单一。评分：8.8"
+}

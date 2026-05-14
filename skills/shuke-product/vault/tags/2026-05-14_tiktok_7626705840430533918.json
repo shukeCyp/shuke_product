@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7626705840430533918",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/fusou_furniture_7626705840430533918.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626705840430533918/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带LED化妆镜、透明玻璃台面、多抽屉储物及侧边可折叠延展台的纯白轻奢风梳妆台。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求卧室颜值的年轻女性",
+      "美妆爱好者",
+      "有大量化妆品",
+      "护肤品收纳需求的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉冲击（大量拉开的抽屉）+ 身份代入（Vanity goals 唤醒渴望）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 6.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "（如果是用于抖快/视频号带货改造）\n- **复刻脚本大纲：**\n  - **0-3s 痛点/反差钩子：** 满桌抽屉拉开，配吸睛口播。\n  - **3-8s 核",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带LED化妆镜、透明玻璃台面、多抽屉储物及侧边可折叠延展台的纯白轻奢风梳妆台。。品类：美妆护肤。人群：** 追求卧室颜值的年轻女性、美妆爱好者、有大量化妆品。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：口播缺失、信任不足、无CTA。评分：8.0"
+}

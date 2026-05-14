@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7631692444106542367",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/lynnedempewolf_7631692444106542367.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631692444106542367/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 81.22,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 铁丝网围栏收紧器/修复器（视频中工具印有 \"TEXAS FENCE FIXER Strain 'N Wire\" 字样）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 农场主",
+      "牧场主",
+      "拥有带刺铁丝网围栏的乡村住户",
+      "户外维修人员。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "真实场景代入 + 礼物安利（身份认同）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实生锈的带刺铁丝",
+    "带泥土的做旧手套",
+    "一镜到底没有特效剪辑的实测过程",
+    "在五金工具类目中是最高级的信任背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "(针对短视频带货/投放改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 铁丝网围栏收紧器/修复器（视频中工具印有 \"TEXAS FENCE FIXER Strain 'N Wire\" 字。品类：男士护理。人群：** 农场主、牧场主、拥有带刺铁丝网围栏的乡村住户。视频类型：场景种草、直播切片、痛点解决。钩子：结果前置、好奇悬念、身份点名。证明：真实生锈的带刺铁丝、带泥土的做旧手套、一镜到底没有特效剪辑的实测过程。风险：信任不足、无CTA。评分：8.4"
+}

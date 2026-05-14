@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7636583722187263263",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/projectbetter_7636583722187263263.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636583722187263263/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** BedSure 品牌的竹纤维凉感床垫软榻（Bamboo Mattress Topper）。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 睡眠质量差的人",
+      "怕热出汗的人（Hot sleepers）",
+      "租房党",
+      "想低成本升级床铺舒适度但预算有限（不想换整张床垫）的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇/悬念 + 关系代入（Couple Prank/Surprise）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适合夫妻/情侣档带货）：**\n1.  **Hook (0-3s)：** 蒙眼/送礼物开场，带入生活场景。\n2.  **高估 (3-8s)：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** BedSure 品牌的竹纤维凉感床垫软榻（Bamboo Mattress Topper）。。品类：其他。人群：** 睡眠质量差的人、怕热出汗的人（Hot sleepers）、租房党。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足、无CTA"
+}

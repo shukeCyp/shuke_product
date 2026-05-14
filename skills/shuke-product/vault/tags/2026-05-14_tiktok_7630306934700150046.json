@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7630306934700150046",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/crystal_from_fl_7630306934700150046.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630306934700150046/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 17.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 带有椰棕吊篮的户外仿真花套装（两盆装，紫色/白色牵牛花样式）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有庭院",
+      "阳台美化需求",
+      "但没时间",
+      "容易忘记浇水或不擅长种植真花的家庭主妇及房主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量",
+      "库存展示"
+    ],
+    "audience_tags": [
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点直击 + 视觉冲击。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 提示SKU多样性，直接指向购物车促单。贴纸增加真实互动感。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（20秒内）：**\n  - [0-3s] 提着产品走向镜头，抛出养花痛点。\n  - [3-8s] 停住展示产品体积，说明是“几件套”及免安装",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 带有椰棕吊篮的户外仿真花套装（两盆装，紫色/白色牵牛花样式）。。品类：美妆护肤。人群：** 有庭院、阳台美化需求、但没时间。视频类型：场景种草、开箱展示、价格刺激。钩子：限时稀缺、好奇悬念、场景冲突。证明：**。风险：信任不足。评分：7.8"
+}

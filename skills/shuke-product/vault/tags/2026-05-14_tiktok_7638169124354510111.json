@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638169124354510111",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/l9jf2dipf4_7638169124354510111.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638169124354510111/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.05,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖一款镶满水钻（视频自称真钻）、带彩虹表圈的金色浮夸风男士腕表（品牌显示为 VEADONS）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求外在炫耀资本",
+      "喜欢嘻哈",
+      "奢华浮夸风",
+      "容易被“捡漏”和“巨大价格落差”刺激冲动消费的下沉市场男性或年轻人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "结果前置",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（廉价的仓库快递堆 vs 奢侈品文案） + 情绪代入（打破阶级感：“奢侈品你也能拥有”） + 紧迫感（“最后一批”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 2.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "如果您有一批低客单价、外观浮夸的饰品/手表需要清仓，可以复刻此脚本：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖一款镶满水钻（视频自称真钻）、带彩虹表圈的金色浮夸风男士腕表（品牌显示为 VEADONS）。。品类：男士护理。人群：** 追求外在炫耀资本、喜欢嘻哈、奢华浮夸风。视频类型：场景种草、开箱展示、价格刺激。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足、功效宣称风险、无CTA。评分：6.8"
+}

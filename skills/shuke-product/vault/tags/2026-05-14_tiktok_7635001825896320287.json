@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7635001825896320287",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/wildernessoutdoormedia_7635001825896320287.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635001825896320287/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.64,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 3
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 3.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 0.0,
+    "purchase_impulse": 5.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "(针对原版优化的改造建议)\n如果我们要重新操盘这条跑量视频，建议采用 **“口播+B-roll穿插”** 的形式：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、价格刺激、清仓福利。钩子：限时稀缺、低价占便宜、好奇悬念。风险：信任不足、无CTA。评分：4.6"
+}

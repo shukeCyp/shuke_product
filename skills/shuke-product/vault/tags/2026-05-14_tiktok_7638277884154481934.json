@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7638277884154481934",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/geidyfinds_7638277884154481934.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638277884154481934/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 55.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频售卖的是一个名为 \"Medicube\" 的身体护理套装，包含去角质凝胶、沐浴露、爽肤棉、爽肤水和身体喷雾，主打成分为曲酸（Kojic Acid）和姜黄",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 主要针对因臀部痘痘",
+      "大腿内侧和腋下肤色暗沉",
+      "色素沉淀等问题感到困扰和不自信的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写",
+      "成分展示",
+      "用户评价",
+      "第三方背书",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 身份代入。视频开场直接展示了目标用户最敏感、最私密的皮肤问题图片（臀部痘痘、大腿内侧暗沉），并用“If you...”的句式，让用户瞬间产生“这说",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频售卖的是一个名为 \"Medicube\" 的身体护理套装，包含去角质凝胶、沐浴露、爽肤棉、爽肤水和身体喷雾，主打。品类：美妆护肤。人群：** 主要针对因臀部痘痘、大腿内侧和腋下肤色暗沉、色素沉淀等问题感到困扰和不自信的年轻女性。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

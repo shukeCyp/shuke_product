@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7626099349847559454",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/theresebyron_7626099349847559454.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626099349847559454/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 28.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款粉色的、可调节拉力、可拆卸组合的多功能脚蹬拉力绳，用于居家全身塑形。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 20-45岁",
+      "希望在家健身",
+      "进行力量训练",
+      "塑造肌肉线条（尤其是手臂",
+      "背部",
+      "肩部",
+      "腿部和臀部）的女性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "运动党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款粉色的、可调节拉力、可拆卸组合的多功能脚蹬拉力绳，用于居家全身塑形。。品类：食品饮料。人群：** 20-45岁、希望在家健身、进行力量训练。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

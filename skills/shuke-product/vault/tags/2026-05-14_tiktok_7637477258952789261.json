@@ -1,0 +1,106 @@
+{
+  "video_id": "2026-05-14_tiktok_7637477258952789261",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/elltk5_7637477258952789261.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637477258952789261/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 42.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款便携式、可充电的无线电动真空压缩泵，以及配套的多尺寸真空压缩收纳袋套装。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常出差旅行",
+      "行李空间紧张的商旅人士",
+      "学生",
+      "以及需要进行季节性衣物收纳",
+      "节省家庭空间的家庭主妇",
+      "租房党。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "低价占便宜",
+      "价格跳水",
+      "库存震撼",
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "别划走"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "使用场景",
+      "库存展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 价格刺激 + 好奇心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款便携式、可充电的无线电动真空压缩泵，以及配套的多尺寸真空压缩收纳袋套装。。品类：数码配件。人群：** 经常出差旅行、行李空间紧张的商旅人士、学生。视频类型：直播切片、质地实测、库存背书。钩子：场景冲突、身份点名、低价占便宜。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7623378387062541582",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/matt_d87_7623378387062541582.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623378387062541582/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 59.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Guggenhein 品牌的一款黑色、高碳钢、专业级工艺剪刀。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 手工爱好者",
+      "皮革",
+      "布料",
+      "尼龙织带等材料的 DIY 制作者",
+      "战术装备玩家",
+      "以及追求高品质工具的男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "库存背书",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "成分展示",
+      "使用场景",
+      "库存展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "产品展示 + 好奇心钩子。开场直接展示产品特写，配合口播“The little giants...”，暗示产品小而强大，能吸引对工具感兴趣的用户。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Guggenhein 品牌的一款黑色、高碳钢、专业级工艺剪刀。。品类：男士护理。人群：** 手工爱好者、皮革、布料。视频类型：直播切片、质地实测、测评对比。钩子：身份点名、低价占便宜、结果前置。证明：**。风险：信任不足、无CTA"
+}

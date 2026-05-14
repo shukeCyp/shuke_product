@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7638620455770836238",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/09_保健/diogenesmito_7638620455770836238.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638620455770836238/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 86.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** TopLux 品牌的镁元素复合胶囊（Magnesium Complex）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 长期处于高压状态",
+      "睡眠质量差",
+      "脱发",
+      "且伴随顽固性肥胖（尤其是腹部",
+      "背部",
+      "腋下脂肪）和身体水肿的成年人群（尤其是女性）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "测评对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "尺寸容量",
+      "产品特写",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点具象化 + 专有名词定性（高皮质醇） + 猎奇视觉（透明骷髅人体）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "颜色）",
+    "“多年被人们使用”的口播背书",
+    "排队抢购的画面暗示产品热销"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 8.5,
+    "purchase_impulse": 9.0,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "(针对国内短视频带货/抖音小红书)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** TopLux 品牌的镁元素复合胶囊（Magnesium Complex）。。品类：健康养生。人群：** 长期处于高压状态、睡眠质量差、脱发。视频类型：场景种草、测评对比、痛点解决。钩子：限时稀缺、好奇悬念、场景冲突。证明：颜色）、“多年被人们使用”的口播背书、排队抢购的画面暗示产品热销。风险：信任不足、无CTA。评分：8.7"
+}

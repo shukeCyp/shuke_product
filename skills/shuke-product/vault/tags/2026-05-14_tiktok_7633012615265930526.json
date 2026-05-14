@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633012615265930526",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/charlie_lab8_7633012615265930526.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633012615265930526/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Oneisall 宠物专用空气净化器（带可视吸毛孔设计）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养宠人群（特别是多猫",
+      "多狗家庭）",
+      "易过敏体质者",
+      "厌烦频繁吸尘打扫的铲屎官。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 视觉奇观/夸张手法（满地大团毛发飞入机器）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 极具说服力的“视觉证据”："
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  1. (0-3s) 夸张吸入画面/吸满毛的脏滤网怼脸（抓眼球）。\n  2. (3-8s) 扫把扫出一堆毛/衣服上沾满毛（切痛点）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Oneisall 宠物专用空气净化器（带可视吸毛孔设计）。。品类：美妆护肤。人群：** 养宠人群（特别是多猫、多狗家庭）、易过敏体质者。视频类型：场景种草、价格刺激、清仓福利。钩子：结果前置、场景冲突、低价占便宜。证明：** 极具说服力的“视觉证据”：。风险：信任不足、无CTA。评分：9.0"
+}

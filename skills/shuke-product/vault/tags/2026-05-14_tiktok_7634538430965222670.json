@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7634538430965222670",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/stepstep1973_7634538430965222670.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634538430965222670/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 56.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 独立包装的便携式压缩一次性洗脸巾。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 注重个人卫生和便携性的出行",
+      "差旅",
+      "健身及户外活动人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 海量展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "但完全没有画面证明",
+    "极大削弱了产品的说服力和可信度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 4.0,
+    "product_display": 3.0,
+    "purchase_impulse": 4.0,
+    "total": 5.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 独立包装的便携式压缩一次性洗脸巾。。品类：美妆护肤。人群：** 注重个人卫生和便携性的出行、差旅、健身及户外活动人群。。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、身份点名、低价占便宜。证明：但完全没有画面证明、极大削弱了产品的说服力和可信度。风险：字幕不清、信任不足、无CTA。评分：5.0"
+}

@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7614326027132636447",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/jasminemonique_22_7614326027132636447.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614326027132636447/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 49.94,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Baby Trend 品牌的二合一（高背/无背）儿童增高垫汽车安全座椅。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 孩子年龄在4-10岁",
+      "体重在40-100磅之间",
+      "需要从五点式安全座椅过渡到增高垫的家长。特别是注重性价比",
+      "便携性（经常旅行或换车使用）",
+      "以及寻求“一步到位”解决方案的父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "尺寸容量",
+      "使用场景",
+      "第三方背书",
+      "库存展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "稀缺性/紧迫感钩子 (\"It keeps selling out!!\") + 价格刺激钩子 (\"on an amazing deal\")。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Baby Trend 品牌的二合一（高背/无背）儿童增高垫汽车安全座椅。。品类：食品饮料。人群：** 孩子年龄在4-10岁、体重在40-100磅之间、需要从五点式安全座椅过渡到增高垫的家长。特别是注重性价比。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA"
+}

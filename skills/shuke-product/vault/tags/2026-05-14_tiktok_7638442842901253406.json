@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638442842901253406",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/hugovalentinjr_7638442842901253406.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638442842901253406/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 29.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款粉、白、蓝三色拼接的厚底松糕靴，脚踝处有可拆卸的泰迪熊装饰带。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性",
+      "喜爱亚文化",
+      "Y2K或可爱（Kawaii）风格的年轻女性",
+      "可能是歌手Melanie Martinez的粉丝",
+      "注重服装的情绪价值和社交属性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（POV） + 好奇心（奇怪的鞋子） + 场景冲突（在普通家庭场景中出现夸张的时尚单品）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "让家人（作为第三方）的真实",
+    "不加掩饰的兴奋反应",
+    "为产品的吸引力提供了最强有力的背书"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款粉、白、蓝三色拼接的厚底松糕靴，脚踝处有可拆卸的泰迪熊装饰带。。品类：服饰穿搭。人群：** 追求个性、喜爱亚文化、Y2K或可爱（Kawaii）风格的年轻女性。视频类型：开箱展示、直播切片、场景种草。钩子：场景冲突、结果前置、身份点名。证明：让家人（作为第三方）的真实、不加掩饰的兴奋反应、为产品的吸引力提供了最强有力的背书。风险：信任不足、无CTA。评分：8.0"
+}

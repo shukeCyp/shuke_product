@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7630999518363913503",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/goldiechurch_7630999518363913503.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630999518363913503/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 31.14,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款橄榄绿与白色相间的条纹V领短袖和抽绳短裤两件套夏季套装。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求舒适",
+      "便捷",
+      "时尚且注重性价比的年轻女性及宝妈群体。她们希望夏天能毫不费力地穿得好看",
+      "并可能对遮盖腹部赘肉有需求。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "反差认知 (Underrated) + 结果展示 (Showcasing the set)。开篇“TikTok shop is so underrated”制造",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款橄榄绿与白色相间的条纹V领短袖和抽绳短裤两件套夏季套装。。品类：服饰穿搭。人群：** 追求舒适、便捷、时尚且注重性价比的年轻女性及宝妈群体。她们希望夏天能毫不费力地穿得好看。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

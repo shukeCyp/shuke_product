@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7627237056493784334",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/quanmillztv_7627237056493784334.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627237056493784334/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 89.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 作者Quan Mills亲笔签名的实体小说《This Hoe Got Roaches In Her Crib》。",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "剧情反转",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 身份代入钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 引导用户点击小黄车/链接，报出价格，完成逼单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n    1.  **[0-5秒] 创意钩子：** 提出一个和你产品相关领域内，极其夸张、有趣、反常的“伪概念”或“伪产品”。\n   ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 作者Quan Mills亲笔签名的实体小说《This Hoe Got Roaches In Her Crib》。。品类：汽车用品。人群：**。视频类型：直播切片、剧情反转、价格刺激。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足。评分：8.4"
+}

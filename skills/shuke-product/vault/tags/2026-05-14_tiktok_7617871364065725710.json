@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7617871364065725710",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/wetalkshop_7617871364065725710.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617871364065725710/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 23.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一套外观酷炫、功能强大的电动连发水枪组合（“动态二人组”），包含步枪和手枪两种款式。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 8-16岁孩子的父母",
+      "以及喜欢户外玩具",
+      "新奇特产品的年轻男性（18-30岁）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一套外观酷炫、功能强大的电动连发水枪组合（“动态二人组”），包含步枪和手枪两种款式。。品类：男士护理。人群：** 8-16岁孩子的父母、以及喜欢户外玩具、新奇特产品的年轻男性（18-30岁）。。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA"
+}

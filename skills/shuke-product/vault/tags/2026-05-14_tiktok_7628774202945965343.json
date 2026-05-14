@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7628774202945965343",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/mayamshaw_7628774202945965343.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628774202945965343/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 60.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本面向基督教徒的理财灵修书（《Managing Money God's Way: A 31-Day Devotional》）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 信仰基督教",
+      "目前财务状况糟糕（月光",
+      "负债）",
+      "希望改善经济状况但缺乏方法的群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（Christian） + 痛点刺激（BROKE） + 反向操作（Keep scrolling）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "银行账单截图",
+    "但截图显示的是6000多涨到7000多",
+    "这里存在数据不一致",
+    "敏锐的用户可能会质疑"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 5.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **强力排他钩子**（点出人群痛点+激将法）\n    2.  **打破认知**（你穷不是因为赚得少，是因为方法错",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本面向基督教徒的理财灵修书（《Managing Money God's Way: A 31-Day Devoti。品类：数码配件。人群：** 信仰基督教、目前财务状况糟糕（月光、负债）。视频类型：场景种草、效果前后对比、痛点解决。钩子：好奇悬念、价格跳水、场景冲突。证明：银行账单截图、但截图显示的是6000多涨到7000多、这里存在数据不一致。风险：信任不足、无CTA。评分：7.4"
+}

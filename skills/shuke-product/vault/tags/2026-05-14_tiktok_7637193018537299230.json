@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7637193018537299230",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/sadethestrategist_7637193018537299230.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637193018537299230/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 28.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款芭比粉色、带有多功能配件（杯托、遮阳篷、头枕）的户外便携零重力躺椅。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求精致生活",
+      "喜爱粉色系和“芭比风”（Barbiecore）的年轻女性",
+      "她们有庭院",
+      "阳台等户外休闲空间",
+      "或有露营",
+      "沙滩度假等需求。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入。视频开篇没有讲产品，而是直接展示了“我整个夏天都将如此惬意”的最终美好结果，让用户立刻产生“我也想这样”的代入感。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n    1.  **钩子 (3s):** 展示在椅子上最惬意的一刻，配文“我的夏日续命神器找到了！”\n    2.  **亮明",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款芭比粉色、带有多功能配件（杯托、遮阳篷、头枕）的户外便携零重力躺椅。。品类：美妆护肤。人群：** 追求精致生活、喜爱粉色系和“芭比风”（Barbiecore）的年轻女性、她们有庭院。视频类型：直播切片、质地实测、测评对比。钩子：身份点名、结果前置、反常识。证明：**。风险：信任不足、无CTA。评分：8.8"
+}

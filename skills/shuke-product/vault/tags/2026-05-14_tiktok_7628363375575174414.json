@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7628363375575174414",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/dippedncovered_decor_7628363375575174414.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628363375575174414/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 91.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款便携式、无墨的热敏标签打印机 (NIIMBOT/精臣)。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 手工烘焙",
+      "手工艺品",
+      "家庭收纳等场景的个人或小微企业主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 结果展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款便携式、无墨的热敏标签打印机 (NIIMBOT/精臣)。。品类：美妆护肤。人群：** 手工烘焙、手工艺品、家庭收纳等场景的个人或小微企业主。。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.4"
+}

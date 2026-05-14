@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634673645352127758",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/jordynslack_7634673645352127758.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634673645352127758/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 35.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党",
+      "运动党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "官网已补货！手慢无！",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：直播切片、质地实测、测评对比。钩子：结果前置、限时稀缺、身份点名。风险：信任不足。评分：8.8"
+}

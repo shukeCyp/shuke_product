@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7610950243634482446",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/hayleygracepoet_7610950243634482446.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7610950243634482446/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 102.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《Save Me an Orange》（救我一个橘子）的英文诗集。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-30岁",
+      "有一定英文阅读能力",
+      "喜欢情感类",
+      "治愈系文学作品的年轻女性。她们可能经历过校园霸凌",
+      "情感创伤",
+      "抑郁情绪",
+      "正在寻求情感共鸣和自我疗愈。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "剧情开头 + 场景代入。视频开头的 \"7:00 am\" 字幕和娓娓道来的叙事口吻，不像广告，更像一个Vlog或故事分享的开头，成功降低了用户的防备心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.5,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《Save Me an Orange》（救我一个橘子）的英文诗集。。品类：食品饮料。人群：** 18-30岁、有一定英文阅读能力、喜欢情感类。视频类型：直播切片、剧情反转、场景种草。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

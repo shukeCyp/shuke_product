@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7618898200459496717",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/sjdh646109x_7618898200459496717.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618898200459496717/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 46.51,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款可重复使用的铝箔内胆双层密封保鲜袋。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常居家做饭",
+      "有批量采购和冷冻",
+      "冷藏食材需求的家庭用户",
+      "特别是对食品保鲜",
+      "冰箱收纳和减少浪费有较高要求的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 (Pain Point Hook) + 场景冲突 (Scenario Conflict)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款可重复使用的铝箔内胆双层密封保鲜袋。。品类：家居清洁。人群：** 经常居家做饭、有批量采购和冷冻、冷藏食材需求的家庭用户。视频类型：质地实测、测评对比、场景种草。钩子：场景冲突、结果前置、好奇悬念。风险：字幕不清、信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7637722464906202382",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/18_男装内衣/unapologeticallymellie_7637722464906202382.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637722464906202382/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 50.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 主要展示一款印有“Stay Salty”字样的灰色复古水洗风T恤，但视频后半段通过“剧情反转”引出其主营业务——假发。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 30-45岁追求个性化",
+      "休闲舒适穿搭的女性",
+      "博主本人的粉丝及假发社群用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 (Scenario Conflict) + 好奇钩子 (Curiosity Hook)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 5.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 主要展示一款印有“Stay Salty”字样的灰色复古水洗风T恤，但视频后半段通过“剧情反转”引出其主营业务——假。品类：服饰穿搭。人群：** 30-45岁追求个性化、休闲舒适穿搭的女性、博主本人的粉丝及假发社群用户。。视频类型：直播切片、剧情反转、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：字幕不清、口播缺失、信任不足。评分：5.4"
+}

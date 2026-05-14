@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638713913185537310",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/rebecca.shops_7638713913185537310.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638713913185537310/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 82.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款包含8个不同颜色和形状的Squishy（软软、解压玩具）的“神秘盲盒”套装，其中主打一个稀有的金色闪粉“饺子”造型玩具。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "情绪挂钩 + 好奇心驱动。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款包含8个不同颜色和形状的Squishy（软软、解压玩具）的“神秘盲盒”套装，其中主打一个稀有的金色闪粉“饺子”。品类：厨房用品。人群：**。视频类型：开箱展示、质地实测、测评对比。钩子：结果前置、限时稀缺、好奇悬念。证明：**。风险：信任不足、卖点单一、无CTA。评分：8.4"
+}

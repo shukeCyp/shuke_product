@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7611880830394191134",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/thaithekwkf_7611880830394191134.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611880830394191134/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 58.54,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**\n*   **复刻脚本大纲**：\n    1.  **开头 (0-3s)**：特写汽车保险杠晃动并发出异响的画面，或用手轻松掰开缝隙。\n    2.  **",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：汽车用品。视频类型：直播切片、质地实测、剧情反转。钩子：场景冲突、身份点名、尴尬痛点。风险：信任不足、功效宣称风险、无CTA。评分：8.2"
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7621380335359511822",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/penologylab_7621380335359511822.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621380335359511822/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.26,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 94.0
+  },
+  "remake": {
+    "angle": "(国内抖音/快手/小红书改造)\n- **复刻脚本大纲**：\n  - 0-3s 抓手：展示课本上密密麻麻的笔记，突然用半透明便利贴覆盖，用马克笔划重点。（视觉：透",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、结果前置、好奇悬念。风险：信任不足、无CTA。评分：94.0"
+}

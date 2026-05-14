@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7638159145526414606",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/iloveneedohsomg_7638159145526414606.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638159145526414606/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 94.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲 (缩略至30秒高转化版)**：\n  - **0-3s 钩子**：最夸张的一次大力挤压特写 + 收音放大。字幕：“全网爆火的解压神器，听声音",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

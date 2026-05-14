@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7612750224431353118",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/thesnasan_7612750224431353118.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612750224431353118/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 23.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 韩国三养Buldak火鸡面在TikTok Shop上线的官方独家限定款产品——“比我前任还火辣 (Hotter Than My Ex)” 6碗装组合。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 熟悉并喜爱Buldak火鸡面品牌的年轻用户",
+      "嗜辣爱好者",
+      "寻求新奇特商品和限定款的TikTok用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "成分展示",
+      "尺寸容量",
+      "第三方背书",
+      "库存展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "新闻官宣 + 身份代入 + 独家稀缺",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 韩国三养Buldak火鸡面在TikTok Shop上线的官方独家限定款产品——“比我前任还火辣 (Hotter T。品类：厨房用品。人群：** 熟悉并喜爱Buldak火鸡面品牌的年轻用户、嗜辣爱好者、寻求新奇特商品和限定款的TikTok用户。。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、身份点名、低价占便宜。证明：**。风险：信任不足、无CTA。评分：7.0"
+}

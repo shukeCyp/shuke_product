@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7621508434801773855",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/balduqqulyp_7621508434801773855.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621508434801773855/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 47.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 汽车继电器测试仪（带电瓶夹）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 懂一点基础常识的燃油车主",
+      "喜欢DIY修车的男性用户",
+      "对汽修店高昂检查费感到不满的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景代入 + 痛点唤醒 + 行为阻断。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（提速优化版）：**\n    *   0-3s：痛点+产品结果前置（直接展示亮红灯和绿灯的对比）。\n    *   3-10s：抛出问题",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 汽车继电器测试仪（带电瓶夹）。。品类：男士护理。人群：** 懂一点基础常识的燃油车主、喜欢DIY修车的男性用户、对汽修店高昂检查费感到不满的消费者。。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：8.8"
+}

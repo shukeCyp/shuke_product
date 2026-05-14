@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7634006731214966030",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/tidymonsterclean_7634006731214966030.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634006731214966030/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 26.77,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 为 O-Cedar (好神拖) 品牌旋转拖把设计的可替换硬毛刷头，以及包含多个拖布头的组合套装。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 已经拥有 O-Cedar 旋转拖把的家庭用户",
+      "特别是对地板深度清洁（如瓷砖缝",
+      "踢脚线）有更高要求的“清洁控”(Cleantok) 人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "质地展示",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 为 O-Cedar (好神拖) 品牌旋转拖把设计的可替换硬毛刷头，以及包含多个拖布头的组合套装。。品类：家居清洁。人群：** 已经拥有 O-Cedar 旋转拖把的家庭用户、特别是对地板深度清洁（如瓷砖缝、踢脚线）有更高要求的“清洁控”(Cleantok) 人群。。视频类型：直播切片、质地实测、库存背书。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、卖点单一、无CTA。评分：9.0"
+}

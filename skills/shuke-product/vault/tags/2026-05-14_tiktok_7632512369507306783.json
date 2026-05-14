@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7632512369507306783",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/measuredmacros_7632512369507306783.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632512369507306783/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 57.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本实体版的、最新的 Rand McNally 品牌美国公路地图集，其中还包含国家公园指南。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "用户评价",
+      "第三方背书",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "怀旧认同 + 好奇心 + 权威回应 的复合钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本实体版的、最新的 Rand McNally 品牌美国公路地图集，其中还包含国家公园指南。。品类：厨房用品。人群：**。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：字幕不清、信任不足、无CTA。评分：7.6"
+}

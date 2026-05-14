@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7636575184987639071",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/victorshoplatin_7636575184987639071.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636575184987639071/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 66.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲 & 镜头清单（时长：约 45-60 秒）**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、低价占便宜、好奇悬念。风险：信任不足、无CTA。评分：8.8"
+}

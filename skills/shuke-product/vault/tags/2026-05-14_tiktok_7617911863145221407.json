@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7617911863145221407",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/06_时尚配件/mas_mario_magana_7617911863145221407.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617911863145221407/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 49.24,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款无孔、通过棘轮结构调节松紧的男士皮带。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 30岁以上",
+      "注重实用性和体面",
+      "对自己现有传统打孔皮带的开裂",
+      "变形感到烦恼的男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 (Pain Point Hook)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款无孔、通过棘轮结构调节松紧的男士皮带。。品类：男士护理。人群：** 30岁以上、注重实用性和体面、对自己现有传统打孔皮带的开裂。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、尴尬痛点、结果前置。证明：**。风险：字幕不清、信任不足、无CTA。评分：8.2"
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638645122023935245",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/gameloop.c8_7638645122023935245.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638645122023935245/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 大容量全透明拉链收纳箱。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家中衣物杂乱",
+      "换季收纳困难",
+      "缺乏储物空间的家庭主妇",
+      "租房党",
+      "居家成年人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极度场景冲突 + 好奇心 + 剧情反转。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "客厅",
+    "衣帽间）来证明",
+    "稍微降低了真实感"
+  ],
+  "cta": {
+    "text": "* 推入床底/衣柜顶棚的整洁画面。口播：“现在下单包邮直达，左下角直接抢！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "（剔除违规风险的安全爆款版）\n*   **适合渠道：** 信息流投放 (短平快版本)\n*   **复刻脚本大纲：**\n    *   *0-3s 钩子：* 女主",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 大容量全透明拉链收纳箱。。品类：男士护理。人群：** 家中衣物杂乱、换季收纳困难、缺乏储物空间的家庭主妇。视频类型：场景种草、痛点解决、效果前后对比。钩子：结果前置、好奇悬念、场景冲突。证明：客厅、衣帽间）来证明、稍微降低了真实感。风险：信任不足、功效宣称风险。评分：8.4"
+}

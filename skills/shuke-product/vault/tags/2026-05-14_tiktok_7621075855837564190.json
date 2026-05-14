@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7621075855837564190",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/meganluv777_7621075855837564190.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621075855837564190/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 84.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价",
+      "产品特写",
+      "成分展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "（适用于直播切片/商品卡投放）\n*   **改造建议**：原视频非常适合做混剪投放素材，建议提炼最“脆”的声音，加上强有力的痛点花字，并补充CTA。\n*   *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：食品饮料。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、结果前置、好奇悬念。风险：信任不足、无CTA。评分：8.8"
+}

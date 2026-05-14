@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7631391046731091213",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/savvyscroller_7631391046731091213.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631391046731091213/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 43.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** ACTIVE 品牌台式制冰机清洁泡腾片。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有家用或商用台式制冰机的用户",
+      "特别是那些关心卫生",
+      "但不知道或懒得清洁的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "结果前置",
+      "别划走",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "第三方背书",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** ACTIVE 品牌台式制冰机清洁泡腾片。。品类：家居清洁。人群：** 拥有家用或商用台式制冰机的用户、特别是那些关心卫生、但不知道或懒得清洁的用户。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、尴尬痛点、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

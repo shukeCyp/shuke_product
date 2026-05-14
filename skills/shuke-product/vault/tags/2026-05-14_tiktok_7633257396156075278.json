@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7633257396156075278",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/andro_diaz_7633257396156075278.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633257396156075278/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 44.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“Elev8 Creamy Rice”的健身代餐/预训练食品，主打多种甜品口味。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 健身爱好者",
+      "健美运动员",
+      "减脂塑形人群",
+      "以及寻求低卡路里",
+      "健康甜品替代品的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "剧情反转",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "产品特写",
+      "成分展示",
+      "第三方背书",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心 + 身份代入 的复合型钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“Elev8 Creamy Rice”的健身代餐/预训练食品，主打多种甜品口味。。品类：健康养生。人群：** 健身爱好者、健美运动员、减脂塑形人群。视频类型：直播切片、质地实测、测评对比。钩子：身份点名、结果前置、反常识。证明：**。风险：信任不足、无CTA。评分：8.8"
+}

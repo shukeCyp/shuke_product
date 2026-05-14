@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7637704047830633742",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/best_caribbean_seasoning_7637704047830633742.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637704047830633742/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 39.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 主要售卖一款带有金色金属镶边的装饰艺术风格（Art Deco）软包床架，次要可能售卖同款黄色褶皱床品四件套。",
+    "category": "其他",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 25-45岁",
+      "追求现代",
+      "轻奢",
+      "精致生活方式",
+      "注重家居美学和卧室氛围感的女性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 6.0,
+    "trust": 5.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 主要售卖一款带有金色金属镶边的装饰艺术风格（Art Deco）软包床架，次要可能售卖同款黄色褶皱床品四件套。。品类：其他。人群：** 25-45岁、追求现代、轻奢。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

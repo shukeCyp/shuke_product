@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7625493147002375455",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/linda.v41_7625493147002375455.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625493147002375455/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 30.49,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款复古设计风格的粉色便携式榨汁机/料理机（品牌：Homeleader）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 时间紧张",
+      "注重生活美学和饮食健康的年轻女性",
+      "特别是宝妈群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "质地展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 身份代入钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "真实",
+    "无剪辑花招",
+    "所见即所得",
+    "极大地增强了用户对产品的信任"
+  ],
+  "cta": {
+    "text": "“别等它卖光了……点击TikTok Shop的小黄车把它带回家”。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款复古设计风格的粉色便携式榨汁机/料理机（品牌：Homeleader）。。品类：健康养生。人群：** 时间紧张、注重生活美学和饮食健康的年轻女性、特别是宝妈群体。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、结果前置。证明：真实、无剪辑花招、所见即所得。风险：信任不足。评分：9.0"
+}

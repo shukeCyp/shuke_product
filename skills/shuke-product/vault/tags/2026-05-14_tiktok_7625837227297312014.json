@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7625837227297312014",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/sheneawalker_7625837227297312014.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625837227297312014/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 82.71,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** The Ordinary 品牌周边——一款设计简约的磨砂质感水瓶。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** The Ordinary 品牌的忠实用户",
+      "护肤爱好者",
+      "追求简约生活美学和高颜值日用品的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "成分展示",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 故事预告。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 清晰展示产品细节，满足用户的好奇心。“喝护肤品”的比喻，巧妙地将水瓶与品牌护肤的核心价值绑定，提升了产品的格调。最后给出明确的购买指引，完成转化闭环。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲：**\n    1.  **开头 (0-3s):** 直接亮出产品，说：“今天必须跟你们讲讲我和这个[产品名]的‘爱恨情仇’。”\n   ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** The Ordinary 品牌周边——一款设计简约的磨砂质感水瓶。。品类：美妆护肤。人群：** The Ordinary 品牌的忠实用户、护肤爱好者、追求简约生活美学和高颜值日用品的年轻女性。。视频类型：开箱展示、直播切片、剧情反转。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足。评分：8.6"
+}

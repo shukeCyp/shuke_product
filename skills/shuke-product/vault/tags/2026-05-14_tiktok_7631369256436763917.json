@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7631369256436763917",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/avlaa98_7631369256436763917.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631369256436763917/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 76.72,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** UGREEN（绿联）车载蓝牙音频接收器，通过AUX和USB接口为老旧汽车增加蓝牙功能。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有带AUX接口但无蓝牙功能的旧款汽车的车主",
+      "他们希望以低成本",
+      "简便的方式在车上无线播放音乐和接听电话。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** UGREEN（绿联）车载蓝牙音频接收器，通过AUX和USB接口为老旧汽车增加蓝牙功能。。品类：数码配件。人群：** 拥有带AUX接口但无蓝牙功能的旧款汽车的车主、他们希望以低成本、简便的方式在车上无线播放音乐和接听电话。。视频类型：直播切片、质地实测、剧情反转。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、卖点单一、无CTA。评分：9.0"
+}

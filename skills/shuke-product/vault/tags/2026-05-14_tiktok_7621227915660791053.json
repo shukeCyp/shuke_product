@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7621227915660791053",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/christinekil16_7621227915660791053.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621227915660791053/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 24.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带声光效果的四轮儿童电动平衡车/摩托车。",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家有1-3岁幼儿的父母",
+      "尤其是正在为孩子挑选第一辆代步玩具的宝妈。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景冲突。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "这比任何摆拍或明星代言都更具说服力",
+    "直接打动目标人群"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 3.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 1.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带声光效果的四轮儿童电动平衡车/摩托车。。品类：母婴宠物。人群：** 家有1-3岁幼儿的父母、尤其是正在为孩子挑选第一辆代步玩具的宝妈。。视频类型：直播切片、场景种草、痛点解决。钩子：场景冲突、结果前置、好奇悬念。证明：这比任何摆拍或明星代言都更具说服力、直接打动目标人群。风险：信任不足、无CTA。评分：4.6"
+}

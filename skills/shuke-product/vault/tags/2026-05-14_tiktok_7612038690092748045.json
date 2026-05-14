@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7612038690092748045",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/1ruralgoods_7612038690092748045.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612038690092748045/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 68.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款可以连接水管、通过浮阀自动续水、带排水孔易于清洁的不锈钢宠物（狗）饮水碗。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有庭院",
+      "露台或大型阳台的宠物主",
+      "尤其是饲养中大型犬",
+      "多只宠物",
+      "或因工作繁忙",
+      "懒惰而希望简化喂水流程的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "质地实测",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款可以连接水管、通过浮阀自动续水、带排水孔易于清洁的不锈钢宠物（狗）饮水碗。。品类：健康养生。人群：** 拥有庭院、露台或大型阳台的宠物主、尤其是饲养中大型犬。视频类型：直播切片、测评对比、质地实测。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

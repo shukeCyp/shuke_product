@@ -1,0 +1,100 @@
+{
+  "video_id": "2026-05-14_tiktok_7638849953309281550",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/wang2504ujg_7638849953309281550.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638849953309281550/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 35.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“Squishy Fun Box”的解压玩具盲盒，内含8种不同形状和触感的慢回弹、软弹感官玩具。",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 1）为孩子寻找新奇特玩具的家长",
+      "2）喜欢ASMR",
+      "解压",
+      "感官刺激的年轻女性和学生群体",
+      "3）需要办公桌解压小物件的白领。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "第三方背书",
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇心钩子 + 反差钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "尺寸等硬性参数",
+    "而是通过“我本想送礼",
+    "结果自留”的个人证言来建立信任",
+    "在种草视频中比冰冷的数据更具说服力"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“Squishy Fun Box”的解压玩具盲盒，内含8种不同形状和触感的慢回弹、软弹感官玩具。。品类：母婴宠物。人群：** 1）为孩子寻找新奇特玩具的家长、2）喜欢ASMR、解压。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：尺寸等硬性参数、而是通过“我本想送礼、结果自留”的个人证言来建立信任。风险：信任不足、无CTA。评分：8.0"
+}

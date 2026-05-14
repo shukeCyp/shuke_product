@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7632302139317980429",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/therealmason.us_7632302139317980429.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632302139317980429/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.23,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.5,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 6.0,
+    "purchase_impulse": 8.5,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1.  **0-2s 痛点/爽点并置**：特写满是油垢的烧烤网，直接上手刷，蒸汽爆发，滋滋作响。\n  2.  **3-6s 魔法",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、痛点解决、效果前后对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：7.8"
+}

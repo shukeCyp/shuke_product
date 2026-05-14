@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7638675618661485837",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/chillinos_7638675618661485837.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638675618661485837/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 68.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.5,
+    "trust": 8.5,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "（本土化改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、直播切片、清仓福利。钩子：场景冲突、好奇悬念、身份点名。风险：信任不足、无CTA。评分：9.1"
+}

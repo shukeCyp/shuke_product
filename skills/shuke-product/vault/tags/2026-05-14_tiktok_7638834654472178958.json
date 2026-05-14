@@ -1,0 +1,81 @@
+{
+  "video_id": "2026-05-14_tiktok_7638834654472178958",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/ernietheplutus_7638834654472178958.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638834654472178958/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 430.75,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "清仓福利",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "低价占便宜",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "如果你有问题在评论区问，点赞、转发、关注我获取更多投资技巧。 | 中近景口播。 | **转化作用**：明确的指令，榨取视频流量价值，完成私域/主页沉淀。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.5,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.1
+  },
+  "remake": {
+    "angle": "(针对个人IP引流/书籍带货)\n- **复刻脚本大纲 (适用于1.5-2分钟短视频)**：\n  1. **前置结果 (0-5s)**：直接展示今日高额收益截图（",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：清仓福利、痛点解决、质地实测。钩子：结果前置、场景冲突、低价占便宜。风险：信任不足。评分：8.1"
+}

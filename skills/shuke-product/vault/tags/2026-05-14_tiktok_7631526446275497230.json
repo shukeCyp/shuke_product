@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7631526446275497230",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/bpkioqariez_7631526446275497230.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631526446275497230/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.59,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 实体覆膜版地中海饮食计划/食谱指南套装（品牌：Sticque）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求健康饮食",
+      "有抗炎减脂需求",
+      "但缺乏时间做功课或不会搭配三餐的成年人（尤其是家庭主妇或健身",
+      "养生人群）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "前后对比",
+      "质地展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（诱人的美食） + 好奇/痛点（抗炎/健康黄金标准）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 详实的数据表是最大的背书；实物厚度和排版的展示证明了其内容含量非虚。"
+  ],
+  "cta": {
+    "text": "** 手指敲击购物车图标。“把健康厨房私教带回家，点击左下角！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（优化版）：**\n    1. **黄金3秒：** 展示一桌丰盛的地中海美食，接着将一本满是油污的普通食谱扔掉。\n    2. **引入",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 实体覆膜版地中海饮食计划/食谱指南套装（品牌：Sticque）。。品类：健康养生。人群：** 追求健康饮食、有抗炎减脂需求、但缺乏时间做功课或不会搭配三餐的成年人（尤其是家庭主妇或健身。视频类型：场景种草、痛点解决、效果前后对比。钩子：好奇悬念、场景冲突、身份点名。证明：** 详实的数据表是最大的背书；实物厚度和排版的展示证明了其内容含量非虚。。风险：信任不足。评分：8.0"
+}

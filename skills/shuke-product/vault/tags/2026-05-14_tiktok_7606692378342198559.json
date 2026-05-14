@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7606692378342198559",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/vinhbryhc5j_7606692378342198559.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7606692378342198559/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 35.16,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "运动党",
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**\n*   **复刻脚本大纲**：\n    1.  **钩子 (0-3s)**：展示一个车上塑料件严重松动、即将脱落的特写镜头。\n    2.  **痛点 (",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、低价占便宜、结果前置。风险：字幕不清、信任不足、无CTA。评分：9.0"
+}

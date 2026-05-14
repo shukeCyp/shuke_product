@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7616056056472505614",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/brianneoffgrid_7616056056472505614.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7616056056472505614/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 37.34,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 6.0,
+    "trust": 9.0,
+    "product_display": 1.0,
+    "purchase_impulse": 7.0,
+    "total": 6.0
+  },
+  "remake": {
+    "angle": "（优化后版本）\n**适合投放/自然流的改造建议**：保留实地探店的框架，但在片头和片尾必须补足**食欲诱惑**。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：场景种草、痛点解决、效果前后对比。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：6.0"
+}

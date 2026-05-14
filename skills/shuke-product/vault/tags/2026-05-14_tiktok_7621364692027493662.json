@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7621364692027493662",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/luiseltigree_7621364692027493662.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621364692027493662/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 49.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "**一款专为婴幼儿设计的，带有精致金属扣的西部牛仔风格儿童皮质腰带。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**家有1-3岁男童",
+      "且喜爱或认同西部牛仔（Vaquero）文化风格的年轻父母",
+      "特别是父亲。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 痛点提问。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** “Consigue el tuyo aquí” (在这里买你的)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n    1.  **[0-3s] 开篇钩子：** 特写儿童腰带扣，拉远到孩子全身帅气造型。\n    2.  **[3-10s] 卖点",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：**一款专为婴幼儿设计的，带有精致金属扣的西部牛仔风格儿童皮质腰带。。品类：服饰穿搭。人群：**家有1-3岁男童、且喜爱或认同西部牛仔（Vaquero）文化风格的年轻父母、特别是父亲。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足。评分：8.4"
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7634607929798315277",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/jackiesbooktally_7634607929798315277.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634607929798315277/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 48.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《The Auction》的暗黑言情小说（Dark Romance）的豪华精装收藏版。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 英文暗黑言情小说的女性读者",
+      "特别是喜爱“Zade”（另一本流行暗黑言情小说角色）这类偏执",
+      "反英雄男主的“Zade girlies”",
+      "并且是注重书籍颜值",
+      "有收藏特殊版本习惯的书籍爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《The Auction》的暗黑言情小说（Dark Romance）的豪华精装收藏版。。品类：美妆护肤。人群：** 英文暗黑言情小说的女性读者、特别是喜爱“Zade”（另一本流行暗黑言情小说角色）这类偏执、反英雄男主的“Zade girlies”。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：9.2"
+}

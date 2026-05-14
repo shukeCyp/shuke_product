@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7638103748622978334",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/pinksong6_7638103748622978334.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638103748622978334/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 30.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款无需外接电源、可连接手机/充电宝供电的便携式电动真空泵，及其配套的旅行衣物压缩收纳袋。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常出差旅行的“过度打包者”",
+      "需要换季收纳的家庭用户",
+      "行李空间有限的学生和租房党。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（overpackers）+ 好奇心（magic trick）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款无需外接电源、可连接手机/充电宝供电的便携式电动真空泵，及其配套的旅行衣物压缩收纳袋。。品类：美妆护肤。人群：** 经常出差旅行的“过度打包者”、需要换季收纳的家庭用户、行李空间有限的学生和租房党。。视频类型：直播切片、质地实测、剧情反转。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

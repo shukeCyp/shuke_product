@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7621694541879364895",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/life.with.chandni_7621694541879364895.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7621694541879364895/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 74.98,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 这是一条内容种草型视频，并未直接带货。但其核心展示了多个具有带货潜力的商品，主要包括：**1. Nescafé Gold 速溶浓缩咖啡粉**（核心解决方案",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求生活品质和仪式感",
+      "喜欢DIY饮品",
+      "希望在家复刻咖啡店体验",
+      "对价格敏感的年轻用户",
+      "尤其是女性用户和咖啡爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "质地展示",
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 痛点反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "（以主推“手持奶泡机”为例）**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 这是一条内容种草型视频，并未直接带货。但其核心展示了多个具有带货潜力的商品，主要包括：**1. Nescafé G。品类：食品饮料。人群：** 追求生活品质和仪式感、喜欢DIY饮品、希望在家复刻咖啡店体验。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、好奇悬念。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

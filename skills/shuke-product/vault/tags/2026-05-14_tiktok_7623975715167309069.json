@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7623975715167309069",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/martina.puckett_7623975715167309069.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623975715167309069/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 38.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具有弹力、全包裹设计的条纹（类似灯芯绒）质感沙发垫套。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "质地展示",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 痛点暗示",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 总结产品是“家庭救星”，进行价值升华。口播和手势共同构成了清晰的购买指令（Call To Action），引导用户点击购物车。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具有弹力、全包裹设计的条纹（类似灯芯绒）质感沙发垫套。。品类：家居清洁。人群：**。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、限时稀缺。证明：**。风险：信任不足。评分：8.0"
+}

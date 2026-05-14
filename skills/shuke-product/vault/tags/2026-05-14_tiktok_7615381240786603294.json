@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7615381240786603294",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/thevintagecaffe_7615381240786603294.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7615381240786603294/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.14,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似提供奢侈品包包代购/买手寻货服务（以香奈儿经典款翻盖包为例）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 具备一定消费能力",
+      "准备入手人生第一只香奈儿（或奢侈品包包）的女性用户群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "质地展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（准备买第一只香奈儿的人）+ 好奇提问（选哪种皮质？）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "钥匙刮擦测试等）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 6.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲（适用于高客单价/服务类商家）：**\n  1. 场景带入+提问（圈定人群）。\n  2. 产品A特写+主打痛点解决（实用主义）。\n  3. 产",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似提供奢侈品包包代购/买手寻货服务（以香奈儿经典款翻盖包为例）。。品类：美妆护肤。人群：** 具备一定消费能力、准备入手人生第一只香奈儿（或奢侈品包包）的女性用户群体。。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、好奇悬念、身份点名。证明：钥匙刮擦测试等）。风险：信任不足、无CTA。评分：7.0"
+}

@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7638830539264298270",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/brimillican_7638830539264298270.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638830539264298270/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.67,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有亮彩色荧光编织带设计的抹胸款比基尼套装。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢去海滩度假",
+      "追求个性亮眼穿搭",
+      "同时在意泳裤遮瑕度（高腰",
+      "包臀）的年轻至中青年女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "稀缺性/制造焦虑（FOMO） + 视觉冲击。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 主要依赖**细节特写**（近距离展示编织带）和**结构展示**（翻过来看背面布料的面积）。**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "*   **适合投放/自然流/直播切片的改造建议：**\n    *   此脚本结构非常适合直接做**直播切片**或**纯流放投流**。\n    *   **必须",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有亮彩色荧光编织带设计的抹胸款比基尼套装。。品类：美妆护肤。人群：** 喜欢去海滩度假、追求个性亮眼穿搭、同时在意泳裤遮瑕度（高腰。视频类型：场景种草、开箱展示、直播切片。钩子：限时稀缺、好奇悬念、身份点名。证明：** 主要依赖**细节特写**（近距离展示编织带）和**结构展示**（翻过来看背面布料的面积）。**。风险：信任不足、无CTA。评分：7.4"
+}

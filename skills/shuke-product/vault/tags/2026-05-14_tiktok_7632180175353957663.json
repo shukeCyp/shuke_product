@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7632180175353957663",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/gomamigo_7632180175353957663.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632180175353957663/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 58.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款集合了常规折叠刀和美工刀（梯形刀片）于一体的双功能、带背夹的便携金属工具刀。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 热爱户外活动",
+      "EDC（Everyday Carry",
+      "每日携带）装备的男性玩家",
+      "以及需要频繁开箱",
+      "切割的从业者（如快递员",
+      "仓库管理员",
+      "装修工人）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "库存震撼",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子。视频开头并未直接展示刀刃，而是展示一个结构看起来有些复杂的金属块，通过不断翻转来引发观众的好奇心：“这是什么？一个普通的折叠刀吗？好像又不太一样。”",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款集合了常规折叠刀和美工刀（梯形刀片）于一体的双功能、带背夹的便携金属工具刀。。品类：男士护理。人群：** 热爱户外活动、EDC（Everyday Carry、每日携带）装备的男性玩家。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、库存震撼、结果前置。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

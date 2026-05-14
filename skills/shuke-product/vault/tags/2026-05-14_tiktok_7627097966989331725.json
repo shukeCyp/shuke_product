@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7627097966989331725",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/vivora_coo_7627097966989331725.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7627097966989331725/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 30.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款可瞬间展开、自带收纳折叠成斜挎包的便携式户外折叠椅/马扎。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 户外休闲爱好者（钓鱼",
+      "露营）",
+      "家庭用户（带娃逛公园）",
+      "经常排队或观看比赛的人群",
+      "自驾车主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激（Affordable） + 好奇心制造（后备箱塞满同样的包） + 身份代入（为了全家人买）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（适合自然流/付费投放）\n1. **0-3s 黄金钩子：** 抛出痛点+展示魔法。画面：男子走累了，拿下身上的挎包一甩，瞬间变成凳子坐下。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款可瞬间展开、自带收纳折叠成斜挎包的便携式户外折叠椅/马扎。。品类：数码配件。人群：** 户外休闲爱好者（钓鱼、露营）、家庭用户（带娃逛公园）。视频类型：场景种草、价格刺激、痛点解决。钩子：场景冲突、低价占便宜、身份点名。证明：**。风险：信任不足、无CTA。评分：8.8"
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638048777898577166",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/tiziano.piuma_7638048777898577166.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638048777898577166/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 29.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 便携式迷你电动剃须刀。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 饱受传统手动剃须刀困扰（需要水和泡沫",
+      "容易刮伤",
+      "清理麻烦）",
+      "追求高效便捷和干净剃须体验的男性群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（直接剃） + 好奇心（Wait for it） + 听觉刺激（ASMR刮胡声）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 9.1
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲：\n1. **0-3s 黄金钩子：** 怼脸大特写，打开剃须刀直接在胡茬上推，放出清晰的“沙沙”声。\n2. **3-8s 制造对立：** ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 便携式迷你电动剃须刀。。品类：男士护理。人群：** 饱受传统手动剃须刀困扰（需要水和泡沫、容易刮伤、清理麻烦）。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足、无CTA。评分：9.1"
+}

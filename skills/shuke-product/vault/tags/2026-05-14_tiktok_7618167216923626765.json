@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7618167216923626765",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/crasze_7618167216923626765.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7618167216923626765/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 39.53,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本设计精美、内容结构化的《圣经学习指南》工具书。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 年轻的",
+      "喜欢做笔记和手账的基督徒女性",
+      "她们渴望更深入",
+      "系统地理解《圣经》的背景和意义",
+      "但可能觉得独立研究有难度。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心钩子 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本设计精美、内容结构化的《圣经学习指南》工具书。。品类：美妆护肤。人群：** 年轻的、喜欢做笔记和手账的基督徒女性、她们渴望更深入。视频类型：开箱展示、直播切片、场景种草。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：信任不足、无CTA"
+}

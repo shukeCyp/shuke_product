@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7620843520797986079",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/not_graceful_7620843520797986079.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7620843520797986079/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 售卖一款名为 Niphean 的户外防水包（溯溪包/干式包）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 户外水上运动爱好者",
+      "去海边",
+      "水上乐园游玩的人群",
+      "害怕玩水时手机进水或丢失贵重物品的人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "尺寸容量",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点植入 + 场景代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 9.5,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（总长 15-20秒，适合投流优化版）：**\n    1.  **0-2s 黄金三秒：** 直接把包死死按入水中。“别再用会漏水的塑料袋",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 售卖一款名为 Niphean 的户外防水包（溯溪包/干式包）。。品类：男士护理。人群：** 户外水上运动爱好者、去海边、水上乐园游玩的人群。视频类型：场景种草、开箱展示、痛点解决。钩子：结果前置、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：8.5"
+}

@@ -1,0 +1,102 @@
+{
+  "video_id": "2026-05-14_tiktok_7633367918910197022",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/capitaland011_7633367918910197022.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633367918910197022/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 34.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“QAW TOR”的多灯珠、大尺寸太阳能板一体式LED路灯。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有独立住宅",
+      "庭院",
+      "车库",
+      "农场或厂房",
+      "对户外照明有需求",
+      "且注重安装便利性和用电成本的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "产品特写",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党",
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "缺乏实测",
+    "前后对比",
+    "材质细节特写等建立信任的证据"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 8.0,
+    "trust": 0.0,
+    "product_display": 5.0,
+    "purchase_impulse": 4.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“QAW TOR”的多灯珠、大尺寸太阳能板一体式LED路灯。。品类：家居清洁。人群：** 拥有独立住宅、庭院、车库。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、低价占便宜、结果前置。证明：缺乏实测、前后对比、材质细节特写等建立信任的证据。风险：字幕不清、信任不足、无CTA。评分：5.2"
+}

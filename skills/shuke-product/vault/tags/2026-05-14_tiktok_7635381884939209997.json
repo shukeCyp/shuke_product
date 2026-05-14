@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7635381884939209997",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/destiny_wood1_7635381884939209997.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635381884939209997/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 38.57,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似推销一款带有柠檬/碎花图案的黄色带盖马克杯/保温杯。",
+    "category": "汽车用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 25-45岁已婚女性",
+      "宝妈群体",
+      "以及容易对“不被伴侣支持的女性”产生共情的泛娱乐受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "尴尬痛点",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（夫妻吵架现场） + 身份代入（试图做自媒体却被群嘲的普通人） + 猎奇心理。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "反向赋予了博主极高的人设真实度"
+  ],
+  "cta": {
+    "text": "** “小黄车已经挂了，今天谁买了这个杯子，就是帮我打脸那个自大的男人！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 1.0,
+    "trust": 7.0,
+    "product_display": 4.0,
+    "purchase_impulse": 3.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "（保留爆款基因，重塑带货逻辑）\n**改造建议：将“抱怨”转化为“证明”，把剧情流量洗成电商流量。**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似推销一款带有柠檬/碎花图案的黄色带盖马克杯/保温杯。。品类：汽车用品。人群：** 25-45岁已婚女性、宝妈群体、以及容易对“不被伴侣支持的女性”产生共情的泛娱乐受众。。视频类型：场景种草、痛点解决、效果前后对比。钩子：场景冲突、尴尬痛点、好奇悬念。证明：反向赋予了博主极高的人设真实度。风险：信任不足。评分：4.6"
+}

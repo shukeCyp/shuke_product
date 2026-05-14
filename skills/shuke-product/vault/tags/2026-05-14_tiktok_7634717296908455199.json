@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7634717296908455199",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/tacticaltxdad_7634717296908455199.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634717296908455199/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 66.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《One Minute With God for Men》（与神同行一分钟：男士版）的每日灵修/祷告读物。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 感觉生活忙碌",
+      "与信仰疏远",
+      "或正在经历内心挣扎的30-50岁男性基督徒。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 身份代入钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《One Minute With God for Men》（与神同行一分钟：男士版）的每日灵修/祷告读物。。品类：男士护理。人群：** 感觉生活忙碌、与信仰疏远、或正在经历内心挣扎的30-50岁男性基督徒。。视频类型：直播切片、场景种草、痛点解决。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、无CTA。评分：8.0"
+}

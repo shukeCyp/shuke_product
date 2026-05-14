@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633489503902092575",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/diana_mendez27_7633489503902092575.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633489503902092575/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 32.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 儿童（幼儿园/学前班）毕业典礼套装，包含毕业袍、毕业帽、绶带和毕业熊玩偶。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 家里有5-7岁即将毕业的孩子的家长",
+      "特别是正在为孩子寻找毕业典礼服装的母亲。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "库存背书",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点/需求解答型 + 身份代入型。 通过回复“6岁”用户的评论，直接命中有同样需求的用户群体。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 儿童（幼儿园/学前班）毕业典礼套装，包含毕业袍、毕业帽、绶带和毕业熊玩偶。。品类：数码配件。人群：** 家里有5-7岁即将毕业的孩子的家长、特别是正在为孩子寻找毕业典礼服装的母亲。。视频类型：直播切片、测评对比、库存背书。钩子：身份点名、结果前置、反常识。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7619037646530104606",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/yusnacabelloafro_7619037646530104606.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7619037646530104606/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 61.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "反常识",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 10
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 10.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲**:\n    1. **开篇痛点 (0-3s)**: 提出一个目标人群的身份/能力焦虑问题。\n    2. **问题深化 (3-10",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：直播切片、场景种草、痛点解决。钩子：场景冲突、身份点名、尴尬痛点。风险：信任不足、无CTA。评分：9.4"
+}

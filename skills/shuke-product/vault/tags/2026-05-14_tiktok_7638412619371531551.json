@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638412619371531551",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/reealblessing_7638412619371531551.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638412619371531551/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 108.74,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本名为《Spiritual Warfare Prayers》（属灵争战祷告）的英文祷告书籍。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 面临工作",
+      "职业困境",
+      "感到焦虑",
+      "迷茫",
+      "且有基督教信仰或对祷告寻求精神慰藉的英语用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "质地实测",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "低价占便宜",
+      "尴尬痛点",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 痛点钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** \"comment 'Amen' if you receive it\" (如果你接收到这个祷告，请评论“阿门”) - 用于提升视频互动率和完播率。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本名为《Spiritual Warfare Prayers》（属灵争战祷告）的英文祷告书籍。。品类：数码配件。人群：** 面临工作、职业困境、感到焦虑。视频类型：直播切片、测评对比、质地实测。钩子：身份点名、低价占便宜、尴尬痛点。证明：**。风险：信任不足。评分：7.8"
+}

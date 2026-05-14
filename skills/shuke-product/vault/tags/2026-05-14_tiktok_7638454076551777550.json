@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638454076551777550",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/yuliya_jinn_7638454076551777550.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638454076551777550/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 50.78,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似推广/带货 **MUCAR 632 汽车OBD2诊断仪**（通过展现博主身份获取的免费福利来种草）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有车的男性群体（直接使用者）",
+      "寻找送礼灵感的已婚女性（情感代入者）",
+      "想做自媒体的女性（共鸣者）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突（伴侣反对做博主） + 好奇心（“给他看这个视频”）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 故障灯熄灭，老公狂夸老婆买得好。引导左下角下单。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 7.0,
+    "purchase_impulse": 4.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "（如果是为了直接卖货）\n*   **复刻脚本大纲（夫妻送礼实测流）：**\n    1.  **痛点/展示：** 老公面对亮起的发动机故障灯发愁。\n    2. ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似推广/带货 **MUCAR 632 汽车OBD2诊断仪**（通过展现博主身份获取的免费福利来种草）。。品类：男士护理。人群：** 有车的男性群体（直接使用者）、寻找送礼灵感的已婚女性（情感代入者）、想做自媒体的女性（共鸣者）。。视频类型：场景种草、价格刺激、清仓福利。钩子：低价占便宜、好奇悬念、场景冲突。证明：**。风险：信任不足。评分：7.0"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7635684808533740831",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/wildernessoutdoormedia_7635684808533740831.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635684808533740831/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Fandango（美国票务平台）的电影代金券/折扣码，专门针对5月8日上映的一部3D演唱会电影。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢看演唱会的人群",
+      "特定歌手",
+      "乐队的粉丝",
+      "电影爱好者",
+      "寻找优惠折扣的羊毛党。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入（强烈的主观体验分享）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** **极弱。** 视频全凭创作者的一面之词（“I felt like”）。"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 8.0,
+    "trust": 6.0,
+    "product_display": 0.0,
+    "purchase_impulse": 7.0,
+    "total": 5.2
+  },
+  "remake": {
+    "angle": "（如果我们要重新拍摄这条内容）\n*   **复刻脚本大纲（加入视觉优化）：**\n    *   0-3s 钩子：拿着两张20美元钞票和一张5美元钞票在镜头前晃动",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Fandango（美国票务平台）的电影代金券/折扣码，专门针对5月8日上映的一部3D演唱会电影。。品类：数码配件。人群：** 喜欢看演唱会的人群、特定歌手、乐队的粉丝。视频类型：场景种草、价格刺激、清仓福利。钩子：限时稀缺、低价占便宜、好奇悬念。证明：** **极弱。** 视频全凭创作者的一面之词（“I felt like”）。。风险：信任不足、无CTA。评分：5.2"
+}

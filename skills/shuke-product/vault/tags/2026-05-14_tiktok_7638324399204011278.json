@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7638324399204011278",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/ctemotivation_7638324399204011278.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638324399204011278/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 99.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款无需床箱（Box Spring）、易于安装的软包拉扣雪橇床架（Upholstered Tufted Sleigh Bed Frame）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "**"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价",
+      "尺寸容量",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点叙事 + 场景冲突。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款无需床箱（Box Spring）、易于安装的软包拉扣雪橇床架（Upholstered Tufted Sleig。品类：男士护理。人群：**。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、结果前置、限时稀缺。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

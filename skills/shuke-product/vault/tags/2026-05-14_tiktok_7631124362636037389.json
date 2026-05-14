@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7631124362636037389",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/saifulislamarkani_7631124362636037389.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631124362636037389/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 16.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "成分展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 / 颜值暴击。视频没有使用传统的痛点或悬念钩子，而是直接用高颜值的异域风情服饰上身效果“直给”。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是实物拍摄）"
+  ],
+  "cta": {
+    "text": "* \"Available in 2 colors. Tap link below to shop! 🛒\" (两色可选，点击左下角购买)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 6.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 4.0,
+    "total": 6.2
+  },
+  "remake": {
+    "angle": "（投流/带货改造建议）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、痛点解决。钩子：结果前置、场景冲突、好奇悬念。证明：而是实物拍摄）。风险：信任不足。评分：6.2"
+}

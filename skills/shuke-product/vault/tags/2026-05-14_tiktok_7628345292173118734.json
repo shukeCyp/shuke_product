@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7628345292173118734",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/masvir.go2_7628345292173118734.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628345292173118734/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 44.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为 \"THE WEEK\" (星期系列) 的毛绒公仔挂件盲盒。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 视频明确提及 \"alt Y2K baddie\"",
+      "即追求小众",
+      "非主流",
+      "Y2K（千禧年复古）风格的年轻女性",
+      "她们热衷于潮玩",
+      "盲盒",
+      "个性配饰。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "测评对比",
+      "质地实测",
+      "直播切片",
+      "场景种草",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入钩子 (Identity Hook)。通过直接喊话 \"alt Y2K baddie\"（非主流Y2K辣妹），为产品和用户贴上精准的身份标签。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为 \"THE WEEK\" (星期系列) 的毛绒公仔挂件盲盒。。品类：服饰穿搭。人群：** 视频明确提及 \"alt Y2K baddie\"、即追求小众、非主流。视频类型：开箱展示、测评对比、质地实测。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

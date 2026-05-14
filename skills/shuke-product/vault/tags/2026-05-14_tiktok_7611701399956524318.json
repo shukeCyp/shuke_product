@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7611701399956524318",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/claratystephens_7611701399956524318.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7611701399956524318/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 71.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款集制冰、脱模、储冰、分发于一体的多功能、可堆叠式冰格套装（包含三层冰格、一个储冰盒、一个按压盖板和一个冰铲）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求生活便利性",
+      "讨厌传统冰格取冰困难",
+      "家中没有自动制冰机的家庭用户",
+      "租房党及年轻消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 场景冲突。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款集制冰、脱模、储冰、分发于一体的多功能、可堆叠式冰格套装（包含三层冰格、一个储冰盒、一个按压盖板和一个冰铲）。。品类：家居清洁。人群：** 追求生活便利性、讨厌传统冰格取冰困难、家中没有自动制冰机的家庭用户。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、限时稀缺。证明：**。风险：信任不足、无CTA。评分：8.8"
+}

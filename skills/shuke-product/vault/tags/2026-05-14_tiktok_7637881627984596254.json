@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7637881627984596254",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/lory2584_7637881627984596254.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637881627984596254/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 户外/车载伞绳束紧器套装（Rope Roller / 包含金属束紧扣+荧光绿伞绳）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 男性",
+      "皮卡",
+      "越野车车主",
+      "户外露营爱好者",
+      "经常需要固定货物的实用主义者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "库存展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 悬念盲盒式开局。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 9.5,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.3
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（优化版：痛点-解决-细节-促销）：\n1. **0-3s 痛点钩子：** 扔掉乱成一团的弹力绳，抛出痛点。\n2. **3-8s 方案展示：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 户外/车载伞绳束紧器套装（Rope Roller / 包含金属束紧扣+荧光绿伞绳）。。品类：男士护理。人群：** 男性、皮卡、越野车车主。视频类型：场景种草、开箱展示、价格刺激。钩子：场景冲突、好奇悬念、身份点名。风险：信任不足、无CTA。评分：8.3"
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7625148308993985823",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/elite_finds7_7625148308993985823.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7625148308993985823/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 40.08,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款主打复古氛围感、具备翻转屏和多种功能的平价4K数码相机。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求照片风格化",
+      "喜欢自拍和Vlog",
+      "预算有限的Z世代年轻人及学生群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "别划走"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "运动党",
+      "省钱党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 5.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲:**\n    1.  **开头 (0-3s):** 快速展示3-5张用此相机拍摄的精美复古照片/视频片段。\n    2.  **点题",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款主打复古氛围感、具备翻转屏和多种功能的平价4K数码相机。。品类：数码配件。人群：** 追求照片风格化、喜欢自拍和Vlog、预算有限的Z世代年轻人及学生群体。。视频类型：直播切片、测评对比、库存背书。钩子：结果前置、好奇悬念、限时稀缺。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

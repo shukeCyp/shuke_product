@@ -1,0 +1,82 @@
+{
+  "video_id": "2026-05-14_tiktok_7626794716021017887",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/roselyrome_7626794716021017887.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626794716021017887/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 56.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "测评对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（总时长控制在30-40秒内）**：\n    1.  **0-3s 痛点/悬念**：“跑了7家店都没买到这个爆火盲盒，今天终于在网上抢到",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、开箱展示、痛点解决。钩子：结果前置、好奇悬念、限时稀缺。风险：信任不足、无CTA。评分：8.6"
+}

@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7631279267552267534",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/moresuprasneakers_7631279267552267534.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7631279267552267534/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "库存展示"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 8.0,
+    "trust": 8.0,
+    "product_display": 5.0,
+    "purchase_impulse": 7.0,
+    "total": 6.6
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（优化版）\n1.  **0-3s 黄金钩子**：拿着鞋子怼脸，搭配劲爆反季价格花字。\n2.  **3-8s 上脚展示**：切入一段女生光脚",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、结果前置、好奇悬念。风险：信任不足、无CTA。评分：6.6"
+}

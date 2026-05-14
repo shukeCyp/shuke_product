@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7632167208893828383",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/julesk3701_7632167208893828383.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632167208893828383/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 27.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款豹纹图案、宽肩带设计的婴儿背巾（Sling Carrier）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 备孕",
+      "孕期及新生儿的妈妈",
+      "特别是曾被传统婴儿背带（如腰凳",
+      "窄肩带背带）困扰",
+      "导致肩颈或背部疼痛的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 反差钩子。",
+    "first_3s_text": "** **能留住用户**。这个钩子设计非常巧妙，它没有平铺直叙地介绍产品，而是先建立了一个所有妈妈都可能遇到的“敌人”（不舒服的背带），迅速与观众建立情感共鸣，让有同样经历的用户感觉“她懂我”，从而愿意花时间看下去，期待她给出的解决方案。",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款豹纹图案、宽肩带设计的婴儿背巾（Sling Carrier）。。品类：数码配件。人群：** 备孕、孕期及新生儿的妈妈、特别是曾被传统婴儿背带（如腰凳。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

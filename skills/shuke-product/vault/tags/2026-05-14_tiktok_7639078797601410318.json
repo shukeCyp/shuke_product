@@ -1,0 +1,96 @@
+{
+  "video_id": "2026-05-14_tiktok_7639078797601410318",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/hasslotumismo_7639078797601410318.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639078797601410318/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 51.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款便携式车载冰箱（电冰桶）。",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 长途自驾爱好者",
+      "皮卡车主",
+      "户外露营玩家",
+      "需要长距离运输少量冷藏物品的从业者（如建筑工人",
+      "卡车司机）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "直播切片",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** \"Ustedes pueden agarrar las de ustedes... en la tienda de TikTok.\" (你们可以买到你们的",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 9.0,
+    "product_display": 6.0,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款便携式车载冰箱（电冰桶）。。品类：健康养生。人群：** 长途自驾爱好者、皮卡车主、户外露营玩家。视频类型：开箱展示、质地实测、直播切片。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足。评分：7.6"
+}

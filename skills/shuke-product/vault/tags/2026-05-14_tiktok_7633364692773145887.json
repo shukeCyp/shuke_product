@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7633364692773145887",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/hibbentlife_7633364692773145887.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633364692773145887/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 17.41,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款具备方形顶喷（雨淋模式）和手持多功能花洒的现代简约风（哑光黑）淋浴系统。",
+    "category": "身体护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求生活品质",
+      "希望提升居家幸福感的年轻用户",
+      "特别是正在装修或计划升级卫浴间的租房党和房主。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型钩子 + 感官刺激型钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "而是通过“眼见为实”的方式让用户相信产品效果",
+    "但信任背书相对较弱"
+  ],
+  "cta": {
+    "text": "** 展示产品全貌和高级质感，叠加“xx元，享五星沐浴体验”和限时优惠信息。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 10.0,
+    "purchase_impulse": 7.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款具备方形顶喷（雨淋模式）和手持多功能花洒的现代简约风（哑光黑）淋浴系统。。品类：身体护理。人群：** 追求生活品质、希望提升居家幸福感的年轻用户、特别是正在装修或计划升级卫浴间的租房党和房主。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、限时稀缺。证明：而是通过“眼见为实”的方式让用户相信产品效果、但信任背书相对较弱。风险：信任不足。评分：8.2"
+}

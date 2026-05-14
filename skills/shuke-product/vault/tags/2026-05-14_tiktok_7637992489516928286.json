@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7637992489516928286",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/pesca_con_javi_oficial_7637992489516928286.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637992489516928286/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 50.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "库存展示",
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. **0-5s 震撼开箱**：重摔工具箱+开箱展示+亮出底价（形成极高性价比认知）。\n  2. **5-20s 清单式炫耀*",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：男士护理。视频类型：场景种草、开箱展示、价格刺激。钩子：限时稀缺、低价占便宜、好奇悬念。风险：信任不足、无CTA。评分：8.6"
+}

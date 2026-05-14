@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7613566311804767519",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/fastbrainwildheart_7613566311804767519.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7613566311804767519/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 288.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "库存背书",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "身份点名",
+      "别划走",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写",
+      "库存展示",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.5,
+    "trust": 9.0,
+    "product_display": 7.5,
+    "purchase_impulse": 8.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（修正了原版的缺点）：**\n1.  **0-3s 黄金钩子**：展示成品+神仙细节（如原版，压盖子）。\n2.  **3-8s 痛点引入**：传统",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：场景种草、开箱展示、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。风险：口播缺失、信任不足、无CTA。评分：8.5"
+}

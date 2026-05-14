@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7633152171885874462",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/mollysdealsandfinds_7633152171885874462.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633152171885874462/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 45.65,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 美国作家 Kelsie Rae 的两个关联言情小说系列：《The Little Things》系列和《Don't Let Me》系列。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 英语言情小说读者（尤其是“BookTok”社群用户）",
+      "Kelsie Rae 的现有粉丝",
+      "喜欢“系列宇宙”和“子代文”设定的年轻女性读者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（“我是铁粉”）+ 结果展示（一大摞书）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 美国作家 Kelsie Rae 的两个关联言情小说系列：《The Little Things》系列和《Don't 。品类：美妆护肤。人群：** 英语言情小说读者（尤其是“BookTok”社群用户）、Kelsie Rae 的现有粉丝、喜欢“系列宇宙”和“子代文”设定的年轻女性读者。。视频类型：直播切片、测评对比、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：字幕不清、信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7636795660330732831",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/12_居家日用/dianedantinmomlife_7636795660330732831.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636795660330732831/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 41.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款心形设计、带有卡通蜜蜂图案和感谢语的亚克力（树脂）桌面摆件，作为送给老师的感谢礼物。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 孩子即将学年结束",
+      "正在寻找或考虑为老师准备礼物的学生家长（尤其是母亲）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 身份代入。视频开头的问句“你还在想该送什么礼物给那位老师吗？”精准地击中了目标用户在特定时期（学年末）的普遍痛点。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款心形设计、带有卡通蜜蜂图案和感谢语的亚克力（树脂）桌面摆件，作为送给老师的感谢礼物。。品类：服饰穿搭。人群：** 孩子即将学年结束、正在寻找或考虑为老师准备礼物的学生家长（尤其是母亲）。。视频类型：直播切片、场景种草、价格刺激。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

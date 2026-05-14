@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7637810123926146318",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/24_家纺布艺/dreamhome_jane_7637810123926146318.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637810123926146318/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 26.68,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款主打清凉、舒适、加厚、能提升睡眠质量的竹纤维床垫保护套（床褥）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 睡眠质量不佳",
+      "嫌弃现有床垫过硬或过热",
+      "追求酒店般睡眠体验",
+      "有轻微腰背不适的年轻及中年用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "反常识",
+      "别划走",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 好奇心钩子。 开头五个穿着睡衣的女生像开派对一样铺床单，这个场景非常不日常，极具戏剧性，能瞬间抓住用户眼球，引发“她们在干嘛？”的好奇心，从而有效",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 4.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款主打清凉、舒适、加厚、能提升睡眠质量的竹纤维床垫保护套（床褥）。。品类：家居清洁。人群：** 睡眠质量不佳、嫌弃现有床垫过硬或过热、追求酒店般睡眠体验。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、结果前置、反常识。证明：**。风险：信任不足、功效宣称风险、无CTA。评分：7.2"
+}

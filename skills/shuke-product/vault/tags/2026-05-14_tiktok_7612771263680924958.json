@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7612771263680924958",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/leeleenc29_7612771263680924958.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7612771263680924958/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 111.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** Pet Pivot 品牌的 AutoScooper 12 全自动猫砂盆（并与旧款 AutoScooper 11 进行升级对比）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养猫人群",
+      "特别是已经被传统猫砂盆或旧款自动猫砂盆的“清理麻烦",
+      "换袋困难",
+      "占空间”等痛点困扰的铲屎官。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "价格跳水"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 悬念（对比好奇）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "（适合投放短视频的改造）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** Pet Pivot 品牌的 AutoScooper 12 全自动猫砂盆（并与旧款 AutoScooper 11 进。品类：家居清洁。人群：** 养猫人群、特别是已经被传统猫砂盆或旧款自动猫砂盆的“清理麻烦、换袋困难。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、好奇悬念、价格跳水。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

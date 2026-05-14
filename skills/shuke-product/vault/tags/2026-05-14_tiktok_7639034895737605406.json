@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7639034895737605406",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/15_儿童时尚/paul.soles_7639034895737605406.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639034895737605406/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 55.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "库存震撼"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.5
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（30秒紧凑版）**：\n    1.  **0-3s 痛点/反差钩子**：直接怼脸展示最好看的隐藏款（如佐助款的碎玻璃），制造视觉震撼。",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：服饰穿搭。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、低价占便宜、好奇悬念。风险：字幕不清、口播缺失、信任不足。评分：8.5"
+}

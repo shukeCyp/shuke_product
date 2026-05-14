@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7638290474104524045",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/.duffman_2.0_7638290474104524045.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638290474104524045/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 男士防晒/凉感长袖T恤（UPF 50+、吸湿排汗、高弹力）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 讨厌炎热",
+      "有户外活动需求或防晒需求",
+      "但反感传统厚重长袖的男性用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "反常识",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点共鸣 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲：**\n1. **0-3s 钩子**：抛出痛点+穿着展示（找对衣服了）。\n2. **4-10s 痛点转折**：陈述普通长袖的缺点，引出本款UPF",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 男士防晒/凉感长袖T恤（UPF 50+、吸湿排汗、高弹力）。。品类：男士护理。人群：** 讨厌炎热、有户外活动需求或防晒需求、但反感传统厚重长袖的男性用户。。视频类型：场景种草、价格刺激、痛点解决。钩子：场景冲突、反常识、结果前置。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

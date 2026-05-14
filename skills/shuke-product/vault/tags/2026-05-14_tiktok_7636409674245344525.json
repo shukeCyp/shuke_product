@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7636409674245344525",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/17_箱包/charlies.angel730_7636409674245344525.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636409674245344525/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 78.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款设计为复古嬉皮士面包车（大众T1巴士）造型的、色彩鲜艳的绗缝布艺旅行包/手提包。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求个性",
+      "复古风格",
+      "喜欢鲜艳色彩的女性用户",
+      "年龄跨度较大",
+      "从年轻人到心态年轻的中老年人均可覆盖。尤其适合作为礼物购买者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "用户评价",
+      "尺寸容量",
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 结果展示。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款设计为复古嬉皮士面包车（大众T1巴士）造型的、色彩鲜艳的绗缝布艺旅行包/手提包。。品类：数码配件。人群：** 追求个性、复古风格、喜欢鲜艳色彩的女性用户。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

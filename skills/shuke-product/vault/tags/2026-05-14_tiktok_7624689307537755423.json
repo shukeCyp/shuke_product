@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7624689307537755423",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/jax.haven6_7624689307537755423.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7624689307537755423/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 40.91,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 男士酸洗（Acid Wash）重磅纯棉落肩宽大款（Oversized）T恤4件装组合。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求日常穿着舒适度",
+      "喜欢街头休闲风",
+      "或有掩盖身材缺点（如肚腩",
+      "激凸）需求的男性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "库存展示",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点展示 + 场景冲突 + 身份代入。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "达人戴着领夹麦的真实口播评测感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 9.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "#### 复刻脚本大纲（25-30秒紧凑版）\n1.  **痛点（0-3s）：** 达人穿紧身衣，费力往下扯衣服盖肚子，字幕：“还在穿显胖的紧身T恤？”\n2.  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 男士酸洗（Acid Wash）重磅纯棉落肩宽大款（Oversized）T恤4件装组合。。品类：男士护理。人群：** 追求日常穿着舒适度、喜欢街头休闲风、或有掩盖身材缺点（如肚腩。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。证明：达人戴着领夹麦的真实口播评测感。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7633180495282441503",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/05_电脑办公/mauimousemama_7633180495282441503.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633180495282441503/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 108.39,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一本专为护理专业学生设计的、全彩图解、高度总结的超厚复习笔记实体书（包含400+页，涵盖药理学、解剖学、各类疾病系统等）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 正在就读护理专业的学生（Nursing students）",
+      "准备护士资格考试（如NCLEX）的准护士。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "手残党",
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（直接呼叫人群） + 结果展示（直接亮出整理好的终极笔记） + 视觉冲击（极速翻阅厚重书本）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用任何硬核学习资料/工具书）：**\n    1.  **0-3s 身份拦截：** 极速翻书/展示资料厚度，固定字条标明受众（如：考研",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一本专为护理专业学生设计的、全彩图解、高度总结的超厚复习笔记实体书（包含400+页，涵盖药理学、解剖学、各类疾病系。品类：美妆护肤。人群：** 正在就读护理专业的学生（Nursing students）、准备护士资格考试（如NCLEX）的准护士。。视频类型：场景种草、开箱展示、痛点解决。钩子：好奇悬念、场景冲突、身份点名。证明：**。风险：信任不足、无CTA。评分：9.4"
+}

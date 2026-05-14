@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7635004057886690591",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/backwoodsbargains_7635004057886690591.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635004057886690591/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 44.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 虚拟商品/抵扣券——通过TikTok Shop售卖的 Fandango（美国在线票务平台）25美元电影代金券（实际售价20美元），专门用于观看 Billi",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Billie Eilish的粉丝",
+      "喜欢现场音乐的受众",
+      "寻找票务折扣的电影爱好者",
+      "重度TikTok Shop用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（直接呼叫粉丝群体）+ 稀缺机会展示（\"Now is your chance\"）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 3
+  },
+  "selling_points": [],
+  "proof_points": [
+    "** 唯一的可信度在于达人本人的出镜状态（领夹麦克风显示了一定的专业度）以及口播中提到的“官方合作（"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 3.0,
+    "clarity": 8.0,
+    "trust": 5.0,
+    "product_display": 0.0,
+    "purchase_impulse": 4.0,
+    "total": 4.0
+  },
+  "remake": {
+    "angle": "（如果是同类票务/代金券带货）\n- **复刻脚本大纲：**\n    1.  0-3s: 痛点/低价钩子（抛出原价痛点，展示极具吸引力的现价）。\n    2.  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 虚拟商品/抵扣券——通过TikTok Shop售卖的 Fandango（美国在线票务平台）25美元电影代金券（实际。品类：数码配件。人群：** Billie Eilish的粉丝、喜欢现场音乐的受众、寻找票务折扣的电影爱好者。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。证明：** 唯一的可信度在于达人本人的出镜状态（领夹麦克风显示了一定的专业度）以及口播中提到的“官方合作（。风险：信任不足、无CTA。评分：4.0"
+}

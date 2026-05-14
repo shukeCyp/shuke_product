@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7638672227231124766",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/knittingcultladycaptain_7638672227231124766.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638672227231124766/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 404.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 创作者自己撰写的书籍《The Culting of America: What Makes a Cult and Why We Love Them》（实体",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 强烈关注美国政治",
+      "偏左翼",
+      "对社会现状感到焦虑",
+      "对“邪教心理学”和“政治操控”感兴趣的深度阅读人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 情绪共鸣 + 视觉反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "** 提及自己的畅销成就或专业头衔，引导点击左下角购买。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 4.0,
+    "purchase_impulse": 7.0,
+    "total": 6.8
+  },
+  "remake": {
+    "angle": "(针对商业切片/投流改造建议)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 创作者自己撰写的书籍《The Culting of America: What Makes a Cult and 。品类：数码配件。人群：** 强烈关注美国政治、偏左翼、对社会现状感到焦虑。视频类型：场景种草、效果前后对比、痛点解决。钩子：好奇悬念、场景冲突、身份点名。风险：信任不足。评分：6.8"
+}

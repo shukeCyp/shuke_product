@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7638814767838235917",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/user772961973731_7638814767838235917.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638814767838235917/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 225.2,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 实体书《People Skills》（人际交往能力），一本教人提升情商、识人技巧和应对人际冲突策略的心理/社交类工具书。",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 在生活中常感到自己“太老实”",
+      "“讨好型人格”",
+      "容易被欺负",
+      "不善于处理人际冲突",
+      "渴望提升社交手腕和防御他人PUA的成年人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "道歉钩子",
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "悬疑反差 + 暗黑心理学（场景冲突与结果预告）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用于图书、情商课、心理咨询引流）：**\n1.  **【奇袭钩子 0-3s】** 抛出一个极具争议的反击策略预告。\n2.  **【高智商爽文实",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 实体书《People Skills》（人际交往能力），一本教人提升情商、识人技巧和应对人际冲突策略的心理/社交类工。品类：厨房用品。人群：** 在生活中常感到自己“太老实”、“讨好型人格”、容易被欺负。视频类型：场景种草、直播切片、痛点解决。钩子：道歉钩子、结果前置、场景冲突。证明：**。风险：信任不足、无CTA。评分：7.8"
+}

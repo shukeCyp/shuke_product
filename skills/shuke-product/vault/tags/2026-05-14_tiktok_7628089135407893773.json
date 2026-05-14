@@ -1,0 +1,83 @@
+{
+  "video_id": "2026-05-14_tiktok_7628089135407893773",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/parker.evy_7628089135407893773.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7628089135407893773/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 43.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 9.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲**：\n    1.  **开头悬念**（3s）：第一人称拽拉打不开柜子+字幕痛点（隐形防娃神器）。\n    2.  **核心魔法**（",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：场景种草、直播切片、痛点解决。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、无CTA。评分：9.2"
+}

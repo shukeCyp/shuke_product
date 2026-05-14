@@ -1,0 +1,98 @@
+{
+  "video_id": "2026-05-14_tiktok_7637785620982631694",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/sandraslifevlogs_7637785620982631694.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637785620982631694/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 59.12,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一系列带有卡通表情的、可挤压发声的解压玩具（俗称“捏捏乐”或“Smusher”）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求感官刺激",
+      "喜欢ASMR音效",
+      "有解压需求的年轻用户",
+      "如学生",
+      "白领。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "用户评价",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。视频开场直接展示了挤压玩具时最核心、最爽的瞬间（结果），同时独特的ASMR声音配合“Volume up”字幕，强烈激发了用户的好奇心，",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "尺寸",
+    "品牌等信息",
+    "信任感完全建立在“眼见为实",
+    "耳听为真”的感官体验上"
+  ],
+  "cta": {
+    "text": "** 镜头指向屏幕左下角的小黄车，配音：“库存不多，快点击左下角带走你的解压神器！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 5.0,
+    "product_display": 9.0,
+    "purchase_impulse": 4.0,
+    "total": 7.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一系列带有卡通表情的、可挤压发声的解压玩具（俗称“捏捏乐”或“Smusher”）。。品类：美妆护肤。人群：** 追求感官刺激、喜欢ASMR音效、有解压需求的年轻用户。视频类型：直播切片、质地实测、库存背书。钩子：场景冲突、身份点名、结果前置。证明：尺寸、品牌等信息、信任感完全建立在“眼见为实。风险：口播缺失、信任不足。评分：7.0"
+}

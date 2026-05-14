@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7607650430109207822",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/16_厨房用品/cici.2028_7607650430109207822.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7607650430109207822/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 39.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "成分展示"
+    ],
+    "audience_tags": [
+      "手残党",
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 9.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "如果团队要复刻这个爆款，建议进行升级改造：\n- **复刻脚本大纲（痛点+爽点+打消顾虑）**：\n  - 0-3s（钩子）：特写压爆一颗大石榴，鲜红果汁飙出。\n ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、好奇悬念、身份点名。风险：口播缺失、信任不足、无CTA。评分：7.6"
+}

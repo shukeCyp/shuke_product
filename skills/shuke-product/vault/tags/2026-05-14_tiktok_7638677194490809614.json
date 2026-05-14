@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7638677194490809614",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/27_汽车摩托车/user5671432255800_7638677194490809614.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638677194490809614/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 49.88,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "清仓福利",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "前后对比",
+      "尺寸容量",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "宝妈党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "- **需要拍摄的镜头清单**：\n  1. 演员A用软弱无力的水管洗地，表情烦躁。演员B入画打断。\n  2. 产品安装卡扣的特写（咔哒声收音）。\n  3. 5-",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：家居清洁。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、结果前置、好奇悬念。风险：信任不足、无CTA。评分：9.0"
+}

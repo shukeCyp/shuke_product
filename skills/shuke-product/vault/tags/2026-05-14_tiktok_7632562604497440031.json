@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7632562604497440031",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/imperfect.barbie_7632562604497440031.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632562604497440031/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.26,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 透明复古果冻高跟凉鞋（Jelly Slides）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求Y2K千禧风复古穿搭的年轻女性",
+      "对童年流行单品有怀旧情结的女性群体",
+      "喜欢ASMR（走路声音）的受众。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "质地展示"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（“我们小时候穿的”）、情绪共鸣（怀旧）、高能情绪感染。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "场景（地毯与硬地板的声音对比",
+    "极具生活气息的真实感）"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 7.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "（适合短视频商家/达人带货）\n*   **复刻脚本大纲：**\n    1.  **高能展示（0-3s）：** 手持商品，以极高的情绪状态（激动、兴奋）对着镜头展",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 透明复古果冻高跟凉鞋（Jelly Slides）。。品类：服饰穿搭。人群：** 追求Y2K千禧风复古穿搭的年轻女性、对童年流行单品有怀旧情结的女性群体、喜欢ASMR（走路声音）的受众。。视频类型：场景种草、价格刺激、痛点解决。钩子：好奇悬念、场景冲突、身份点名。证明：场景（地毯与硬地板的声音对比、极具生活气息的真实感）。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7630984484988439838",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/22_鞋靴/theshowlorios_7630984484988439838.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630984484988439838/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 58.33,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** “The Shoelada” 品牌的洗鞋神器套装（包含清洁慕斯、去黄氧化膏、洗鞋网袋等）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有旧鞋",
+      "脏鞋的球鞋爱好者",
+      "二手淘客",
+      "学生党及追求性价比的年轻消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写",
+      "质地展示",
+      "成分展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "省钱党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 痛点展示（在杂乱破旧的二手市场，找到一双脏得离谱的经典款球鞋）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "增加真实感）"
+  ],
+  "cta": {
+    "text": "** 干净鞋子与初始脏鞋分屏对比。口播：“外面洗一双几十块，这一套能洗二三十双，左下角几十块包邮到家，还不赶紧盘活你的旧鞋！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 7.5,
+    "total": 8.9
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（适用国内抖音/快手小红书）：**\n    *   **0-3s 钩子：** 达人从床底/鞋柜翻出一双极脏、发黄的空军一号或AJ。字幕：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** “The Shoelada” 品牌的洗鞋神器套装（包含清洁慕斯、去黄氧化膏、洗鞋网袋等）。。品类：家居清洁。人群：** 拥有旧鞋、脏鞋的球鞋爱好者、二手淘客。视频类型：场景种草、价格刺激、痛点解决。钩子：限时稀缺、好奇悬念、价格跳水。证明：增加真实感）。风险：信任不足。评分：8.9"
+}

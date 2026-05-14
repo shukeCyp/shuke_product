@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7637458406856609054",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/30_虚拟商品/dande.deals_7637458406856609054.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637458406856609054/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 25.63,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 主推商品是 Fandango 平台上的 “Billie Eilish: Hit Me Hard and Soft 3D 巡演影院放映” 的门票折扣码。视频",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Billie Eilish 的粉丝",
+      "年轻的 TikTok 用户",
+      "有观影习惯的音乐爱好者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "手背实测",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心。通过“你还算不算粉丝”的质问句，直接筛选出目标人群，并让他们产生“我需要做什么才能证明自己是粉丝？”的好奇心。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 主推商品是 Fandango 平台上的 “Billie Eilish: Hit Me Hard and Soft 。品类：美妆护肤。人群：** Billie Eilish 的粉丝、年轻的 TikTok 用户、有观影习惯的音乐爱好者。。视频类型：直播切片、场景种草、清仓福利。钩子：场景冲突、身份点名、低价占便宜。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

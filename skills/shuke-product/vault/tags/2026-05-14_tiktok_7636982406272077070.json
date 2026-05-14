@@ -1,0 +1,84 @@
+{
+  "video_id": "2026-05-14_tiktok_7636982406272077070",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/03_图书杂志音频/universityofyou9_7636982406272077070.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636982406272077070/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 257.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "健康养生",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "健康",
+      "养生"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 1.0,
+    "purchase_impulse": 4.0,
+    "total": 5.8
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n    1.  **钩子 (0-3s)**：快速提问：“你是不是也经常脖子后面疼？告诉你，那不是颈椎病！”\n    2.  **痛点",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：健康养生。视频类型：直播切片、场景种草、痛点解决。钩子：身份点名、结果前置、反常识。风险：字幕不清、信任不足、无CTA。评分：5.8"
+}

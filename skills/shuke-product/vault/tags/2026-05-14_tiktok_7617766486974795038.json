@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7617766486974795038",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/emiwayyy2_7617766486974795038.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7617766486974795038/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 22.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 镶钻可折叠沙滩涉水鞋（便携旅行鞋/沙滩袜）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 经常旅游的女性",
+      "海滩度假人群",
+      "需要随身携带备用鞋的女性（如高跟鞋替换）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "别划走",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇（“Okay wait”话术起手） + 视觉反差（正常的鞋子不能对折） + 结果展示（塞进包里不占地）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "(针对国内抖音/小红书/视频号改造)",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 镶钻可折叠沙滩涉水鞋（便携旅行鞋/沙滩袜）。。品类：服饰穿搭。人群：** 经常旅游的女性、海滩度假人群、需要随身携带备用鞋的女性（如高跟鞋替换）。。视频类型：场景种草、直播切片、痛点解决。钩子：限时稀缺、结果前置、好奇悬念。证明：**。风险：信任不足、无CTA。评分：9.4"
+}

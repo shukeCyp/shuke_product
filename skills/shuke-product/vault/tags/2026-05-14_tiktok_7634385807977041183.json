@@ -1,0 +1,78 @@
+{
+  "video_id": "2026-05-14_tiktok_7634385807977041183",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/lifewillbebetter04_7634385807977041183.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634385807977041183/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 18.41,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 5.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**改造建议**：如果要复刻此视频卖**短柄款**，必须修改口播，去掉“不弯腰”的承诺，主打“锋利、死角清理、解压”。如果要卖**长柄款**，则必须重新拍摄站立",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：痛点解决、效果前后对比、测评对比。钩子：结果前置、场景冲突、好奇悬念。风险：信任不足、功效宣称风险、无CTA。评分：8.2"
+}

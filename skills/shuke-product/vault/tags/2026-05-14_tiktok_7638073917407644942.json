@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7638073917407644942",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/13_家电/leofrost77_7638073917407644942.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638073917407644942/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 45.21,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有半导体制冷功能、数显电量/档位、RGB灯效和挂绳的便携式手持风扇。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求极致清凉体验",
+      "注重便携性和科技感的年轻消费者",
+      "尤其适合户外活动",
+      "通勤",
+      "学生等人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "好奇悬念",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "好奇钩子 + 反差钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "比任何语言都更有说服力",
+    "属于高强度的信任状"
+  ],
+  "cta": {
+    "text": "** 用“你买错了”的话术，让已购用户产生“升级换代”的念头，让未购用户觉得“一步到位”。最后直接引导点击链接，完成转化闭环。 |",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有半导体制冷功能、数显电量/档位、RGB灯效和挂绳的便携式手持风扇。。品类：数码配件。人群：** 追求极致清凉体验、注重便携性和科技感的年轻消费者、尤其适合户外活动。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、结果前置、好奇悬念。证明：比任何语言都更有说服力、属于高强度的信任状。风险：信任不足。评分：9.4"
+}

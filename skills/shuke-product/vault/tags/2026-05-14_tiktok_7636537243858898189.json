@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7636537243858898189",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/addison____3_7636537243858898189.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636537243858898189/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一条带有白色四叶草/花朵吊坠的金色锁骨链（从博主口播“dupe”推测，为某大牌如梵克雅宝或Kendra Scott的平替款）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 喜欢佩戴首饰",
+      "追求性价比",
+      "有日常百搭需求",
+      "讨厌首饰掉色",
+      "生锈的年轻女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "第三方背书"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "社交认证（借他人之口夸奖）+ 视觉直给（秒切商品特写）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "纯靠博主的原生状态",
+    "真诚的语气和清晰的皮肤特写来建立信任"
+  ],
+  "cta": {
+    "text": "** 点出大牌平替/白菜价，手指引流评论区或购物车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（车内种草流）：**\n    1.  **0-3s 社交钩子+特写展示：** 坐车里，怼脸拍，一句朋友的夸赞开场，立马切商品特写。\n  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一条带有白色四叶草/花朵吊坠的金色锁骨链（从博主口播“dupe”推测，为某大牌如梵克雅宝或Kendra Scott。品类：数码配件。人群：** 喜欢佩戴首饰、追求性价比、有日常百搭需求。视频类型：场景种草、价格刺激、直播切片。钩子：结果前置、好奇悬念、场景冲突。证明：纯靠博主的原生状态、真诚的语气和清晰的皮肤特写来建立信任。风险：信任不足。评分：8.4"
+}

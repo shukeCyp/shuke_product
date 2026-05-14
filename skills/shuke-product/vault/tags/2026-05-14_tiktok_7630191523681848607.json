@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7630191523681848607",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/chasingdealz_7630191523681848607.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7630191523681848607/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 43.47,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带有舔食垫和浮动球的蓝色硅胶宠物慢食碗。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养有中大型犬（尤其是金毛等精力旺盛的犬种）",
+      "希望消耗狗狗精力",
+      "缓解其分离焦虑或无聊情绪的宠物主人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "测评对比",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "库存展示",
+      "手背实测",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子 + 场景冲突",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带有舔食垫和浮动球的蓝色硅胶宠物慢食碗。。品类：家居清洁。人群：** 养有中大型犬（尤其是金毛等精力旺盛的犬种）、希望消耗狗狗精力、缓解其分离焦虑或无聊情绪的宠物主人。。视频类型：直播切片、质地实测、测评对比。钩子：场景冲突、身份点名、尴尬痛点。证明：**。风险：信任不足、无CTA。评分：9.4"
+}

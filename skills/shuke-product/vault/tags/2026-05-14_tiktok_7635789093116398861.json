@@ -1,0 +1,86 @@
+{
+  "video_id": "2026-05-14_tiktok_7635789093116398861",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/kashgotdeals_7635789093116398861.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635789093116398861/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 52.1,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "别划走",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "指向左下角购物车，强调限时折扣。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.5,
+    "total": 8.0
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. 钩子：常规大耳机 VS 极小微型耳机入耳对比。\n  2. 痛点：上班听歌怕被抓/戴头盔压耳朵。\n  3. 细节：特写镜头展",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：数码配件。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足。评分：8.0"
+}

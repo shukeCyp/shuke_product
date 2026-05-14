@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7637612794006736141",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/realboogiesmalls_7637612794006736141.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7637612794006736141/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 20.5,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带支撑枕和多功能口袋的婴儿购物车保护套。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有6个月以上",
+      "能独立坐立但尚不稳固的宝宝的新手父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 身份代入 + 好奇心钩子",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带支撑枕和多功能口袋的婴儿购物车保护套。。品类：数码配件。人群：** 有6个月以上、能独立坐立但尚不稳固的宝宝的新手父母。。视频类型：直播切片、测评对比、场景种草。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

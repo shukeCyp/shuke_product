@@ -1,0 +1,89 @@
+{
+  "video_id": "2026-05-14_tiktok_7634344264050199838",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/21_手机数码/damarii.__7634344264050199838.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634344264050199838/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 65.93,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 白色头戴式电竞耳机（带有麦克风）或粉色游戏手柄。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代",
+      "主机",
+      "PC游戏玩家",
+      "喜欢游戏圈泛娱乐内容的用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "好奇悬念",
+      "身份点名"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 身份代入（痛点共鸣）。通过顶部的一行字幕直接框定了一个极具共鸣的游戏场景。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "海报）",
+    "增强了装备的真实使用感"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 0.0,
+    "trust": 7.0,
+    "product_display": 6.0,
+    "purchase_impulse": 1.0,
+    "total": 4.4
+  },
+  "remake": {
+    "angle": "（爆款内容商业化改造建议）\n**如果商家想利用这个爆款段子来带货这款耳机，建议采用“剧情切片+种草反转”的模式进行翻拍：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 白色头戴式电竞耳机（带有麦克风）或粉色游戏手柄。。品类：数码配件。人群：** Z世代、主机、PC游戏玩家。视频类型：场景种草、直播切片、痛点解决。钩子：场景冲突、好奇悬念、身份点名。证明：海报）、增强了装备的真实使用感。风险：信任不足、无CTA。评分：4.4"
+}

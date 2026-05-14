@@ -1,0 +1,94 @@
+{
+  "video_id": "2026-05-14_tiktok_7632587565186534669",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/shaylanoelani_7632587565186534669.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632587565186534669/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 73.13,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 两条不同尺寸（6mm和10mm）的粗款黄金麻花项链（Rope Chain）。次要商品可能是视频中出现的黑色皮革双肩包。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求嘻哈",
+      "街头潮流风格的年轻男性",
+      "青少年",
+      "以及为他们购买礼物的父母。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "第三方背书",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心钩子。视频开场直接展示了产品佩戴在身上的最终效果，并且通过手指出两条不同粗细的链子，引发用户好奇：“这两条有什么区别？哪条效果更好？有多粗？",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 9.0,
+    "purchase_impulse": 5.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 两条不同尺寸（6mm和10mm）的粗款黄金麻花项链（Rope Chain）。次要商品可能是视频中出现的黑色皮革双肩。品类：男士护理。人群：** 追求嘻哈、街头潮流风格的年轻男性、青少年。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA。评分：8.2"
+}

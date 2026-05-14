@@ -1,0 +1,102 @@
+{
+  "video_id": "2026-05-14_tiktok_7636971353224088846",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/02_美妆个护/akwellness1_7636971353224088846.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636971353224088846/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 39.97,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款日本品牌的紫色美白牙贴。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 因吸烟",
+      "喝咖啡",
+      "茶等习惯导致牙齿黄",
+      "有牙渍",
+      "对牙齿美白效果持怀疑态度",
+      "但又渴望快速见效的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "别划走",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "成分展示",
+      "第三方背书",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "运动党",
+      "颜值党",
+      "宝妈党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点 (smoker mom) + 好奇 (Testing) + 反差 (Japanese whitening strips)",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款日本品牌的紫色美白牙贴。。品类：数码配件。人群：** 因吸烟、喝咖啡、茶等习惯导致牙齿黄。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、无CTA"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7638607452640005389",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/25_五金工具/md.arifin5742_7638607452640005389.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638607452640005389/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 47.7,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款配合伞绳使用的金属防滑绳轮搭扣（免打结捆扎神器）。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 皮卡车主",
+      "户外露营爱好者",
+      "划船",
+      "皮划艇玩家以及需要经常固定货物的男性（视频明确提出“Every man”和“truck owner”）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "价格跳水",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入（字幕：卡车车主必备） + 结果展示（快速拉紧绳子） + 制造好奇（口播：发明这东西的人该加薪）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.5,
+    "clarity": 10.0,
+    "trust": 9.5,
+    "product_display": 10.0,
+    "purchase_impulse": 9.0,
+    "total": 9.4
+  },
+  "remake": {
+    "angle": "（适用于国内抖音/快手或TikTok带货）",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款配合伞绳使用的金属防滑绳轮搭扣（免打结捆扎神器）。。品类：男士护理。人群：** 皮卡车主、户外露营爱好者、划船。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、价格跳水。风险：信任不足、无CTA。评分：9.4"
+}

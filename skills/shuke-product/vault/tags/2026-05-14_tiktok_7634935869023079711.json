@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7634935869023079711",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/lyssa.byrd_7634935869023079711.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634935869023079711/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 33.6,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“Swim Shady”的泳池漂浮遮阳伞，集成了饮料托盘功能。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有私人泳池",
+      "注重户外休闲体验",
+      "害怕暴晒但又喜欢待在水里的家庭或个人。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "运动党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 好奇心 + 身份代入",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 8.0,
+    "purchase_impulse": 9.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n    1.  **[0-3s] 结果展示：** 在泳池伞下惬意喝饮料的特写。口播：“终于知道有钱人夏天是怎么在泳池泡一天的了！”\n",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“Swim Shady”的泳池漂浮遮阳伞，集成了饮料托盘功能。。品类：食品饮料。人群：** 拥有私人泳池、注重户外休闲体验、害怕暴晒但又喜欢待在水里的家庭或个人。。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足、卖点单一、无CTA。评分：8.4"
+}

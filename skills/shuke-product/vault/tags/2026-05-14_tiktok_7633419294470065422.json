@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7633419294470065422",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/lau_massiel_7633419294470065422.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633419294470065422/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 29.21,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款针对大码女性的无缝连体塑身衣（Faja/Shapewear）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 体重在260磅（约118公斤）左右",
+      "对自己身材曲线",
+      "腹部",
+      "臀部不满",
+      "希望在穿着紧身衣物时展现更平滑",
+      "紧致轮廓的丰满女性。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 痛点狙击 + 社交证明 (Q&A)。通过直接点名“260磅”来呼唤目标用户，并以回复评论的形式增加了真实性和互动感，用户会因为“这是在回答我的问题",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** \"Si no sabes qué talla, coméntame tu peso\" (不知道尺码？评论你的体重)",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 9.0,
+    "product_display": 8.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n  1.  **钩子 (3s)：** [场景：车内/家中] 回复一条具体体重/身材痛点的评论，直接点名目标人群。\n  2.  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款针对大码女性的无缝连体塑身衣（Faja/Shapewear）。。品类：服饰穿搭。人群：** 体重在260磅（约118公斤）左右、对自己身材曲线、腹部。视频类型：直播切片、质地实测、场景种草。钩子：结果前置、身份点名、好奇悬念。证明：**。风险：信任不足。评分：8.6"
+}

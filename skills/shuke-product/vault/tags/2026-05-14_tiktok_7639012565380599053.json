@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7639012565380599053",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/14_珠宝衍生品/yuukauniverse_7639012565380599053.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7639012565380599053/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 59.83,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“No struggle necklace”（无痛项链）的饰品，其核心特点是采用前置“推入式门扣”（push gate）设计，方便佩戴。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚",
+      "有佩戴项链习惯",
+      "但对传统后置龙虾扣感到麻烦和沮丧的年轻女性",
+      "特别是喜欢叠戴",
+      "追求效率的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "限时稀缺",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "成分展示",
+      "第三方背书",
+      "前后对比",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 痛点狙击。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 7.0,
+    "product_display": 7.0,
+    "purchase_impulse": 6.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“No struggle necklace”（无痛项链）的饰品，其核心特点是采用前置“推入式门扣”（pus。品类：数码配件。人群：** 追求时尚、有佩戴项链习惯、但对传统后置龙虾扣感到麻烦和沮丧的年轻女性。视频类型：直播切片、场景种草、效果前后对比。钩子：结果前置、限时稀缺、身份点名。证明：**。风险：信任不足、无CTA。评分：7.4"
+}

@@ -1,0 +1,93 @@
+{
+  "video_id": "2026-05-14_tiktok_7638730137181162765",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/bigpotatogamesus_7638730137181162765.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638730137181162765/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 52.87,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“TILT N SHOUT”的快节奏问答桌面游戏。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 寻求家庭娱乐活动的父母",
+      "喜欢组织派对和游戏之夜的年轻人",
+      "以及为朋友或家人挑选礼物的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "直播切片",
+      "场景种草",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "尴尬痛点",
+      "结果前置",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写"
+    ],
+    "audience_tags": [
+      "送礼党",
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突钩子 + 玩法展示钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "不做作",
+    "情绪反应真实可信",
+    "让观众相信他们在现实中玩这个游戏也能获得同样的快乐"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 10.0,
+    "product_display": 6.0,
+    "purchase_impulse": 4.0,
+    "total": 7.4
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“TILT N SHOUT”的快节奏问答桌面游戏。。品类：美妆护肤。人群：** 寻求家庭娱乐活动的父母、喜欢组织派对和游戏之夜的年轻人、以及为朋友或家人挑选礼物的消费者。。视频类型：开箱展示、直播切片、场景种草。钩子：场景冲突、身份点名、尴尬痛点。证明：不做作、情绪反应真实可信、让观众相信他们在现实中玩这个游戏也能获得同样的快乐。风险：信任不足、无CTA。评分：7.4"
+}

@@ -1,0 +1,88 @@
+{
+  "video_id": "2026-05-14_tiktok_7638730621996551437",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/mayelialonsoofficial1_7638730621996551437.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7638730621996551437/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 201.37,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "清仓福利",
+      "痛点解决",
+      "效果前后对比",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量",
+      "产品特写",
+      "质地展示",
+      "成分展示"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 2.0,
+    "trust": 5.0,
+    "product_display": 3.0,
+    "purchase_impulse": 3.0,
+    "total": 4.2
+  },
+  "remake": {
+    "angle": "(针对混剪/投放改造)\n如果拥有原始素材，该视频可以剪辑成极佳的带货素材：",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：美妆护肤。视频类型：场景种草、价格刺激、清仓福利。钩子：低价占便宜、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：4.2"
+}

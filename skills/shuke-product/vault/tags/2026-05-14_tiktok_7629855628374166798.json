@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7629855628374166798",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/kaileyknightt_7629855628374166798.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7629855628374166798/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 32.65,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款黑色无肩带、正面绑带、饰有银色火焰/部落图腾（镶钻或铆钉）的辣妹风/亚文化风紧身胸衣（Corset Top）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-28岁的年轻女性",
+      "热衷于朋克",
+      "哥特",
+      "Y2K",
+      "辣妹（Baddie）等亚文化穿搭风格",
+      "追求个性",
+      "彰显身材",
+      "喜爱参加音乐节或派对的潮流人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "无明显证明"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 能量反差。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "她的自信和风格为商品的可信度（在“风格”层面）提供了强有力的证据",
+    "品牌等硬性信任状"
+  ],
+  "cta": {
+    "text": "点击左下角get同款",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款黑色无肩带、正面绑带、饰有银色火焰/部落图腾（镶钻或铆钉）的辣妹风/亚文化风紧身胸衣（Corset Top）。。品类：服饰穿搭。人群：** 18-28岁的年轻女性、热衷于朋克、哥特。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、身份点名。证明：她的自信和风格为商品的可信度（在“风格”层面）提供了强有力的证据、品牌等硬性信任状。风险：信任不足"
+}

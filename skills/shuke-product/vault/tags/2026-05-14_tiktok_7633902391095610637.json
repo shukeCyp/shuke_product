@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7633902391095610637",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/valentinofinds_7633902391095610637.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633902391095610637/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 52.4,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款大尺寸、带全套配件（梯子、过滤泵、盖布）的家用庭院支架游泳池。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有庭院的家庭用户",
+      "特别是家里有孩子",
+      "希望在夏天获得清凉娱乐",
+      "且对价格敏感的年轻夫妇或家庭。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "剧情反转",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "低价占便宜",
+      "结果前置",
+      "别划走",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "场景冲突 + 反差感。核心冲突是“经济拮据（欠房租）”与“奢侈消费（买大泳池）”之间的矛盾。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款大尺寸、带全套配件（梯子、过滤泵、盖布）的家用庭院支架游泳池。。品类：数码配件。人群：** 有庭院的家庭用户、特别是家里有孩子、希望在夏天获得清凉娱乐。视频类型：直播切片、质地实测、剧情反转。钩子：场景冲突、低价占便宜、结果前置。证明：**。风险：信任不足、无CTA。评分：8.6"
+}

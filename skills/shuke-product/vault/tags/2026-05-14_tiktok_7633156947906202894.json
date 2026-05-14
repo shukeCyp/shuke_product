@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7633156947906202894",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/darlingdorestant0_7633156947906202894.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633156947906202894/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 29.44,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款白色带有金色刺绣的宽松版型长袍/连衣裙（Kaftan/卡夫坦长袍）。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 25-45岁",
+      "追求舒适",
+      "优雅",
+      "有异域风情或度假风格的女性",
+      "可能包括大码女性",
+      "穆斯林女性（作为罩袍）",
+      "或喜爱波西米亚",
+      "民族风穿搭的消费者。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示型 + 身份代入型。视频开场直接展示了产品最完美的状态——一个优雅的女性在高级感的家中穿着它。用户会被这种“理想中的自己”的形象所吸引。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 5
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 5.0,
+    "clarity": 4.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 1.0,
+    "total": 4.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款白色带有金色刺绣的宽松版型长袍/连衣裙（Kaftan/卡夫坦长袍）。。品类：服饰穿搭。人群：** 25-45岁、追求舒适、优雅。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、卖点单一、无CTA。评分：4.6"
+}

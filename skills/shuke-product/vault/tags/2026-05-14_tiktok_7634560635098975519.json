@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7634560635098975519",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/28_女装内衣/dj.foof_7634560635098975519.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7634560635098975519/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 31.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款蓝白格纹、上身松紧、下摆有荷叶边的无袖迷你连衣裙。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 18-30岁",
+      "追求甜美",
+      "休闲",
+      "易于穿搭风格的年轻女性",
+      "特别关注夏季服装的舒适度和性价比。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "测评对比",
+      "场景种草",
+      "价格刺激",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "反常识",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 痛点解决方案。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "** 突出优惠价格，并用手势或箭头指向小黄车，配合口播：“这个价格真的绝了，赶紧点击下方链接把它带回家！”",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 8.0,
+    "purchase_impulse": 6.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款蓝白格纹、上身松紧、下摆有荷叶边的无袖迷你连衣裙。。品类：服饰穿搭。人群：** 18-30岁、追求甜美、休闲。视频类型：直播切片、测评对比、场景种草。钩子：场景冲突、身份点名、结果前置。证明：**。风险：信任不足。评分：7.6"
+}

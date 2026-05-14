@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7632274059895655694",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/kellengo87_7632274059895655694.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632274059895655694/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.9,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 太阳能户外感应壁灯（三头可调节款）。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 有庭院",
+      "车库",
+      "过道等户外照明需求",
+      "希望节省电费且不想麻烦接线的家庭用户。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "尴尬痛点",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（字幕承诺0电费+高亮） + 场景开箱（一整箱的视觉冲击）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 10.0,
+    "trust": 8.5,
+    "product_display": 9.0,
+    "purchase_impulse": 9.0,
+    "total": 8.9
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲：**\n  - 0-3s：痛点/效果前置（夜间人走过，灯瞬间全亮的惊艳画面）。\n  - 3-8s：产品特写+痛点解决（手持展示太阳能板和三头",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 太阳能户外感应壁灯（三头可调节款）。。品类：数码配件。人群：** 有庭院、车库、过道等户外照明需求。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、尴尬痛点、好奇悬念。风险：信任不足、无CTA。评分：8.9"
+}

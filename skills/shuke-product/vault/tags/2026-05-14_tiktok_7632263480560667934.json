@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7632263480560667934",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/10_收藏品/uju6406_7632263480560667934.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7632263480560667934/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 35.18,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 疑似售卖 Bratz（贝兹娃娃）\"Soft Cuddlez\" 系列毛绒盲盒/挂件（视频中抽中的是穿黑猫服饰的 Jade 款）。",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Y2K美学爱好者",
+      "潮玩盲盒玩家",
+      "喜欢可爱",
+      "软萌配饰的年轻女性",
+      "Bratz IP 粉丝。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "痛点解决",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "结果前置",
+      "低价占便宜",
+      "好奇悬念",
+      "场景冲突",
+      "反常识"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "使用场景",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "卖点单一",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示（潮玩盲盒包装）+ 悬念/好奇（拆盲盒机制）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 6
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 6.0,
+    "clarity": 8.0,
+    "trust": 9.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲（带货改良版）：**\n    1.  *0-3s（黄金钩子）：* 暴力捏脸特写 + 悬念字幕（“什么神仙手感！”）。\n    2.  *",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 疑似售卖 Bratz（贝兹娃娃）\"Soft Cuddlez\" 系列毛绒盲盒/挂件（视频中抽中的是穿黑猫服饰的 Ja。品类：美妆护肤。人群：** Y2K美学爱好者、潮玩盲盒玩家、喜欢可爱。视频类型：场景种草、开箱展示、痛点解决。钩子：限时稀缺、结果前置、低价占便宜。证明：**。风险：口播缺失、信任不足、卖点单一。评分：8.2"
+}

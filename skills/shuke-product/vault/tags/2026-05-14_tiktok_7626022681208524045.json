@@ -1,0 +1,92 @@
+{
+  "video_id": "2026-05-14_tiktok_7626022681208524045",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/rosycatalangt_7626022681208524045.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7626022681208524045/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 41.0,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款带太阳能LED灯的超大尺寸（15英尺）双顶庭院伞。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 拥有庭院",
+      "露台或后院的家庭用户",
+      "注重户外生活品质",
+      "喜欢家庭聚会或户外休闲。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "直播切片",
+      "质地实测",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "第三方背书",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "运动党"
+    ],
+    "risk_tags": [
+      "口播缺失",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "身份代入 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 8
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 8.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.8
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款带太阳能LED灯的超大尺寸（15英尺）双顶庭院伞。。品类：食品饮料。人群：** 拥有庭院、露台或后院的家庭用户、注重户外生活品质。视频类型：直播切片、质地实测、场景种草。钩子：场景冲突、身份点名、低价占便宜。证明：**。风险：口播缺失、信任不足、无CTA。评分：7.8"
+}

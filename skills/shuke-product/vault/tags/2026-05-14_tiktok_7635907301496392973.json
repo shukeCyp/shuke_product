@@ -1,0 +1,99 @@
+{
+  "video_id": "2026-05-14_tiktok_7635907301496392973",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/26_玩具爱好/hanhfinds_7635907301496392973.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7635907301496392973/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 40.17,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款名为“糖果解压方块 (sugar squishy cubes)”的慢回弹、高拉伸、手感柔软的解压玩具，一套四色。",
+    "category": "数码配件",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 解压玩具爱好者",
+      "史莱姆",
+      "软泥玩家",
+      "寻求新奇特玩具的年轻用户（尤其是女性）",
+      "为孩子寻找玩具的家长。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "数码",
+      "配件"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "清仓福利",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "身份点名",
+      "低价占便宜",
+      "结果前置",
+      "好奇悬念",
+      "限时稀缺",
+      "反常识"
+    ],
+    "proof_tags": [
+      "第三方背书",
+      "产品特写",
+      "前后对比"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "手残党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "价格刺激 + 稀缺紧迫感 (FOMO)。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 6.0,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "*   **复刻脚本大纲:**\n    1.  **钩子 (0-3s):** [结果/痛点] 开头特写慢动作揉捏，字幕：“别再玩又硬又粘手的解压玩具了！”\n  ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款名为“糖果解压方块 (sugar squishy cubes)”的慢回弹、高拉伸、手感柔软的解压玩具，一套四色。品类：数码配件。人群：** 解压玩具爱好者、史莱姆、软泥玩家。视频类型：开箱展示、质地实测、测评对比。钩子：身份点名、低价占便宜、结果前置。证明：**。风险：信任不足、无CTA。评分：8.4"
+}

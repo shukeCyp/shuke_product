@@ -1,0 +1,80 @@
+{
+  "video_id": "2026-05-14_tiktok_7636071167102602509",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/19_穆斯林时尚/shopholleygirl_7636071167102602509.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636071167102602509/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 27.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "厨房用品",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "反常识",
+      "尴尬痛点"
+    ],
+    "proof_tags": [
+      "使用场景"
+    ],
+    "audience_tags": [
+      "颜值党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 7
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 7.0,
+    "clarity": 9.0,
+    "trust": 10.0,
+    "product_display": 7.5,
+    "purchase_impulse": 8.5,
+    "total": 8.4
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  - 0-3s：穿搭全貌展示 + 抛出“夏日宝藏神裤”定调。\n  - 3-8s：双手插兜走动/扭动，展示裤子的飘逸和轻薄，点出“凉",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：厨房用品。视频类型：场景种草、痛点解决、测评对比。钩子：结果前置、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：8.4"
+}

@@ -1,0 +1,91 @@
+{
+  "video_id": "2026-05-14_tiktok_7622849585303604494",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/23_运动户外/tcalla06_7622849585303604494.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622849585303604494/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 23.73,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 极简赤足涉水鞋（Barefoot water shoes），主打黑白条纹拼接亮橙色鞋底。",
+    "category": "服饰穿搭",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 户外运动爱好者（游泳",
+      "桨板等涉水运动）",
+      "追求极度舒适",
+      "光脚感的日常穿搭人群",
+      "宽脚掌人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "库存背书",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念",
+      "限时稀缺"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "视觉反差（鞋子像毛巾一样被对折） + 痛点直击（字幕：No more wet feet）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 360.0,
+    "purchase_impulse": 0.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**如果重新拍摄，建议采用以下“实地场景-实测证明”复刻脚本：**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 极简赤足涉水鞋（Barefoot water shoes），主打黑白条纹拼接亮橙色鞋底。。品类：服饰穿搭。人群：** 户外运动爱好者（游泳、桨板等涉水运动）、追求极度舒适。视频类型：场景种草、痛点解决、库存背书。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足、无CTA。评分：7.6"
+}

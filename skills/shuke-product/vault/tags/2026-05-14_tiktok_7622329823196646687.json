@@ -1,0 +1,97 @@
+{
+  "video_id": "2026-05-14_tiktok_7622329823196646687",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/31_二手/foreignobjects_7622329823196646687.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622329823196646687/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 81.3,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 视频推广一个名为 \"foreignobjects.com\" 的二手奢侈品网站，主推 Fendi、Dior、Louis Vuitton、Goyard、Cha",
+    "category": "美妆护肤",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 追求时尚与品质",
+      "对奢侈品有认知和渴望",
+      "但预算有限或偏爱复古风格的年轻女性（20-35岁）。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [
+      "美妆",
+      "护肤"
+    ],
+    "video_type_tags": [
+      "开箱展示",
+      "测评对比",
+      "直播切片",
+      "库存背书",
+      "场景种草",
+      "价格刺激",
+      "效果前后对比",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "身份点名",
+      "结果前置",
+      "限时稀缺",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "库存展示",
+      "使用场景",
+      "第三方背书",
+      "尺寸容量"
+    ],
+    "audience_tags": [
+      "省钱党",
+      "颜值党"
+    ],
+    "risk_tags": [
+      "字幕不清",
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 身份代入/价值承诺。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 6.0,
+    "product_display": 7.0,
+    "purchase_impulse": 7.0,
+    "total": 7.6
+  },
+  "remake": {
+    "angle": "**\n- **复刻脚本大纲：**\n    1.  **钩子 (0-3s)：** [痛点/反差] “别再买那些背几次就扔的包了！”+ [结果展示] 镜头拉开，展示",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 视频推广一个名为 \"foreignobjects.com\" 的二手奢侈品网站，主推 Fendi、Dior、Loui。品类：美妆护肤。人群：** 追求时尚与品质、对奢侈品有认知和渴望、但预算有限或偏爱复古风格的年轻女性（20-35岁）。。视频类型：开箱展示、测评对比、直播切片。钩子：场景冲突、身份点名、结果前置。证明：**。风险：字幕不清、信任不足、无CTA。评分：7.6"
+}

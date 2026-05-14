@@ -1,0 +1,85 @@
+{
+  "video_id": "2026-05-14_tiktok_7623771477778713869",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/11_家装建材/yrhfjkzh08q_7623771477778713869.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7623771477778713869/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 41.07,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "未知",
+    "category": "母婴宠物",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [],
+    "confidence": 0.3
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "前后对比",
+      "产品特写",
+      "质地展示",
+      "手背实测"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 7.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.5,
+    "total": 8.7
+  },
+  "remake": {
+    "angle": "- **复刻脚本大纲**：\n  1. **黄金3秒**：展示最破烂的墙角（甚至可以用锤子人为砸个坑），一刮平复。\n  2. **身份切入**：“别再因为墙面破损",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：未知。品类：母婴宠物。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。风险：信任不足、无CTA。评分：8.7"
+}

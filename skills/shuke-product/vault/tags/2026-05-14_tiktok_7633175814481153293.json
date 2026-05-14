@@ -1,0 +1,95 @@
+{
+  "video_id": "2026-05-14_tiktok_7633175814481153293",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/08_家具/myhealthybaker_7633175814481153293.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7633175814481153293/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 28.27,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款可自由拼装、模块化的轻便叠加鞋架。",
+    "category": "男士护理",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 小户型租客",
+      "衣橱空间有限的人群",
+      "以及拥有大量老爹鞋",
+      "运动鞋需要收纳的鞋控。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "价格刺激",
+      "直播切片",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "剧情反转",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "限时稀缺",
+      "好奇悬念",
+      "场景冲突",
+      "身份点名",
+      "结果前置"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "前后对比",
+      "尺寸容量",
+      "使用场景"
+    ],
+    "audience_tags": [
+      "手残党",
+      "颜值党",
+      "运动党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "结果展示 + 场景代入。直接将用户拉入一个真实的衣橱收纳场景，用文字给出“几分钟收纳完毕”的效率承诺。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 0
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 0.0,
+    "clarity": 0.0,
+    "trust": 0.0,
+    "product_display": 0.0,
+    "purchase_impulse": 0.0,
+    "total": 0.0
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲 (适用于抖音/视频号/快手/TikTok)：**\n- **0-2s (痛点放大)：** 镜头对准乱堆在玄关/衣柜底部的鞋子，踢一脚叹气。\n- ",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款可自由拼装、模块化的轻便叠加鞋架。。品类：男士护理。人群：** 小户型租客、衣橱空间有限的人群、以及拥有大量老爹鞋。视频类型：场景种草、价格刺激、直播切片。钩子：限时稀缺、好奇悬念、场景冲突。证明：**。风险：信任不足、无CTA"
+}

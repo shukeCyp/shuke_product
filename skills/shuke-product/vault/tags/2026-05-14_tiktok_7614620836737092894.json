@@ -1,0 +1,90 @@
+{
+  "video_id": "2026-05-14_tiktok_7614620836737092894",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/01_母婴用品/mollieismomming_7614620836737092894.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7614620836737092894/analysis.md",
+    "model": "gemini-2.5-pro",
+    "duration_seconds": 33.81,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 一款集牙胶、声光、多语言、动物叫声等功能于一体的婴幼儿仿真电视遥控器玩具。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 孩子处于口欲期（约6个月以上）和模仿期",
+      "喜欢抢夺成人遥控器的宝妈群体。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "开箱展示",
+      "质地实测",
+      "测评对比",
+      "直播切片",
+      "场景种草",
+      "痛点解决",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "场景冲突",
+      "结果前置",
+      "身份点名",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "用户评价",
+      "第三方背书",
+      "手背实测",
+      "产品特写"
+    ],
+    "audience_tags": [
+      "颜值党",
+      "宝妈党",
+      "送礼党"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "痛点钩子 + 好奇心钩子。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 10.0,
+    "trust": 8.0,
+    "product_display": 10.0,
+    "purchase_impulse": 8.0,
+    "total": 9.0
+  },
+  "remake": {
+    "angle": "**",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 一款集牙胶、声光、多语言、动物叫声等功能于一体的婴幼儿仿真电视遥控器玩具。。品类：家居清洁。人群：** 孩子处于口欲期（约6个月以上）和模仿期、喜欢抢夺成人遥控器的宝妈群体。。视频类型：开箱展示、质地实测、测评对比。钩子：场景冲突、结果前置、身份点名。证明：**。风险：信任不足、无CTA。评分：9.0"
+}

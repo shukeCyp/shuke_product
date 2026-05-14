@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7636811717745331486",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/20_宠物用品/nut_caramel_frap_7636811717745331486.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7636811717745331486/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 36.8,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 宠物双面开结去浮毛梳（疑似跨境电商爆款工具）。",
+    "category": "家居清洁",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** 养猫",
+      "养狗或其他长毛宠物的铲屎官",
+      "尤其是深受宠物毛发打结",
+      "掉毛困扰的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "痛点解决",
+      "效果前后对比",
+      "剧情反转",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "使用场景",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足",
+      "功效宣称风险",
+      "无CTA"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "极端场景冲突 + 剧情悬念 + 生死危机（警匪片质感）。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "有经验的买家会看出动物的毛发质感和梳理痕迹是 CG 效果",
+    "这会大幅削弱产品的真实可信度"
+  ],
+  "cta": {
+    "text": "",
+    "clarity": "none"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 9.0,
+    "trust": 3.0,
+    "product_display": 8.0,
+    "purchase_impulse": 7.0,
+    "total": 7.2
+  },
+  "remake": {
+    "angle": "（实拍建议）\n*由于原视频是 AI 生成，若要用真实拍摄复刻其高转化逻辑，建议如下：*",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 宠物双面开结去浮毛梳（疑似跨境电商爆款工具）。。品类：家居清洁。人群：** 养猫、养狗或其他长毛宠物的铲屎官、尤其是深受宠物毛发打结。视频类型：场景种草、痛点解决、效果前后对比。钩子：结果前置、场景冲突、好奇悬念。证明：有经验的买家会看出动物的毛发质感和梳理痕迹是 CG 效果、这会大幅削弱产品的真实可信度。风险：信任不足、功效宣称风险、无CTA。评分：7.2"
+}

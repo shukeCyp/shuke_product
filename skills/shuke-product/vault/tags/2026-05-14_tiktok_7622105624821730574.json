@@ -1,0 +1,87 @@
+{
+  "video_id": "2026-05-14_tiktok_7622105624821730574",
+  "source": {
+    "video_path": "~/Downloads/tabcut_videos_us/07_食品饮料/aaronmyarbrough_7622105624821730574.mp4",
+    "analysis_path": "skills/shuke-product/vault/analyses/2026-05-14_tiktok_7622105624821730574/analysis.md",
+    "model": "gemini-3.1-pro-preview",
+    "duration_seconds": 67.43,
+    "created_at": "2026-05-14"
+  },
+  "product": {
+    "name": "** 墨西哥风味网红酸黄瓜零食盲盒套装（包含巨型红色酸黄瓜、Takis玉米卷、果丹皮、Lucas酸甜粉/酱、辣味橡皮糖线等）。",
+    "category": "食品饮料",
+    "sub_category": "",
+    "price_position": "",
+    "target_audience": [
+      "** Z世代年轻群体",
+      "猎奇零食爱好者",
+      "ASMR吃播受众",
+      "追求极度酸辣甜刺激口味的人群。"
+    ],
+    "confidence": 1.0
+  },
+  "tags": {
+    "product_tags": [],
+    "video_type_tags": [
+      "场景种草",
+      "开箱展示",
+      "价格刺激",
+      "痛点解决",
+      "效果前后对比",
+      "测评对比",
+      "质地实测",
+      "UGC口播"
+    ],
+    "hook_tags": [
+      "结果前置",
+      "场景冲突",
+      "好奇悬念"
+    ],
+    "proof_tags": [
+      "产品特写",
+      "用户评价"
+    ],
+    "audience_tags": [
+      "大众"
+    ],
+    "risk_tags": [
+      "信任不足"
+    ],
+    "platform_tags": [
+      "TikTok",
+      "竖屏短视频"
+    ]
+  },
+  "hook": {
+    "type": "猎奇视觉刺激 + 结果前置。",
+    "first_3s_text": "",
+    "mechanism": "",
+    "retention_score": 9
+  },
+  "selling_points": [],
+  "proof_points": [
+    "**"
+  ],
+  "cta": {
+    "text": "指引左下角购物车。",
+    "clarity": "clear"
+  },
+  "scores": {
+    "retention": 9.0,
+    "clarity": 7.0,
+    "trust": 8.0,
+    "product_display": 9.0,
+    "purchase_impulse": 8.0,
+    "total": 8.2
+  },
+  "remake": {
+    "angle": "**复刻脚本大纲（适用于国内测评/零食赛道）：**\n1. 黄金3秒：爆爽第一口ASMR + 猎奇外观展示。\n2. 痛点引入：“买不到正宗墨西哥神仙吃法？这一包全",
+    "script_outline": [],
+    "shot_list": [],
+    "voiceover": "",
+    "subtitles": [],
+    "ai_image_prompts": [],
+    "ai_video_prompts": []
+  },
+  "search_text": "产品：** 墨西哥风味网红酸黄瓜零食盲盒套装（包含巨型红色酸黄瓜、Takis玉米卷、果丹皮、Lucas酸甜粉/酱、辣味橡皮糖线。品类：食品饮料。人群：** Z世代年轻群体、猎奇零食爱好者、ASMR吃播受众。视频类型：场景种草、开箱展示、价格刺激。钩子：结果前置、场景冲突、好奇悬念。证明：**。风险：信任不足。评分：8.2"
+}
