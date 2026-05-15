@@ -148,7 +148,7 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
 
 ## Image-To-Video (First Frame)
 
-Provide a single starting frame via URL or base64:
+Provide a single starting frame via URL or base64. **Local images must be compressed first** (see Image Compression section above).
 
 ```bash
 # Using URL
@@ -162,24 +162,34 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
     "firstFrameUrl": "https://example.com/first_frame.png"
   }'
 
-# Using local file (base64)
-IMG_B64="$(base64 -i ./first_frame.png | tr -d '\\n')"
+# Using local file (base64) — with compression
+python3 ./compress_image.py ./first_frame.png
+# If COMPRESSED: use the output path; otherwise use original
+IMG_PATH="./first_frame.png"  # or the compressed path
+IMG_B64="$(base64 -i "$IMG_PATH" | tr -d '\\n')"
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
-  -H "Authorization: Bearer $CHAOWENAI_IMG_KEY" \\
+  -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
-  -d '{
-    "model": "veo3.1-fast",
-    "prompt": "Animate this product image...",
-    "aspectRatio": "9:16",
-    "firstFrameBase64": "data:image/png;base64,..."
-  }'
+  -d "$(cat <<EOF
+{
+  "model": "veo3.1-fast",
+  "prompt": "Animate this product image...",
+  "aspectRatio": "9:16",
+  "firstFrameBase64": "data:image/webp;base64,${IMG_B64}"
+}
+EOF
+)"
 ```
 
 ## First/Last-Frame Video
 
-Provide both a start frame and an end frame:
+Provide both a start frame and an end frame. **Local images must be compressed first.**
 
 ```bash
+# Compress both frames first
+python3 ./compress_image.py ./start.png
+python3 ./compress_image.py ./end.png
+
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
   -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
@@ -194,9 +204,14 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
 
 ## Reference-To-Video (Up to 3 Images)
 
-Use reference images to guide style, product appearance, and scene:
+Use reference images to guide style, product appearance, and scene. **All reference images must be compressed first.**
 
 ```bash
+# Compress all reference images
+for img in ./ref1.jpg ./ref2.jpg ./ref3.jpg; do
+  python3 ./compress_image.py "$img"
+done
+
 curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
   -H "Authorization: Bearer $CHAOWENAI_VID_KEY" \\
   -H "Content-Type: application/json" \\
@@ -239,6 +254,75 @@ When `status` is `completed`, download the file immediately into the product pro
 
 Read `chaowenai.concurrency_limit` from config. For batch generation, do not submit more than that many tasks at once.
 
+## Image Compression (Pre-Upload)
+
+**重要：在将本地图片转为 base64 发送给 API 之前，必须先运行压缩脚本。** 这能显著减少传输大小、降低超时风险、提升 API 响应速度。
+
+压缩脚本位置（相对于本 SKILL.md）：
+
+```text
+./compress_image.py
+```
+
+### 压缩策略
+
+脚本自动选择最优压缩策略，遵循"无损优先，高质量有损兜底"原则：
+
+| 原格式 | 策略顺序 |
+|--------|----------|
+| PNG | 无损PNG优化 → 无损WebP |
+| WebP | 无损WebP |
+| GIF | 无损GIF优化 → 无损WebP |
+| JPEG | 高质量JPEG优化(q=95, subsampling=0) |
+| 有透明通道 | WebP(q=95→90→85→80) |
+| 无透明通道 | JPEG(q=95→90→85→80) → WebP(q=95→90→85) |
+| 其他 | 无损WebP |
+
+- 图片 ≤ 1MB 不触发压缩，直接使用原图。
+- 如果所有策略压缩后都比原图大，回退原图（收益不足）。
+- 压缩阈值可通过第二个参数调整（默认 1048576 字节）。
+
+### 用法
+
+```bash
+# 压缩单张图片（默认 1MB 阈值）
+python3 ./compress_image.py ./first_frame.png
+
+# 自定义阈值（例如 512KB）
+python3 ./compress_image.py ./product.jpg 524288
+```
+
+输出示例：
+```
+COMPRESSED:./first_frame_compressed.webp|2097152|491520|无损WebP
+SKIPPED:./small_icon.png|51200|未触发(低于阈值)
+```
+
+### 在视频生成流程中使用
+
+对于需要传图的视频生成模式（首帧图生视频、首尾帧图生视频、参考图生视频），流程为：
+
+```bash
+# 1. 先压缩图片
+RESULT=$(python3 ./compress_image.py ./first_frame.png)
+# 2. 提取压缩后的路径和 MIME
+if echo "$RESULT" | grep -q "^COMPRESSED:"; then
+    IMG_PATH=$(echo "$RESULT" | cut -d'|' -f1 | sed 's/COMPRESSED://')
+else
+    IMG_PATH="./first_frame.png"  # 未被压缩，用原图
+fi
+# 3. 根据扩展名推断 MIME，生成 base64 data URL
+case "$IMG_PATH" in
+    *.webp) MIME="image/webp" ;;
+    *.jpg|*.jpeg) MIME="image/jpeg" ;;
+    *.png) MIME="image/png" ;;
+    *.gif) MIME="image/gif" ;;
+    *) MIME="image/png" ;;
+esac
+DATA_URL="data:${MIME};base64,$(base64 -i "$IMG_PATH" | tr -d '\n')"
+# 4. 发送 API 请求
+```
+
 ## Base64 Image Input Helper
 
 ```bash
@@ -256,8 +340,9 @@ When this provider is active:
 
 - `image_generation.provider: "chaowenai"` means generated product reference boards, character sheets, scene boards, and storyboard first-frame images use this skill.
 - `video_generation.provider: "chaowenai"` means generated storyboard videos use this skill.
+- **Before any video generation with local image inputs, run `python3 ./compress_image.py <image_path>` on every input image.** This applies to image-to-video, first/last-frame video, and reference-to-video modes.
 - Save downloaded media under `generated_media/shot_XX_first_frame.png` or `generated_media/shot_XX_video.mp4`.
-- Save provider metadata in `references.json`: provider `chaowenai`, model, task_id, status, file url, downloaded path, timestamps.
+- Save provider metadata in `references.json`: provider `chaowenai`, model, task_id, status, file url, downloaded path, compression info, timestamps.
 
 ## Troubleshooting
 
