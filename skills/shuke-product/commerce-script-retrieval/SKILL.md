@@ -5,27 +5,27 @@ description: Use this skill to retrieve relevant tagged带货视频 examples fro
 
 # Commerce Script Retrieval
 
-Use this skill when the user has a new product and wants to find comparable带货视频 structures, scripts, hooks, or remake ideas from the local screenplay library at `~/.hermes/skills/shuke-product/skills/shuke-product/vault/`.
+Use this skill when the user has a new product and wants to find comparable带货视频 structures, scripts, hooks, or remake ideas from the local screenplay library at `~/.claude/skills/shuke-product/skills/shuke-product/vault/`.
 
 ## Library Path
 
 Default library:
 
 ```text
-~/.hermes/skills/shuke-product/skills/shuke-product/vault/
+~/.claude/skills/shuke-product/skills/shuke-product/vault/
 ```
 
 Primary search file:
 
 ```text
-~/.hermes/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl
+~/.claude/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl
 ```
 
 Detailed records:
 
 ```text
-~/.hermes/skills/shuke-product/skills/shuke-product/vault/tags/<video_id>.json
-~/.hermes/skills/shuke-product/skills/shuke-product/vault/analyses/<video_id>/analysis.md
+~/.claude/skills/shuke-product/skills/shuke-product/vault/tags/<video_id>.json
+~/.claude/skills/shuke-product/skills/shuke-product/vault/analyses/<video_id>/analysis.md
 ```
 
 ## Retrieval Workflow
@@ -37,7 +37,7 @@ Detailed records:
    - core selling points
    - platform/language
    - desired video length
-2. Load `~/.hermes/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl`.
+2. Load `~/.claude/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl`.
 3. Filter by product category and compatible audience.
 4. Score candidates by:
    - product category match
@@ -72,7 +72,7 @@ If many candidates tie, prefer records with clearer remake plans and more comple
 
 When the JSONL index lacks fine-grained category filters for your product type, or when you need deeper matching beyond indexed tags, use content-level keyword search on analysis files instead of the scoring approach above:
 
-1. List all analysis files: `glob("~/.hermes/skills/shuke-product/skills/shuke-product/vault/analyses/*/analysis.md")`
+1. List all analysis files: `glob("~/.claude/skills/shuke-product/skills/shuke-product/vault/analyses/*/analysis.md")`
 2. Search each analysis file's content (first ~1000 chars) with product-relevant keywords in both English and the target market language:
    - English: foundation, makeup, skincare, beauty, SPF, sunscreen, face, body, cream, lotion, etc.
    - Target market language: e.g., for Spanish: base, maquillaje, protección solar, rostro, cuerpo, crema, piel
@@ -126,7 +126,7 @@ For a new product, return:
 - 平台：
 - 时长：
 
-请从 ~/.hermes/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl 检索最匹配的带货视频结构，读取相关 tags/analysis，然后生成原创短视频带货脚本。
+请从 ~/.claude/skills/shuke-product/skills/shuke-product/vault/index/videos.jsonl 检索最匹配的带货视频结构，读取相关 tags/analysis，然后生成原创短视频带货脚本。
 输出：参考视频、匹配原因、15秒脚本、30秒脚本、镜头表、字幕、口播、CTA、商品图提示词、视频提示词。
 ```
 
@@ -144,7 +144,7 @@ For a new product, return:
 When the user asks to produce a script, save it under:
 
 ```text
-~/.hermes/skills/shuke-product/skills/shuke-product/vault/generated_scripts/<product_slug>_<date>/
+~/.claude/skills/shuke-product/skills/shuke-product/vault/generated_scripts/<product_slug>_<date>/
 ├── script.md
 ├── references.json
 └── prompts.json
