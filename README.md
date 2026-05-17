@@ -1,6 +1,6 @@
 # 🛍️ shuke-product — 带货视频工作流
 
-10 个 Claude Code 技能 + 带货视频分析参考库，用于短视频带货脚本、商品图生成、视频生成和竞品分析。
+11 个 Claude Code 技能 + 带货视频分析参考库，用于短视频带货脚本、商品图生成、视频生成和竞品分析。
 
 ## 一键安装（小白通用）
 
@@ -54,6 +54,7 @@ shuke_product/
 │   │   ├── media_services.example.yaml   # 配置模板（不含真实密钥）
 │   │   └── media_services.yaml           # 本地密钥配置（.gitignore 排除）
 │   ├── bandianwa-media-generation/        # 斑点蛙图片生成
+│   ├── catking-media-generation/           # CatKing 视频生成
 │   ├── chaowenai-media-generation/        # 超稳AI 图片 & 视频生成
 │   ├── commerce-script-retrieval/        # 带货脚本检索
 │   ├── commerce-video-tagging/           # 带货视频打标
@@ -83,6 +84,7 @@ shuke_product/
 | **斑点蛙** | 图片生成（gpt-image-2） | `https://api.hellobabygo.com`（固定） | 填入你的 key |
 | **Flow2API** | 图片生成 / 视频生成 | 按需配置（每台机器可能不同） | 按需配置 |
 | **Cloudy VEO** | VEO 3.1 视频生成 | `https://api.dealonhorizon.us`（固定） | 填入你的 key |
+| **CatKing** | Veo 3.1 视频生成 | `https://api.catking.top`（固定） | 填入你的 key |
 | **Yunwu** | 视频分析（Gemini） | `https://yunwu.ai`（固定） | 填入你的 key |
 
 > 斑点蛙注册：https://api.hellobabygo.com/register?aff=W3gr

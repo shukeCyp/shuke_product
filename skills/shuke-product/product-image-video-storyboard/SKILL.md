@@ -208,6 +208,7 @@ Video-provider selection applies to final storyboard video generation:
 - When `video_generation.provider: "flow2api"`, use `flow2api-media-generation` and `flow2api.models.*`.
 - When `video_generation.provider: "cloudy_veo"`, use `cloudy-veo-generation` and `cloudy_veo.models.*`; the workspace default is VEO 3.1 Fast portrait.
 - When `video_generation.provider: "chaowenai"`, the default video model is `veo3.1-fast`. If it fails, try `veo3.1-lite` before giving up.
+- When `video_generation.provider: "catking"`, use `catking-media-generation` and `catking.models.*`. Default model is `ali-veo-3.1-portrait-8s-1080p` for portrait, `ali-veo-3.1-landscape-8s-1080p` for landscape. Text-to-video omits `reference_images`; image-to-video and reference-to-video include up to 3 base64 images in `reference_images`.
 - If the configured video provider is missing, blocked, or all its models fail, record the blocker in `references.json` instead of pretending videos were generated.
 
 ## Commerce Market and Language

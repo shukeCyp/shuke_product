@@ -51,6 +51,15 @@ bandianwa:
   models:
     image_default: "gpt-image-2"
 
+catking:
+  # CatKing API — Veo 视频生成，URL 固定。
+  base_url: "https://api.catking.top"
+  api_key: "sk-xxxxx"
+  concurrency_limit: 3
+  models:
+    text_to_video_default: "ali-veo-3.1-portrait-8s-1080p"
+    reference_to_video_default: "ali-veo-3.1-portrait-8s-1080p"
+
 image_generation:
   # provider: "flow2api"  # 旧配置
   # provider: "bandianwa"
@@ -58,6 +67,8 @@ image_generation:
 
 video_generation:
   # provider: "cloudy_veo"  # 旧配置
+  # provider: "chaowenai"
+  # provider: "catking"
   provider: "chaowenai"
 
 commerce_market:
