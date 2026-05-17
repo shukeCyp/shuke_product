@@ -225,6 +225,8 @@ curl -X POST "$CHAOWENAI_BASE_URL/v1/videos" \\
 
 ## Polling
 
+Polling timeout: read `chaowenai.timeout` from config (default 600s = 10 minutes). If a task does not reach `completed` within the timeout, stop polling and record the timeout in `references.json`.
+
 After submit, poll every 10-15 seconds:
 
 ```bash
@@ -358,7 +360,7 @@ When this provider is active:
 
 Video generation (veo3.1-fast) typically takes 2-5+ minutes per job from submission to completion. When generating a batch of 8+ videos:
 
-- Total batch time can exceed 300s (common sandbox/script timeout).
+- Total batch time can exceed timeout (default 600s).
 - Submit all tasks at once — ChaowenAI queues them server-side. Submitting more than `concurrency_limit` tasks is fine; the limit controls how many tasks you actively poll, not how many you submit.
 - If your polling script times out mid-batch, re-submit only the missing shots by their first-frame images. The original tasks may still complete on the server, but you won't have their task IDs. Re-submission with the same first frame is the safest recovery.
 - For long-running batch jobs, consider splitting into rounds of 3-4 shots and tracking task IDs persistently (e.g., save to a JSON file) so you can resume polling without re-submission.

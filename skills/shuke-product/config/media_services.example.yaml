@@ -32,6 +32,7 @@ chaowenai:
   api_key_image: "your-chaowenai-image-key"
   api_key_video: "your-chaowenai-video-key"
   concurrency_limit: 3
+  timeout: 600
   models:
     # 默认图片模型：文生图/图生图
     image_default: "nano-banana-2"
@@ -42,8 +43,17 @@ chaowenai:
     # 默认参考图转视频模型
     multi_reference_video_default: "veo3.1-lite"
 
+bandianwa:
+  # 斑点蛙 (Bandianwa) GPT Image API — 填入你的 URL 和 key 即可。
+  base_url: "https://api.hellobabygo.com"
+  api_key: ""   # ← 填入斑点蛙 API Key
+  concurrency_limit: 3
+  models:
+    image_default: "gpt-image-2"
+
 image_generation:
   # provider: "flow2api"  # 旧配置
+  # provider: "bandianwa"
   provider: "chaowenai"
 
 video_generation:

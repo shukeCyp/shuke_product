@@ -181,6 +181,7 @@ Image-provider selection applies to the entire workflow:
 
 - `image_generation.provider` controls the product reference board, character reference sheet, scene reference board, and all storyboard first-frame images.
 - When `image_generation.provider: "flow2api"`, the product reference board must use Flow/flow2api by default.
+- When `image_generation.provider: "bandianwa"`, use `bandianwa-media-generation` skill. Reference images must be uploaded to imageproxy first to get public URLs before including them as `urls` in generation requests. Text-to-image does not need reference upload.
 - **Provider-internal model fallback**: If the configured provider's default model returns `503 model_not_found` (e.g., ChaowenAI's `nano-banana-2` unavailable), try the provider's alternative models (e.g., `nano-banana-pro`, `gemini-3.1-flash-image`) before switching providers entirely. Record which model was actually used in references.json.
 - Only fall back to a different provider (`imagegen` or other) when all models within the configured provider return errors, or when the provider's base URL is unreachable; record the fallback reason in `references.json`.
 
