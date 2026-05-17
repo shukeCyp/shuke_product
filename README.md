@@ -1,6 +1,6 @@
 # 🛍️ shuke-product — 带货视频工作流
 
-8 个 Claude Code 技能 + 带货视频分析参考库，用于短视频带货脚本、商品图生成、视频生成和竞品分析。
+10 个 Claude Code 技能 + 带货视频分析参考库，用于短视频带货脚本、商品图生成、视频生成和竞品分析。
 
 ## 一键安装（小白通用）
 
@@ -19,6 +19,10 @@ Claude Code 会自动 clone 仓库、复制技能、检查配置，等待完成�
 > **「帮我配置 shuke-product：云雾 API Key 填 xxx，图片生成和视频生成的 provider 都设置成超稳 AI，图片 Key 填 xxx，视频 Key 填 xxx」**
 
 （把 `xxx` 分别替换成你自己的云雾 Key、超稳 AI 图片 Key、超稳 AI 视频 Key）
+
+图片生成也可以用斑点蛙（gpt-image-2）：
+
+> **「帮我配置 shuke-product：图片生成的 provider 设置成斑点蛙，Key 填 xxx」**
 
 ### 第三步：开始使用
 
@@ -45,10 +49,12 @@ claude
 ```
 shuke_product/
 ├── README.md
-├── skills/shuke-product/             # 8 个 Claude Code 技能
+├── skills/shuke-product/             # 10 个 Claude Code 技能
 │   ├── config/
 │   │   ├── media_services.example.yaml   # 配置模板（不含真实密钥）
 │   │   └── media_services.yaml           # 本地密钥配置（.gitignore 排除）
+│   ├── bandianwa-media-generation/        # 斑点蛙图片生成
+│   ├── chaowenai-media-generation/        # 超稳AI 图片 & 视频生成
 │   ├── commerce-script-retrieval/        # 带货脚本检索
 │   ├── commerce-video-tagging/           # 带货视频打标
 │   ├── cloudy-veo-generation/            # VEO 视频生成
@@ -73,9 +79,13 @@ shuke_product/
 
 | 服务 | 用途 | URL | Key |
 |------|------|-----|-----|
+| **超稳AI** | 图片生成 / 视频生成 | `https://api.chaowenai.com`（固定） | 填入图片 Key + 视频 Key |
+| **斑点蛙** | 图片生成（gpt-image-2） | `https://api.hellobabygo.com`（固定） | 填入你的 key |
 | **Flow2API** | 图片生成 / 视频生成 | 按需配置（每台机器可能不同） | 按需配置 |
 | **Cloudy VEO** | VEO 3.1 视频生成 | `https://api.dealonhorizon.us`（固定） | 填入你的 key |
 | **Yunwu** | 视频分析（Gemini） | `https://yunwu.ai`（固定） | 填入你的 key |
+
+> 斑点蛙注册：https://api.hellobabygo.com/register?aff=W3gr
 
 首次安装后，问 Claude Code **「帮我配置 shuke-product」** 它会引导你填写 `skills/shuke-product/config/media_services.yaml`。
 

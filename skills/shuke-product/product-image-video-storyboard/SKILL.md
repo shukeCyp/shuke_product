@@ -1,13 +1,17 @@
 ---
 name: product-image-video-storyboard
-description: "Use by default when the user provides product images and wants ecommerce short-video planning, storyboard scripts, first-frame image prompts, video prompts, generated images, or generated videos. When a product image is provided, run the full workflow by default until final video assets are produced, unless the user explicitly asks for prompts/planning only. All image and video generation is handled through Codex skills."
+description: "Use by default when the user provides product images (single file or folder) and wants ecommerce short-video planning, storyboard scripts, first-frame image prompts, video prompts, generated images, or generated videos. When a product image or folder is provided, run the full workflow by default until final video assets are produced, unless the user explicitly asks for prompts/planning only. All image and video generation is handled through Codex skills."
 ---
 
 # Product Image Video Storyboard
 
 ## Overview
 
-Convert a product image into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image, the default is end-to-end execution: **Step 0 — product image understanding via Yunwu Gemini API**, then generate foundation references, retrieve examples, write the storyboard, generate first-frame images, generate videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that.
+Convert a product image (or a folder of product images + info files) into a reusable ecommerce short-video production plan and final generated media package. When the user provides a product image or a product folder, the default is end-to-end execution: **Step 0 — product image understanding via Yunwu Gemini API**, then generate foundation references, retrieve examples, write the storyboard, generate first-frame images, generate videos, and save final assets. Stop at prompts/planning only when the user explicitly asks for that.
+
+Supports two input modes:
+- **Single image file**: standard single-product workflow.
+- **Folder path**: scan the folder for product images and info files (.md/.txt/.json), pick the primary image, read supplementary text, and run enriched product understanding analysis. All source files are copied into the project's `source/` directory for reference.
 
 **IMPORTANT — Product Image Understanding**: The FIRST step is always to call `product-image-understanding` skill, which sends the product image to Yunwu API's Gemini vision model (`gemini-3.1-pro-preview`) for structured visual analysis. Do NOT use Hermes's built-in vision_analyze tool for product image understanding — always use Yunwu Gemini API via the `product-image-understanding` skill.
 
@@ -15,7 +19,7 @@ Use the configured active image-generation provider for all raster image generat
 
 ## Trigger Behavior
 
-Use this skill whenever the user provides a product photo, packaging photo, product render, listing image, or reference product image. A product image alone is enough to trigger the full workflow. Also use it when the user asks for any of:
+Use this skill whenever the user provides a product photo, packaging photo, product render, listing image, reference product image, or a **folder path** containing product images and/or product info files. A product image or folder alone is enough to trigger the full workflow. Also use it when the user asks for any of:
 
 - a product video script
 - a short-form ad storyboard
@@ -66,6 +70,12 @@ Required fixed project structure:
 product/
 ├── projects.json
 └── YYYYMMDD_HHMMSS_product_slug/
+    ├── source/                              # original input files
+    │   ├── product_front.png
+    │   ├── product_back.png
+    │   └── product_info.md
+    ├── product_analysis.md
+    ├── product_analysis.json
     ├── 00_foundation_prompts.md
     ├── script.md
     ├── prompts.json
@@ -84,6 +94,8 @@ Directory roles:
 
 - `~/Downloads/product/projects.json`: project-library index used by tools and skill workflows.
 - `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`: the only writable project root for this product run.
+- `source/`: copy of all original input files (images + info files) provided by the user. Read-only after copy.
+- `product_analysis.md` / `product_analysis.json`: product understanding output from Step 0 Yunwu Gemini.
 - `00_foundation_prompts.md`: the three foundation-reference prompts, one each for product, character, and scene.
 - `script.md`: product assumptions, matched references, core angle, storyboard table, generation prompts, and generated asset paths.
 - `prompts.json`: structured reusable prompts for first-frame image generation and video generation.
@@ -112,14 +124,19 @@ After the foundation references exist, the skill must produce `script.md`, `prom
 0. **Product Image Understanding (Yunwu Gemini) — REQUIRED FIRST STEP**
    - Load the `product-image-understanding` skill.
    - Read `yunwu` config from `../config/media_services.yaml` (base_url, api_key, model).
+   - **Determine input type**:
+     - If input is a **file**: use it directly as the primary image.
+     - If input is a **folder**: scan for images (.png/.jpg/.jpeg/.webp) and info files (.md/.txt/.json). Pick the largest image as primary. Read all info files to enrich the analysis prompt. Record supplementary images.
    - Prepare the product image: convert/resize to JPEG max 768px, encode as base64.
-   - Build Gemini native payload with `inline_data` (mime_type: image/jpeg) and the product understanding prompt.
+   - Build Gemini native payload with `inline_data` (mime_type: image/jpeg) and the product understanding prompt (enriched with info file content if folder input).
    - POST to `{yunwu.base_url}/v1beta/models/{yunwu.models.analysis_preferred}:generateContent?key={api_key}` with `Authorization: Bearer {api_key}`.
    - Parse response text from `candidates[0].content.parts[0].text`.
    - Save as `product_analysis.md` and `product_analysis.json` in the project folder.
    - **Use the extracted product information** (product type, packaging details, text on packaging, colors, materials, brand, usage scenario, target language) as the basis for ALL downstream decisions in steps 1-15.
    - Do NOT use Hermes's vision_analyze tool for this step.
-1. Create or select the product project directory under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/` and create `references/` and `generated_media/`.
+1. Create or select the product project directory under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/` and create `source/`, `references/`, and `generated_media/`.
+   - **If folder input**: copy all source files (images + info files) into `source/` to preserve original inputs. Record source file paths in `references.json`.
+   - **If file input**: copy the single product image into `source/` as well.
    - Create the fixed files in that same project folder as the workflow reaches each stage.
    - Before writing any path into metadata, ensure the file exists under the project folder.
 2. Generate exactly one product reference board through the active image-generation provider:
@@ -388,7 +405,7 @@ Rules:
 - Generate first-frame images by default in the skill with `product_reference_board`, `character_reference_sheet`, and `scene_reference_board` as primary references.
 - If the user explicitly requested prompts/planning only, do not generate media, but still write first-frame prompts that explicitly reference those three foundation images.
 - First-frame images must be generated in parallel batches with up to 5 in-flight jobs when the active image-generation skill/API supports it; with Flow/flow2api this is mandatory for independent first-frame jobs.
-- When exact packaging matters, also attach the original product image, with the board used for scale/detail guidance and the original used for packaging fidelity.
+- When exact packaging matters, also attach the original product image, with the board used for scale/detail guidance and the original used for packaging fidelity. If supplementary images exist (from folder input), include back-view and detail shots when relevant to the current shot.
 - For video prompts, describe motion from that first frame over the chosen duration.
 - Make the full video sequence coherent: every shot should feel like it happened in the same real shoot, with a logical before/after relationship to the neighboring shots.
 - Keep continuity across shots: same product state, same room or compatible adjacent room, same lighting direction, same person/hand identity, same wardrobe, and plausible hand/object position changes.
@@ -429,6 +446,38 @@ Format: [duration] seconds; if duration is not explicitly marked, use 8 seconds.
 Negative: no product redesign, no unreadable fake text, no extra fingers, no distorted packaging, no disconnected scene jump, no different actor, no changed hairstyle, no changed wardrobe unless specified, no cinematic ad lighting, no floating product, no studio hero shot.
 ```
 
+## Folder Input Behavior
+
+When the user provides a **folder path** instead of a single image:
+
+### Discovery (Step 0)
+
+1. **List images**: scan the folder for `.png`, `.jpg`, `.jpeg`, `.webp` files (case-insensitive).
+2. **List info files**: scan for `.md`, `.txt`, `.json` files.
+3. **Pick primary image**: the largest image file by byte size. If sizes are equal, first alphabetically. This is the main product image sent to Gemini for vision analysis.
+4. **Read info files**: extract text content from all `.md` and `.txt` files. For `.json` files, look for known product keys (`product_name`, `brand`, `description`, `category`, `features`, `specs`, `usage`, `ingredients`, `material`) and flatten them into readable lines.
+5. **Build enriched prompt**: prepend info file content to the standard product understanding prompt so Gemini can cross-reference user-provided details with the visual analysis.
+
+### Project Setup (Step 1)
+
+1. Copy ALL source files (all images and all info files) into `source/` under the project folder.
+2. If the folder contains only one image and no info files, treat it identically to single-file input (just copy the image into `source/`).
+
+### Downstream Impact
+
+- **Product reference board**: use the primary image as the main reference. Supplementary images (back view, side view, detail shots) provide additional packaging detail for the reference board prompt.
+- **`references.json`**: include `input_type: "folder"`, `primary_image`, `supplementary_images`, `info_files`, and `source/` file manifest.
+- **Storyboard and media generation**: unchanged — the remaining workflow operates on the single consolidated product analysis, same as single-file input.
+
+### Behavior Summary
+
+| Input | Primary Image | Info Context | source/ contents |
+|-------|--------------|--------------|------------------|
+| Single file | The file itself | None | The file copied |
+| Folder (1 img + 1 info) | The image | Info file text merged into prompt | Both files copied |
+| Folder (3 imgs + info) | Largest image | Info file text merged | All 4 files copied |
+| Folder (imgs only) | Largest image | None | All images copied |
+
 ## Media Generation Completion
 
 Do not run automatic first-frame image QA or generated-video QA in this workflow. After first-frame images and videos are generated, save the asset paths, generation prompts, provider metadata, and any generator result URLs or IDs to `script.md`, `prompts.json`, `references.json`, and `~/Downloads/product/projects.json`.
@@ -437,7 +486,7 @@ If the user explicitly asks for QA in a later message, treat that as a separate 
 
 ## User-Facing Behavior
 
-When a product image is provided, do not first ask for market direction and do not print internal generation prompts unless the user requests them. Run the full workflow to final assets by default. Do the work in this order:
+When a product image or folder is provided, do not first ask for market direction and do not print internal generation prompts unless the user requests them. Run the full workflow to final assets by default. Do the work in this order:
 
 0. **Product Image Understanding** — Call `product-image-understanding` skill (Yunwu Gemini) to analyze the product image. Save analysis to `product_analysis.md` and `product_analysis.json` in project folder. Do NOT use Hermes vision_analyze.
 1. Create or select the product project folder under `~/Downloads/product/YYYYMMDD_HHMMSS_product_slug/`.
