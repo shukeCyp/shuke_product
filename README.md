@@ -88,6 +88,7 @@ shuke_product/
 | **Yunwu** | 视频分析（Gemini） | `https://yunwu.ai`（固定） | 填入你的 key |
 
 > 斑点蛙注册：https://api.hellobabygo.com/register?aff=W3gr
+> CatKing 注册：https://api.catking.top/register?aff=MRgf
 
 首次安装后，问 Claude Code **「帮我配置 shuke-product」** 它会引导你填写 `skills/shuke-product/config/media_services.yaml`。
 
