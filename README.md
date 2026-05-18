@@ -1,83 +1,10 @@
 # 🛍️ shuke-product — 带货视频工作流
 
-Claude Code 技能 + 带货视频分析参考库 + Vue 可视化管理面板，覆盖短视频带货脚本、商品图生成、视频生成和竞品分析全流程。
+Claude Code 技能 + 带货视频分析参考库，覆盖短视频带货脚本、商品图生成、视频生成和竞品分析全流程。
 
 ## 整体架构
 
-```mermaid
-flowchart TB
-    A["📥 产品图片 / 文件夹"] --> S0
-
-    S0["Step 0: 产品理解<br/>Yunwu Gemini Vision"]
-    S0 --> S1["Step 1: 创建项目目录"]
-    S1 --> S2["Step 2-4: 生成三张参考板<br/>产品板 + 角色表 + 场景板"]
-    S2 --> S5["Step 5-7: 记录元数据"]
-    S5 --> S7["Step 8-9: 检索 vault 参考库"]
-    S7 --> HOOK{Hook 启用?}
-    HOOK -->|Yes| H1["注入开场钩子 Shot 0"]
-    HOOK -->|No| S8
-    H1 --> S8["Step 10-11: 编写分镜脚本<br/>script.md + prompts.json"]
-    S8 --> S10["Step 12: 并行生成首帧图<br/>→ shot_XX_first_frame.png"]
-    S10 --> S11["Step 13: 生成视频<br/>→ shot_XX_video.mp4"]
-    S11 --> S12["Step 14: 刷新项目索引"]
-
-    S12 --> O["📤 产物输出<br/>分析/脚本/图片/视频"]
-```
-
-### 输入 → 输出总览
-
-```mermaid
-flowchart LR
-    subgraph IN["输入"]
-        A1["产品图/文件夹"]
-        A2["media_services.yaml<br/>配置 Provider/市场/Hook"]
-    end
-
-    subgraph PIPE["Claude Code 工作流"]
-        B1["产品理解"]
-        B2["参考板生成"]
-        B3["脚本+分镜"]
-        B4["首帧图+视频"]
-    end
-
-    subgraph DATA["数据层"]
-        C1["vault 参考库<br/>~5700 条视频分析"]
-        C2["hooks 钩子库"]
-        C3["~/Downloads/product/<br/>项目产物"]
-    end
-
-    subgraph UI["Vue 管理面板"]
-        D1["仪表盘"]
-        D2["视频分析库"]
-        D3["项目管理"]
-        D4["配置管理"]
-    end
-
-    IN --> PIPE --> DATA
-    UI -.->|读写| DATA
-    UI -.->|读写| A2
-```
-
-### 配置驱动
-
-```mermaid
-flowchart LR
-    YAML["media_services.yaml"] --> IMG["图片 Provider"]
-    YAML --> VID["视频 Provider"]
-    YAML --> MKT["目标市场/语言"]
-    YAML --> HK["Hook 开关"]
-    YAML --> VLT["vault 参考库"]
-```
-
-### Hook 注入流程
-
-```mermaid
-flowchart LR
-    CFG["hook.enabled = true"] --> LOAD["加载 Hook<br/>saved_hooks > vault hooks"]
-    LOAD --> MATCH["匹配产品品类<br/>按 risk + score 排序"]
-    MATCH --> ADAPT["适配产品<br/>翻译语言 + 替换产品名"]
-    ADAPT --> SHOT0["插入 Shot 0<br/>开场钩子 0-3s"]
-```
+产品图片作为输入，经过 14 个 Step 的 Claude Code 工作流：产品理解 → 参考板生成 → 元数据记录 → vault 参考库检索 → Hook 注入 → 分镜脚本 → 首帧图 + 视频生成 → 产物输出。全程由 `media_services.yaml` 驱动配置（Provider、市场、Hook 开关等）。详细流程图见末尾。
 
 ## 一键安装
 
@@ -154,47 +81,11 @@ Step 3 和 Step 4 在 Flow/flow2api 下可并行生成。
 - **UGC 风格**：手机拍摄感、自然光线、真实场景，拒绝商业广告风
 - **语言本地化**：根据 `commerce_market` 配置输出对应语言的脚本/字幕/CTA
 
-## Vue 可视化管理面板
-
-`frontend/` 目录提供了一套完整的 Vue 3 + Element Plus 管理面板。
-
-### 启动
-
-```bash
-cd frontend
-npm install
-npm run dev        # 同时启动 API 服务(3001) + Vite 开发服务器(5173)
-```
-
-### 页面功能
-
-| 页面 | 路由 | 功能 |
-|------|------|------|
-| 仪表盘 | `/` | 统计卡片、评分分布图、品类/钩子分布图、快捷入口 |
-| 视频分析库 | `/vault` | 多维度筛选（品类/钩子/视频类型/风险/平台）、排序、分页浏览 |
-| 视频详情 | `/vault/:id` | 评分雷达图、标签体系、钩子/CTA 信息、改造建议、完整分析 |
-| 钩子库 | `/hooks` | 钩子卡片展示，按类型/风险筛选，查看开场脚本和话术示例 |
-| 配置管理 | `/config` | 查看/在线编辑 media_services.yaml，API Key 默认隐藏 |
-| 项目列表 | `/projects` | 浏览 ~/Downloads/product/ 下的生成项目 |
-| 项目详情 | `/projects/:id` | 媒体画廊（图片/视频）、分镜脚本、产品分析、提示词 |
-
-### 技术栈
-
-Vue 3 + TypeScript + Vite + Element Plus + ECharts + Pinia + Vue Router + Express
-
 ## 目录结构
 
 ```
 shuke_product/
 ├── README.md
-├── frontend/                          # Vue 可视化管理面板
-│   ├── server/index.js                # Express API 后端
-│   └── src/
-│       ├── views/                     # 7 个页面
-│       ├── components/                # 5 个可复用组件
-│       ├── stores/                    # Pinia 状态管理
-│       ├── api/                       # API 请求层
-│       └── types/                     # TypeScript 类型
 ├── skills/shuke-product/              # Claude Code 技能
 │   ├── config/
 │   │   ├── media_services.example.yaml   # 配置模板
@@ -239,6 +130,76 @@ shuke_product/
 直接发送以下指令给 Claude Code：
 
 > **「帮我从 git@github.com:shukeCyp/shuke_product.git 更新带货工作流」**
+
+## 流程图
+
+### 主工作流
+
+```mermaid
+flowchart TB
+    A["📥 产品图片 / 文件夹"] --> S0
+
+    S0["Step 0: 产品理解<br/>Yunwu Gemini Vision"]
+    S0 --> S1["Step 1: 创建项目目录"]
+    S1 --> S2["Step 2-4: 生成三张参考板<br/>产品板 + 角色表 + 场景板"]
+    S2 --> S5["Step 5-7: 记录元数据"]
+    S5 --> S7["Step 8-9: 检索 vault 参考库"]
+    S7 --> HOOK{Hook 启用?}
+    HOOK -->|Yes| H1["注入开场钩子 Shot 0"]
+    HOOK -->|No| S8
+    H1 --> S8["Step 10-11: 编写分镜脚本<br/>script.md + prompts.json"]
+    S8 --> S10["Step 12: 并行生成首帧图<br/>→ shot_XX_first_frame.png"]
+    S10 --> S11["Step 13: 生成视频<br/>→ shot_XX_video.mp4"]
+    S11 --> S12["Step 14: 刷新项目索引"]
+
+    S12 --> O["📤 产物输出<br/>分析/脚本/图片/视频"]
+```
+
+### 输入 → 输出总览
+
+```mermaid
+flowchart LR
+    subgraph IN["输入"]
+        A1["产品图/文件夹"]
+        A2["media_services.yaml<br/>配置 Provider/市场/Hook"]
+    end
+
+    subgraph PIPE["Claude Code 工作流"]
+        B1["产品理解"]
+        B2["参考板生成"]
+        B3["脚本+分镜"]
+        B4["首帧图+视频"]
+    end
+
+    subgraph DATA["数据层"]
+        C1["vault 参考库<br/>~5700 条视频分析"]
+        C2["hooks 钩子库"]
+        C3["~/Downloads/product/<br/>项目产物"]
+    end
+
+    IN --> PIPE --> DATA
+```
+
+### 配置驱动
+
+```mermaid
+flowchart LR
+    YAML["media_services.yaml"] --> IMG["图片 Provider"]
+    YAML --> VID["视频 Provider"]
+    YAML --> MKT["目标市场/语言"]
+    YAML --> HK["Hook 开关"]
+    YAML --> VLT["vault 参考库"]
+```
+
+### Hook 注入流程
+
+```mermaid
+flowchart LR
+    CFG["hook.enabled = true"] --> LOAD["加载 Hook<br/>saved_hooks > vault hooks"]
+    LOAD --> MATCH["匹配产品品类<br/>按 risk + score 排序"]
+    MATCH --> ADAPT["适配产品<br/>翻译语言 + 替换产品名"]
+    ADAPT --> SHOT0["插入 Shot 0<br/>开场钩子 0-3s"]
+```
 
 ## 常见问题
 
