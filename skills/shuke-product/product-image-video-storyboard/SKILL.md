@@ -181,7 +181,7 @@ After the foundation references exist, the skill must produce `script.md`, `prom
    - duration beat, normally 3-6 seconds for planning
    - final generation duration, default 8 seconds when unspecified
    - first-frame image prompt
-   - video prompt with explicit duration
+   - video prompt with explicit duration and `Voice Identity Lock` in the Audio field
    - voiceover or on-screen text in the configured selling-market language if useful
    - edit note for how the user can trim or combine clips manually
 12. Generate storyboard first-frame images through the active image-generation skill and save them as `generated_media/shot_XX_first_frame.png`, unless the user explicitly requested prompts/planning only.
@@ -247,6 +247,42 @@ For media-generation concurrency:
 - Queue remaining jobs when the provider's concurrency pool is full.
 - Do not run media jobs one-by-one unless there is only one job, a prior output is required, the concurrency pool is full, or the user explicitly requests sequential generation.
 
+## Hook Integration
+
+Read `hook` config from `../config/media_services.yaml` before script retrieval (Step 8). The hook config controls whether and how to apply opening hooks to the storyboard script.
+
+### Config Fields
+
+| Field | Values | Behavior |
+|-------|--------|----------|
+| `hook.enabled` | `true` / `false` | Master toggle. When `false`, skip all hook logic and write a neutral opening. |
+| `hook.selection` | `"auto"` or a hook_id like `"hook_result_first_half_restore"` | `"auto"` picks the best hook from `vault/hooks/hooks.json` by product category and risk score. A specific hook_id forces that hook. |
+| `hook.saved_hooks` | array of hook objects | User-designed custom hooks. Check here first before falling back to the library. |
+
+### Hook Application Flow
+
+1. Read `hook.enabled` from config. If `false`, skip hook injection and start the storyboard with a standard product intro.
+2. Read `hook.saved_hooks` first. If the user has saved custom hooks, prefer the one with the highest `score.overall`.
+3. If `hook.selection` is a specific `hook_id`, load that hook from saved_hooks or the vault library.
+4. If `hook.selection` is `"auto"`, load `vault/hooks/hooks.json`, filter hooks by `best_for` matching the product category (from Step 0 product analysis), then rank by `risk_level` (prefer low/medium over high) and `score.overall` (prefer higher).
+5. Adapt the selected hook for the product:
+   - Translate `opening_script`, `first_3s.speech_or_text`, and `example_lines` to `commerce_market.language`.
+   - Replace the generic product reference in the hook with the user's actual product name and key selling points.
+   - Write the adapted hook as Shot 0 (the hook shot, 0-3s) in the storyboard before the main product demo shots.
+   - Record which hook was used in `references.json` under `hook_applied`.
+6. If no hook matches the product category, fall back to the highest overall-scored low-risk hook (`hook_result_first_half_restore`) and adapt it generically, or write a neutral opening if even that doesn't fit.
+7. Saved custom hooks in `hook.saved_hooks` persist across sessions. When the user says "save this hook" or "add this hook to config", append it to `hook.saved_hooks` in `media_services.yaml`.
+
+### Hook Shot Template (Shot 0)
+
+When a hook is applied, add it as the first storyboard entry before the product demo:
+
+| 镜头 | 规划时长 | 生成时长 | 画面 | 口播/字幕 |
+|---|---:|---:|---|---|
+| 0 | 3s | 8s | [adapted `first_3s.visual` with the user's product] | [adapted `first_3s.speech_or_text` in market language] |
+
+The hook shot's first-frame image prompt should use the same `product_reference_board`, `character_reference_sheet`, and `scene_reference_board` as the rest of the storyboard.
+
 ## Character Consistency
 
 If any person, model, hand model, creator, actor, or customer appears in the storyboard:
@@ -263,6 +299,23 @@ If any person, model, hand model, creator, actor, or customer appears in the sto
 8. For hand-only shots, still use the same character reference sheet: skin tone, hand shape, nail length/color, jewelry, sleeve, and grip style must match the creator.
 9. When both hands appear, explicitly describe left hand and right hand roles in prompts. Do not allow two left hands, two right hands, duplicated thumbs, mirrored same-side hands, or swapped hand orientation.
 10. When a hand holds or touches the product, require realistic occlusion, finger wrapping, contact shadows, and product thickness so the product reads as a real 3D object rather than a flat printed sticker.
+
+## Voice Consistency
+
+Video generation models do not guarantee audio continuity across shots, but consistent voice descriptors in every video prompt significantly improve perceived consistency. Before writing video prompts, define a `Voice Identity Lock` and include it in every video prompt:
+
+**Voice Identity Lock** — define before the storyboard:
+- **Gender & age**: woman / man / neutral, age range (e.g., "young woman in her 20s", "mature man in his 30s")
+- **Tone**: warm and friendly / calm and professional / energetic and enthusiastic / soft and soothing / authoritative and confident
+- **Pitch**: medium-low / medium / medium-high (avoid extremes unless the character demands it)
+- **Pace**: natural conversational pace, not rushed / slightly fast energetic / slow and deliberate
+- **Timbre**: clear and bright / smooth and warm / slightly husky / crisp and articulate
+- **Language**: the configured `commerce_market.language` with the `language_variant` accent (e.g., "Mexican Spanish with a natural chilango accent", "American English with a neutral Midwest accent")
+- **Persona**: relatable friend / trusted expert / enthusiastic user / calm instructor
+
+Apply the same `Voice Identity Lock` in every video prompt's `Audio:` field. Do not vary the speaker between shots unless the storyboard explicitly calls for a different voice (e.g., customer testimonial vs. expert explanation). When a different voice is needed, define a second Voice Identity Lock with the same level of detail.
+
+The voice should match the character's visual identity — a young female creator should sound like a young woman, not a middle-aged man. Describe the voice in the same language as the target market when possible.
 
 ## Product Reference Board Prompt
 
@@ -315,6 +368,8 @@ Avoid: the product, product packaging, product labels, product-colored props, pr
 ```
 
 Use `references/character_reference_sheet.png` for every first-frame image that includes a face, body, or hands.
+
+When the character reference sheet is created, also define the `Voice Identity Lock` for this character and record it in `00_foundation_prompts.md`. The voice profile should match the character's visual identity: gender, age, and persona must align. Include gender, age, tone, pitch, pace, timbre, language/accent, and persona.
 
 ## Multi-View Scene Reference Board Prompt
 
@@ -416,6 +471,7 @@ Rules:
 - Prefer real-shot UGC footage language over advertising language: handheld phone camera, practical room light, natural counter/bathroom/kitchen setting, ordinary human handling, realistic imperfections, no studio hero ad look.
 - Avoid disconnected scene jumps, poster-style product compositions, cinematic ad lighting, floating UI, fake glow effects, exaggerated hero orbits, and overly polished commercial packshots unless the user explicitly asks for ads.
 - When a person appears, include the exact `Character Identity Lock` in the prompt or reference it explicitly by label.
+- When voiceover or spoken audio appears in a video prompt, include the exact `Voice Identity Lock` (same gender, age, tone, pitch, pace, timbre, language/accent) across every shot. Do not vary the speaker unless the storyboard explicitly calls for it.
 - Add edit notes such as "use full 5-second clip", "trim after product contact", "use middle 3 seconds as transition", or "cut on reaction moment".
 
 ## Prompt Standards
@@ -442,7 +498,7 @@ Action: [one clear natural motion over the chosen duration].
 Scene: [real usage context and practical background behavior].
 Lighting: [natural/practical room light with realistic shadow behavior].
 Style: real-shot UGC phone footage, photorealistic, vertical 9:16, not a polished commercial ad.
-Audio: [voiceover/sfx/ambient direction if needed].
+Audio: [Voice Identity Lock — same [gender], [age], [tone], [pitch] voice as all other shots. Speak in [language] with [accent]. Pace: [natural/energetic/calm]. VO text: "[exact voiceover line]". SFX: [practical foley if needed, e.g., cap click, pouring, rustle]. Ambience: [quiet room / soft background music / none]. Voice continuity: this is the same speaker as shots [N-1] and [N+1], same person talking, same recording session feel.].
 Format: [duration] seconds; if duration is not explicitly marked, use 8 seconds.
 Negative: no product redesign, no unreadable fake text, no extra fingers, no distorted packaging, no disconnected scene jump, no different actor, no changed hairstyle, no changed wardrobe unless specified, no cinematic ad lighting, no floating product, no studio hero shot.
 ```
