@@ -96,6 +96,36 @@ yunwu:
     analysis_preferred: "gemini-3.1-pro-preview"
     analysis_fallback: "gemini-2.5-pro"
 
+# 钩子配置 — 控制 storyboard 是否自动注入开场钩子
+hook:
+  enabled: true
+  selection: "auto"
+  saved_hooks:
+    # 示例：用户可自定义钩子，存于此列表中，跨会话保留
+    # - hook_id: "custom_scent_lean_in"
+    #   name: "不是大牌香水但一直凑近闻"
+    #   hook_type: "结果前置"
+    #   secondary_types:
+    #     - "好奇悬念"
+    #     - "场景代入"
+    #   pattern: "..."
+    #   opening_script: "..."
+    #   first_3s:
+    #     visual: "..."
+    #     speech_or_text: "..."
+    #     emotion: "..."
+    #   why_it_stops_scroll: []
+    #   best_for: []
+    #   risk_level: "low"
+    #   remake_formula: []
+    #   example_lines: []
+    #   score:
+    #     retention: 8.5
+    #     conversion_fit: 8
+    #     trust: 9
+    #     platform_safety: 9.5
+    #     overall: 8.8
+
 google_prompting:
   nano_banana2:
     official_model: "gemini-3.1-flash-image-preview"
