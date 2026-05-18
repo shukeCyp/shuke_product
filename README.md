@@ -6,80 +6,77 @@ Claude Code 技能 + 带货视频分析参考库 + Vue 可视化管理面板，�
 
 ```mermaid
 flowchart TB
-    subgraph INPUT["📥 输入"]
-        A1["产品图片<br/>(单张)"]
-        A2["产品文件夹<br/>(图片 + 信息文件)"]
+    A["📥 产品图片 / 文件夹"] --> S0
+
+    S0["Step 0: 产品理解<br/>Yunwu Gemini Vision"]
+    S0 --> S1["Step 1: 创建项目目录"]
+    S1 --> S2["Step 2-4: 生成三张参考板<br/>产品板 + 角色表 + 场景板"]
+    S2 --> S5["Step 5-7: 记录元数据"]
+    S5 --> S7["Step 8-9: 检索 vault 参考库"]
+    S7 --> HOOK{Hook 启用?}
+    HOOK -->|Yes| H1["注入开场钩子 Shot 0"]
+    HOOK -->|No| S8
+    H1 --> S8["Step 10-11: 编写分镜脚本<br/>script.md + prompts.json"]
+    S8 --> S10["Step 12: 并行生成首帧图<br/>→ shot_XX_first_frame.png"]
+    S10 --> S11["Step 13: 生成视频<br/>→ shot_XX_video.mp4"]
+    S11 --> S12["Step 14: 刷新项目索引"]
+
+    S12 --> O["📤 产物输出<br/>分析/脚本/图片/视频"]
+```
+
+### 输入 → 输出总览
+
+```mermaid
+flowchart LR
+    subgraph IN["输入"]
+        A1["产品图/文件夹"]
+        A2["media_services.yaml<br/>配置 Provider/市场/Hook"]
     end
 
-    subgraph CONFIG["⚙️ 配置中心"]
-        C1["media_services.yaml"]
-        C1 --> C2["图片生成 Provider<br/>超稳AI / 斑点蛙 / Flow2API"]
-        C1 --> C3["视频生成 Provider<br/>超稳AI / CatKing / Flow2API / Cloudy VEO"]
-        C1 --> C4["目标市场 & 语言<br/>commerce_market"]
-        C1 --> C5["Hook 配置<br/>enabled / selection / saved_hooks"]
+    subgraph PIPE["Claude Code 工作流"]
+        B1["产品理解"]
+        B2["参考板生成"]
+        B3["脚本+分镜"]
+        B4["首帧图+视频"]
     end
 
-    A1 & A2 --> S0
-
-    subgraph WORKFLOW["🔄 工作流"]
-        S0["Step 0: 产品理解<br/>Yunwu Gemini Vision API<br/>→ product_analysis.md/json"]
-        S0 --> S1["Step 1: 创建项目目录<br/>~/Downloads/product/<br/>YYYYMMDD_HHMMSS_slug/"]
-        S1 --> S2["Step 2: 生成产品参考板<br/>product_reference_board.png"]
-        S2 --> S3["Step 3: 角色参考表<br/>character_reference_sheet.png"]
-        S2 --> S4["Step 4: 场景参考板<br/>scene_reference_board.png"]
-        S3 & S4 -.->|"可并行生成"| S5
-        S5["Step 5: 保存基础提示词<br/>00_foundation_prompts.md"]
-        S5 --> S6["Step 6-7: 记录元数据<br/>references.json"]
-        S6 --> S7["Step 8-9: 检索参考库<br/>vault/index + tags + analyses"]
-        
-        S7 --> HOOK{"Hook 是否启用?"}
-        HOOK -->|"enabled: true"| H1["加载 Hook<br/>saved_hooks → vault hooks"]
-        H1 --> H2["适配 Hook 到产品<br/>翻译语言 + 替换产品名"]
-        H2 --> H3["插入 Shot 0<br/>开场钩子镜头 (0-3s)"]
-        H3 --> S8
-        HOOK -->|"enabled: false"| S8
-        
-        S8["Step 10: 编写分镜脚本<br/>script.md + prompts.json"]
-        S8 --> S9["Step 11: 定义每镜头<br/>目标/时长/首帧提示词/<br/>视频提示词/剪辑备注"]
-        S9 --> S10["Step 12: 生成首帧图<br/>parallel batches (max 5)<br/>→ shot_XX_first_frame.png"]
-        S10 --> S11["Step 13: 生成视频<br/>→ shot_XX_video.mp4"]
-        S11 --> S12["Step 14: 刷新项目索引<br/>projects.json"]
+    subgraph DATA["数据层"]
+        C1["vault 参考库<br/>~5700 条视频分析"]
+        C2["hooks 钩子库"]
+        C3["~/Downloads/product/<br/>项目产物"]
     end
 
-    CONFIG -.->|"驱动"| WORKFLOW
-
-    subgraph OUTPUT["📤 产物"]
-        O1["product_analysis.md<br/>产品理解分析"]
-        O2["references/<br/>3 张参考图"]
-        O3["script.md<br/>分镜脚本表"]
-        O4["prompts.json<br/>结构化提示词"]
-        O5["generated_media/<br/>首帧图 + 视频"]
-        O6["references.json<br/>完整元数据"]
+    subgraph UI["Vue 管理面板"]
+        D1["仪表盘"]
+        D2["视频分析库"]
+        D3["项目管理"]
+        D4["配置管理"]
     end
 
-    S12 --> OUTPUT
+    IN --> PIPE --> DATA
+    UI -.->|读写| DATA
+    UI -.->|读写| A2
+```
 
-    subgraph VAULT["🗄️ 参考库 (只读)"]
-        V1["index/videos.jsonl<br/>~5700 条索引"]
-        V2["tags/*.json<br/>结构化标签"]
-        V3["analyses/*/analysis.md<br/>完整分析"]
-        V4["hooks/hooks.json<br/>钩子模板库"]
-    end
+### 配置驱动
 
-    VAULT -.->|"检索"| S7
-    VAULT -.->|"检索"| H1
+```mermaid
+flowchart LR
+    YAML["media_services.yaml"] --> IMG["图片 Provider"]
+    YAML --> VID["视频 Provider"]
+    YAML --> MKT["目标市场/语言"]
+    YAML --> HK["Hook 开关"]
+    YAML --> VLT["vault 参考库"]
+```
 
-    subgraph FRONTEND["🖥️ Vue 管理面板"]
-        F1["仪表盘<br/>统计 + 图表"]
-        F2["视频分析库<br/>搜索/筛选/详情"]
-        F3["钩子库"]
-        F4["配置管理"]
-        F5["项目浏览<br/>媒体/脚本查看"]
-    end
+### Hook 注入流程
 
-    FRONTEND -.->|"读取展示"| VAULT
-    FRONTEND -.->|"读取展示"| OUTPUT
-    FRONTEND -.->|"读写"| CONFIG
+```mermaid
+flowchart LR
+    CFG["hook.enabled = true"] --> LOAD["加载 Hook<br/>saved_hooks > vault hooks"]
+    LOAD --> MATCH["匹配产品品类<br/>按 risk + score 排序"]
+    MATCH --> ADAPT["适配产品<br/>翻译语言 + 替换产品名"]
+    ADAPT --> SHOT0["插入 Shot 0<br/>开场钩子 0-3s"]
 ```
 
 ## 一键安装
