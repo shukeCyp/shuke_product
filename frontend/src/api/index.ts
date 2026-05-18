@@ -38,5 +38,8 @@ export const fetchProjects = () =>
 export const fetchProjectDetail = (id: string) =>
   api.get<ProjectDetail>(`/projects/${id}`).then(r => r.data)
 
+export const fetchClaudePrompts = (id: string) =>
+  api.get<Record<string, string>>(`/projects/${id}/claude-prompt`).then(r => r.data)
+
 export const getMediaUrl = (projectId: string, file: string) =>
   `/api/projects/${projectId}/media/${encodeURIComponent(file)}`

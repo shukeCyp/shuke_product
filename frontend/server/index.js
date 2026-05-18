@@ -501,6 +501,100 @@ app.get('/api/projects/:id/media/:file', (req, res) => {
   }
 })
 
+// ============ SSE for real-time updates ============
+const sseClients = new Set()
+
+app.get('/api/events', (req, res) => {
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+    'Access-Control-Allow-Origin': '*'
+  })
+  res.write('data: {"type":"connected"}\n\n')
+
+  sseClients.add(res)
+  req.on('close', () => sseClients.delete(res))
+})
+
+function broadcastSSE(data) {
+  const msg = `data: ${JSON.stringify(data)}\n\n`
+  for (const client of sseClients) {
+    client.write(msg)
+  }
+}
+
+// Watch product directory for changes
+if (fs.existsSync(PRODUCT_DIR)) {
+  fs.watch(PRODUCT_DIR, { recursive: true }, (event, filename) => {
+    if (filename) {
+      broadcastSSE({ type: 'project_changed', file: filename, event })
+    }
+  })
+}
+
+// Watch config for changes
+if (fs.existsSync(CONFIG_PATH)) {
+  fs.watch(CONFIG_PATH, (event) => {
+    broadcastSSE({ type: 'config_changed', event })
+  })
+}
+
+// ============ Claude Code prompt generator ============
+app.get('/api/projects/:id/claude-prompt', (req, res) => {
+  try {
+    const projectDir = path.join(PRODUCT_DIR, req.params.id)
+    if (!fs.existsSync(projectDir)) {
+      return res.status(404).json({ error: 'Project not found' })
+    }
+
+    // Read product info from analysis
+    const analysisPath = path.join(projectDir, 'product_analysis.md')
+    let productInfo = ''
+    if (fs.existsSync(analysisPath)) {
+      productInfo = fs.readFileSync(analysisPath, 'utf-8').substring(0, 500)
+    }
+
+    // Find source images
+    const sourceDir = path.join(projectDir, 'source')
+    const sourceImages = []
+    if (fs.existsSync(sourceDir)) {
+      const files = fs.readdirSync(sourceDir)
+      for (const f of files) {
+        if (f.match(/\.(png|jpg|jpeg|webp)$/i)) {
+          sourceImages.push(path.join(sourceDir, f))
+        }
+      }
+    }
+
+    // Build prompts for different scenarios
+    const prompts = {
+      continue_project: `继续这个项目，重新生成视频：\nproduct-image-video-storyboard + ${sourceImages[0] || projectDir}`,
+      new_variant: `用同样的产品图，换一个不同的hook风格重新生成分镜和视频：\nproduct-image-video-storyboard + ${sourceImages[0] || projectDir}`,
+      fix_shots: `帮我检查并修复这个项目的视频问题：${req.params.id}`,
+      regenerate_refs: `重新生成参考图（产品板/角色表/场景板），保持其他不变：${req.params.id}`,
+      analyze_only: `只做产品分析和分镜脚本，不生成图片和视频：\nproduct-image-video-storyboard + ${sourceImages[0] || projectDir} 只要脚本`,
+      source_images: sourceImages
+    }
+
+    res.json(prompts)
+  } catch (e) {
+    res.status(500).json({ error: e.message })
+  }
+})
+
+// Health check
+app.get('/api/health', (req, res) => {
+  res.json({
+    status: 'ok',
+    uptime: process.uptime(),
+    vault_videos: fs.existsSync(INDEX_PATH),
+    hooks: fs.existsSync(HOOKS_PATH),
+    config: fs.existsSync(CONFIG_PATH),
+    projects_dir: fs.existsSync(PRODUCT_DIR)
+  })
+})
+
 app.listen(PORT, () => {
   console.log(`API server running at http://localhost:${PORT}`)
 })
